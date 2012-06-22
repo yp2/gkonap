@@ -20,39 +20,60 @@
 #       Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #       MA 02110-1301, USA
 
+import os
+import re
+
+
 class ConvertBase:
     """
     Base class for plugins to convert subtitles. 
-    """
+    """    
     def __init__(self):
-        """
         
-        """
-        pass
-    
-    def __unicode__(self):
-        """
-        Return plugin type - subtitle type 
-        """
-        #rozwiązać jak ma się nazywać to co zwraca ta metoda i jak to napisać
-        #czy self czy tylko w tej metodzie zwraca nazwę pluginu
-        pass
+        #implement name and subtype in plugin subclass
+        self.type = "convert"
+        self.name = None
+        self.description = None
+        self.subtype = None
         
+        #holds subs after decomposing to universal format
+        self.decomposed_subtitle = None
+        
+        #re for finding subs type
+        self.re_subs_type = None
     
-    def recognize(self, subtitle_file):
+    def pluginType(self):
+        return self.type
+    
+    def pluginName(self):
+        return  self.name
+    
+    def pluginSubType(self):
+        return self.subtype
+    
+    def recognize(self, subtitle_file_path):
         """
         Methode for recognizing the type of subtitles.
-        subtitle_file - subtitle file opened for read
+        @subtitle_file_path - path to subtitle file
         """
-        pass
+        _re_subs_type = re.compile(self.re_subs_type)
+        
+        subtitle_file = open(subtitle_file_path, 'rU')
+        
+        sub_first_line = subtitle_file.readline()
+        
+        if _re_subs_type.search(sub_first_line):
+            return self.subtype
+        else:
+            return None
     
-    def decode(self, movie_fps, subtitle_file):
+    def decompose(self, movie_fps, subtitle_file):
         """
         Methode for decoding the subtitles.
         Returns: start_time, stop_time, subtitle content
         movie_fps - fps of video file or given fps for subtitle file
         """
-        pass
+        raise NotImplementedError
     
     def subProcesing(self):
         """
@@ -62,6 +83,17 @@ class ConvertBase:
         """
         # implementujemy tu całość
         pass
-    def code(self, movie_fps):
+    
+    def compose(self, movie_fps, decompose_contenet):
+        """
+        Methode for converting subtitles to right format
+        """
+        raise NotImplementedError
+
+
+            
+            
+        
+        
     
         
