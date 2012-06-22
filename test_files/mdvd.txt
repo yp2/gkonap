@@ -1,0 +1,438 @@
+{361}{459}36 GODZIN WCZEŒNIEJ
+{483}{540}Wszystko wraca do morderstwa|mojego partnera.
+{543}{634}Ci zbiegowie, których œciga|twoja jednostka specjalna?
+{636}{689}Przestêpczoœæ zorganizowana.
+{694}{814}I zabójca mojego partnera|wydaje siê byæ w centrum tego.
+{886}{958}Kapitanie, on chyba zna³ Willa.
+{965}{1077}- Zrzucenie go z krawêdzi...|- By³o spraw¹ osobist¹.
+{1125}{1224}Co mi umyka?|Czego nie widzê w aktach Willa?
+{1274}{1344}Co myœli o tym twój wujek?
+{1363}{1399}A jak pan myœli?
+{1463}{1605}Wydzia³ wewnêtrzny prowadzi³|dochodzenie przeciw Petersowi.
+{1614}{1684}Podejrzane wyp³aty|z Broadway Mutual.
+{1686}{1737}Firma Harlana Simmonsa.
+{1751}{1828}By³ego skazañca miliardera.
+{1864}{1895}£apówka?
+{1917}{1972}Nie ustalono.
+{1979}{2056}I.A. odwo³a³o psy|po œmierci Willa.
+{2060}{2161}B¹dŸ ostro¿na.
+{2262}{2312}Przepraszam.
+{2645}{2729}- Przyszed³em na kontrolê.|- To prywatny szpital psychiatryczny.
+{2732}{2801}- Proszê o nazwisko lekarza...|- Nie, ¿adnych lekarzy.
+{2804}{2885}Jestem wiêŸniem Alcatraz z 1963.
+{2909}{3051}Goni¹ mnie bardzo Ÿli ludzie.|Muszê siê gdzieœ ukryæ.
+{3063}{3111}Limerick Joe.
+{3115}{3206}L-i-m-e-r-i-c-k.
+{3209}{3290}Obudzi³em siê i by³em tutaj.
+{3293}{3338}Wiêzienie Alcatraz, tak.
+{3365}{3425}Mia³em ma³o odsiadki, ale...
+{3899}{4050}ALCATRAZ|G£ÓWNY BLOK - 1960
+{4058}{4082}Limerick.
+{4084}{4161}Joe.|To prawda?
+{4170}{4230}- Próbujesz uciec?|- Próbujê?
+{4240}{4331}- Próbowa³em.|- Nie wygl¹da mi to tak.
+{4333}{4424}Pr¹d spycha³ mnie z powrotem.
+{4444}{4513}Nawet ocean nas nienawidzi.
+{4568}{4645}Wiesz, dlaczego nie chc¹|wypuœciæ mnie z celi?
+{4650}{4787}Oficjalna wieœæ g³osi, ¿e zgin¹³eœ,|próbuj¹c dop³yn¹æ do brzegu.
+{4794}{4923}S³ysza³em, ¿e naczelnik|wype³ni³ akt zgonu.
+{4933}{5014}To chyba czyni ciê duchem.
+{5156}{5213}Otworzyæ 2002.
+{5355}{5391}Dok¹d mnie zabieracie?
+{5393}{5455}Panie naczelniku,|kiedy dostanê znowu numer?
+{5458}{5482}Przykro mi, synu.
+{5484}{5578}Wed³ug papierów nie ¿yjesz.
+{5686}{5767}- Pobieracie krew?|- Nie dziœ, synu.
+{5779}{5851}Dzisiaj j¹ oddajemy.
+{5961}{6002}Kim jesteœ?
+{6100}{6141}Transfuzja.
+{6208}{6259}Nie jestem chory.
+{6491}{6537}Co siê dzieje?
+{6546}{6630}- Co z ni¹ zrobiliœcie?|- Du¿o rzeczy.
+{6827}{6868}Umrê?
+{6870}{6913}Mo¿liwe.
+{6985}{7021}Metal.
+{7052}{7100}Czujê metal.
+{8014}{8064}- Gdzie twoja ¿ona?|- Nie tutaj.
+{8066}{8110}Kiedy wróci?
+{8117}{8167}- Kiedy?|- Nie wiem!
+{8289}{8330}- Kto jeszcze tu jest?|- Nikt.
+{8333}{8381}- Gdzie twoje dziecko?|- Jest u kole¿anki.
+{8383}{8402}Proszê...
+{8421}{8486}Zrobimy tak.
+{8491}{8591}Napiszesz ¿onie SMS-a,|¿eby wraca³a.
+{8642}{8687}Zaczekamy na ni¹.
+{8690}{8762}Odwróæ siê.|Na górê.
+{8906}{9052}<i>21 marca 1963 roku</i>|<i>oficjalnie zamkniêto Alcatraz.</i>
+{9117}{9212}<i>Wszystkich wiêŸniów</i>|<i>przeniesiono poza wyspê.</i>
+{9241}{9359}<i>Ale nie tak by³o.</i>|<i>Zupe³nie nie tak.</i>
+{9380}{9428}.:: GrupaHatak.pl ::.
+{9433}{9503}T³umaczenie: dzidek9216|Korekta: Oin
+{9507}{9577}Alcatraz [1x13]|Tommy Madsen
+{9733}{9826}Jak mam krew Webba Portera,|to mogê graæ na skrzypcach?
+{9838}{9905}Bo¿e, oby nie.
+{9929}{9989}Dlaczego dodaj¹|tyle srebra do krwi?
+{9992}{10078}I dlaczego tylko niektórzy|wiêŸniowie je maj¹?
+{10080}{10121}Nie wiem.
+{10136}{10229}Ty by³aœ pieskiem naczelnika.|Zak³ada³em, ¿e wiesz.
+{10231}{10265}Pieskiem?
+{10270}{10368}W najpozytywniejszym|tego s³owa znaczeniu.
+{10426}{10471}Jest elektryczny?
+{10519}{10646}Mo¿liwe, ¿e to dla mnie jedyna|znoœna rzecz w tym stuleciu.
+{10653}{10728}Mo¿emy wyizolowaæ srebro z krwi?
+{10742}{10816}Myœlimy tak samo.
+{10824}{10896}Powiadomiê ciê o postêpach.
+{10968}{11003}<i>Tylko ty.</i>
+{11023}{11063}<i>Jesteœ jedynym.</i>
+{11068}{11097}<i>Dlaczego ja?</i>
+{11107}{11222}<i>Dopóki ¿yjesz,</i>|<i>zawsze bêdziesz celem.</i>
+{11313}{11397}Nikt nie jest bezpieczny,|dopóki wci¹¿ bêd¹ wracaæ.
+{11406}{11447}Ale i tak...
+{11507}{11581}Musimy ograniczyæ ryzyko.
+{11588}{11634}Mo¿esz byæ tutaj,|mo¿e w dowodzeniu...
+{11636}{11711}Czemu nie zamkniesz mnie w celi?
+{11761}{11795}Zaczekaj.
+{11867}{11953}Mo¿e ktoœ rozpozna³|Tommy'ego Madsena.
+{12193}{12274}Jakiœ dobry cz³owiek zabra³ j¹|z alei 30 minut temu.
+{12277}{12353}- Przywióz³ j¹ na komisariat.|- Jest w szoku. Nic nie mówi.
+{12356}{12483}Coœ sta³o siê w jej domu.|Uciek³a od tego mê¿czyzny.
+{12485}{12509}To Tommy Madsen?
+{12512}{12548}Gdzie ona mieszka?|Czemu nas tam nie ma?
+{12550}{12646}Jest tak wystraszona,|¿e nie pamiêta adresu ani nazwiska.
+{12648}{12684}Jeœli nie mówi,|to sk¹d rysunek?
+{12687}{12794}Rysownik u¿ywa katalogu FBI|z popularnymi twarzami.
+{12799}{12859}Masz rzeczy do rysowania w torbie?
+{12910}{12986}Doktor rysuje najlepsze koty.
+{12996}{13058}<i>Pomo¿esz mi go pokolorowaæ?</i>
+{13061}{13125}<i>Nie umiem trzymaæ siê w liniach.</i>
+{13128}{13197}Mo¿e niech doktor coœ opuœci.
+{13339}{13396}Wolisz koty czy psy?
+{13411}{13483}Twoja mama na pewno lubi koty.
+{13519}{13552}Zaraz, zaraz.
+{13586}{13650}Czegoœ tu brakuje.
+{13706}{13775}Dwoje uszu, cztery nogi, ogon.
+{13789}{13818}Oczy.
+{13835}{13881}- Co?|- Oczy.
+{13885}{13917}Oczy?
+{13967}{13991}Oczy.
+{14008}{14063}Zawsze zapominam.
+{14075}{14140}Koty widz¹ w ciemnoœciach.
+{14161}{14269}- Co widzi ten kot?|- Jak tato walczy z panem.
+{14449}{14490}To ten pan?
+{15748}{15796}NieŸle.
+{15871}{15909}Œniadanie?
+{15926}{15967}Czy ja nie ¿yjê?
+{16002}{16029}To niebo?
+{16031}{16074}Obawiam siê, ¿e nie.
+{16108}{16161}- Czy to...|- Znowu Ÿle.
+{16166}{16276}W ka¿dej faustowskiej powieœci|diabe³ jest potrzebny.
+{16278}{16343}Jednak¿e b³êdnie rozumiesz.
+{16350}{16391}Prze¿y³em.
+{16403}{16468}Cokolwiek mi zrobiliœcie,|prze¿y³em.
+{16470}{16599}Powinieneœ byæ piêciocentówk¹|z tak¹ iloœci¹ srebra w ¿y³ach.
+{16710}{16772}Czujê siê œwietnie.
+{16818}{16892}- Co to daje?|- Potencja³.
+{16909}{16993}Wielkie rzeczy,|które mogê zrobiæ dla ciebie.
+{17002}{17093}Wielkie rzeczy,|które mo¿esz zrobiæ dla mnie.
+{17098}{17163}Przebierz siê w ³azience.
+{17180}{17228}PrzejdŸmy siê.
+{17230}{17300}Jest piêkny dzieñ.
+{18110}{18129}Michael?
+{18132}{18153}Nie.
+{18168}{18201}Georgia, padnij!
+{18352}{18424}Ten dom potrzebuje numeru.
+{18446}{18515}47 Cama-Nino-Mar.
+{18532}{18568}To ulica?
+{18585}{18683}47 Cama-Nino-Mar.|Mieszkam tam.
+{18700}{18745}El Camino del Mar.
+{18753}{18798}Wybrze¿e morskie.
+{18805}{18846}<i>El Camino del Mar?</i>
+{18887}{18949}Znajdê twoich rodziców.
+{19189}{19206}<i>Czysto!</i>
+{19218}{19275}Zosta³ postrzelony.|Dajcie sanitariuszy.
+{19278}{19318}Przyszed³ po moj¹ ¿onê.
+{19338}{19390}- Ile czasu temu?|- Dziesiêæ minut.
+{19393}{19450}Nie wiem.|Moja córka?
+{19453}{19513}ZnaleŸliœmy j¹.|Jest bezpieczna.
+{19520}{19568}Wyszli tylnymi drzwiami.
+{19582}{19623}Chyba go postrzeli³em.
+{19628}{19683}Zajmijcie siê nim.
+{19906}{19951}Ile masz lat?
+{20026}{20098}Jak myœlisz,|ile ja mam lat?
+{20162}{20234}Bêdziesz musia³ pójœæ|do prawdziwego lekarza.
+{20237}{20275}Wda siê zaka¿enie.
+{20280}{20333}Zaszyj to.
+{20352}{20433}Wierz mi, zagoi siê.
+{20726}{20771}No proszê.
+{20800}{20855}Kiedyœ jeŸdzi³eœ jeepem.
+{20858}{20930}Kiedyœ robi³em wiele rzeczy.
+{21081}{21193}Musisz za³atwiæ mi spotkanie|z Harlanem Simmonsem.
+{21208}{21251}Nie mogê tego zrobiæ.
+{21270}{21342}Tommy Madsen|jest znowu aktywny.
+{21347}{21483}Zainteresowa³ siê Simmonsem|i muszê wiedzieæ dlaczego.
+{21531}{21582}To znaczy, ¿e naczelnik wróci³?
+{21584}{21668}To pierwsze pytanie,|jakie zadam Madsenowi,
+{21670}{21694}jak go z³apiê.
+{21697}{21766}Spotkanie z Simmonsem|wykracza poza moj¹ w³adzê.
+{21771}{21884}Poza twoj¹ w³adzê|wykracza tylko prezydent.
+{21886}{22016}Prezydent te¿ nie za³atwi ci|spotkania z Simmonsem.
+{22020}{22080}Dokumenty,|o które prosi³eœ.
+{22088}{22150}Lecimy do Paragwaju zaj¹æ siê|t¹ warstw¹ wodonoœn¹,
+{22152}{22203}któr¹ tak podniecaj¹ siê Chiñczycy.
+{22205}{22263}Lucille mo¿e siê zabraæ.
+{22270}{22359}Paragwaj jest dla mnie|skomplikowany
+{22361}{22406}od ostatniego razu.
+{22474}{22565}I muszê jechaæ z ni¹,|¿eby siê zadomowi³a.
+{22608}{22718}Poinformuj zespó³.|To bezpoœredni rozkaz.
+{22735}{22783}W porz¹dku.
+{22821}{22869}Wszystko, co wiadomo|o Georgii Bradley.
+{22872}{22932}33 lata.|Dorasta³a w Rye.
+{22934}{22982}Pracuje w szpitalu|psychiatrycznym MacAlistera.
+{22984}{23061}Oznaczy³am jej telefon, kartê,|elektroniczne formy identyfikacji.
+{23066}{23109}Jeœli ktoœ ich u¿yje,|bêdziemy wiedzieæ.
+{23111}{23152}Czego chce od niej|Tommy Madsen?
+{23155}{23262}Wiemy, ¿e Tommy Madsen by³|koordynatorem Garretta Stillmana.
+{23274}{23361}A Stillman ukrad³ coœ|od Harlana Simmonsa.
+{23363}{23411}Coœ, czego chce Tommy.
+{23413}{23555}Myœlisz, ¿e Tommy dopad³ Georgiê,|bo ma zwi¹zek z Simmonsem.
+{23565}{23629}Nie wiem, ale wszystko|sprowadza siê do niego.
+{23632}{23783}Dowiedzia³am siê, ¿e mój partner|móg³ braæ ³apówki od Broadway Mutual.
+{23816}{23862}Mo¿e dlatego Tommy go zabi³.
+{23864}{23931}To jest jak wojna narkotykowa.|Ci z '63 walcz¹ przeciwko sobie.
+{23934}{23982}Tylko nie wiem czemu.
+{24030}{24090}Ja mogê wiedzieæ.
+{24166}{24248}Lepszego zaproszenia|nie dostaniesz.
+{24387}{24476}Jaskinia Batmana za jaskini¹.
+{24624}{24660}S¹ dwa klucze.
+{24663}{24727}Jeden odzyska³aœ|od Cala Sweeneyego.
+{24730}{24852}Drugi Jack Sylvane zabra³|od Barclaya Flynna, nim go zabi³.
+{24854}{24946}Myœlisz, ¿e ich szukaj¹|Tommy i Harlan.
+{24962}{24984}Co otwieraj¹?
+{24986}{25077}Drzwi w Alcatraz|w starych lochach z wojny secesyjnej.
+{25080}{25130}Nie da siê ich przeci¹æ ani obejœæ.
+{25133}{25166}Co jest za nimi?
+{25169}{25286}Nie odzyskaliœmy trzeciego klucza.|Nic innego nie zadzia³a.
+{25296}{25372}Klucze nale¿a³y do naczelnika.
+{25375}{25401}Naczelnika Jamesa?
+{25420}{25514}Podejrzewamy,|¿e Tommy Madsen pracuje dla niego
+{25531}{25636}i ¿e naczelnik|za tym wszystkim stoi.
+{25718}{25758}Co to?
+{25809}{25881}S³u¿y do mierzenia termalnej|i sejsmicznej aktywnoœci.
+{25883}{25912}Mamy teoriê...
+{25914}{25988}¯e skok zosta³ spowodowany|przez zjawisko geotermalne.
+{25991}{26058}Byæ mo¿e poœlizg|p³yty tektonicznej.
+{26060}{26171}- Te¿ nazywasz to skokiem?|- Czasem, a czasem rozwarciem czasu.
+{26173}{26226}Chyba ¿e to efekt tunelowy|albo kriogenika.
+{26228}{26286}Dlaczego teraz|nam to pokazujesz?
+{26288}{26365}To konieczny œrodek ostro¿noœci.
+{26370}{26439}Muszê wyjechaæ na kilka dni,|góra tydzieñ.
+{26444}{26468}Lucy.
+{26470}{26516}Muszê j¹ ukryæ.
+{26521}{26583}- Ona o tym wie?|- Nie wiedzia³a.
+{26588}{26636}Do teraz.
+{26665}{26713}Znalaz³am powi¹zanie z Harlanem.
+{26715}{26787}Szpital, w którym pracuje Georgia,|nale¿y do Broadway Mutual.
+{26789}{26840}Jej skan siatkówki|zosta³ aktywowany.
+{26842}{26909}Jest teraz w szpitalu.
+{27144}{27194}Witam, pani Bradley.|Co pani robi tu tak póŸno?
+{27197}{27240}Specjalna wizyta,|jego ¿ona.
+{27245}{27312}Przykro mi to s³yszeæ.|Jest tu w dobrych rêkach.
+{27317}{27355}IdŸ.
+{27461}{27549}Czujê siê, jakbym by³ malowany|na obrazie Normana Rockwella.
+{27552}{27585}Nie lubi pan tego miejsca?
+{27588}{27727}Poprosi³em, ¿ebyœ poda³ cenê,|chcia³eœ cannolo i w³oskie wino.
+{27732}{27794}To jest najlepsze w mieœcie.
+{27808}{27883}Zapomnia³ pan, jak to jest.|Proste przyjemnoœci.
+{27885}{27978}Gest jest odpowiedni do zadania.|Pobudzam twoj¹ wyobraŸniê.
+{28010}{28065}Pozna³em tutaj ¿onê.
+{28122}{28180}Obs³ugiwa³a stoliki.
+{28192}{28283}Przychodzi³em|codziennie przez tydzieñ,
+{28285}{28386}próbuj¹c zdobyæ siê na odwagê,|by zaprosiæ j¹ na randkê.
+{28420}{28484}Za proste przyjemnoœci.
+{28674}{28731}Uznaj mnie za d¿ina.
+{28734}{28858}Z moc¹ przyznania ci teraz|jednego idealnego dnia.
+{28863}{28950}Czego pragniesz|najbardziej na œwiecie?
+{29247}{29283}Gdzie on jest?!
+{29650}{29698}Czeœæ, duchu.
+{29741}{29801}Gdzie jest klucz?
+{29822}{29853}ChodŸ!
+{29995}{30115}- Srebro emituje czêstotliwoœæ.|- Sygna³ naprowadzaj¹cy.
+{30120}{30168}Coœ w tym stylu.
+{30172}{30235}Problem w tym,|¿e nie mogê go oddzieliæ.
+{30237}{30350}Srebro przyczepia siê do p³ytek krwi|i staje siê jedn¹ ca³oœci¹.
+{30352}{30405}Zawsze bêdê mieæ je w sobie?
+{30422}{30494}Chcia³bym mieæ lepsze wieœci.
+{30666}{30714}Pojedziesz z nim?
+{30765}{30824}Czeka³ na mnie przez 50 lat.
+{30841}{30911}Czujesz siê zobowi¹zana.
+{30980}{31038}Czujê wiele rzeczy.
+{31093}{31177}To nie ten sam cz³owiek,|w którym siê zakocha³am.
+{31182}{31239}Brakuje jego czêœci.
+{31592}{31666}Nie widzia³em ich|prawie trzy lata.
+{31688}{31738}Niech pan na niego spojrzy...
+{31740}{31776}Jest taki du¿y.
+{31779}{31863}W tym wieku rosn¹|jak na dro¿d¿ach.
+{31918}{31999}- Mogê z nim porozmawiaæ?|- To twój syn.
+{32006}{32071}Zak³adam, ¿e po to|tutaj jesteœmy.
+{32620}{32661}Czeœæ, kole¿ko.
+{32697}{32757}Porz¹dna ciê¿arówka.
+{32841}{32882}Van?
+{32975}{33009}To ja.
+{33831}{33903}Wiem, czego od pana chcê.
+{34215}{34265}Nie mam go.
+{34289}{34325}Daj spokój.
+{34330}{34390}Wiesz, ¿e ci nie wierzê.
+{34402}{34452}On mnie zabije.
+{34459}{34517}Daj mi klucz,
+{34538}{34601}a ci pomogê, duchu.
+{34605}{34665}Mogê chroniæ ciê|przed Harlanem.
+{34670}{34721}To niemo¿liwe.
+{34747}{34819}Nie poproszê ponownie.
+{34833}{34872}Wiem.
+{34884}{34910}Nie.
+{35521}{35579}Zamkn¹æ wyjœcia.
+{35862}{35927}- Jesteœ ranna?|- Nic mi nie jest.
+{35934}{35965}Zszed³ przez szyb.
+{35967}{36025}- Dok¹d prowadzi?|- Na parking.
+{36512}{36560}No dawaj.
+{37020}{37082}Policja.|Wysiadaæ.
+{37101}{37154}¯artujesz sobie?|Dopiero go kupi³em.
+{37157}{37216}Oddam go w jednym kawa³ku.
+{37684}{37706}Co siê dzieje?
+{37708}{37773}Mówi³eœ, ¿e naczelnik|chce ze mn¹ rozmawiaæ.
+{37777}{37840}Musisz opuœciæ Alcatraz, Ray.
+{37845}{37941}O czym ty mówisz?|Dopiero tu przyp³yn¹³em.
+{37945}{38039}Naczelnik wie,|¿e jesteœmy tu razem?
+{38149}{38211}Dokumenty adopcyjne.
+{38226}{38283}Vana.
+{38293}{38331}Wszystko zosta³o|zatwierdzone.
+{38334}{38398}Tommy, mieliœmy plan,|¿ebyœ do niego wróci³.
+{38401}{38480}- Koniec z planami.|- Nie mo¿esz siê poddaæ.
+{38482}{38523}Dobrze dogadujê siê|z naczelnikiem.
+{38526}{38578}Widzia³eœ, co zrobi³|dla Harlana Simmonsa.
+{38581}{38624}Mo¿e nam pomóc.
+{38689}{38739}Zabi³em j¹, Ray.
+{38780}{38859}Czeka³em,|a¿ wróci do domu,
+{38864}{38948}w³o¿y³em jej|pistolet do ust
+{38952}{39024}i poci¹gn¹³em za spust.
+{39048}{39118}Dzieciaka ochlapa³a jej krew.
+{39194}{39266}Nie zostawiê ciê tutaj.
+{39278}{39360}Twoja rezygnacja|te¿ tam jest.
+{39362}{39422}Ostatnia ³ódŸ czeka.
+{39473}{39540}Wynoœ siê st¹d, Ray.
+{39583}{39662}Nie mogê ju¿ patrzeæ ci w twarz.
+{39698}{39751}IdŸ!
+{40019}{40113}Nigdy wiêcej nie zobaczysz syna.
+{41861}{41906}Szuka³ klucza.
+{41909}{41995}- Myœla³, ¿e pan Limerick go ma.|- A mia³ go?
+{42043}{42084}Chyba tak.
+{42110}{42148}Mamusiu.
+{42323}{42426}- Nie powinnaœ tu byæ.|- Tommy szuka³ pacjenta?
+{42431}{42498}- Joe Limericka.|- Joe Limerick nie ¿yje.
+{42501}{42613}- Œwietne spostrze¿enie, Soto.|- To znaczy zgin¹³ w 1960.
+{42616}{42690}Uton¹³ podczas próby|ucieczki z Alcatraz.
+{42693}{42786}Widzia³em jego akt zgonu.|Nie mo¿e byæ z '63.
+{42788}{42836}Jednak to on.
+{42992}{43067}Madsen przyszed³ tu|w poszukiwaniu klucza.
+{43071}{43105}Tego klucza?
+{43107}{43158}Trzeciego klucza naczelnika?
+{43174}{43194}Nie ma go tu.
+{43196}{43285}Pan Madsen zada³ sobie wiele trudu,|¿eby siê co do tego myliæ.
+{43287}{43400}WiêŸniowie z Alcatraz umieli|ukrywaæ rzeczy przed stra¿nikami.
+{43429}{43546}Niektórzy zaszywali rzeczy|w mankietach spodni.
+{43570}{43659}£atwo to przeoczyæ|przy rutynowym przeszukaniu.
+{43714}{43757}Dobra robota.
+{43795}{43843}- Daj mi go.|- Nie.
+{43848}{43925}Znajdê Rebeccê|i wszyscy tam pójdziemy.
+{43927}{43961}Czekaj, Soto.
+{44009}{44081}- Stój, Soto.|- Emerson.
+{46735}{46766}Wstawaj.
+{46881}{46982}Nie potrzebujesz tego.|Twój ojciec by³ moim synem.
+{47003}{47061}Jesteœ moj¹ wnuczk¹, Rebecca.
+{47063}{47169}- Jesteœmy spokrewnieni.|- Myœlisz, ¿e to czyni nas rodzin¹?
+{47198}{47243}Nie znam ciê.
+{47260}{47325}Ale mnie uratowa³aœ.
+{47353}{47442}Chcesz wiedzieæ,|czemu zabi³em twojego partnera?
+{47454}{47524}P³acono mu,|¿eby mia³ ciê na oku.
+{47526}{47588}Firma Harlana Simmonsa,|Broadway Mutual, dlaczego?
+{47591}{47644}¯eby do mnie dotrzeæ.|Do nas wszystkich.
+{47646}{47728}- Czemu obchodzi go, co robisz?|- Bo Harlan z³ama³ obietnicê.
+{47730}{47756}Wobec kogo?
+{47783}{47828}Naczelnika Jamesa.
+{47843}{47895}Wiêc on za tym stoi?
+{47905}{47979}Rebecca, opuœæ broñ|i mo¿emy porozmawiaæ.
+{47982}{48018}Odwróæ siê.
+{48032}{48075}A jeœli odmówiê?
+{48094}{48161}To ciê zastrzelê.
+{48444}{48555}Rebecca, jacy byli twoi rodzice?
+{48571}{48665}- Twój ojciec by³ dobry?|- Zamknij siê.
+{48742}{48821}Ray powiedzia³ ci,|co im siê sta³o?
+{48845}{48900}Jak naprawdê zginêli?
+{49931}{50005}Kobieta z urazem przenikaj¹cym|lewej czêœci brzucha.
+{50008}{50022}Krwawienie.
+{50024}{50068}Pod³¹czmy j¹ do aparatury.
+{50070}{50094}Jeden, dwa, trzy.
+{50096}{50156}- Morfologia i panel chemiczny.|- Dodajcie rentgen klatki.
+{50159}{50231}Krwawienie têtnicze.|Jeden miligram epinefryny.
+{50235}{50279}Dajce defibrylator!
+{50564}{50650}- Dlatego muszê ciê zabraæ.|- I dlatego nie mogê wyjechaæ.
+{50653}{50715}- Kiedy j¹ ustabilizuj¹.|- Co?
+{50720}{50830}Twoi przyjaciele zabior¹ nas|do jakiejœ wioski w Kambod¿y?
+{50835}{50888}Gdzie bêdê bezpieczniejsza, mo¿e.
+{50912}{51015}Ale wrócisz tu, by skoñczyæ|dzie³o swojego ¿ycia beze mnie?
+{51017}{51046}Nie.
+{51070}{51158}Zrobimy to razem.
+{51204}{51317}Straci³em ciê ju¿ dwa razy.|To siê nie powtórzy.
+{51319}{51482}Mo¿emy przetrwaæ pó³wieczny|przeskok czasu i kulê w sercu.
+{51485}{51561}Co mog³oby nas rozdzieliæ?
+{51679}{51715}Kto to zrobi³?
+{51717}{51767}Twój brat, Ray.
+{51801}{51897}- Mówi³em, ¿ebyœcie odpuœcili.|- Tu nie chodzi o ciebie i mnie.
+{51899}{51957}Wynocha!
+{52029}{52106}Pamiêtam ciê.|By³aœ tam.
+{52120}{52165}Jesteœ jedn¹ z nich.
+{52489}{52554}Mo¿esz iœæ,|jeœli chcesz.
+{52587}{52695}Cokolwiek jest za drzwiami,|nie jest tak wa¿ne jak...
+{52710}{52758}Zostajê.
+{56728}{56774}Numery wiêŸniów.
+{56786}{56879}To mapa do ich namierzania?
+{56918}{56965}Srebro w ich krwi.
+{56970}{57042}Wygl¹da na ustalone|miejsca powrotu.
+{57045}{57129}I to nie tylko San Francisco.
+{57196}{57260}S¹ wszêdzie.
+{57613}{57690}10:47.|Mason Street.
+{57692}{57735}12:22.
+{57738}{57793}Róg Balboa i Funston.
+{57797}{57836}13:48.
+{57838}{57913}Prospect Avenue,|Oakland, California.
+{57915}{57963}A niech mnie.
+{57968}{58025}Ka¿de miejsce,|które dziœ odwiedziliœmy.
+{58028}{58116}- Mo¿emy ich namierzyæ.|- Ty mo¿esz ich namierzyæ.
+{58119}{58203}Ja bez ciebie|i twojej nauki...
+{58205}{58272}Moje najlepsze intencje|nie zamieni¹ wody w wino.
+{58277}{58370}Woda.|Eliksir ¿ycia.
+{58440}{58481}Dobrze wygl¹da.
+{58493}{58534}Lepiej ni¿ dobrze.
+{58550}{58687}- Sk¹d pan wiedzia³, ¿e prze¿yjê?|- Mia³em ciê na oku od 1952.
+{58692}{58749}Te¿ by³ pan w Korei?
+{58778}{58920}- Co to za miejsce?|- To twoja przysz³oœæ.
+{58924}{58996}Bêdzie pan naszym|wysuniêtym cz³owiekiem.
+{59001}{59087}W armii to goœcie,|którzy pierwsi dostaj¹ kulki.
+{59090}{59162}- Zatem mamy umowê.|- Ale¿ oczywiœcie.
+{59164}{59262}- Odsiadujê do¿ywocie.|- A gdybym powiedzia³,
+{59265}{59363}¿e za trzy lata|pan wyjdzie?
+{59423}{59461}Wolny?
+{60188}{60243}Jest tam kto?
+{60514}{60552}Madsen?
+{60576}{60643}Nie, jestem Hauser.
+{60998}{61044}Jaki mamy rok?
+{61056}{61118}2012.
+{61516}{61554}Migotanie komór.
+{61557}{61605}£aduj, 360.
+{61617}{61667}- Uwaga.|- 50 miligramów lidokainy.
+{61785}{61833}- Uwaga.|- Brak akcji serca.
+{61835}{61900}Asystolia potwierdzona.
+{61912}{61979}Zg³oœcie to.
+{61981}{62029}Zapisaæ czas.
+{62118}{62219}.:: GrupaHatak.pl ::.|>> Release24.pl <<
+{62267}{62338}.:: Napisy24 - Nowy Wymiar Napisów ::.|Napisy24.pl
