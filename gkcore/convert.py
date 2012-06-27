@@ -24,7 +24,7 @@ import os
 import re
 
 
-class ConvertBase:
+class ConvertBase(object):
     """
     Base class for plugins to convert subtitles. 
     """    
@@ -55,6 +55,8 @@ class ConvertBase:
         """
         Methode for recognizing the type of subtitles.
         @subtitle_file_path - path to subtitle file
+        Return subs type definied in each plugin in atr subtype.
+        If subs are not recognize returns None
         """
         _re_subs_type = re.compile(self.re_subs_type)
         
@@ -62,10 +64,13 @@ class ConvertBase:
         
         sub_first_line = subtitle_file.readline()
         
+        subtitle_file.close()
+        
         if _re_subs_type.search(sub_first_line):
             return self.subtype
         else:
             return None
+        
     
     def decompose(self, movie_fps, subtitle_file):
         """
