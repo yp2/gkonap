@@ -25,7 +25,7 @@ from gkcore.convert import ConvertBase
 
 class PluginMDVD(ConvertBase):
     def __init__(self):
-        ConvertBase.__init__(self)
+        super(PluginMDVD, self).__init__()
         
         self.name = "Plugin MDVD"
         self.description = "Plugin for MicroDvd format of subtitles"

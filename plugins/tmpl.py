@@ -24,7 +24,7 @@ from gkcore.convert import ConvertBase
 
 class PluginTMPL(ConvertBase):
     def __init__(self):
-        ConvertBase.__init__(self)
+        super(PluginTMPL, self).__init__()
         
         self.name = "Plugin TMPlayer"
         self.description = "Plugin for TMPlayer format of subtitles"

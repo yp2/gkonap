@@ -24,7 +24,7 @@ from gkcore.convert import ConvertBase
 
 class PluginMPL2(ConvertBase):
     def __init__(self):
-        ConvertBase.__init__(self)
+        super(PluginMPL2, self).__init__()
         
         self.name = "Plugin MPL2"
         self.description = "Plugin for MPL2 format of subtitles"

@@ -24,7 +24,7 @@ from gkcore.convert import ConvertBase
 
 class PluginSRT(ConvertBase):
     def __init__(self):
-        ConvertBase.__init__(self)
+        super(PluginSRT, self).__init__()
         
         self.name = "Plugin SRT"
         self.description = "Plugin for SubRip Format of subtitles"
