@@ -60,6 +60,7 @@ class ConvertPluginRcognizeTest(PluginLoadTest):
         self.sub_mpl2 = self.test_files_dir + 'mpl2.txt'
         self.sub_srt = self.test_files_dir + 'srt.srt'
         self.sub_tmpl = self.test_files_dir + 'tmpl.txt'
+        self.not_sub = self.test_files_dir + 'notsub.txt'
         
     def test_mdvdRecognize(self):
         given_subs_type = 'mdvd'
@@ -132,3 +133,19 @@ class ConvertPluginRcognizeTest(PluginLoadTest):
                 
         self.assertEqual(len(subs_type), 1, "More than one or zero")
         self.assertEqual(subs_type[0], given_subs_type, 'Not recognize')
+    
+    def test_noSubsFileRecognize(self):
+        sub_file = self.not_sub
+        
+        subs_type = []
+        
+        for pli in self.plugins:
+            try:
+                st = pli.recognize(sub_file)
+            except (TypeError, NotImplementedError):
+                continue
+            
+            if st != None:
+                subs_type.append(st)
+                
+        self.assertEqual(len(subs_type), 0, "No subs file was recognize as subs file")
