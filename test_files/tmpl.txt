@@ -1,438 +1,1733 @@
-00:00:15:36 GODZIN WCZEŒNIEJ
-00:00:20:Wszystko wraca do morderstwa|mojego partnera.
-00:00:23:Ci zbiegowie, których œciga|twoja jednostka specjalna?
-00:00:27:Przestêpczoœæ zorganizowana.
-00:00:29:I zabójca mojego partnera|wydaje siê byæ w centrum tego.
-00:00:37:Kapitanie, on chyba zna³ Willa.
-00:00:40:- Zrzucenie go z krawêdzi...|- By³o spraw¹ osobist¹.
-00:00:47:Co mi umyka?|Czego nie widzê w aktach Willa?
-00:00:53:Co myœli o tym twój wujek?
-00:00:57:A jak pan myœli?
-00:01:01:Wydzia³ wewnêtrzny prowadzi³|dochodzenie przeciw Petersowi.
-00:01:07:Podejrzane wyp³aty|z Broadway Mutual.
-00:01:10:Firma Harlana Simmonsa.
-00:01:13:By³ego skazañca miliardera.
-00:01:18:£apówka?
-00:01:20:Nie ustalono.
-00:01:23:I.A. odwo³a³o psy|po œmierci Willa.
-00:01:26:B¹dŸ ostro¿na.
-00:01:34:Przepraszam.
-00:01:50:- Przyszed³em na kontrolê.|- To prywatny szpital psychiatryczny.
-00:01:54:- Proszê o nazwisko lekarza...|- Nie, ¿adnych lekarzy.
-00:01:57:Jestem wiêŸniem Alcatraz z 1963.
-00:02:01:Goni¹ mnie bardzo Ÿli ludzie.|Muszê siê gdzieœ ukryæ.
-00:02:08:Limerick Joe.
-00:02:10:L-i-m-e-r-i-c-k.
-00:02:14:Obudzi³em siê i by³em tutaj.
-00:02:17:Wiêzienie Alcatraz, tak.
-00:02:20:Mia³em ma³o odsiadki, ale...
-00:02:43:ALCATRAZ|G£ÓWNY BLOK - 1960
-00:02:49:Limerick.
-00:02:50:Joe.|To prawda?
-00:02:54:- Próbujesz uciec?|- Próbujê?
-00:02:57:- Próbowa³em.|- Nie wygl¹da mi to tak.
-00:03:01:Pr¹d spycha³ mnie z powrotem.
-00:03:05:Nawet ocean nas nienawidzi.
-00:03:11:Wiesz, dlaczego nie chc¹|wypuœciæ mnie z celi?
-00:03:14:Oficjalna wieœæ g³osi, ¿e zgin¹³eœ,|próbuj¹c dop³yn¹æ do brzegu.
-00:03:20:S³ysza³em, ¿e naczelnik|wype³ni³ akt zgonu.
-00:03:26:To chyba czyni ciê duchem.
-00:03:35:Otworzyæ 2002.
-00:03:43:Dok¹d mnie zabieracie?
-00:03:45:Panie naczelniku,|kiedy dostanê znowu numer?
-00:03:48:Przykro mi, synu.
-00:03:49:Wed³ug papierów nie ¿yjesz.
-00:03:57:- Pobieracie krew?|- Nie dziœ, synu.
-00:04:01:Dzisiaj j¹ oddajemy.
-00:04:09:Kim jesteœ?
-00:04:15:Transfuzja.
-00:04:19:Nie jestem chory.
-00:04:31:Co siê dzieje?
-00:04:33:- Co z ni¹ zrobiliœcie?|- Du¿o rzeczy.
-00:04:45:Umrê?
-00:04:47:Mo¿liwe.
-00:04:51:Metal.
-00:04:54:Czujê metal.
-00:05:34:- Gdzie twoja ¿ona?|- Nie tutaj.
-00:05:37:Kiedy wróci?
-00:05:39:- Kiedy?|- Nie wiem!
-00:05:46:- Kto jeszcze tu jest?|- Nikt.
-00:05:48:- Gdzie twoje dziecko?|- Jest u kole¿anki.
-00:05:50:Proszê...
-00:05:51:Zrobimy tak.
-00:05:54:Napiszesz ¿onie SMS-a,|¿eby wraca³a.
-00:06:01:Zaczekamy na ni¹.
-00:06:03:Odwróæ siê.|Na górê.
-00:06:12:/21 marca 1963 roku|/oficjalnie zamkniêto Alcatraz.
-00:06:20:/Wszystkich wiêŸniów|/przeniesiono poza wyspê.
-00:06:26:/Ale nie tak by³o.|/Zupe³nie nie tak.
-00:06:31:{C:$aacccff}.:: GrupaHatak.pl ::.
-00:06:34:{C:$aacccff}T³umaczenie: dzidek9216|Korekta: Oin
-00:06:37:{c:$aacccff}Alcatraz [1x13]|Tommy Madsen
-00:06:46:Jak mam krew Webba Portera,|to mogê graæ na skrzypcach?
-00:06:50:Bo¿e, oby nie.
-00:06:54:Dlaczego dodaj¹|tyle srebra do krwi?
-00:06:57:I dlaczego tylko niektórzy|wiêŸniowie je maj¹?
-00:07:01:Nie wiem.
-00:07:03:Ty by³aœ pieskiem naczelnika.|Zak³ada³em, ¿e wiesz.
-00:07:07:Pieskiem?
-00:07:08:W najpozytywniejszym|tego s³owa znaczeniu.
-00:07:15:Jest elektryczny?
-00:07:19:Mo¿liwe, ¿e to dla mnie jedyna|znoœna rzecz w tym stuleciu.
-00:07:24:Mo¿emy wyizolowaæ srebro z krwi?
-00:07:28:Myœlimy tak samo.
-00:07:32:Powiadomiê ciê o postêpach.
-00:07:38:/Tylko ty.
-00:07:40:/Jesteœ jedynym.
-00:07:42:/Dlaczego ja?
-00:07:43:/Dopóki ¿yjesz,|/zawsze bêdziesz celem.
-00:07:52:Nikt nie jest bezpieczny,|dopóki wci¹¿ bêd¹ wracaæ.
-00:07:56:Ale i tak...
-00:08:00:Musimy ograniczyæ ryzyko.
-00:08:03:Mo¿esz byæ tutaj,|mo¿e w dowodzeniu...
-00:08:05:Czemu nie zamkniesz mnie w celi?
-00:08:11:Zaczekaj.
-00:08:15:Mo¿e ktoœ rozpozna³|Tommy'ego Madsena.
-00:08:29:Jakiœ dobry cz³owiek zabra³ j¹|z alei 30 minut temu.
-00:08:32:- Przywióz³ j¹ na komisariat.|- Jest w szoku. Nic nie mówi.
-00:08:35:Coœ sta³o siê w jej domu.|Uciek³a od tego mê¿czyzny.
-00:08:41:To Tommy Madsen?
-00:08:42:Gdzie ona mieszka?|Czemu nas tam nie ma?
-00:08:44:Jest tak wystraszona,|¿e nie pamiêta adresu ani nazwiska.
-00:08:48:Jeœli nie mówi,|to sk¹d rysunek?
-00:08:49:Rysownik u¿ywa katalogu FBI|z popularnymi twarzami.
-00:08:54:Masz rzeczy do rysowania w torbie?
-00:08:59:Doktor rysuje najlepsze koty.
-00:09:02:/Pomo¿esz mi go pokolorowaæ?
-00:09:05:/Nie umiem trzymaæ siê w liniach.
-00:09:08:Mo¿e niech doktor coœ opuœci.
-00:09:16:Wolisz koty czy psy?
-00:09:19:Twoja mama na pewno lubi koty.
-00:09:24:Zaraz, zaraz.
-00:09:27:Czegoœ tu brakuje.
-00:09:32:Dwoje uszu, cztery nogi, ogon.
-00:09:35:Oczy.
-00:09:37:- Co?|- Oczy.
-00:09:39:Oczy?
-00:09:43:Oczy.
-00:09:44:Zawsze zapominam.
-00:09:47:Koty widz¹ w ciemnoœciach.
-00:09:51:- Co widzi ten kot?|- Jak tato walczy z panem.
-00:10:03:To ten pan?
-00:10:57:NieŸle.
-00:11:02:Œniadanie?
-00:11:04:Czy ja nie ¿yjê?
-00:11:08:To niebo?
-00:11:09:Obawiam siê, ¿e nie.
-00:11:12:- Czy to...|- Znowu Ÿle.
-00:11:14:W ka¿dej faustowskiej powieœci|diabe³ jest potrzebny.
-00:11:19:Jednak¿e b³êdnie rozumiesz.
-00:11:22:Prze¿y³em.
-00:11:24:Cokolwiek mi zrobiliœcie,|prze¿y³em.
-00:11:27:Powinieneœ byæ piêciocentówk¹|z tak¹ iloœci¹ srebra w ¿y³ach.
-00:11:37:Czujê siê œwietnie.
-00:11:42:- Co to daje?|- Potencja³.
-00:11:45:Wielkie rzeczy,|które mogê zrobiæ dla ciebie.
-00:11:49:Wielkie rzeczy,|które mo¿esz zrobiæ dla mnie.
-00:11:53:Przebierz siê w ³azience.
-00:11:57:PrzejdŸmy siê.
-00:11:59:Jest piêkny dzieñ.
-00:12:35:Michael?
-00:12:36:Nie.
-00:12:38:Georgia, padnij!
-00:12:46:Ten dom potrzebuje numeru.
-00:12:49:47 Cama-Nino-Mar.
-00:12:53:To ulica?
-00:12:55:47 Cama-Nino-Mar.|Mieszkam tam.
-00:13:00:El Camino del Mar.
-00:13:02:Wybrze¿e morskie.
-00:13:04:/El Camino del Mar?
-00:13:08:Znajdê twoich rodziców.
-00:13:20:/Czysto!
-00:13:22:Zosta³ postrzelony.|Dajcie sanitariuszy.
-00:13:24:Przyszed³ po moj¹ ¿onê.
-00:13:27:- Ile czasu temu?|- Dziesiêæ minut.
-00:13:29:Nie wiem.|Moja córka?
-00:13:31:ZnaleŸliœmy j¹.|Jest bezpieczna.
-00:13:34:Wyszli tylnymi drzwiami.
-00:13:37:Chyba go postrzeli³em.
-00:13:39:Zajmijcie siê nim.
-00:13:50:Ile masz lat?
-00:13:55:Jak myœlisz,|ile ja mam lat?
-00:14:01:Bêdziesz musia³ pójœæ|do prawdziwego lekarza.
-00:14:04:Wda siê zaka¿enie.
-00:14:06:Zaszyj to.
-00:14:09:Wierz mi, zagoi siê.
-00:14:25:No proszê.
-00:14:28:Kiedyœ jeŸdzi³eœ jeepem.
-00:14:30:Kiedyœ robi³em wiele rzeczy.
-00:14:39:Musisz za³atwiæ mi spotkanie|z Harlanem Simmonsem.
-00:14:45:Nie mogê tego zrobiæ.
-00:14:47:Tommy Madsen|jest znowu aktywny.
-00:14:50:Zainteresowa³ siê Simmonsem|i muszê wiedzieæ dlaczego.
-00:14:58:To znaczy, ¿e naczelnik wróci³?
-00:15:00:To pierwsze pytanie,|jakie zadam Madsenowi,
-00:15:04:jak go z³apiê.
-00:15:05:Spotkanie z Simmonsem|wykracza poza moj¹ w³adzê.
-00:15:08:Poza twoj¹ w³adzê|wykracza tylko prezydent.
-00:15:13:Prezydent te¿ nie za³atwi ci|spotkania z Simmonsem.
-00:15:19:Dokumenty,|o które prosi³eœ.
-00:15:21:Lecimy do Paragwaju zaj¹æ siê|t¹ warstw¹ wodonoœn¹,
-00:15:24:któr¹ tak podniecaj¹ siê Chiñczycy.
-00:15:26:Lucille mo¿e siê zabraæ.
-00:15:29:Paragwaj jest dla mnie|skomplikowany
-00:15:33:od ostatniego razu.
-00:15:37:I muszê jechaæ z ni¹,|¿eby siê zadomowi³a.
-00:15:43:Poinformuj zespó³.|To bezpoœredni rozkaz.
-00:15:48:W porz¹dku.
-00:15:52:Wszystko, co wiadomo|o Georgii Bradley.
-00:15:54:33 lata.|Dorasta³a w Rye.
-00:15:57:Pracuje w szpitalu|psychiatrycznym MacAlistera.
-00:15:59:Oznaczy³am jej telefon, kartê,|elektroniczne formy identyfikacji.
-00:16:02:Jeœli ktoœ ich u¿yje,|bêdziemy wiedzieæ.
-00:16:04:Czego chce od niej|Tommy Madsen?
-00:16:06:Wiemy, ¿e Tommy Madsen by³|koordynatorem Garretta Stillmana.
-00:16:11:A Stillman ukrad³ coœ|od Harlana Simmonsa.
-00:16:15:Coœ, czego chce Tommy.
-00:16:17:Myœlisz, ¿e Tommy dopad³ Georgiê,|bo ma zwi¹zek z Simmonsem.
-00:16:23:Nie wiem, ale wszystko|sprowadza siê do niego.
-00:16:26:Dowiedzia³am siê, ¿e mój partner|móg³ braæ ³apówki od Broadway Mutual.
-00:16:33:Mo¿e dlatego Tommy go zabi³.
-00:16:35:To jest jak wojna narkotykowa.|Ci z '63 walcz¹ przeciwko sobie.
-00:16:38:Tylko nie wiem czemu.
-00:16:42:Ja mogê wiedzieæ.
-00:16:48:Lepszego zaproszenia|nie dostaniesz.
-00:16:57:Jaskinia Batmana za jaskini¹.
-00:17:07:S¹ dwa klucze.
-00:17:09:Jeden odzyska³aœ|od Cala Sweeneyego.
-00:17:12:Drugi Jack Sylvane zabra³|od Barclaya Flynna, nim go zabi³.
-00:17:17:Myœlisz, ¿e ich szukaj¹|Tommy i Harlan.
-00:17:21:Co otwieraj¹?
-00:17:22:Drzwi w Alcatraz|w starych lochach z wojny secesyjnej.
-00:17:26:Nie da siê ich przeci¹æ ani obejœæ.
-00:17:28:Co jest za nimi?
-00:17:30:Nie odzyskaliœmy trzeciego klucza.|Nic innego nie zadzia³a.
-00:17:35:Klucze nale¿a³y do naczelnika.
-00:17:38:Naczelnika Jamesa?
-00:17:40:Podejrzewamy,|¿e Tommy Madsen pracuje dla niego
-00:17:45:i ¿e naczelnik|za tym wszystkim stoi.
-00:17:53:Co to?
-00:17:57:S³u¿y do mierzenia termalnej|i sejsmicznej aktywnoœci.
-00:18:00:Mamy teoriê...
-00:18:01:¯e skok zosta³ spowodowany|przez zjawisko geotermalne.
-00:18:04:Byæ mo¿e poœlizg|p³yty tektonicznej.
-00:18:07:- Te¿ nazywasz to skokiem?|- Czasem, a czasem rozwarciem czasu.
-00:18:12:Chyba ¿e to efekt tunelowy|albo kriogenika.
-00:18:14:Dlaczego teraz|nam to pokazujesz?
-00:18:17:To konieczny œrodek ostro¿noœci.
-00:18:20:Muszê wyjechaæ na kilka dni,|góra tydzieñ.
-00:18:23:Lucy.
-00:18:24:Muszê j¹ ukryæ.
-00:18:26:- Ona o tym wie?|- Nie wiedzia³a.
-00:18:29:Do teraz.
-00:18:32:Znalaz³am powi¹zanie z Harlanem.
-00:18:34:Szpital, w którym pracuje Georgia,|nale¿y do Broadway Mutual.
-00:18:37:Jej skan siatkówki|zosta³ aktywowany.
-00:18:40:Jest teraz w szpitalu.
-00:18:52:Witam, pani Bradley.|Co pani robi tu tak póŸno?
-00:18:54:Specjalna wizyta,|jego ¿ona.
-00:18:56:Przykro mi to s³yszeæ.|Jest tu w dobrych rêkach.
-00:18:59:IdŸ.
-00:19:05:Czujê siê, jakbym by³ malowany|na obrazie Normana Rockwella.
-00:19:09:Nie lubi pan tego miejsca?
-00:19:11:Poprosi³em, ¿ebyœ poda³ cenê,|chcia³eœ cannolo i w³oskie wino.
-00:19:17:To jest najlepsze w mieœcie.
-00:19:20:Zapomnia³ pan, jak to jest.|Proste przyjemnoœci.
-00:19:23:Gest jest odpowiedni do zadania.|Pobudzam twoj¹ wyobraŸniê.
-00:19:28:Pozna³em tutaj ¿onê.
-00:19:33:Obs³ugiwa³a stoliki.
-00:19:36:Przychodzi³em|codziennie przez tydzieñ,
-00:19:40:próbuj¹c zdobyæ siê na odwagê,|by zaprosiæ j¹ na randkê.
-00:19:45:Za proste przyjemnoœci.
-00:19:56:Uznaj mnie za d¿ina.
-00:19:59:Z moc¹ przyznania ci teraz|jednego idealnego dnia.
-00:20:04:Czego pragniesz|najbardziej na œwiecie?
-00:20:20:Gdzie on jest?!
-00:20:37:Czeœæ, duchu.
-00:20:41:Gdzie jest klucz?
-00:20:44:ChodŸ!
-00:20:51:- Srebro emituje czêstotliwoœæ.|- Sygna³ naprowadzaj¹cy.
-00:20:56:Coœ w tym stylu.
-00:20:59:Problem w tym,|¿e nie mogê go oddzieliæ.
-00:21:01:Srebro przyczepia siê do p³ytek krwi|i staje siê jedn¹ ca³oœci¹.
-00:21:06:Zawsze bêdê mieæ je w sobie?
-00:21:09:Chcia³bym mieæ lepsze wieœci.
-00:21:19:Pojedziesz z nim?
-00:21:23:Czeka³ na mnie przez 50 lat.
-00:21:26:Czujesz siê zobowi¹zana.
-00:21:32:Czujê wiele rzeczy.
-00:21:37:To nie ten sam cz³owiek,|w którym siê zakocha³am.
-00:21:41:Brakuje jego czêœci.
-00:21:58:Nie widzia³em ich|prawie trzy lata.
-00:22:02:Niech pan na niego spojrzy...
-00:22:04:Jest taki du¿y.
-00:22:06:W tym wieku rosn¹|jak na dro¿d¿ach.
-00:22:11:- Mogê z nim porozmawiaæ?|- To twój syn.
-00:22:15:Zak³adam, ¿e po to|tutaj jesteœmy.
-00:22:41:Czeœæ, kole¿ko.
-00:22:44:Porz¹dna ciê¿arówka.
-00:22:50:Van?
-00:22:55:To ja.
-00:23:31:Wiem, czego od pana chcê.
-00:23:47:Nie mam go.
-00:23:50:Daj spokój.
-00:23:52:Wiesz, ¿e ci nie wierzê.
-00:23:55:On mnie zabije.
-00:23:57:Daj mi klucz,
-00:24:01:a ci pomogê, duchu.
-00:24:03:Mogê chroniæ ciê|przed Harlanem.
-00:24:06:To niemo¿liwe.
-00:24:09:Nie poproszê ponownie.
-00:24:13:Wiem.
-00:24:15:Nie.
-00:24:42:Zamkn¹æ wyjœcia.
-00:24:56:- Jesteœ ranna?|- Nic mi nie jest.
-00:24:59:Zszed³ przez szyb.
-00:25:00:- Dok¹d prowadzi?|- Na parking.
-00:25:23:No dawaj.
-00:25:44:Policja.|Wysiadaæ.
-00:25:48:¯artujesz sobie?|Dopiero go kupi³em.
-00:25:50:Oddam go w jednym kawa³ku.
-00:26:12:Co siê dzieje?
-00:26:13:Mówi³eœ, ¿e naczelnik|chce ze mn¹ rozmawiaæ.
-00:26:16:Musisz opuœciæ Alcatraz, Ray.
-00:26:19:O czym ty mówisz?|Dopiero tu przyp³yn¹³em.
-00:26:23:Naczelnik wie,|¿e jesteœmy tu razem?
-00:26:31:Dokumenty adopcyjne.
-00:26:34:Vana.
-00:26:37:Wszystko zosta³o|zatwierdzone.
-00:26:39:Tommy, mieliœmy plan,|¿ebyœ do niego wróci³.
-00:26:42:- Koniec z planami.|- Nie mo¿esz siê poddaæ.
-00:26:45:Dobrze dogadujê siê|z naczelnikiem.
-00:26:47:Widzia³eœ, co zrobi³|dla Harlana Simmonsa.
-00:26:49:Mo¿e nam pomóc.
-00:26:54:Zabi³em j¹, Ray.
-00:26:58:Czeka³em,|a¿ wróci do domu,
-00:27:01:w³o¿y³em jej|pistolet do ust
-00:27:05:i poci¹gn¹³em za spust.
-00:27:09:Dzieciaka ochlapa³a jej krew.
-00:27:15:Nie zostawiê ciê tutaj.
-00:27:18:Twoja rezygnacja|te¿ tam jest.
-00:27:22:Ostatnia ³ódŸ czeka.
-00:27:26:Wynoœ siê st¹d, Ray.
-00:27:31:Nie mogê ju¿ patrzeæ ci w twarz.
-00:27:36:IdŸ!
-00:27:49:Nigdy wiêcej nie zobaczysz syna.
-00:29:06:Szuka³ klucza.
-00:29:08:- Myœla³, ¿e pan Limerick go ma.|- A mia³ go?
-00:29:14:Chyba tak.
-00:29:16:Mamusiu.
-00:29:25:- Nie powinnaœ tu byæ.|- Tommy szuka³ pacjenta?
-00:29:30:- Joe Limericka.|- Joe Limerick nie ¿yje.
-00:29:33:- Œwietne spostrze¿enie, Soto.|- To znaczy zgin¹³ w 1960.
-00:29:38:Uton¹³ podczas próby|ucieczki z Alcatraz.
-00:29:41:Widzia³em jego akt zgonu.|Nie mo¿e byæ z '63.
-00:29:45:Jednak to on.
-00:29:53:Madsen przyszed³ tu|w poszukiwaniu klucza.
-00:29:57:Tego klucza?
-00:29:58:Trzeciego klucza naczelnika?
-00:30:01:Nie ma go tu.
-00:30:02:Pan Madsen zada³ sobie wiele trudu,|¿eby siê co do tego myliæ.
-00:30:06:WiêŸniowie z Alcatraz umieli|ukrywaæ rzeczy przed stra¿nikami.
-00:30:11:Niektórzy zaszywali rzeczy|w mankietach spodni.
-00:30:17:£atwo to przeoczyæ|przy rutynowym przeszukaniu.
-00:30:23:Dobra robota.
-00:30:27:- Daj mi go.|- Nie.
-00:30:29:Znajdê Rebeccê|i wszyscy tam pójdziemy.
-00:30:32:Czekaj, Soto.
-00:30:36:- Stój, Soto.|- Emerson.
-00:32:29:Wstawaj.
-00:32:35:Nie potrzebujesz tego.|Twój ojciec by³ moim synem.
-00:32:41:Jesteœ moj¹ wnuczk¹, Rebecca.
-00:32:43:- Jesteœmy spokrewnieni.|- Myœlisz, ¿e to czyni nas rodzin¹?
-00:32:49:Nie znam ciê.
-00:32:51:Ale mnie uratowa³aœ.
-00:32:55:Chcesz wiedzieæ,|czemu zabi³em twojego partnera?
-00:32:59:P³acono mu,|¿eby mia³ ciê na oku.
-00:33:02:Firma Harlana Simmonsa,|Broadway Mutual, dlaczego?
-00:33:05:¯eby do mnie dotrzeæ.|Do nas wszystkich.
-00:33:07:- Czemu obchodzi go, co robisz?|- Bo Harlan z³ama³ obietnicê.
-00:33:11:Wobec kogo?
-00:33:13:Naczelnika Jamesa.
-00:33:16:Wiêc on za tym stoi?
-00:33:18:Rebecca, opuœæ broñ|i mo¿emy porozmawiaæ.
-00:33:21:Odwróæ siê.
-00:33:23:A jeœli odmówiê?
-00:33:26:To ciê zastrzelê.
-00:33:41:Rebecca, jacy byli twoi rodzice?
-00:33:46:- Twój ojciec by³ dobry?|- Zamknij siê.
-00:33:53:Ray powiedzia³ ci,|co im siê sta³o?
-00:33:57:Jak naprawdê zginêli?
-00:34:43:Kobieta z urazem przenikaj¹cym|lewej czêœci brzucha.
-00:34:46:Krwawienie.
-00:34:47:Pod³¹czmy j¹ do aparatury.
-00:34:48:Jeden, dwa, trzy.
-00:34:50:- Morfologia i panel chemiczny.|- Dodajcie rentgen klatki.
-00:34:52:Krwawienie têtnicze.|Jeden miligram epinefryny.
-00:34:55:Dajce defibrylator!
-00:35:09:- Dlatego muszê ciê zabraæ.|- I dlatego nie mogê wyjechaæ.
-00:35:13:- Kiedy j¹ ustabilizuj¹.|- Co?
-00:35:16:Twoi przyjaciele zabior¹ nas|do jakiejœ wioski w Kambod¿y?
-00:35:20:Gdzie bêdê bezpieczniejsza, mo¿e.
-00:35:24:Ale wrócisz tu, by skoñczyæ|dzie³o swojego ¿ycia beze mnie?
-00:35:28:Nie.
-00:35:30:Zrobimy to razem.
-00:35:36:Straci³em ciê ju¿ dwa razy.|To siê nie powtórzy.
-00:35:41:Mo¿emy przetrwaæ pó³wieczny|przeskok czasu i kulê w sercu.
-00:35:47:Co mog³oby nas rozdzieliæ?
-00:35:56:Kto to zrobi³?
-00:35:57:Twój brat, Ray.
-00:36:01:- Mówi³em, ¿ebyœcie odpuœcili.|- Tu nie chodzi o ciebie i mnie.
-00:36:05:Wynocha!
-00:36:10:Pamiêtam ciê.|By³aœ tam.
-00:36:14:Jesteœ jedn¹ z nich.
-00:36:29:Mo¿esz iœæ,|jeœli chcesz.
-00:36:33:Cokolwiek jest za drzwiami,|nie jest tak wa¿ne jak...
-00:36:39:Zostajê.
-00:39:26:Numery wiêŸniów.
-00:39:29:To mapa do ich namierzania?
-00:39:34:Srebro w ich krwi.
-00:39:36:Wygl¹da na ustalone|miejsca powrotu.
-00:39:39:I to nie tylko San Francisco.
-00:39:46:S¹ wszêdzie.
-00:40:03:10:47.|Mason Street.
-00:40:06:12:22.
-00:40:08:Róg Balboa i Funston.
-00:40:11:13:48.
-00:40:12:Prospect Avenue,|Oakland, California.
-00:40:16:A niech mnie.
-00:40:18:Ka¿de miejsce,|które dziœ odwiedziliœmy.
-00:40:20:- Mo¿emy ich namierzyæ.|- Ty mo¿esz ich namierzyæ.
-00:40:24:Ja bez ciebie|i twojej nauki...
-00:40:28:Moje najlepsze intencje|nie zamieni¹ wody w wino.
-00:40:31:Woda.|Eliksir ¿ycia.
-00:40:38:Dobrze wygl¹da.
-00:40:40:Lepiej ni¿ dobrze.
-00:40:42:- Sk¹d pan wiedzia³, ¿e prze¿yjê?|- Mia³em ciê na oku od 1952.
-00:40:48:Te¿ by³ pan w Korei?
-00:40:52:- Co to za miejsce?|- To twoja przysz³oœæ.
-00:40:58:Bêdzie pan naszym|wysuniêtym cz³owiekiem.
-00:41:01:W armii to goœcie,|którzy pierwsi dostaj¹ kulki.
-00:41:05:- Zatem mamy umowê.|- Ale¿ oczywiœcie.
-00:41:08:- Odsiadujê do¿ywocie.|- A gdybym powiedzia³,
-00:41:12:¿e za trzy lata|pan wyjdzie?
-00:41:19:Wolny?
-00:41:50:Jest tam kto?
-00:42:04:Madsen?
-00:42:07:Nie, jestem Hauser.
-00:42:24:Jaki mamy rok?
-00:42:27:2012.
-00:42:46:Migotanie komór.
-00:42:48:£aduj, 360.
-00:42:50:- Uwaga.|- 50 miligramów lidokainy.
-00:42:57:- Uwaga.|- Brak akcji serca.
-00:42:59:Asystolia potwierdzona.
-00:43:02:Zg³oœcie to.
-00:43:05:Zapisaæ czas.
-00:43:11:.:: GrupaHatak.pl ::.|>> Release24.pl <<
-00:43:17:.:: Napisy24 - Nowy Wymiar Napisów ::.|Napisy24.pl
+00:00:00:movie info: XVID  720x304 23.976fps 367.6 MB|/SubEdit b.4072 (http://subedit.com.pl)/
+00:00:32:/"I amar prestar aen..."
+00:00:36:/Œwiat siê zmieni³...
+00:00:39:/"Han mathon ne nen..."|/Czujê to w wodzie...
+00:00:43:/"Han mathon ne chae..."|/Czujê to w ziemi...
+00:00:47:/"A han noston ne gwilith..."|/Wyczuwam to w powietrzu...
+00:00:51:/Wiele z tego,|/co niegdyœ by³o, przepad³o.
+00:00:55:/A nie ¿yje ju¿ nikt z tych,|/którzy by o tym pamiêtali.
+00:00:58:W£ADCA PIERŒCIENI
+00:01:11:/Wszystko zaczê³o siê|/od wykucia Pierœcieni W³adzy.
+00:01:16:/Trzy zosta³y dane elfom...
+00:01:18:/nieœmiertelnym, najmêdrszym|/i najbli¿szym magii spoœród wszystkich ras.
+00:01:23:/Siedem - w³adcom krasnoludów,|/wspania³ym górnikom...
+00:01:25:/twórcom górskich podziemi.
+00:01:30:/I dziewiêæ...
+00:01:32:/Dziewiêæ Pierœcieni zosta³o|/podarowanych rasie ludzi...
+00:01:35:/którzy ponad wszystko|/po¿¹dali w³adzy.
+00:01:40:/W tych pierœcieniach zawarta by³a si³a i wola,|/aby rz¹dziæ ka¿d¹ z ras.
+00:01:47:/Lecz wszyscy oni zostali oszukani.
+00:01:50:/Powsta³ bowiem|/jeszcze jeden Pierœcieñ.
+00:01:53:/W krainie Mordor,|/w ogniach Góry Przeznaczenia,
+00:01:57:/W³adca Ciemnoœci, Sauron,|/wyku³ w sekrecie Jedyny Pierœcieñ,
+00:02:02:/by kontrolowaæ|/wszystkie pozosta³e.
+00:02:04:/W ten pierœcieñ wla³ ca³e|/swe okrucieñstwo, z³oœliwoœæ
+00:02:08:/i wolê dominacji|/nad wszelkim ¿yciem.
+00:02:13:/Jeden Pierœcieñ,|/by wszystkimi rz¹dziæ...
+00:02:18:/Jedna po drugiej...
+00:02:20:/wolne krainy Œródziemia|/ulega³y mocy Pierœcienia.
+00:02:25:/Ale byli te¿ tacy,|/którzy stawiali opór.
+00:02:28:/Ostatni sojusz pomiêdzy ludŸmi i elfami|/maszerowa³ przeciwko armiom Mordoru.
+00:02:33:/I na zboczach Orodruiny walczy³|/o wolnoœæ krain Œródziemia.
+00:02:50:"Tangado a chadad!"|Przygotowaæ siê do strza³u!
+00:03:08:/Zwyciêstwo by³o bliskie...
+00:03:15:/ale moc Pierœcienia...
+00:03:18:/by³a nieograniczona.
+00:03:44:/W tym w³aœnie momencie,
+00:03:46:/kiedy ca³a nadzieja|/zda³a siê zgasn¹æ...
+00:03:49:/Isildur, syn króla,|/podniós³ miecz swego ojca.
+00:04:24:/Sauron, wróg Wolnych Ludów Œródziemia,|/zosta³ pokonany.
+00:04:37:/Pierœcieñ przeszed³|/na Isildura,
+00:04:40:/który mia³ tê jedyn¹ szansê,|/by zniszczyæ z³o na zawsze.
+00:04:45:/Ale serce cz³owieka z ³atwoœci¹|/mo¿na znieprawiæ.
+00:04:50:/A Pierœcieñ W³adzy|/okaza³ w³asn¹ moc.
+00:05:20:/Zdradzi³ Isildura...
+00:05:24:/doprowadzaj¹c do jego œmierci.
+00:05:31:/I pewne rzeczy,|/które nie powinny byæ zapomniane...
+00:05:35:/przepad³y.
+00:05:38:/Historia sta³a siê legend¹...
+00:05:40:/legenda sta³a siê mitem.
+00:05:42:/W ci¹gu 2500 lat o Pierœcieniu|/ca³kowicie zapomniano.
+00:05:50:/A¿ do chwili,|/kiedy nadesz³a szansa...
+00:05:53:/i usidli³ nowego w³aœciciela.
+00:05:58:/Mój sskarb...
+00:06:03:/Pierœcieñ przeszed³|/w posiadanie Golluma,
+00:06:06:/który zabieraj¹c go|/w g³êbokie groty Gór Mglistych...
+00:06:10:/zosta³ przezeñ opanowany.
+00:06:13:/Przyszed³ do mnie...
+00:06:15:/Mój Jedyny...|/Moja Mi³oœæ...
+00:06:18:/Mój Jedyny...|/Mój Ssskarb...
+00:06:28:/Pierœcieñ da³ Gollumowi|/nienaturalnie d³ugie ¿ycie.
+00:06:32:/Przez 500 lat|/zatruwa³ jego umys³.
+00:06:36:/I w mroku jaskini Golluma czeka³...
+00:06:41:/Ciemnoœæ zakrad³a siê znowu|/do lasów Œródziemia.
+00:06:44:/Pojawi³a siê pog³oska|/o cieniu na Wschodzie.
+00:06:47:/szepcz¹c o nienazwanym strachu...
+00:06:50:/Wtedy Pierœcieñ W³adzy spostrzeg³,
+00:06:54:/¿e jego czas nadszed³.
+00:06:59:/Porzuci³ Golluma.
+00:07:02:/Zdarzy³o siê wtedy jednak coœ,|/czego Pierœcieñ nie przewidzia³.
+00:07:08:/Zosta³ podniesiony przez najmniej|/oczekiwane w tym miejscu stworzenie...
+00:07:12:Co to?
+00:07:14:/Hobbita...
+00:07:15:/Bilbo Bagginsa z Shire'u.
+00:07:18:Pierœcieñ.
+00:07:20:/Zgin¹³!
+00:07:25:/Mój Ssskarb zgin¹³!
+00:07:28:/Wkrótce mia³y nadejœæ czasy,
+00:07:31:/gdy w rêkach hobbitów| /bêd¹ losy wszystkich.
+00:07:41:/Dwudziesty drugi dzieñ wrzeœnia...
+00:07:44:/roku tysi¹c czterysta dwudziestego,
+00:07:48:/wed³ug rachuby Shire'u.
+00:07:50:/Bag End, Bagshot Row,|/Hobbiton, Zachodnia Æwiartka...
+00:07:56:/Shire...
+00:07:58:/Œródziemie.
+00:08:06:/Trzecia Era tego Œwiata...
+00:08:11:DRU¯YNA PIERŒCIENIA
+00:08:21:"Tam i z powrotem"
+00:08:25:Historia o hobbitach...
+00:08:27:spisana przez Bilbo Bagginsa.
+00:08:36:A teraz...
+00:08:38:jak tu zacz¹æ?
+00:08:42:Ach, tak...
+00:08:47:"O... hobbitach."
+00:08:53:/Hobbici ¿yj¹ i uprawiaj¹ ziemiê|/na Czterech Æwiartkach Shire'u
+00:08:57:/od wielu stuleci.
+00:08:59:/Ca³kiem zadowoleni z tego,|/¿e ignoruj¹ i s¹ ignorowani
+00:09:02:/przez œwiat Du¿ych Ludzi...
+00:09:06:/Œródziemie jest pe³ne dziwnych stworzeñ,|/których nie bierze siê pod uwagê...
+00:09:11:/Wœród nich z pewnoœci¹ hobbici.
+00:09:15:/Nie ws³awiaj¹ siê|/jako wielcy wojownicy.
+00:09:19:/Nie s¹ te¿ zaliczani|/do grona najm¹drzejszych.
+00:09:28:Frodo!|Ktoœ puka do drzwi!
+00:09:32:/W³aœciwie, jak ktoœ zauwa¿y³,
+00:09:35:/prawdziwa namiêtnoœæ hobbitów|/to jedzenie.
+00:09:39:/By³a to raczej|/niesprawiedliwa ocena,
+00:09:42:/gdy¿ rozwinêliœmy równie¿|/umiejêtnoœæ warzenia piwa...
+00:09:46:/i palenia fajkowego ziela.
+00:09:49:/Ale nasze serca najbardziej|/kochaj¹ spokój i ciszê.
+00:09:55:/Oraz dobr¹, uprawion¹ ziemiê.
+00:09:57:/Gdy¿ hobbici kochaj¹|/wszystko, co roœnie.
+00:10:06:/I owszem, dla innych bez w¹tpienia|/nasze zwyczaje wydaj¹ siê staromodne.
+00:10:10:/Ale dzisiaj, przez pryzmat dawnych dni,|/dostrzegam wyraŸnie jedn¹ rzecz.
+00:10:16:/Nie ma nic z³ego|/w celebrowaniu prostego ¿ycia.
+00:10:26:Frodo! Drzwi!
+00:10:33:A niech to!|Gdzie jest ten ch³opak?
+00:10:35:Frodo!
+00:10:43:"A droga wiedzie w przód i w przód..."
+00:10:51:"A ja wci¹¿ za ni¹ - tak jak mogê..."
+00:10:56:"A droga wiedzie w przód i w przód,"
+00:11:00:"Choæ siê zaczê³a tu¿ za progiem"
+00:11:04:"I w dal przede mn¹ mknie na wschód,"
+00:11:09:"A ja wci¹¿ za ni¹ - tak jak mogê..."
+00:11:12:SpóŸni³eœ siê.
+00:11:16:Czarodziej nigdy siê nie spóŸnia,|Frodo Bagginsie.
+00:11:21:Nie pojawia siê te¿ za wczeœnie.|Przybywa dok³adnie wtedy, kiedy zamierza.
+00:11:37:Wspaniale ciê widzieæ, Gandalfie.
+00:11:44:Chyba nie myœlisz, ¿e przegapi³bym|urodziny twojego wuja, Bilba.
+00:11:49:A jak tam siê miewa|nasz stary ³obuz?
+00:11:52:S³ysza³em, ¿e zapowiada siê|niezwykle wykwintne przyjêcie.
+00:11:56:Znasz Bilba, poruszy³ ca³e to miejsce.
+00:11:58:Có¿, to powinno go zadowoliæ.
+00:12:01:Po³owa Shire'u zosta³a zaproszona.
+00:12:03:A ca³a reszta, tak czy inaczej,|te¿ siê pojawi.
+00:12:08:/I tak toczy siê ¿ycie w Shire...
+00:12:12:/Nie uleg³o ¿adnym zmianom|/w ci¹gu ostatniego stulecia.
+00:12:15:/Pe³ne swoich w³asnych wyjazdów i powrotów,|/ze zmianami, które przychodzi³y wolno...
+00:12:21:/Jeœli w ogóle przychodzi³y...
+00:12:24:/Bo rzeczy w Shire|/zosta³y stworzone, ¿eby przetrwaæ...
+00:12:28:/przechodz¹c z jednego|/pokolenia na kolejne.
+00:12:32:/Zawsze mieszka³ tu jakiœ Baggins,|/pod Pagórkiem...
+00:12:37:/w Bag End.
+00:12:41:/I zawsze bêdzie.
+00:12:44:Szczerze mówi¹c...|Bilbo dziwnie siê ostatnio zachowuje.
+00:12:49:To znaczy, bardziej ni¿ zwykle.
+00:12:52:Pogr¹¿a siê w nauce.
+00:12:56:Ukradkiem spêdza godziny|na przegl¹daniu starych map.
+00:13:13:Gdzie on znikn¹³?
+00:13:41:On coœ planuje.|Có¿, mo¿e...
+00:13:51:- A miejcie swoje sekrety.|- Co?
+00:13:54:Ale ja wiem, ¿e ty|masz z tym coœ wspólnego.
+00:13:56:Co ty opowiadasz?
+00:13:58:Zanim siê pojawi³eœ,|my Bagginsowie, mieliœmy dobr¹ opiniê.
+00:14:01:W istocie.
+00:14:02:Nie mieliœmy ¿adnych przygód|i nie robiliœmy niczego niespodziewanego.
+00:14:04:Jeœli nawi¹zujesz do incydentu ze smokiem,|by³em ledwo zaanga¿owany.
+00:14:11:Popchn¹³em lekko|twojego wuja do czynu.
+00:14:14:Cokolwiek zrobi³eœ, zosta³eœ oficjalnie|zaszufladkowany jako m¹ciciel porz¹dku.
+00:14:19:Naprawdê?
+00:14:26:Gandalf! Gandalf!
+00:14:35:Fajerwerki, Gandalf!
+00:14:39:- Gandalf!|- Fajerwerki, Gandalfie!
+00:15:00:Gandalfie?
+00:15:02:Cieszê siê, ¿e wróci³eœ.|Ja te¿, drogi ch³opcze.
+00:15:10:Ja te¿...
+00:15:38:/Nie wchodziæ. Nie dotyczy spraw|/zwi¹zanych z przyjêciem urodzinowym.
+00:15:44:Nie, dziêkujê!
+00:15:46:Nie chcemy wiêcej goœci,|sympatyków, czy te¿ dalekich krewnych.
+00:15:50:A co powiesz|na bardzo starych przyjació³?
+00:15:57:Gandalf?
+00:15:59:- Bilbo Baggins.|- Mój drogi Gandalf!
+00:16:03:Dobrze ciê widzieæ... 111 lat.|Kto by pomyœla³?
+00:16:09:Nie zestarza³eœ siê nawet o dzieñ...
+00:16:18:Dalej, wchodŸ!
+00:16:20:Witam, witam.
+00:16:24:I ju¿...
+00:16:28:Herbatê, a mo¿e coœ trochê mocniejszego?
+00:16:31:Mam kilka butelek ze starej winnicy.|Rocznik 1296.
+00:16:35:Bardzo dobry rocznik.|Prawie tak stary, jak ja.
+00:16:40:Zosta³a za³o¿ona przez mojego ojca.|Otworzymy jedn¹?
+00:16:45:Wystarczy herbata, dziêkujê.
+00:16:54:Spodziewa³em siê ciebie|w zesz³ym tygodniu.
+00:16:56:Przychodzisz i odchodzisz,|tak jak zwyk³eœ to robiæ.
+00:16:59:Obawiam siê, ¿e przy³apa³eœ mnie|nieco nieprzygotowanego...
+00:17:02:Mamy tylko zimnego kurczaka|i trochê pikli...
+00:17:04:Jest tu trochê sera.|Nie, nic z tego nie bêdzie.
+00:17:08:Mam d¿em malinowy,|placek jab³kowy...
+00:17:13:Ale nie mamy nic na póŸniej.|O nie!... Wszystko w porz¹dku!
+00:17:17:W³aœnie znalaz³em trochê biszkopta.
+00:17:23:Móg³bym przyrz¹dziæ kilka jajek,|jeœli chc...
+00:17:28:Tylko herbatê, dziêkujê.|Ach, tak.
+00:17:31:- Nie bêdzie ci przeszkadzaæ, gdy bêdê jad³?|- Nie, sk¹d¿e.
+00:17:35:/Bilbo! Bilbo Baggins!
+00:17:37:Nie ma mnie w domu.
+00:17:45:To Bagginsowie z Sackville.
+00:17:47:/- Wiem, ¿e tam jesteœ!|- Przyszli w sprawie domu.
+00:17:50:Nigdy mi nie wybaczyli,|¿e tak d³ugo ¿yjê.
+00:17:53:Muszê uciec od tych przeklêtych krewnych,|nie daj¹ mi spokoju.
+00:17:58:Chcê znowu zobaczyæ góry!|Góry, Gandalfie!
+00:18:02:A potem znaleŸæ siê|w jakimœ spokojnym miejscu,
+00:18:04:gdzie bêdê móg³ skoñczyæ moj¹ ksi¹¿kê.|O, herbata.
+00:18:07:- Wiêc zamierzasz trzymaæ siê planu?|- Tak, wszystko mam pod kontrol¹.
+00:18:11:Poczyni³em wszelkie przygotowania.
+00:18:15:Dziêkujê.
+00:18:18:Frodo coœ podejrzewa.
+00:18:20:No pewnie, ¿e tak.|To Baggins...
+00:18:23:nie jakiœ zakuty ³eb|z Bracegirdle'ów z Hardbottle.
+00:18:26:Powiesz mu, prawda?
+00:18:29:- Tak, tak.|- Bardzo ciê lubi.
+00:18:34:Wiem.
+00:18:38:Pewnie wyruszy³by ze mn¹,|gdybym go o to poprosi³.
+00:18:42:Myœlê, ¿e Frodo w swoim sercu|wci¹¿ jest zakochany w Shire.
+00:18:47:Lasach, polach...
+00:18:49:ma³ych rzeczkach.
+00:18:56:Jestem stary Gandalfie.
+00:19:00:Wiem, ¿e nie wygl¹dam...|ale zaczynam czuæ to w moim sercu.
+00:19:07:Czujê siê... cienki,
+00:19:10:jakby rozci¹gniêty...
+00:19:13:jak mas³o rozsmarowane|na zbyt du¿ej kromce chleba.
+00:19:17:Potrzebujê wakacji...|bardzo d³ugich wakacji.
+00:19:21:I nie spodziewam siê, ¿e wrócê.
+00:19:27:W³aœciwie, to nie mam|takiego zamiaru.
+00:19:33:"Stary Toby"... najlepsze fajkowe ziele|z Po³udniowej Æwiartki.
+00:19:54:Gandalfie, stary przyjacielu...
+00:19:57:to bêdzie noc godna zapamiêtania.
+00:20:22:Witam, witam.
+00:20:24:Grubas Bolger. Wspaniale was widzieæ.|Witamy, witamy.
+00:20:29:Dalej Samie,|poproœ Ró¿yczkê do tañca.
+00:20:34:- Chyba wezmê jeszcze jedno piwo.|- A w³aœnie, ¿e nie.
+00:20:39:No idŸ!
+00:20:51:Wiêc, sta³em tam...
+00:20:53:zdany na ³askê trzech potwornych trolli...
+00:20:57:a one sprzecza³y siê miêdzy sob¹|o to, jakby nas ugotowaæ.
+00:21:02:Rozerw¹ nas na kawa³ki, czy bêd¹ siadaæ|na nas po kolei i zmia¿d¿¹ na galaretê.
+00:21:08:Ale spêdzili tyle czasu na k³óceniu siê,|rozpatruj¹c za i przeciw...
+00:21:11:¿e œwiat³o s³oneczne|zakrad³o siê za czubki drzew...
+00:21:15:Bach!
+00:21:16:I zamieni³o ich wszystkich w kamieñ!
+00:21:24:Szybko!
+00:21:29:I do góry!
+00:21:34:Nie, nie. T¹ wielk¹, najwiêksz¹.
+00:21:45:Pani Bracegirdle, mi³o pani¹ widzieæ.|Witam, witam.
+00:21:48:- Te wszystkie dzieci s¹ pani?|- Tak.
+00:21:50:Wielkie nieba,|to siê pani napracowa³a.
+00:21:55:Bilbo?
+00:21:58:Bagginsowie z Sackville!|Szybko, schowajmy siê!
+00:22:11:Dziêkujê, ch³opcze.
+00:22:14:Jesteœ dobrym m³odzieñcem, Frodo.
+00:22:18:Wiesz...|Jestem bardzo samolubny...
+00:22:21:Tak, jestem...|bardzo samolubny...
+00:22:25:Nie wiem, dlaczego przygarn¹³em ciê|po œmierci rodziców,
+00:22:27:ale nie zrobi³em tego bezinteresownie.
+00:22:30:Myœlê, ¿e zrobi³em to dlatego,|¿e ze wszystkich moich licznych krewnych,
+00:22:34:by³eœ jedynym Bagginsem,|który wykazywa³ prawdziwego ducha.
+00:22:38:Bilbo, pi³eœ coœ dzisiaj u Gaffera?
+00:22:40:Nie.
+00:22:42:No có¿, tak,|ale to nie o to chodzi...
+00:22:44:chodzi o to, Frodo...
+00:22:51:¿e wszystko bêdzie dobrze.
+00:22:56:- Zrobione!|- Powinieneœ to wbiæ w ziemiê.
+00:22:58:- Jest w ziemi.|- Na zewn¹trz!
+00:23:00:To by³ twój pomys³.
+00:23:17:Bilbo.
+00:23:20:Bilbo, uwa¿aj na smoka!
+00:23:23:Smoka?! Nonsens!|W tych stronach nie by³o smoka od tysiêcy lat.
+00:23:40:To by³o dobre...|WeŸmy nastêpn¹...
+00:23:45:Meriadok Brandybuck|i Peregrin Tuk.
+00:23:50:Mog³em siê domyœliæ.
+00:23:57:Przemowa, Bilbo!
+00:24:00:Przemowa! Przemowa!
+00:24:02:Przemowa!
+00:24:08:Moi drodzy Bagginsowie i Boffinowie,|Tukowie i Brandybuckowie...
+00:24:14:Grubbowie, Czubbowie...
+00:24:16:Hornblowerowie...|Bolgerowie...
+00:24:21:Bracegirdle'owie...
+00:24:22:- i Proudfootowie!|- Proudfeetowie!
+00:24:27:Dzisiaj s¹ moje 111 urodziny.
+00:24:32:Wszystkiego najlepszego!
+00:24:34:Niestety, 111 lat to zbyt krótki czas,|¿eby ¿yæ...
+00:24:38:poœród tak wspania³ych|i godnych podziwu hobbitów...
+00:24:42:Po³owy spoœród z was nie znam|nawet w po³owie tak dobrze, jak bym pragn¹³,
+00:24:45:a mniej ni¿ po³owê z was lubiê|o po³owê mniej, ni¿ na to zas³ugujecie.
+00:25:00:Mam... sprawy do za³atwienia...
+00:25:08:Ju¿ i tak za d³ugo to odk³ada³em.
+00:25:14:Z ¿alem zawiadamiam,|¿e to jest koniec.
+00:25:19:Wyje¿d¿am teraz...
+00:25:22:¯yczê wam mi³ego|przyjêcia po¿egnalnego.
+00:25:27:Do widzenia.
+00:26:01:Pewnie uwa¿asz,|¿e to by³o niesamowicie m¹dre.
+00:26:05:Daj spokój, Gandalfie.|Widzia³eœ ich twarze?
+00:26:08:Jest wiele magicznych pierœcieni|na tym œwiecie,
+00:26:10:i ¿aden z nich|nie powinien byæ u¿yty w taki sposób.
+00:26:14:To mia³o byæ trochê zabawne.
+00:26:16:Ach, pewnie masz racjê...|jak zwykle.
+00:26:21:- Bêdziesz mia³ oko na Froda, prawda?|- Nawet parê oczu.
+00:26:25:Tak czêsto jak bêdê mia³ je wolne.
+00:26:28:- Zostawiam mu wszystko...|- A co z tym twoim pierœcieniem?
+00:26:31:- Te¿ zostaje?|- Tak, tak.
+00:26:35:Jest w kopercie...|tam, na gzymsie kominka.
+00:26:40:Nie... zaczekaj, jest...
+00:26:45:tutaj, w mojej kieszeni.
+00:26:53:Czy to nie...|Czy to nie dziwne?
+00:26:58:A w³aœciwie, czemu nie...
+00:27:03:- Dlaczego nie mia³bym go zatrzymaæ?|- Powinieneœ go pozostawiæ, Bilbo.
+00:27:08:Czy to takie trudne?
+00:27:10:Có¿... nie...
+00:27:14:I tak...
+00:27:18:Kiedy ju¿ do tego dosz³o,|nie mam ochoty siê z nim rozstaæ.
+00:27:21:Ja go znalaz³em,|przyszed³ do mnie!
+00:27:23:- Nie ma powodu do gniewu.|- To twoja wina!
+00:27:28:Jest mój.
+00:27:31:Mój w³asny...
+00:27:33:- Mój skarb.|- Skarb?
+00:27:38:By³ ju¿ tak kiedyœ nazywany...|ale nie przez ciebie.
+00:27:41:To nie twój interes,|co zrobiê z moimi w³asnymi rzeczami!
+00:27:43:Myœlê, ¿e mia³eœ ten pierœcieñ|ju¿ wystarczaj¹co d³ugo.
+00:27:46:- Chcesz go dla siebie!|- Bilbo Bagginsie!
+00:27:49:Nie bierz mnie za jakiegoœ kuglarza|od tanich sztuczek!
+00:27:54:Nie próbujê ciê okraœæ.
+00:28:03:Próbujê ci pomóc.
+00:28:13:Przez te wszystkie d³ugie lata|byliœmy przyjació³mi.
+00:28:17:Zaufaj mi tak, jak kiedyœ.
+00:28:21:Pozwól mu odejœæ.
+00:28:23:Masz racjê, Gandalfie.
+00:28:28:Pierœcieñ musi trafiæ do Frodo.
+00:28:32:Ju¿ póŸno, a droga d³uga.
+00:28:35:Tak, nadszed³ czas.
+00:28:40:Bilbo... pierœcieñ jest wci¹¿|w twojej kieszeni.
+00:29:20:Myœla³em o zakoñczeniu|do mojej ksi¹¿ki:
+00:29:25:"I od tej chwili ¿y³ d³ugo i szczêœliwie...|Do koñca swoich dni."
+00:29:30:I jestem tego pewny,|mój drogi przyjacielu.
+00:29:35:Do widzenia, Gandalfie.
+00:29:38:Do widzenia, drogi Bilbo.
+00:29:49:"A droga wiedzie w przód i w przód..."
+00:29:56:Do naszego nastêpnego spotkania.
+00:30:26:/Jest mój, mój w³asny...
+00:30:30:/Mój sskarb!
+00:30:33:Zagadki w ciemnoœciach...
+00:30:36:Bilbo!
+00:30:38:Bilbo!
+00:30:43:Mój skarb...
+00:30:48:Skarb.
+00:30:50:Odszed³, prawda?
+00:30:55:Tak d³ugo mówi³ o odejœciu...
+00:30:59:ale nie s¹dzi³em,|¿e naprawdê to zrobi.
+00:31:06:Gandalfie...
+00:31:16:Pierœcieñ Bilba.
+00:31:18:Odszed³, by zostaæ z elfami.
+00:31:21:Zostawi³ ci Bag End.
+00:31:28:Wraz z ca³ym dobytkiem.
+00:31:30:Pierœcieñ jest teraz twój.
+00:31:36:- Schowaj go w ustronnym miejscu.|- Dok¹d idziesz?
+00:31:40:- Mam parê spraw do za³atwienia.|- Jakich?
+00:31:42:- Pytania... pytania, które wymagaj¹ odpowiedzi.|- Dopiero co przyjecha³eœ.
+00:31:47:Nie rozumiem.
+00:31:53:Ani ja.
+00:31:57:Trzymaj go w sekrecie.
+00:32:00:Zaopiekuj siê nim.
+00:32:37:/Shire...
+00:32:39:/Baggins...
+00:33:31:"Rok 3434 Drugiej Ery.
+00:33:34:"Oto relacja Isildura,|najwy¿szego króla Gondoru,
+00:33:39:dotycz¹ca odnalezienia|Pierœcienia W³adzy."
+00:33:46:"Przyszed³ do mnie..."
+00:33:48:"Jedyny Pierœcieñ, który stanie siê|dziedzictwem mego królestwa."
+00:33:51:"Wszyscy, w których ¿y³ach p³ynie moja krew,|zwi¹zani bêd¹ z jego losem."
+00:33:55:"Zaryzykujê wszystko,|¿eby Pierœcieñ nie dozna³ krzywdy."
+00:33:59:"Jest mi drogi..."
+00:34:02:"mimo, ¿e p³acê za niego|cenê wielkiego bólu."
+00:34:08:"Znaki na pierœcieniu|zaczynaj¹ bledn¹æ."
+00:34:13:"Napis, z pocz¹tku wyraŸny|niczym krwawy p³omieñ, znikn¹³."
+00:34:18:"Tajemnica, któr¹ tylko ogieñ|mo¿e wyjawiæ."
+00:34:38:Shire!
+00:34:41:Baggins!
+00:34:44:Tu nie ma Bagginsów.|S¹ w Hobbitonie.
+00:34:50:W tamt¹ stronê!
+00:34:57:"Uleczyæ me serce i utopiæ ¿ale"
+00:35:00:"Deszcz mo¿e sobie padaæ|i wiatr wiaæ stale"
+00:35:02:"Ale wci¹¿ bêdzie"
+00:35:04:"Wiele mil do przejœcia"
+00:35:06:"Deszczu ulewnego g³os|jest bardzo mi³y"
+00:35:08:"Co strumieniem siê leje|ze wzgórz na równiny"
+00:35:10:"Dobry jest deszcz i pluskaj¹cy potok"
+00:35:12:"Lecz lepszy kufel piwa,|który trzyma Tuk"
+00:35:18:W Shire widziano dziwne stwory...
+00:35:21:Krasnoludy i innych,|z mniej bezpiecznych czêœci Œwiata.
+00:35:26:Wojna wisi na w³osku.
+00:35:28:Góry a¿ siê roj¹ od goblinów.
+00:35:31:Odleg³e opowieœci i bajki dla dzieci,|to wszystko.
+00:35:34:Gadasz jak ten stary Bilbo Baggins.|On by³ stukniêty.
+00:35:38:A oto m³ody pan Frodo,|te¿ zaczyna bzikowaæ.
+00:35:42:I jestem z tego dumny.
+00:35:43:- Zdrowie, Gaffer.|- Zdrowie.
+00:35:46:To nie nasza sprawa,|co dzieje siê poza naszymi granicami.
+00:35:50:Trzymaj swój nos z dala od k³opotów,|a nic ciê z³ego nie spotka.
+00:35:58:Do widzenia panom.|Do widzenia.
+00:36:00:Dobranoc, s³odka panno|od z³otego piwa.
+00:36:05:Uwa¿aj, komu s³odzisz...
+00:36:07:Nie martw siê Samie.|Ró¿yczka potrafi rozpoznaæ idiotê.
+00:36:13:Naprawdê?
+00:36:15:- Dobranoc Samie.|- Dobranoc, panie Frodo.
+00:36:42:Czy jest ukryty?|Czy jest bezpieczny?
+00:36:54:Co robisz?
+00:37:08:Wystaw rêkê, Frodo.|Jest zupe³nie ch³odny.
+00:37:16:Co widzisz?
+00:37:19:Widzisz coœ?
+00:37:25:Nic.
+00:37:27:Nic nie ma.
+00:37:30:Czekaj...
+00:37:34:/Isildur...
+00:37:36:Jakieœ znaki...
+00:37:39:Jakaœ odmiana jêzyka elfów,|nie potrafiê tego przeczytaæ.
+00:37:43:Jest kilku, którzy potrafi¹.
+00:37:46:To jêzyk Mordoru,|którego nie chcê tutaj u¿ywaæ.
+00:37:51:Mordor!
+00:37:52:We Wspólnej Mowie|jest tam napisane:
+00:37:55:"Jeden pierœcieñ, by wszystkimi rz¹dziæ...
+00:37:58:Jeden, by wszystkie odnaleŸæ...
+00:38:01:Jeden, by wszystkie zgromadziæ...
+00:38:03:i w ciemnoœci zwi¹zaæ."
+00:38:08:To jest Jedyny Pierœcieñ...
+00:38:10:Pierœcieñ,|wykuty przez W³adcê Ciemnoœci, Saurona,
+00:38:14:w ogniach Góry Przeznaczenia.
+00:38:16:Zabrany przez Isildura|z rêki samego Saurona.
+00:38:21:Bilbo go znalaz³...
+00:38:24:- W jaskini Golluma.|- Tak.
+00:38:26:Przez 60 lat Pierœcieñ|spoczywa³ w spokoju u Bilba...
+00:38:30:wyd³u¿aj¹c mu ¿ycie,|opóŸniaj¹c nadejœcie staroœci...
+00:38:35:Ale ju¿ ani chwili d³u¿ej, Frodo.|Z³o obudzi³o siê w Mordorze.
+00:38:39:Pierœcieñ siê przebudzi³.
+00:38:42:Us³ysza³ wo³anie swojego Pana.
+00:38:45:Ale on zosta³ zniszczony!|Sauron zosta³ zniszczony!
+00:38:54:Nie, Frodo.
+00:38:57:Duch Saurona przetrwa³.
+00:39:01:Jego si³y witalne s¹ powi¹zane|z Pierœcieniem, a ten przetrwa³.
+00:39:06:Sauron powróci³.
+00:39:10:Jego orkowie rozmno¿yli siê.
+00:39:12:Jego twierdza, Barad-dur,|zosta³a odbudowana w krainie Mordor.
+00:39:16:Sauron potrzebuje tylko tego Pierœcienia,|by okryæ wszystkie krainy drug¹ fal¹ Ciemnoœci.
+00:39:21:Poszukuje go...
+00:39:23:Ka¿da jego myœl jest na nim skupiona.
+00:39:27:Pierœcieñ pragnie ponad wszystko|wróciæ do rêki swego Pana.
+00:39:34:S¹ jednoœci¹...
+00:39:36:Pierœcieñ i W³adca Ciemnoœci.
+00:39:39:- Frodo, Sauron nie mo¿e go znaleŸæ.|- W takim razie schowamy go!
+00:39:44:Ukryjemy go i nie bêdziemy|nigdy o nim mówiæ.
+00:39:49:Nikt nie wie,|¿e on tu jest, prawda?
+00:39:57:Prawda, Gandalfie?
+00:39:59:Jest jeszcze ktoœ,|kto wie, ¿e Bilbo mia³ Pierœcieñ.
+00:40:04:Szuka³em wszêdzie stwora|zwanego Gollumem,
+00:40:07:ale wróg odnalaz³ go pierwszy.
+00:40:11:/Nie wiem, jak d³ugo go torturowali.
+00:40:14:/Ale pomiêdzy niekoñcz¹cymi siê krzykami|/i bulgotaniem wychwycili dwa s³owa:
+00:40:18:/Shire!
+00:40:21:/Baggins!
+00:40:23:Shire.
+00:40:25:Baggins.|To ich doprowadzi tutaj!
+00:40:30:Kogo diabli nios¹?
+00:40:33:WeŸ go, Gandalfie!
+00:40:35:- WeŸ go!|- Nie, Frodo.
+00:40:36:- Musisz go wzi¹æ!|- Nie mo¿esz oferowaæ mi Pierœcienia.
+00:40:39:- Dajê ci go!|- Nie kuœ mnie, Frodo!
+00:40:43:Nie oœmielê siê go wzi¹æ.|Nawet po to, ¿eby go ukryæ.
+00:40:50:Zrozum, Frodo.
+00:40:52:U¿y³bym tego Pierœcienia|z pragnienia czynienia dobra...
+00:41:01:ale przeze mnie zdoby³by on|moc tak wielk¹ i straszn¹,
+00:41:06:¿e trudno j¹ sobie wyobraziæ.
+00:41:08:- Ale nie mo¿e zostaæ w Shire!|- Nie!
+00:41:12:Nie mo¿e.
+00:41:19:Co mam zrobiæ?
+00:41:22:- Musisz wyjechaæ. I to szybko.|- Dok¹d? Gdzie pojadê?
+00:41:26:Z dala od Shire'u.|Kieruj siê w stronê wioski Bree.
+00:41:30:Bree.
+00:41:31:- A co z tob¹?|- Bêdê na ciebie czeka³
+00:41:34:w gospodzie|"Pod Rozbrykanym Kucykiem".
+00:41:37:- Pierœcieñ bêdzie tam bezpieczny?|- Nie wiem, Frodo.
+00:41:41:Nie mam ¿adnych odpowiedzi.
+00:41:44:Muszê zobaczyæ siê z Przewodnicz¹cym mej Rady.|Jest m¹dry i potê¿ny.
+00:41:50:Bêdzie wiedzia³, co czyniæ.
+00:41:53:Bêdziesz musia³ porzuciæ|nazwisko Baggins.
+00:41:56:Nie jest bezpieczne|poza granicami Shire'u.
+00:41:59:Podró¿uj tylko za dnia.|I trzymaj siê z dala od traktu.
+00:42:03:Potrafiê podró¿owaæ przez kraj|dostatecznie ³atwo.
+00:42:08:Mój drogi Frodo...
+00:42:10:Hobbici s¹ naprawdê|niesamowitymi stworzeniami.
+00:42:13:Mo¿esz dowiedzieæ siê o nich wszystkiego|w ci¹gu miesi¹ca,
+00:42:16:ale nawet po stu latach|bêd¹ potrafili ciê czymœ zaskoczyæ.
+00:42:23:Na ziemiê!
+00:42:36:A niech ciê, Samwise Gamgee!|Pods³uchiwa³eœ?!
+00:42:40:Nie pods³uchiwa³em, proszê pana.|Œcina³em trawê pod oknem.
+00:42:44:Czy to aby nie za póŸno|na przycinanie trawnika?
+00:42:47:- Us³ysza³em podniesione g³osy.|- Co s³ysza³eœ?! Mów!
+00:42:50:Nic... wa¿nego...
+00:42:52:Jakieœ tam rzeczy o Pierœcieniu...|W³adcy Ciemnoœci i coœ o koñcu œwiata, ale...
+00:42:56:proszê, panie Gandalfie,|niech mnie pan nie krzywdzi.
+00:42:59:Niech mnie pan nie przemienia|w jakiegoœ... cudaka.
+00:43:02:Nie?
+00:43:04:Mo¿e nie...
+00:43:07:Pomyœla³em o tym,|aby zrobiæ z ciebie lepszy po¿ytek.
+00:43:12:ChodŸ, Samwise, ¿wawo.
+00:43:16:Uwa¿ajcie obaj.
+00:43:19:wróg ma wielu szpiegów|na swojej s³u¿bie.
+00:43:22:Ptaki, bestie.
+00:43:27:Jest bezpieczny?
+00:43:30:Nigdy go nie zak³adaj.|Przyci¹ga s³ugi W³adcy Ciemnoœci.
+00:43:35:Zawsze pamiêtaj, Frodo...
+00:43:37:Pierœcieñ próbuje|wróciæ do swojego Pana.
+00:43:41:Pragnie, by go odnaleŸæ.
+00:44:24:- To tutaj.|- Co takiego?
+00:44:29:Jeœli postawiê jeszcze krok...
+00:44:31:znajdê siê tak daleko od domu,|jak jeszcze nigdy dot¹d.
+00:44:39:ChodŸ, Samie.
+00:44:49:Pamiêtasz, co zwyk³ mawiaæ Bilbo?
+00:44:52:/"To niebezpieczna rzecz Frodo,|/wychodziæ poza w³asny próg.
+00:44:56:/Wchodzisz na drogê i jeœli|/nie powstrzymasz swoich stóp,
+00:45:00:/...nigdy nie wiadomo, gdzie ciê ponios¹."
+00:45:18:Samie.
+00:45:23:Leœne elfy.
+00:45:38:Udaj¹ siê do Szarych Przystani|za Bia³ymi Wie¿ami...
+00:45:45:Opuszczaj¹ Œródziemie|aby ju¿ nigdy nie wróciæ.
+00:45:52:Nie wiem czemu,|ale wzbudza to we mnie smutek.
+00:45:59:Wszêdzie, gdzie le¿ê, znajdzie siê brudny,|wielki korzeñ wbijaj¹cy siê w moje plecy.
+00:46:05:Zamknij oczy|i wyobraŸ sobie ³ó¿ko,
+00:46:10:z miêkkim materacem|i œliczn¹, puchow¹ poduszk¹.
+00:46:23:To nie dzia³a, panie Frodo.
+00:46:26:Nigdy nie bêdê w stanie tu zasn¹æ.
+00:46:31:Ja te¿ nie, Samie.
+00:47:02:/Dym unosi siê nad Gór¹ Przeznaczenia.
+00:47:05:/Czasu zosta³o coraz mniej.
+00:47:07:/A Gandalf Szary|/przybywa do Isengardu,
+00:47:11:/szukaj¹c mojej rady.
+00:47:13:Po ni¹ przyby³eœ... nieprawda¿?
+00:47:17:- Mój stary przyjacielu.| - Sarumanie...
+00:47:25:- Jesteœ tego pewien?|- Nie mam ¿adnych w¹tpliwoœci.
+00:47:29:Wiêc Pierœcieñ W³adzy|zosta³ odnaleziony.
+00:47:32:Przez te wszystkie,|d³ugie lata by³ w Shire.
+00:47:35:Pod moim w³asnym nosem.
+00:47:37:NajwyraŸniej nie by³eœ|na tyle bystry, by to zauwa¿yæ.
+00:47:39:Twoje uwielbienie do hobbickiego|fajkowego ziela przyæmi³o ci umys³.
+00:47:44:Nadal mamy wystarczaj¹co czasu,|by pokonaæ Saurona, jeœli zadzia³amy szybko.
+00:47:48:Czas?
+00:47:51:Jaki czas mamy, wed³ug ciebie?
+00:47:54:Sauron odzyska³ wiele|ze swojej dawnej si³y.
+00:47:58:Jeszcze nie mo¿e przybraæ|materialnej postaci,
+00:48:00:ale jego duch|nie utraci³ nic ze swej mocy.
+00:48:04:Ukryty w swej twierdzy,|W³adca Mordoru widzi wszystko.
+00:48:09:Jego wzrok przeszywa chmury, cienie,|wnêtrze ziemi... i cia³o.
+00:48:17:Wiesz o czym mówiê, Gandalfie.
+00:48:21:Wielkie Oko, bez powiek,|spowite ogniem.
+00:48:27:Oko Saurona...
+00:48:29:Gromadzi wokó³ siebie ca³e z³o.
+00:48:32:Ju¿ wkrótce przyzwie armiê.
+00:48:34:Wystarczaj¹co wielk¹,|by najechaæ Œródziemie.
+00:48:37:Sk¹d o tym wiesz?
+00:48:42:Ujrza³em to.
+00:48:44:Palantír to niebezpieczne narzêdzie,|Sarumanie.
+00:48:48:Dlaczego?
+00:48:50:Dlaczego mielibyœmy|obawiaæ siê u¿ycia go?
+00:48:56:Nie odnaleziono wszystkich|Kamieni Widzenia.
+00:49:00:Nie wiemy, kto jeszcze|mo¿e przez nie patrzeæ.
+00:49:06:Jest póŸniej ni¿ myœlisz.
+00:49:08:Si³y Saurona ju¿ siê przemieszczaj¹.
+00:49:13:Dziewiêciu opuœci³o Minas Morgul.
+00:49:16:Dziewiêciu?
+00:49:17:Przekroczyli Isenê|w przededniu przesilenia letniego.
+00:49:21:Przybrali postaæ Czarnych JeŸdŸców.
+00:49:24:- Dotarli do Shire?|- Znajd¹ Pierœcieñ
+00:49:29:i zabij¹ tego, który go nosi.
+00:49:32:Frodo!
+00:49:46:Nie myœlisz chyba powa¿nie, ¿e hobbit|móg³by zmagaæ siê z wol¹ Saurona?
+00:49:51:Nie ma takiego,|który by to potrafi³.
+00:49:56:Przeciwko potêdze Mordoru|nie mo¿na odnieœæ zwyciêstwa.
+00:50:04:Musimy siê z nim sprzymierzyæ,|Gandalfie.
+00:50:08:Musimy siê po³¹czyæ z Sauronem.
+00:50:13:To bêdzie najm¹drzejsze,|mój przyjacielu.
+00:50:17:Powiedz mi... przyjacielu,
+00:50:20:kiedy Saruman M¹dry|porzuci³ rozs¹dek dla szaleñstwa?
+00:51:04:Da³em ci szansê...
+00:51:07:abyœ przy³¹czy³ siê do mnie dobrowolnie...
+00:51:10:ale ty wybra³eœ...|drogê bólu i cierpienia!
+00:51:37:Panie Frodo?!
+00:51:40:Frodo? Frodo!
+00:51:43:- Myœla³em, ¿e ciê zgubi³em.|- O czym ty mówisz?
+00:51:46:- Chodzi o to, co Gandalf powiedzia³.|- Co powiedzia³?
+00:51:50:/"Tylko go nie zgub Samwise Gamgee."|I nie zamierzam.
+00:51:54:Samie, wci¹¿ jeszcze jesteœmy w Shire,|co mog³oby siê wydarzyæ?
+00:52:01:Frodo.
+00:52:02:- Merry, to Frodo Baggins.|- Witaj, Frodo.
+00:52:04:Z³aŸ z niego!
+00:52:06:- ChodŸ, Frodo.| - Co to ma znaczyæ?
+00:52:10:Byliœcie w uprawach Maggota!
+00:52:15:Wracajcie!
+00:52:17:Wracajcie natychmiast!|Wynoœcie siê z moich pól!
+00:52:19:Ujrzycie samego diab³a,|gdy was dopadnê!
+00:52:22:Nie wiem, dlaczego tak siê wœcieka.|To tylko kilka marchewek.
+00:52:25:I kilka kapust.
+00:52:27:I te trzy worki ziemniaków,|które wynieœliœmy w zesz³ym tygodniu.
+00:52:30:- I pieczarki tydzieñ wczeœniej.|- Tak, Pippin, chodzi mi o to...
+00:52:34:¿e on najwyraŸniej|jest przewra¿liwiony.
+00:52:36:Biegnij!
+00:52:51:By³o blisko.
+00:52:55:Myœlê, ¿e coœ sobie z³ama³em...
+00:52:59:Zaufaj Brandybuckowi i Tukowi.
+00:53:02:No co?|To by³a tylko droga na prze³aj, skrót.
+00:53:06:- Skrót do czego?|- Pieczarki!
+00:53:17:Ta jest moja.
+00:53:21:- Ta jest niez³a, Merry.| - Tu roœnie ca³kiem ³adna, Samie.
+00:53:25:Myœlê, ¿e powinniœmy zejœæ z drogi.
+00:53:37:ZejdŸcie z drogi!|Szybko!
+00:53:53:B¹dŸcie cicho!
+00:55:00:Co to by³o?
+00:55:35:Widzisz coœ?
+00:55:38:Nic.
+00:55:40:Co siê dzieje?
+00:55:43:Ten Czarny JeŸdziec czegoœ szuka³...|albo kogoœ...
+00:55:48:Frodo?
+00:55:50:Padnij!
+00:56:08:Muszê opuœciæ Shire.
+00:56:11:Sam i ja musimy dostaæ siê do Bree.
+00:56:14:Dobra.
+00:56:16:Do promu Buckleburry, za mn¹.
+00:56:27:Biegnij!
+00:56:29:Têdy, za mn¹!
+00:56:35:Biegnij!
+00:56:49:Uwolnij cumê, Samie!
+00:56:54:Frodo!
+00:56:56:Biegnij Frodo!
+00:56:58:Biegnij!|Szybciej!
+00:56:59:Pospiesz siê!
+00:57:03:Dalej! Szybciej!|Skacz!
+00:57:20:- Jak daleko do nastêpnej przeprawy?|- Most na Brandywinie, 20 mil.
+00:57:38:ChodŸcie.
+00:57:51:Czego chcecie?
+00:57:53:Zmierzamy do gospody|"Pod Rozbrykanym Kucykiem".
+00:57:58:Hobbici?|Czterej hobbici.
+00:58:01:Z Shire'u, wnioskuj¹c po akcencie.|Co was sprowadza do Bree?
+00:58:05:Chcielibyœmy siê zatrzymaæ w gospodzie.|A dlaczego, to nasza sprawa.
+00:58:10:W porz¹dku, paniczu,|nie chcia³em pana obraziæ.
+00:58:12:Moim obowi¹zkiem jest zadawanie pytañ|po zapadniêciu zmroku.
+00:58:15:Krêc¹ siê tu dziwni ludzie na granicy.
+00:58:18:Nigdy zbyt wiele ostro¿noœci.
+00:58:40:Z drogi!|Uwa¿aj, jak chodzisz.
+00:58:48:"POD ROZBRYKANYM KUCYKIEM"
+00:59:08:Przepraszam...
+00:59:10:Dobry wieczór mali panowie,|co mogê dla was zrobiæ?
+00:59:13:Jeœli szukacie noclegu,|mam kilka mi³ych, przytulnych pokoików,
+00:59:18:zbudowanych|specjalnie dla hobbitów.
+00:59:20:Zawsze jestem dumny, kiedy mogê|zaspokoiæ potrzeby Ma³ych Ludzi... Panie...
+00:59:25:Underhill...|Nazywam siê Underhill.
+00:59:29:- Underhill, tak.|- Jesteœmy przyjació³mi Gandalfa Szarego,
+00:59:31:- Powiadomi go pan, ¿e przyjechaliœmy?|- Gandalf...?
+00:59:35:Gandalf.
+00:59:37:A, tak...
+00:59:39:pamiêtam, starszy goœæ,|d³uga szara broda i spiczasty kapelusz.
+00:59:45:Nie widzia³em go od 6 miesiêcy.
+00:59:54:Co teraz zrobimy?
+01:00:02:Samie...
+01:00:04:Przybêdzie tu, przyjedzie.
+01:00:08:Z drogi!
+01:00:13:Co to?
+01:00:15:To mój przyjacielu...|jest du¿e piwo.
+01:00:17:Lej¹ tu takie?
+01:00:19:- Idê po jedno.|- Przecie¿ masz ju¿ piwo!
+01:00:29:Ten goœæ nie spuszcza ciê z oka,|odk¹d przybyliœmy.
+01:00:37:Przepraszam.
+01:00:40:Kim jest mê¿czyzna w k¹cie?
+01:00:44:To jeden ze Stra¿ników.|S¹ niebezpieczni, w³ócz¹ siê po dziczy.
+01:00:49:Nie znam jego prawdziwego imienia,|ale w okolicy znany jest jako Obie¿yœwiat.
+01:00:56:Obie¿yœwiat.
+01:01:10:/Baggins.
+01:01:17:/Baggins.
+01:01:31:Baggins?|Jasne, ¿e znam Bagginsa.
+01:01:34:Jest tam!|Frodo Baggins.
+01:01:37:Jest pierwszym synem drugiego kuzyna|od strony jego matki,
+01:01:40:i moim kuzynem|w trzecim stopniu pokrewieñstwa.
+01:01:47:- Pippin!|- Spokojnie, Frodo!
+01:02:18:/Nie ukryjesz siê...
+01:02:23:/Widzê ciê.
+01:02:28:/Nie ma ¿ycia...
+01:02:31:/w pustce.
+01:02:34:/Tylko...
+01:02:36:/œmieræ.
+01:02:43:Œci¹gasz na siebie zbyt wiele uwagi,|panie Underhill.
+01:02:53:Czego chcesz?
+01:02:54:Nieco wiêcej ostro¿noœci z twojej strony.|Nie nosisz b³yskotki.
+01:02:57:- Nic nie noszê.|- W rzeczy samej.
+01:03:00:Mogê pozostaæ niezauwa¿ony,|jeœli tego chcê...
+01:03:03:ale znikn¹æ ca³kowicie?|To rzadki dar.
+01:03:07:- Kim jesteœ?|- Boisz siê?
+01:03:11:Tak.
+01:03:12:NajwyraŸniej niewystarczaj¹co.|Wiem, co ciê œciga.
+01:03:20:Puœæ go!|Albo bêdziesz mia³ ze mn¹ do czynienia!
+01:03:24:Macie niez³omne serca jak na hobbitów.|Ale to was nie ocali.
+01:03:28:Nie mo¿esz d³u¿ej czekaæ|na czarodzieja, Frodo.
+01:03:31:Oni nadchodz¹.
+01:04:56:Kim oni s¹?
+01:05:00:Niegdyœ byli ludŸmi,|wielkimi królami.
+01:05:05:Potem Sauron Podstêpny|da³ im dziewiêæ Pierœcieni W³adzy.
+01:05:09:Zaœlepieni chciwoœci¹,|wziêli je bez pytania.
+01:05:12:Jeden za drugim|stoczyli siê w Ciemnoœæ.
+01:05:15:Teraz s¹ s³ugami jego woli.
+01:05:20:To Nazgule, Upiory Pierœcienia.|Ani ¿ywi, ani umarli.
+01:05:26:Nieustannie wyczuwaj¹|obecnoœæ Pierœcienia,
+01:05:29:przyci¹gani przez moc Jedynego.|Nigdy nie przestan¹ ciê œcigaæ.
+01:05:44:- Gdzie nas zabierasz?|- W ostêpy.
+01:05:55:Sk¹d mamy mieæ pewnoœæ,|¿e to przyjaciel Gandalfa?
+01:05:59:Myœlê, ¿e s³uga nieprzyjaciela|wygl¹da³by straszniej.
+01:06:03:- By³by groŸniejszy.|- On jest wystarczaj¹co groŸny!
+01:06:07:Nie mamy innego wyboru,|jak mu zaufaæ.
+01:06:10:- Ale dok¹d on nas prowadzi?|- Do Rivendell, panie Gamgee.
+01:06:16:- Do domu Elronda.|- S³ysza³eœ to? Rivendell.
+01:06:20:Zobaczymy elfy.
+01:06:44:Panowie. Nie zatrzymujemy siê,|a¿ do zapadniêcia nocy.
+01:06:48:A co ze œniadaniem?
+01:06:49:- Ju¿ by³o.|- Pierwsze, tak...
+01:06:51:ale co z drugim œniadaniem?
+01:06:57:Nie s¹dzê,|¿e o nim s³ysza³, Pip.
+01:07:00:A co ze œniadaniem o 11, lunchem,|popo³udniow¹ herbatk¹? Obiadem, kolacj¹?
+01:07:06:- O tych wie, prawda?|- Nie liczy³bym na to.
+01:07:16:Pippin!
+01:07:34:Ciekawe, co one jedz¹,|kiedy nie ma w pobli¿u hobbitów?
+01:08:16:Kim ona jest?
+01:08:19:Ta kobieta,|o której œpiewa³eœ?
+01:08:25:To jest Ballada o Luthien,
+01:08:27:Elfiej pannie, która odda³a|swoj¹ mi³oœæ Berenowi, œmiertelnikowi.
+01:08:34:Co siê z ni¹ sta³o?
+01:08:39:Umar³a.
+01:08:45:Przeœpij siê trochê, Frodo.
+01:08:58:Potêga Isengardu|jest do twojej dyspozycji...
+01:09:02:Sauronie - W³adco Ziemi.
+01:09:10:/Zbuduj dla mnie armiê...|/wart¹ Mordoru...
+01:09:21:Jakie s¹ rozkazy z Mordoru, mój panie?|Co nakaza³o Oko?
+01:09:26:Mamy pracê do wykonania.
+01:10:11:Drzewa s¹ silne, mój panie.|Ich korzenie siêgaj¹ g³êboko.
+01:10:16:Wyrwaæ je wszystkie.
+01:10:45:Oto ruiny potê¿nej|wie¿y stra¿niczej, Amon Sul.
+01:10:50:Tu odpoczniemy tej nocy.
+01:11:04:Te s¹ dla was..|Trzymajcie je blisko.
+01:11:08:Ja idê trochê rozejrzeæ siê.
+01:11:13:Zostañcie tutaj.
+01:11:17:Mój pomidor siê przypali³.
+01:11:19:- Mogê prosiæ o bekon?| - Chcesz pomidora, Sam?
+01:11:24:- Co wy robicie?!|- Pomidory, kie³baski i pyszny bekon.
+01:11:28:- Zosta³o i dla pana, panie Frodo.|- Zgaœcie to, g³upcy!
+01:11:31:- Zgaœcie!|- No piêknie! Popió³ w pomidorach!
+01:11:43:Uciekajcie!
+01:12:38:Cofnijcie siê, diab³y!
+01:14:03:Frodo!
+01:14:09:Samie.
+01:14:47:Obie¿yœwiacie!
+01:14:51:- Pomó¿ mu, Obie¿yœwiacie!|- Zosta³ pchniêty mieczem Morgula.
+01:14:58:To przekracza moje mo¿liwoœci.|Potrzebuje opieki elfów.
+01:15:08:Pospieszcie siê!
+01:15:09:Jesteœmy 6 dni od Rivendell!|Nie da rady!
+01:15:13:Wytrzymaj, Frodo.
+01:15:15:Gandalf!
+01:16:15:ZnajdŸ or³a Gwaihira...|Poœpiesz siê!
+01:17:56:Patrz Frodo,|to trolle pana Bilba.
+01:18:01:Panie Frodo?|On ziêbnie!
+01:18:06:Czy on umrze?
+01:18:08:Przechodzi do Œwiata Cieni.|Wkrótce stanie siê upiorem, jak oni.
+01:18:18:- S¹ blisko.|- Samie, czy znasz roœlinê Athelas?
+01:18:23:- Athelas?|- Królewskie ziele.
+01:18:24:Królewskie Ziele, ten chwast?
+01:18:25:Mo¿e spowolniæ truciznê,|poœpiesz siê.
+01:18:43:A có¿ to?|Stra¿nik przy³apany na nieuwadze?
+01:19:12:Frodo...
+01:19:15:"Im Arwen. Telin le thaed"|Jestem Arwena, przychodzê, by ci pomóc.
+01:19:21:"Lasto beth nin"|S³uchaj mojego g³osu...
+01:19:23:"Tolo dan na ngalad"|wróæ w stronê Œwiat³a.
+01:19:30:Kim ona jest?
+01:19:32:Frodo.
+01:19:34:- Jest elfem.|- On usycha...
+01:19:40:Nie przetrwa.
+01:19:43:Musimy go zabraæ do mojego ojca.
+01:19:46:- Szukam was od dwóch dni.|- Dok¹d go zabierasz?
+01:19:49:Piêæ Upiorów jest tu¿ za wami.|Gdzie s¹ pozostali czterej, nie wiem.
+01:19:56:"Dartho guin berian. Rych le ad tolthathon"|Zostañ z hobbitami, poœlê po was.
+01:19:59:"Hon mabathon. Rochon ellint im"|Je¿d¿ê szybciej, ja go zabiorê.
+01:20:02:"Andelu i ven"|Droga jest zbyt niebezpieczna.
+01:20:04:Co oni mówi¹?
+01:20:05:"Frodo fir. Ae athradon i hir"|Frodo umiera. Jeœli sforsujê rzekê,
+01:20:07:"Tur gwaith nin beriatha hon"|moc mojego ludu go ochroni.
+01:20:10:Nie bojê siê ich.
+01:20:16:"Beyest lin".
+01:20:22:Arweno...
+01:20:23:JedŸ szybko,|nie ogl¹daj siê za siebie.
+01:20:27:"Noro lim, Asfaloth! Noro lim!"|PêdŸ szybko, Asfaloth!
+01:20:32:Co ty robisz?|Ci jeŸdŸcy wci¹¿ tam s¹!
+01:21:47:"Noro lim, Asfaloth!"|PêdŸ szybko, Asfaloth!
+01:22:31:Oddaj nam nizio³ka, kobieto-elfie!
+01:22:34:Jeœli go chcecie,|to go sobie weŸcie!
+01:22:49:"Nin o Chithaeglir. Lasto beth daer"|Wody z Gór Mglistych. S³uchajcie wielkiego s³owa:
+01:22:52:"Rimmo nin Bruinen. Dan in Ulaer"|P³yñcie wody Grzmi¹cej Rzeki. Naprzeciw Upiorom Pierœcienia!
+01:23:31:Nie, nie.
+01:23:36:Frodo, nie!
+01:23:39:Frodo, nie poddawaj siê!
+01:23:41:Nie teraz.
+01:23:54:"Niech ³aska, która zosta³a mi dana,"
+01:23:58:"spocznie na nim."
+01:24:00:"Niech bêdzie oszczêdzony."
+01:24:02:"Ocal go."
+01:24:07:"Pos³uchaj mojego g³osu:"
+01:24:10:"Powróæ ze snu do Œwiat³a!"
+01:24:17:- Gdzie ja jestem?|- Jesteœ w domu Elronda.
+01:24:22:Jest 10 rano, 24 paŸdziernika,|jeœli chcesz wiedzieæ.
+01:24:31:- Gandalf!|- Tak, jestem tutaj.
+01:24:36:Ty te¿ masz szczêœcie, ¿e tu jesteœ.
+01:24:40:Jeszcze kilka godzin|i nie mo¿na by³oby ci pomóc.
+01:24:44:Drzemi¹ w tobie niesamowite si³y,|mój drogi hobbicie.
+01:24:56:Co siê sta³o, Gandalfie?
+01:24:59:- Dlaczego nie spotka³eœ siê z nami?|- Przepraszam, Frodo...
+01:25:10:Mia³em opóŸnienie.
+01:25:12:Nie mo¿na bezkarnie|odrzucaæ przyjaŸni Sarumana...
+01:25:21:Jedno z³o zas³uguje na drugie...|To koniec.
+01:25:26:Uznaj w³adzê Pierœcienia|albo poddaj siê w³asnej pora¿ce!
+01:25:34:Jest tylko jeden W³adca Pierœcienia...
+01:25:38:tylko jeden, który mo¿e go|zwi¹zaæ ze sw¹ wol¹.
+01:25:43:A on nie dzieli siê moc¹.
+01:26:01:Wiêc wybra³eœ... œmieræ.
+01:26:14:Gandalfie?|Co siê sta³o?
+01:26:19:Nic, Frodo.
+01:26:22:Frodo!
+01:26:25:- Sam!|- Co za szczêœcie, ¿e siê pan obudzi³!
+01:26:27:Sam prawie nie opuszcza³|twego boku.
+01:26:30:Martwiliœmy siê o pana.|Prawda, panie Gandalfie?
+01:26:33:To zas³uga starego Elronda,|którego zaraz poznasz.
+01:26:40:Witaj w Rivendell,|Frodo Bagginsie.
+01:27:31:- Bilbo!|- Witaj, Frodo, mój m³odzieñcze.
+01:27:35:Bilbo.
+01:27:41:"Tam i z powrotem".
+01:27:43:"Opowieœæ o hobbitach,|spisana przez Bilbo Bagginsa".
+01:27:49:- To jest cudowne.|- Mia³em zamiar wróciæ,
+01:27:53:podziwiaæ cuda Mrocznej Puszczy,
+01:27:57:odwiedziæ Miasto nad Jeziorem.
+01:28:00:zobaczyæ Samotn¹ Górê raz jeszcze...
+01:28:04:Ale, zdaje siê, ¿e moje lata|wreszcie da³y mi znaæ o sobie.
+01:28:21:Têskniê za Shire.
+01:28:23:Spêdzi³em ca³e dzieciñstwo udaj¹c,|¿e jestem gdzieœ indziej...
+01:28:28:Razem z tob¹,|w jednej z twoich przygód.
+01:28:35:Ale moja w³asna przygoda zmierza|w zupe³nie innym kierunku.
+01:28:44:Nie jestem taki jak ty, Bilbo.
+01:28:48:Mój drogi ch³opcze...
+01:28:55:- O czym to ja zapomnia³em?|- Ju¿ spakowany?
+01:28:59:Nic w tym z³ego,|¿e chcia³em byæ przygotowany.
+01:29:01:- Przecie¿ chcia³eœ ujrzeæ elfy.|- To prawda...
+01:29:04:Bardziej ni¿ cokolwiek innego.|Chcia³em...
+01:29:07:Tylko, ¿e...
+01:29:10:Zrobiliœmy, co Gandalf nam poleci³, prawda?
+01:29:13:Przynieœliœmy Pierœcieñ|a¿ do Rivendell i pomyœla³em...
+01:29:17:kiedy zobaczy³em pana wyleczonego,|¿e wyjedziemy...
+01:29:20:do domu.
+01:29:26:Masz racjê, Samie.
+01:29:30:Zrobiliœmy to,|co nam powierzono.
+01:29:33:Pierœcieñ bêdzie bezpieczny w Rivendell.
+01:29:40:Ja jestem gotowy,|¿eby wróciæ do domu.
+01:29:43:Si³y do niego wracaj¹.
+01:29:46:Rana nigdy siê do koñca nie wyleczy.|Bêdzie nosi³ to brzemiê przez resztê ¿ycia.
+01:29:52:A mimo to, dotar³ tak daleko,|nios¹c Pierœcieñ...
+01:29:55:Ten hobbit okaza³ niesamowit¹|odpornoœæ na jego z³o.
+01:29:59:To ciê¿ar, którego nigdy|nie powinien by³ dŸwigaæ.
+01:30:02:- Nie mo¿emy prosiæ Froda o wiêcej.|- Gandalfie... nieprzyjaciel ruszy³.
+01:30:08:Si³y Saurona koncentruj¹ siê na Wschodzie.|Jego Oko jest zwrócone na Rivendell!
+01:30:13:A Saruman, jak powiedzia³eœ,|zdradzi³ nas.
+01:30:16:Zastêpy sprzymierzeñców|kurcz¹ siê.
+01:30:20:Jego zdrada jest g³êbsza|ni¿ ci siê wydaje.
+01:30:23:Ten plugawiec, Saruman, skrzy¿owa³ orków|z goblinami.
+01:30:27:Pomna¿a armiê|w lochach Isengardu.
+01:30:29:Armiê, która mo¿e siê poruszaæ za dnia
+01:30:32:i pokonywaæ wielkie odleg³oœci|z niezwyk³¹ prêdkoœci¹.
+01:30:34:Saruman nadchodzi po Pierœcieñ.
+01:30:37:To z³o, nie mo¿e byæ chronione|moc¹ elfów.
+01:30:41:Nie mamy tyle si³, by walczyæ|jednoczeœnie z Mordorem i Isengardem.
+01:30:49:Gandalfie...|Pierœcieñ nie mo¿e tu zostaæ.
+01:31:14:To niebezpieczeñstwo|spoczywa na ca³ym Œródziemiu.
+01:31:17:Oni musz¹ teraz zdecydowaæ,|jak to zakoñczyæ.
+01:31:21:Czas elfów siê koñczy.|Moi ludzie opuszczaj¹ Brzegi.
+01:31:25:Do kogo siê zwrócisz, kiedy odejdziemy?|Do krasnoludów?
+01:31:29:Ukrywaj¹ siê w górach, szukaj¹c bogactw.|Nie obchodz¹ ich problemy innych ludów.
+01:31:36:W ludziach musimy pok³adaæ|ca³¹ nasz¹ nadziejê.
+01:31:39:Ludziach?
+01:31:42:Ludzie s¹ s³abi.|Ich rasa upada.
+01:31:45:Krew Númenoru jest niczym innym|jak tylko wspomnieniem.
+01:31:48:Duma i godnoœæ zosta³y zapomniane.
+01:31:50:To przez ludzi Pierœcieñ przetrwa³.
+01:31:53:By³em tam, Gandalfie.
+01:31:56:By³em tam, 3000 lat temu...
+01:32:05:gdy Isildur zabra³ Pierœcieñ.
+01:32:08:By³em tam w dniu,|kiedy si³a ludzi zawiod³a.
+01:32:14:Isildurze, pospiesz siê.|ChodŸ za mn¹.
+01:32:19:Zaprowadzi³em Isildura|do serca Orodruiny,
+01:32:22:gdzie zosta³ wykuty Pierœcieñ.|Tylko tam móg³ byæ zniszczony.
+01:32:26:Wrzuæ go do ognia!
+01:32:34:- Zniszcz go!|- Nie...
+01:32:39:Isildurze!
+01:32:42:Powinienem by³ zakoñczyæ to tamtego dnia.|Ale pozwoli³em z³u przetrwaæ.
+01:32:51:Isildur zatrzyma³ Pierœcieñ.|Linia królów zosta³a przerwana.
+01:32:56:Nie ma ju¿ si³y w œwiecie ludzi.
+01:33:00:- Rozproszyli siê, s¹ bez przywódcy.|- Jest jeden, który mo¿e ich zjednoczyæ.
+01:33:05:Ktoœ, kto mo¿e|wst¹piæ na tron Gondoru.
+01:33:10:Zszed³ z tej œcie¿ki dawno temu.
+01:33:14:Wybra³ wygnanie.
+01:33:47:Nie jesteœ elfem.
+01:33:49:Ludzie z Po³udnia|s¹ tutaj mile widziani.
+01:33:52:- Kim jesteœ?|- Przyjacielem Gandalfa Szarego.
+01:33:57:Jesteœmy tu z tego samego powodu...
+01:34:00:przyjacielu.
+01:34:17:Szcz¹tki Narsila!
+01:34:23:Ostrze, które odciê³o Pierœcieñ|z rêki Saurona.
+01:34:30:Nadal ostre...
+01:34:42:Teraz jest niczym wiêcej,|jak strzaskan¹ relikwi¹...
+01:35:11:Dlaczego boisz siê przesz³oœci?
+01:35:15:Jesteœ spadkobierc¹ Isildura,|nie samym Isildurem.
+01:35:21:Nie jesteœ zwi¹zany jego kl¹tw¹.
+01:35:25:Ta sama krew p³ynie|w moich ¿y³ach.
+01:35:32:Ta sama s³aboœæ.
+01:35:37:Twój czas nadejdzie.
+01:35:40:Zmierzysz siê z tym samym z³em,|I pokonasz je...
+01:35:48:"A si i-dhúath ú-orthor, Aragorn"|Cieñ jeszcze Tob¹ nie rz¹dzi, Aragornie.
+01:35:51:"Ú or le a ú or nin"|Ani tob¹, ani mn¹.
+01:36:06:"Renech i lu i erui govannem?"|Pamiêtasz, kiedy siê po raz pierwszy spotkaliœmy?
+01:36:13:"Nauthannem i ned ol reniannen."|Myœla³em, ¿e b³¹dzê w snach.
+01:36:18:"Gwenwin in enninath..."|Wiele lat up³ynê³o.
+01:36:22:"U-arnech in naeth i si celich."|Nie mia³eœ tych zmartwieñ, które nosisz teraz.
+01:36:27:"Renech i beth i pennen?"|Pamiêtasz, co ci powiedzia³am?
+01:36:35:Powiedzia³aœ, ¿e zwi¹¿esz siê ze mn¹...
+01:36:40:wyrzekaj¹c siê nieœmiertelnoœci|danej twemu ludowi.
+01:36:46:I podtrzymujê tê obietnicê...
+01:36:48:Wola³abym raczej dzieliæ|jedno ¿ycie z tob¹,
+01:36:52:ni¿ samotnie stawiæ czo³a|wszystkim wiekom tego œwiata.
+01:37:04:Wybieram œmiertelne ¿ycie...
+01:37:09:- Nie mo¿esz mi tego daæ.|- Jestem pani¹ swojej woli...
+01:37:17:Tak jak i mojego serca.
+01:37:35:Przybysze z odleg³ych krain...|Starzy przyjaciele...
+01:37:39:Zostaliœcie tu wezwani,|by odpowiedzieæ na groŸbê Mordoru.
+01:37:43:Œródziemie stoi na krawêdzi zniszczenia.|Nikt nie mo¿e od tego uciec.
+01:37:49:Zjednoczycie siê|albo upadniecie.
+01:37:52:Ka¿d¹ z ras czeka ten sam los,|to samo przeznaczenie.
+01:37:58:Przynieœ Pierœcieñ, Frodo.
+01:38:16:Wiêc to prawda...
+01:38:35:Mia³em sen...
+01:38:39:Widzia³em, jak niebo|na Wschodzie ciemnieje...
+01:38:42:ale na Zachodzie|utrzymywa³o siê blade œwiat³o...
+01:38:45:Unosi³ siê g³os:
+01:38:47:"Twoja zguba jest w zasiêgu rêki."
+01:38:51:Kl¹twa Isildura zosta³a odnaleziona...
+01:38:58:Kl¹twa Isildura.
+01:39:00:Boromirze!
+01:39:02:/Ash nazg durbatuluk...
+01:39:06:/ash nazg gimbatul...
+01:39:10:/Ash nazg thrakatuluk|/agh burzum...
+01:39:16:/Ishi krimpatul.
+01:39:25:Nigdy wczeœniej nikt nie wypowiedzia³|s³ów w tym jêzyku w Imladris.
+01:39:29:Nie ¿¹daj ode mnie przeprosin,|mistrzu Elrondzie.
+01:39:32:Czarny jêzyk Mordoru|bêdzie mo¿na nied³ugo us³yszeæ
+01:39:36:z ka¿dego zak¹tka Zachodu!
+01:39:40:Pierœcieñ jest ucieleœnieniem Z³a!
+01:39:43:To dar.|Dar dla wrogów Mordoru.
+01:39:47:Dlaczego by nie u¿yæ|tego Pierœcienia?
+01:39:50:Przez wiele lat mój ojciec,|namiestnik Gondoru,
+01:39:53:utrzymywa³ z dala si³y Mordoru.|Krwi¹ naszych ludzi!
+01:39:57:Po to, by wasze kraje|by³y bezpieczne!
+01:40:01:Daj Gondorowi broñ naszego wroga.|U¿yjmy go przeciwko niemu!
+01:40:06:Nie mo¿esz nim w³adaæ!|Nikt z nas nie mo¿e.
+01:40:10:Jedyny Pierœcieñ pos³uszny jest|tylko Sauronowi.
+01:40:14:A co Stra¿nik|mo¿e o tym wiedzieæ?
+01:40:18:To nie jest zwyk³y Stra¿nik.|To Aragorn, syn Arathorna.
+01:40:25:Jesteœ mu winien pos³uszeñstwo.
+01:40:32:Aragorn.
+01:40:36:To jest spadkobierca Isildura?
+01:40:41:I spadkobierca tronu w Gondorze.
+01:40:46:"Havo dad, Legolas."|Usi¹dŸ, Legolasie.
+01:40:51:Gondor nie ma króla.|Nie potrzebuje go.
+01:41:04:Aragorn ma racjê.|Nie mo¿emy Go u¿yæ.
+01:41:09:Mamy tylko jeden wybór.
+01:41:12:Pierœcieñ musi byæ zniszczony.
+01:41:20:Wiêc na co czekamy?
+01:41:35:Pierœcieñ nie mo¿e byæ zniszczony,|Gimli, synu Gloina,
+01:41:38:przez ¿adn¹ broñ,|jak¹ tu posiadamy.
+01:41:43:Pierœcieñ zosta³ wykuty|w ogniach Góry Przeznaczenia...
+01:41:47:i tylko tam mo¿na go unicestwiæ.
+01:41:52:Musi byæ zaniesiony|w serce Mordoru...
+01:41:55:i wrzucony do ognistej czeluœci,|z której powsta³.
+01:42:02:Jeden z was...|musi tego dokonaæ.
+01:42:09:Nie mo¿na ot tak|wejœæ sobie do Mordoru.
+01:42:14:Czarne Wrota s¹ strze¿one|nie tylko przez samych orków.
+01:42:18:Mieszka tam z³o, które nie œpi.
+01:42:23:Wielkie Oko jest zawsze czujne.
+01:42:28:To ja³owe pustkowie,
+01:42:30:przesi¹kniête ogniem,|popio³em i py³em.
+01:42:34:Powietrze, którym siê oddycha,|to truj¹ce opary.
+01:42:38:Nawet z 10 000 ludzi nie móg³byœ tego zrobiæ.|To szaleñstwo.
+01:42:42:Nie s³ucha³eœ mistrza Elronda?|Pierœcieñ musi zostaæ zniszczony.
+01:42:47:I pewnie uwa¿asz, ¿e ty jesteœ tym,|który potrafi tego dokonaæ?!
+01:42:50:A jeœli zawiedziemy?|Co, jeœli Sauron odzyska sw¹ w³asnoœæ?
+01:42:55:Prêdzej umrê,|ni¿eli ujrzê Pierœcieñ w rêkach elfa!
+01:43:02:Nigdy nie ufaj elfowi!
+01:43:06:Nie rozumiecie?|Podczas tych k³ótni Sauron roœnie w si³ê!
+01:43:12:Nie ma ucieczki!|Wszyscy zostaniecie zniszczeni!
+01:43:17:/Ash nazg durbatuluuk,|/ash nazg gimbatul
+01:43:21:/Ash nazg durbatuluuk,|/ash nazg gimbatul
+01:43:26:/Ash nazg durbatuluuk,|/ash nazg gimbatul
+01:43:30:/Ash nazg thrakatuluk...
+01:43:33:Ja go wezmê!
+01:43:38:Ja go wezmê.
+01:43:46:Ja zaniosê Pierœcieñ do Mordoru.
+01:43:57:Chocia¿...
+01:44:01:nie znam drogi.
+01:44:05:Ja pomogê ci nieœæ to brzemiê,|Frodo Bagginsie.
+01:44:10:Tak d³ugo, jak zamierzasz je nieœæ.
+01:44:14:Na moje ¿ycie lub œmieræ,|jeœli mogê ciê ochraniaæ.
+01:44:18:I bêdê...
+01:44:23:Mo¿esz liczyæ na mój miecz.
+01:44:27:I mój ³uk!
+01:44:29:I mój topór!
+01:44:39:Niesiesz w swych rêkach|los nas wszystkich, mój ma³y.
+01:44:44:Jeœli taka jest w istocie|wola Wielkiej Rady...
+01:44:48:Gondor te¿ siê do³¹czy.
+01:44:53:- Pan Frodo nigdzie nie idzie beze mnie.|- To niemal niemo¿liwe, by was rozdzieliæ.
+01:44:58:Nawet za spraw¹ tajnej narady,|na któr¹ nie zosta³eœ zaproszony.
+01:45:04:My te¿ idziemy!
+01:45:07:Musielibyœcie odes³aæ nas|zwi¹zanych w workach!
+01:45:10:Tak czy inaczej,|potrzebujecie inteligentnych ludzi...
+01:45:14:do swojej misji...
+01:45:16:zadania...
+01:45:18:wyprawy.
+01:45:20:W takim razie|to ciebie wyklucza, Pip.
+01:45:25:Dziewiêciu towarzyszy.
+01:45:28:Niech tak bêdzie.
+01:45:31:Bêdziecie Dru¿yn¹ Pierœcienia.
+01:45:34:Œwietnie!
+01:45:36:A dok¹d idziemy?
+01:46:14:"Anirne hene beriad i chen în"|Ona chcia³a chroniæ swoje dziecko...
+01:46:18:"Ned Imladris nauthant e le beriathar aen"|Myœla³a, ¿e w Rivendell bêdziesz bezpieczny...
+01:46:25:Ale w sercu twoja matka czu³a,|¿e bêdziesz przeœladowany ca³e ¿ycie.
+01:46:29:¯e nie uciekniesz|przed przeznaczeniem.
+01:46:31:Rzemios³o elfów pozwoli|przekuæ Miecz Królów...
+01:46:35:ale tylko ty masz si³ê,|by go dŸwigaæ!
+01:46:40:Nie chcê tej w³adzy...
+01:46:43:Nigdy jej nie chcia³em.
+01:46:47:Jesteœ ostatnim z rodu,|nie ma nikogo innego.
+01:46:54:Mój stary miecz - ¯¹d³o.
+01:46:56:Masz, weŸ go.
+01:47:03:- Jest taki lekki.|- Tak... dzie³o elfickich kowali, wiedzia³eœ?
+01:47:08:Ostrze rozjarza siê b³êkitem,|kiedy orkowie s¹ w pobli¿u.
+01:47:12:A na czasy takie jak te, mój drogi,|kiedy musisz byæ wyj¹tkowo ostro¿ny...
+01:47:17:Mam tu coœ jeszcze.
+01:47:20:Mithril.
+01:47:22:Lekka jak piórko,|a tak twarda jak smocza ³uska.
+01:47:26:Poka¿, jak bêdzie na tobie wygl¹daæ.|No dalej.
+01:47:38:Mój stary pierœcieñ...
+01:47:41:powinienem... chcia³bym bardzo...
+01:47:45:potrzymaæ go jeszcze jeden raz,|ostatni raz.
+01:48:06:Przepraszam, ¿e œci¹gn¹³em to na ciebie,|mój ch³opcze.
+01:48:10:Wybacz, ¿e na ciebie|spad³o to brzemiê.
+01:48:19:Przepraszam za wszystko.
+01:48:37:Powiernik Pierœcienia wyrusza|na wyprawê do Góry Przeznaczenia.
+01:48:43:Na was, którzy z nim wyruszacie,|nie ci¹¿y ¿adna przysiêga
+01:48:45:ani ¿adne zobowi¹zanie, by iœæ dalej,|ni¿eli bêdziecie pragn¹æ.
+01:48:52:¯egnajcie...|Trzymajcie siê waszego celu...
+01:48:55:I niech b³ogos³awieñstwo|elfów, ludzi...
+01:48:59:i wszystkich Wolnych Ludów|bêdzie z wami.
+01:49:05:Dru¿yna czeka|na Powiernika Pierœcienia.
+01:49:28:Gandalfie... Mordor...|To w lewo czy w prawo?
+01:49:31:W lewo.
+01:50:52:/Musimy trzymaæ siê zachodniego skraju|/Gór Mglistych przez 40 dni.
+01:50:57:/Jeœli szczêœcie nas nie opuœci,|/Wrota Rohanu nadal bêd¹ dla nas otwarte.
+01:51:01:/Stamt¹d nasza droga|/skrêci na wschód, do Mordoru.
+01:51:05:Dwa, jeden, piêæ!|Dobrze! Bardzo dobrze!
+01:51:10:Poruszaj stopami.
+01:51:11:- NieŸle, Pippin!|- Dziêki!
+01:51:13:Szybciej.
+01:51:16:Gdyby ktoœ zechcia³ spytaæ mnie o zdanie,|czego do tej pory nie zauwa¿y³em...
+01:51:20:powiedzia³bym, ¿e obraliœmy|d³u¿sz¹, okrê¿n¹ drogê.
+01:51:23:Gandalfie,|moglibyœmy przejœæ przez kopalnie Morii.
+01:51:27:Mój kuzyn Balin|zgotowa³by nam królewskie powitanie.
+01:51:31:Nie, Gimli... Nie wybiorê Morii,|chyba ¿e zabraknie wyboru.
+01:51:45:Przepraszam!
+01:51:47:Bierz go!
+01:51:50:- Za Shire!|- Trzymaj go przy ziemi, Merry!
+01:51:53:Wystarczy, panowie!
+01:51:59:Masz moje ramiê!|Masz moje ramiê!
+01:52:01:- Co to jest?|- Nic, strzêp ob³oku.
+01:52:04:Porusza siê szybko...
+01:52:07:I to pod wiatr...
+01:52:10:- Krebainy z Dunlandu!|- Kryæ siê!
+01:52:12:Szybko!|Kryæ siê!
+01:52:49:Szpiedzy Sarumana.
+01:52:51:Przejœcie na po³udniu te¿ jest|pod obserwacj¹.
+01:52:55:Musimy obraæ trasê|przez prze³êcz Karadhras.
+01:53:11:Frodo!
+01:53:32:Boromirze...
+01:53:35:Czy¿ to nie dziwne, ¿e musimy|cierpieæ tyle obaw i w¹tpliwoœci
+01:53:39:z powodu tak ma³ej rzeczy...
+01:53:45:Tak drobnej...
+01:53:48:Boromirze!
+01:53:50:Oddaj Pierœcieñ Frodowi.
+01:54:02:Jak sobie ¿yczysz...
+01:54:05:Nie zale¿y mi na nim.
+01:54:42:Wiêc Gandalfie... próbujesz ich|poprowadziæ przez Karadhras?
+01:54:47:A jeœli to zawiedzie?|Którêdy pójdziesz?
+01:54:53:/Jeœli Góra ciê pokona...
+01:54:56:/czy zaryzykujesz bardziej|/niebezpieczn¹ drogê?
+01:55:13:S³yszê jakiœ okropny g³os w powietrzu.
+01:55:17:To Saruman!
+01:55:28:Sprowadza na nas gniew Góry!|Gandalfie! Musimy zawróciæ!
+01:55:32:Nie!
+01:55:37:"Losto Caradhras..."|Œpij Caradhras...
+01:55:39:"Sedho, hodo, nuitho i 'ruith!"|Uspokój siê, powstrzymaj swój gniew!
+01:55:47:"Cuiva nwalca Carnirassë!"|ObudŸ siê, okrutna Góro Karadhras!
+01:55:49:"Nai yarvaxëa rasselya! Talto notto-carinnar!"|Niech twój róg bêdzie splamiony krwi¹!
+01:56:41:Musimy zejœæ z góry!
+01:56:43:Skierowaæ siê na Wrota Rohanu...|i obraæ drogê na zachód, do mojego miasta!
+01:56:48:Wrota Rohanu znajduj¹ siê|zbyt blisko Isengardu!
+01:56:51:Skoro nie mo¿emy przejœæ ponad gór¹,|przejdŸmy pod ni¹...
+01:56:55:PrzejdŸmy przez kopalnie Morii.
+01:57:00:/Moria...|/Obawiasz siê wejœcia do tych kopalñ...
+01:57:04:Krasnoludy dr¹¿y³y korytarze zbyt chciwie|i zbyt g³êboko.
+01:57:10:/Wiesz dobrze, co zbudzi³y|/w ciemnoœciach Khazad-dum...
+01:57:16:Cieñ i P³omieñ.
+01:57:23:Niech Powiernik Pierœcienia zadecyduje.
+01:57:31:Nie mo¿emy tu zostaæ!
+01:57:33:Hobbici nie prze¿yj¹!
+01:57:36:Frodo?
+01:57:41:Pójdziemy przez kopalnie!
+01:57:44:Niechaj tak bêdzie.
+01:57:53:Frodo, chodŸ tu i pomó¿ starcowi...
+01:58:00:Jak tam twoje ramiê?
+01:58:03:- Lepiej ni¿ przedtem.|- A Pierœcieñ?
+01:58:07:Czujesz, jak jego moc roœnie, prawda?
+01:58:10:Ja te¿ to poczu³em.|Musisz byæ teraz ostro¿ny.
+01:58:14:Z³o spróbuje dostaæ siê|do ciebie spoza dru¿yny...
+01:58:18:Obawiam siê,|¿e z samej dru¿yny równie¿...
+01:58:23:- Komu wiêc mam ufaæ?|- Samemu sobie.
+01:58:27:Zaufaj swoim w³asnym si³om.
+01:58:30:- Co masz na myœli?|- Jest wiele mocy na tym œwiecie...
+01:58:33:dobrych i z³ych.
+01:58:35:Niektóre s¹ potê¿niejsze ode mnie...
+01:58:38:a z niektórymi|jeszcze siê nie mierzy³em...
+01:58:43:Œciany Morii.
+01:58:53:Wrota krasnoludów s¹ niewidzialne,|kiedy s¹ zamkniête.
+01:58:56:Tak, Gimli, nawet ich w³adcy|nie bêd¹ mogli ich znaleŸæ,
+01:58:59:jeœli ich tajemnice zosta³y zapomniane.
+01:59:01:Dlaczego mnie to nie dziwi?
+01:59:12:Zobaczmy...
+01:59:15:Ithildin...
+01:59:17:w którym odbija siê jedynie|œwiat³o gwiazd i ksiê¿yca.
+01:59:35:Napis g³osi: "Drzwi Durina,|W³adcy Morii".
+01:59:39:- "Powiedz przyjacielu i... wejdŸ".|- Co to mo¿e oznaczaæ?
+01:59:44:To proste. Jeœli jesteœ przyjacielem,|musisz wypowiedzieæ has³o i drzwi siê otworz¹.
+01:59:49:Annon edhellen...
+01:59:52:edro hi ammen!
+02:00:02:Fennas nogothrim...
+02:00:05:lasto beth lammen!
+02:00:13:Nic siê nie dzieje.
+02:00:21:Zna³em kiedyœ ka¿de zaklêcie|we wszystkich jêzykach elfów,
+02:00:25:Ludzi i orków.
+02:00:28:Wiêc co teraz zrobisz?
+02:00:30:Zapukam do tych drzwi twoj¹ g³ow¹,|Peregrinie Tuku!
+02:00:32:I jeœli to ich nie roztrzaska
+02:00:34:i nie bêdziesz mi przeszkadza³|g³upimi pytaniami,
+02:00:37:spróbujê znaleŸæ w³aœciwe s³owa.
+02:00:41:"Ando Eldarinwa a lasta quettanya".|Wrota elfów, s³uchajcie mego s³owa...
+02:00:51:"Fenda Casarinwa!"|Progu krasnoludów!
+02:00:54:Kopalnie to nie miejsca dla kucyka.
+02:00:57:- Nawet dla takiego dzielnego jak Bill.|- ¯egnaj, Bill.
+02:01:02:Biegnij, Bill, no dalej.
+02:01:05:Nie martw siê, Samie.|Zna drogê do domu.
+02:01:15:Nie m¹æ wody!
+02:01:18:Nie, to jest bezu¿yteczne.
+02:01:33:To zagadka.
+02:01:38:Powiedz "przyjacielu" i wejdŸ.
+02:01:41:Jak brzmi s³owo "przyjaciel"|w jêzyku elfów?
+02:01:45:"Mellon".
+02:02:05:Wkrótce, panie elfie, zakosztujesz|s³ynnej, krasnoludzkiej goœcinnoœci.
+02:02:10:Buzuj¹ce ogniska,|s³odowe piwo, czerwone miêso!
+02:02:17:To mój przyjacielu,|jest dom mego kuzyna Balina.
+02:02:21:A oni zowi¹ go kopalni¹...
+02:02:24:Kopalni¹!
+02:02:27:To nie jest ¿adna kopalnia,|to grobowiec.
+02:02:36:Nie...
+02:02:39:Nie!
+02:02:43:Gobliny!
+02:02:49:Powinniœmy byli pójœæ przez Wrota Rohanu.|Nie powinniœmy tu przychodziæ.
+02:02:54:A teraz wynoœmy siê st¹d.|Wynoœmy!
+02:02:59:Frodo!|Pomocy!
+02:03:02:Obie¿yœwiacie!
+02:03:04:- Pomocy!|- Zostaw go!
+02:03:07:Aragornie!
+02:03:18:Frodo!
+02:03:45:Do kopalni!
+02:03:47:- Legolasie!|- Do jaskini!
+02:03:54:Biegnijcie!
+02:04:13:Pozosta³a nam tylko jedna droga.
+02:04:17:Musimy stawiæ czo³a|otch³aniom Morii.
+02:04:22:Miejcie siê na bacznoœci.
+02:04:24:S¹ stwory starsze|i bardziej odra¿aj¹ce od orków,
+02:04:28:ukryte w g³êbiach Œwiata.
+02:04:39:Uciszmy siê.|Mamy 4 dni drogi do drugiego wyjœcia.
+02:04:43:Oby nasza obecnoœæ|pozosta³a niezauwa¿ona.
+02:05:33:Bogactwo Morii|nie kryje siê w z³ocie...
+02:05:37:czy klejnotach...
+02:05:39:ale mithrilu.
+02:06:01:Bilbo mia³ kolczugê z mithrilu,|któr¹ podarowa³ mu Thorin.
+02:06:06:- To by³ zaiste królewski dar.|- Tak.
+02:06:10:Nigdy mu nie powiedzia³em,|¿e warta by³a wiêcej ni¿ ca³e Shire.
+02:06:29:Pippin.
+02:06:52:Nie przypominam sobie tego miejsca.
+02:06:57:- Zab³¹dziliœmy?|- Nie.
+02:06:58:- Myœlê, ¿e tak.|- Gandalf myœli.
+02:07:01:- Merry!|- Co?
+02:07:03:Jestem g³odny.
+02:07:16:- Tam coœ jest na dole.|- To Gollum.
+02:07:21:- Gollum?|- Idzie za nami od trzech dni.
+02:07:25:- Uciek³ z lochów Barad-dur?|- Uciek³...
+02:07:30:albo zosta³ wypuszczony.
+02:07:32:A teraz Pierœcieñ|przyprowadzi³ go tutaj.
+02:07:38:Nigdy nie wyzbêdzie siê|potrzeby jego posiadania.
+02:07:41:Mienawidzi i zarazem kocha Pierœcieñ,|tak jak nienawidzi i kocha siebie.
+02:07:47:¯ycie Sméagola to smutna opowieœæ.
+02:07:52:Tak, kiedyœ nazywano go Sméagolem...|zanim znalaz³ go Pierœcieñ.
+02:07:59:Zanim doprowadzi³ go|do szaleñstwa.
+02:08:02:Szkoda, ¿e Bilbo go nie zabi³,|kiedy mia³ szansê.
+02:08:05:Szkoda?
+02:08:07:To w³aœnie litoœæ powstrzyma³a jego rêkê.
+02:08:11:Wielu ¿yj¹cych zas³uguje na œmieræ.|Niektórzy, którzy umieraj¹, zas³uguj¹ na ¿ycie.
+02:08:18:Czy mo¿esz im je zwróciæ, Frodo?
+02:08:23:Nie b¹dŸ zbyt pochopny|w ferowaniu wyroków œmierci.
+02:08:27:Nawet mêdrzec|nie widzi wszystkiego, co bêdzie na koñcu.
+02:08:30:Moje serce mówi mi, ¿e Gollum|odegra jeszcze jak¹œ rolê, dobr¹ lub z³¹...
+02:08:37:zanim to wszystko siê dope³ni.
+02:08:42:Litoœæ Bilba|mo¿e zadecydowaæ o losie wielu.
+02:08:52:Chcia³bym, ¿eby Pierœcieñ|nigdy do mnie nie trafi³...
+02:08:57:¯eby to wszystko|nie mia³o miejsca.
+02:08:59:Jak ka¿dy, komu przysz³o ¿yæ w tych czasach.|Ale nie im przysz³o o tym decydowaæ.
+02:09:05:My musimy zadecydowaæ o tym,|co zrobiæ z czasem, który zosta³ nam dany.
+02:09:12:Dzia³aj¹ na tym œwiecie|i inne si³y oprócz woli z³a, Frodo.
+02:09:16:Przeznaczeniem Bilba|by³o znaleŸæ Pierœcieñ...
+02:09:19:Co oznacza, ¿e ty tak¿e jesteœ|przeznaczony, do tego by go mieæ...
+02:09:24:i to jest zachêcaj¹ca myœl.
+02:09:32:To ta droga.
+02:09:34:- Przypomnia³ sobie.|- Nie...
+02:09:36:tylko powietrze tutaj tak nie cuchnie.
+02:09:40:Jeœli masz w¹tpliwoœci, Meriadoku,|zawsze kieruj siê swoim nosem.
+02:10:00:Zaryzykujmy trochê wiêcej œwiat³a...
+02:10:09:Spójrzcie!
+02:10:12:Oto wielkie królestwo,|krasnoludzkie miasto Dwarrowdelf.
+02:10:19:Bez w¹tpienia|robi olbrzymie wra¿enie.
+02:10:48:Gimli!
+02:10:57:Nie!
+02:11:01:Nie.
+02:11:06:Nie.
+02:11:15:"Tu le¿y Balin...
+02:11:17:syn Fundina...
+02:11:19:W³adca Morii."
+02:11:23:Wiêc umar³.
+02:11:27:Tego siê obawia³em.
+02:11:46:Musimy ruszaæ,|nie mo¿emy zwlekaæ.
+02:11:50:"Zajêli most...|i drug¹ salê..."
+02:11:55:"Zaryglowaliœmy wrota..."
+02:11:59:"ale nie zdo³amy d³ugo siê opieraæ..."
+02:12:01:"Ziemia dr¿y..."
+02:12:05:"Bêbny...
+02:12:07:bêbny w g³êbinach..."
+02:12:13:"Nie mo¿emy siê wydostaæ..."
+02:12:18:"Cieñ porusza siê w ciemnoœciach..."
+02:12:23:"Nie mo¿emy siê wydostaæ..."
+02:12:29:"Nadchodz¹..."
+02:13:14:G³upi Tuku!
+02:13:16:Nastêpnym razem rzuæ siê sam|i oszczêdŸ nam swojej g³upoty.
+02:13:46:Frodo!
+02:13:50:Orkowie!
+02:13:58:Cofnijcie siê!|Trzymajcie siê blisko Gandalfa!
+02:14:07:Jest z nimi troll jaskiniowy.
+02:14:25:Niech wejd¹!
+02:14:27:Zosta³ jeszcze jeden krasnolud w Morii,|w którym wci¹¿ kipi krew.
+02:16:49:Chyba zaczynam siê wprawiaæ.
+02:16:56:Frodo!
+02:17:32:Aragornie, Aragornie!
+02:17:35:Frodo!
+02:18:22:Frodo!
+02:19:24:Nie...
+02:19:33:¯yje.
+02:19:38:Wszystko w porz¹dku.|Nie jestem ranny.
+02:19:41:Powinieneœ byæ martwy...
+02:19:43:To by³o potê¿ne pchniêcie!
+02:19:46:Myœlê, ¿e w tym hobbicie jest coœ wiêcej,|ni¿ na pozór siê wydaje.
+02:19:57:Mithril.
+02:20:01:Jesteœ pe³en niespodzianek, panie Baggins.
+02:20:09:Do mostu Khazad-dum!
+02:20:26:Têdy!
+02:21:38:Co to za nowe diabelstwo?
+02:21:57:Balrog.
+02:22:00:Demon pradawnego  œwiata.
+02:22:06:Z tym przeciwnikiem ¿aden z was nie|mo¿e siê mierzyæ.
+02:22:09:Biegnijcie!
+02:22:18:Szybko!
+02:22:36:Gandalfie...
+02:22:38:ProwadŸ ich dalej, Aragornie.
+02:22:41:Most jest blisko.
+02:22:46:Rób, co mówiê!|Miecze na nic siê tu nie zdadz¹.
+02:23:19:Gandalfie!
+02:23:39:Merry! Pippin!
+02:23:51:Samie!
+02:23:56:Nikt nie bêdzie rzucaæ krasnoludem.
+02:24:02:Nie za brodê!
+02:24:17:Spokojnie.
+02:24:21:Trzymaj siê!
+02:24:43:Trzymaj siê!
+02:24:55:Pochyl siê do przodu!
+02:25:00:Spokojnie.
+02:25:02:No dalej!
+02:25:04:Teraz!
+02:25:22:Na most!
+02:25:24:Pêdem!
+02:26:11:Nie przejdziesz!
+02:26:13:Gandalfie!
+02:26:19:Jam jest s³ug¹ Tajemnego Ognia,|w³adam P³omieniem Anoru.
+02:26:25:Ciemny ogieñ na nic ci siê nie zda,|P³omieniu z Udunu!
+02:26:38:Wracaj do Cienia.
+02:26:48:Nie przejdziesz!
+02:27:20:- Nie, nie!|- Gandalfie!
+02:27:31:Uciekajcie g³upcy!
+02:27:38:Nie!
+02:27:46:Aragornie!
+02:28:46:Legolasie, zbierz ich!
+02:28:53:Daj im chwilê, na mi³oœæ Bosk¹!
+02:28:55:Do nocy, na tych wzgórzach|roiæ siê bêdzie od orków!
+02:28:58:Musimy dotrzeæ do lasów Lothlórien.
+02:29:03:ChodŸ, Boromirze.|Legolasie, Gimli, zbierzcie ich!
+02:29:08:Stawaj na nogi, Samie.
+02:29:10:Frodo?
+02:29:14:Frodo!
+02:30:08:Trzymajcie siê blisko, hobbici.
+02:30:11:Powiadaj¹, ¿e potê¿na czarownica|mieszka w tych lasach.
+02:30:15:Elficka wiedŸma...|o wielkiej mocy.
+02:30:22:Wszyscy, którzy na ni¹ spojrz¹...
+02:30:24:poddaj¹ siê jej urokowi...
+02:30:26:/Frodo...
+02:30:30:i przepadaj¹ bez wieœci na wieki.
+02:30:32:/Twoje przyjœcie do nas,|/jest podyktowane przeznaczeniem...
+02:30:37:/Przynosisz tu wielkie z³o...|/Powierniku Pierœcienia...
+02:30:41:Panie Frodo...
+02:30:48:Jest tu jednak jeden krasnolud,|którego tak ³atwo nie usidli...
+02:30:54:Mam oczy soko³a i uszy lisa.
+02:31:06:Krasnolud oddycha tak g³oœno,|¿e mo¿na trafiæ go w ciemnoœci.
+02:31:15:"Mae govannen, Legolas Thranduilion"|Witaj Legolasie, synu Thranduila.
+02:31:19:"Govannas vîn gwennen le, Haldir o Lórien"|Nasza dru¿yna jest ci zobowi¹zana, Haldirze z Lórien.
+02:31:24:"A Aragorn in Dúnedain..."|Aragornie z Dunedainów,
+02:31:26:"istannen le ammen"|twe imiê jest nam znane.
+02:31:28:"Hennaid"|Dziêkujê.
+02:31:29:To jest w³aœnie|legendarna uprzejmoœæ elfów!
+02:31:31:Mówcie w jêzyku,|który wszyscy zrozumiej¹!
+02:31:33:Nie zadajemy siê z krasnoludami|od czasów Mrocznych Dni.
+02:31:38:A wiesz, co ten krasnolud|ci na to odpowie?
+02:31:41:"Ishkhaqwi ai durugnul!"|Plujê na twój grób!
+02:31:47:To nie by³o zbyt uprzejme.
+02:31:56:Przyprowadzasz ze sob¹ wielkie z³o.
+02:32:02:Nie mo¿ecie iœæ dalej.
+02:32:10:"Boe ammen veriad lîn. Andelu i ven."
+02:32:35:"Merin le telim."
+02:32:38:"Henio, aníron boe ammen i dulu lîn."
+02:32:40:"Andelu i ven."
+02:32:41:Œmieræ Gandalfa nie by³a bezcelowa.
+02:32:45:Nie mo¿esz traciæ nadziei.
+02:32:48:Niesiesz wielki ciê¿ar, Frodo.
+02:32:53:Nie próbuj dŸwigaæ go a¿ do œmierci.
+02:32:59:Pójdziecie za mn¹.
+02:33:12:Caras Galadhon.
+02:33:15:Tu jest serce królestwa elfów na ziemi.
+02:33:18:Królestwo|Pana Celeborna i Galadrieli, Pani Œwiat³a.
+02:34:43:Wróg wie, ¿e tu dotarliœcie...
+02:34:47:Nadzieja, ¿e zostanie to|tajemnic¹, upad³a.
+02:34:54:Jest was oœmiu,|chocia¿ dziewiêciu wyruszy³o z Rivendell.
+02:34:58:Powiedzcie mi, gdzie jest Gandalf?|Bardzo pragnê z nim pomówiæ.
+02:35:03:Lecz nie mogê dostrzec go w tej dali.
+02:35:07:Gandalf Szary|nie przekroczy³ granic tej ziemi.
+02:35:13:Wpad³ w otch³añ Cienia.
+02:35:20:Zosta³ zaatakowany przez Cieñ i P³omieñ...
+02:35:26:Balroga, s³ugê Morgotha.
+02:35:31:Bez potrzeby wszed³ w pu³apkê Morii.
+02:35:36:Nic, co robi³ Gandalf za ¿ycia,|nie by³o niepotrzebne.
+02:35:40:Nie znamy jeszcze|jego ca³ego zamys³u.
+02:35:48:Nie pozwól, ¿eby wielka pustka|Khazad-dum wype³ni³a twoje serce,
+02:35:52:Gimli, synu Gloina.
+02:35:56:Œwiat jest teraz pe³en niebezpieczeñstw...
+02:36:01:i na wszystkich ziemiach...
+02:36:04:mi³oœæ miesza siê z ¿alem.
+02:36:20:Co teraz stanie siê dru¿yn¹?
+02:36:23:Bez Gandalfa nie ma nadziei...
+02:36:29:Powodzenie wyprawy|zawis³o na ostrzu no¿a.
+02:36:32:Jeœli zboczycie choæ o w³os,|wszystko przepadnie...
+02:36:36:grzebi¹c nas pod gruzami.
+02:36:43:Jednak jest wci¹¿ nadzieja...|dopóki dru¿yna jest wierna sprawie.
+02:36:51:Nie dopuszczajcie lêku do serc.|IdŸcie teraz i odpocznijcie...
+02:36:56:bo jesteœcie wyczerpani ¿alem i znojem.
+02:37:02:Dzisiejsz¹ noc przeœpicie spokojnie...
+02:37:04:/Witaj, Frodo z Shire...
+02:37:09:/Ty, który widzia³eœ Oko!
+02:37:26:Pieœñ ¿a³obna za Gandalfa...
+02:37:35:Co o nim œpiewaj¹?
+02:37:37:Nie mam serca,|¿eby wam powiedzieæ.
+02:37:43:Dla mnie ta rana|jest jeszcze zbyt œwie¿a.
+02:37:48:Nic nie wspomnieli|o jego fajerwerkach...
+02:37:51:Powinien byæ o nich|choæ jeden wers.
+02:37:58:"Najwspanialsze rakiety,|jakie kiedykolwiek widzia³em..."
+02:38:01:"Niczym wybuchaj¹ce gwiazdy|ubrane w zielenie i b³êkity..."
+02:38:04:"Albo po grzmotach|prysznic srebrny te¿..."
+02:38:10:"Spada niczym kwiatów deszcz..."
+02:38:13:To nie oddaje tego najlepiej.
+02:38:28:Odpocznijcie trochê.
+02:38:31:Te granice s¹ dobrze strze¿one.
+02:38:34:Ja nie znajdê tu odpoczynku.
+02:38:39:Us³ysza³em jej g³os w mojej g³owie...
+02:38:42:Mówi³a o moim ojcu|i upadku Gondoru...
+02:38:46:Powiedzia³a mi:|"Nawet teraz jest jeszcze nadzieja".
+02:38:53:Ale ja jej nie widzê.
+02:38:57:Tak du¿o czasu minê³o,|odk¹d nie mamy ju¿ nadziei...
+02:39:10:Mój ojciec|to szlachetny cz³owiek,
+02:39:13:lecz jego rz¹dy upadaj¹...
+02:39:18:i nasi ludzie trac¹ wiarê...
+02:39:22:Oczekuje, ¿e przywrócê œwietnoœæ Gondoru...|A ja... ja chcia³bym, to zrobiæ.
+02:39:26:Chcia³bym znów zobaczyæ|Gondor w chwale...
+02:39:32:Czy mia³eœ okazjê to zobaczyæ, Aragornie?
+02:39:36:Bia³¹ Wie¿ê Ectheliona,
+02:39:38:migocz¹ca w s³oñcu|jak w³ócznia z pere³ i srebra...
+02:39:43:Jej sztandary uniesione wysoko|przez porann¹ bryzê...
+02:39:49:Czy kiedykolwiek|by³eœ wzywany do domu...
+02:39:51:poprzez czysty dŸwiêk|srebrnych tr¹bek?
+02:39:56:Widzia³em Bia³e Miasto,|dawno temu.
+02:40:02:Pewnego dnia|nasza œcie¿ka nas tam doprowadzi.
+02:40:08:I stra¿nik na wie¿y obwieœci:
+02:40:11:"Panowie Gondoru wrócili"...
+02:41:22:Czy spojrzysz w Zwierciad³o?
+02:41:24:Co w nim zobaczê?
+02:41:29:Nawet mêdrzec|nie potrafi powiedzieæ...
+02:41:32:bo zwierciad³o...|pokazuje wiele rzeczy.
+02:41:40:Rzeczy, które by³y...
+02:41:42:Rzeczy, które s¹...
+02:41:46:I niektóre rzeczy...
+02:41:51:które jeszcze|nie sta³y siê przesz³oœci¹...
+02:43:17:Wiem, czym jest, to co zobaczy³eœ...
+02:43:22:Poniewa¿ ten sam widok|pojawi³ siê równie¿ w moich myœlach.
+02:43:27:/To widok tego, co by siê sta³o...,|/jeœli byœ zawiód³.
+02:43:33:/Dru¿yna siê rozpada...|/To ju¿ siê rozpoczê³o...
+02:43:39:/On bêdzie chcia³ przej¹æ Pierœcieñ...
+02:43:42:/Wiesz, o kim mówiê...
+02:43:45:/Jednego po drugim...|/zniszczy ich wszystkich.
+02:43:51:/Jeœli mnie o to prosisz...
+02:43:54:/dam ci Jedyny Pierœcieñ.
+02:43:58:Chcesz dobrowolnie|oddaæ mi Pierœcieñ?
+02:44:05:Nie zaprzeczam, ¿e moje serce|wielce tego po¿¹da...
+02:44:15:Na miejscu W³adcy Ciemnoœci|mia³byœ Królow¹...
+02:44:19:Nie mroczn¹,|ale piêkn¹ i straszn¹ jak Sauron!
+02:44:23:Zdradliw¹ jak morze!
+02:44:27:Potê¿niejsz¹ ni¿eli fundamenty Ziemi!
+02:44:32:Wszyscy kochaliby mnie|i rozpaczali!
+02:44:52:Przesz³am próbê.|Wyrzeknê siê wielkoœci...
+02:44:56:Odejdê na Zachód.
+02:44:59:- Pozostanê Galadriel¹.|- Nie potrafiê tego zrobiæ sam.
+02:45:07:Ty jesteœ Powiernikiem Pierœcienia, Frodo...|Nosiæ Pierœcieñ W³adzy,
+02:45:12:oznacza samotnoœæ.
+02:45:17:To jest Nenya,|Pierœcieñ z Adamentem.
+02:45:20:A ja jestem jego powierniczk¹.
+02:45:25:To zadanie by³o tobie przeznaczone...
+02:45:30:I jeœli ty nie znajdziesz drogi,|nikt jej nie odnajdzie.
+02:45:36:Wiem, co muszê zrobiæ...
+02:45:40:Tylko, ¿e...
+02:45:44:bojê siê to uczyniæ.
+02:45:50:Nawet najmniejsza osoba mo¿e odmieniæ|bieg przysz³oœci.
+02:46:01:Czy wiesz, jak narodzili siê|pierwsi orkowie?
+02:46:07:Kiedyœ byli elfami.
+02:46:12:Uprowadzeni przez Moce Ciemnoœci...
+02:46:15:Torturowani i okaleczani...
+02:46:19:Upodlona, potworna forma ¿ycia.
+02:46:24:A teraz...
+02:46:27:udoskonalona.
+02:46:30:Moi waleczni Uruk-hai...
+02:46:35:Komu bêdziesz s³u¿y³?
+02:46:38:Sarumanowi!
+02:47:01:Œcigaæ ich! Nie zatrzymujcie siê,|dopóki nie zostan¹ odnalezieni!
+02:47:05:Nie wiecie czym jest ból,|nie znacie strachu.
+02:47:08:Poznacie smak ludzkiego miêsa!
+02:47:16:Jeden z nizio³ków|niesie coœ o wielkiej wartoœci...
+02:47:20:PrzyprowadŸcie ich do mnie|¿ywych i ca³ych.
+02:47:26:Resztê zabiæ!
+02:47:46:Nigdy przedtem nie ubieraliœmy obcych|w szaty naszych ludzi.
+02:47:53:Mam nadziejê, ¿e uchroni¹ was|od nieprzyjaznych oczu.
+02:48:04:Lembas.
+02:48:06:Elficki chleb podró¿ny.
+02:48:10:Jeden ma³y kês jest w stanie|zape³niæ ¿o³¹dek doros³ego mê¿czyzny.
+02:48:19:Ile zjad³eœ?
+02:48:21:Cztery.
+02:48:29:Z ka¿d¹ mil¹|niebezpieczeñstwo bêdzie narastaæ...
+02:48:32:Orkowie z Mordoru|strzeg¹ wschodniego brzegu Anduiny.
+02:48:36:Ale na zachodnim brzegu|te¿ nie bêdziecie bezpieczni...
+02:48:39:Dziwne stworzenia ze znakiem Bia³ej Rêki|by³y widziane u naszych granic.
+02:48:43:Rzadko orkowie pokazuj¹ siê za dnia,|jednak te tak zrobi³y.
+02:48:56:"Le aphadar aen."|Jesteœcie tropieni.
+02:49:00:P³yn¹c rzek¹ a¿ do wodospadu Rauros,|macie szansê wyprzedziæ nieprzyjaciela.
+02:49:22:Mój podarunek dla ciebie Legolasie...|To ³uk Galadhrim...
+02:49:27:Stosowny do umiejêtnoœci|naszego leœnego rodu.
+02:49:36:To s¹ mieczyki z noldorskiej stali...
+02:49:39:które ju¿ siê sprawdzi³y w boju.
+02:49:43:Nie bój siê, m³ody Peregrinie Tuku...
+02:49:45:odnajdziesz swoj¹ odwagê...
+02:49:51:A dla ciebie, Samwisie Gamgee,
+02:49:53:lina elfów zrobiona z hithlainu.
+02:49:55:Dziêkujê, proszê pani.
+02:49:59:Nie masz ju¿ wiêcej|tych piêknych, lœni¹cych sztyletów?
+02:50:09:A o jaki dar chcia³by|prosiæ elfy krasnolud?
+02:50:12:O nic...
+02:50:15:z wyj¹tkiem|ostatniego spojrzenia na Pani¹ Galadrielê,
+02:50:19:gdy¿ jej piêknoœæ jest wiêksza,|ni¿eli wszystkie dziwy na Ziemi!
+02:50:31:W³aœciwie...
+02:50:33:to jest jedna rzecz...
+02:50:36:Nie, nie. Nie móg³bym...|To raczej niemo¿liwe.
+02:50:38:G³upio o to prosiæ.
+02:50:44:Nie mam ci nic wiêkszego do podarowania...
+02:50:46:ni¿ dar, który ju¿ nosisz.
+02:50:51:"Am meleth dîn."|Bojê siê...
+02:50:53:"I ant e-guil Arwen Undómiel pelitha." ¿e z mi³oœci|do Ciebie uroda Arweny, Gwiazdy Wieczornej, zblednie.
+02:50:59:"Aníron i e broniatha,"|Opuœci brzegi Œródziemia,
+02:51:04:"ar periatham... amar hen"|i zostanie ze swoim ludem.
+02:51:09:"Aníron e ciratha a Valannor."|Chcê, ¿eby pop³ynê³a statkiem do Valinoru.
+02:51:15:Ten wybór jest jeszcze przed ni¹.
+02:51:19:Ty masz do podjêcia|swoj¹ w³asn¹ decyzjê, Aragornie.
+02:51:22:Wznieœæ siê ponad wszystkich|swoich przodków od czasów Elendila...
+02:51:28:albo stoczyæ siê w cieñ|z tym wszystkim, co osta³o z twego rodu...
+02:51:40:¯egnaj.
+02:51:45:Masz jeszcze wiele do zrobienia.
+02:51:55:"Dan, ú-'eveditham..."|Ju¿ siê nie spotkamy...
+02:51:57:"Elessar."|Elessarze.
+02:52:00:/¯egnaj, Frodo Baggins.
+02:52:03:/Dajê ci œwiat³o Earendila...
+02:52:08:/Naszej najukochañszej gwiazdy.
+02:52:19:/Niech bêdzie dla ciebie œwiat³em|/w Ciemnoœci,
+02:52:24:/kiedy wszystkie inne œwiat³a zgasn¹.
+02:52:37:Dozna³em najgorszej rany|podczas tego rozstania.
+02:52:40:Spogl¹daj¹c po raz ostatni,|na coœ najpiêkniejszego.
+02:52:46:Odt¹d, nigdy ju¿ nic nie nazwê piêknym,|chyba, ¿e bêdzie to dar od niej.
+02:52:49:Jaki by³ jej dar?
+02:52:51:Poprosi³em j¹ o jeden w³os|z jej z³otej g³owy...
+02:52:57:A ona da³a mi trzy...
+02:54:42:Gollum.|Œledzi nas od Morii.
+02:54:49:Mia³em nadziejê,|¿e zgubimy go na rzece...
+02:54:53:ale on jest zbyt dobrym p³ywakiem.
+02:54:57:Jeœli powiadomi nieprzyjaciela|o naszym po³o¿eniu,
+02:55:00:przeprawa stanie siê|jeszcze bardziej niebezpieczna.
+02:55:02:Proszê coœ zjeœæ,|panie Frodo.
+02:55:05:- Nie, Samie.|- Nie jad³ pan ca³y dzieñ.
+02:55:08:Nie zmru¿y³ pan te¿ oka.|Nie ukryje pan tego.
+02:55:12:- Panie Frodo...|- Nic mi nie jest.
+02:55:15:Ale¿ to nieprawda.
+02:55:17:Jestem tu po to, ¿eby panu pomóc.
+02:55:19:Obieca³em Gandalfowi,|¿e tak bêdzie.
+02:55:27:Nie mo¿esz mi pomóc Samie...
+02:55:32:Nie tym razem...
+02:55:37:Przeœpij siê trochê.
+02:55:45:Szlak do Minas Tirith|jest bezpieczniejszy.
+02:55:48:Wiesz o tym.|Tam moglibyœmy siê przegrupowaæ.
+02:55:51:Uderzyæ prosto na Mordor|z silnej pozycji.
+02:55:54:Nie ma si³y w Gondorze,|z której moglibyœmy skorzystaæ.
+02:55:57:Elfom szybko uwierzy³eœ...
+02:56:01:a tak ma³¹ wiarê masz we w³asny lud?
+02:56:04:Tak, jest u nich s³aboœæ, obawa...
+02:56:07:ale nie jest im obca|odwaga... ani honor!
+02:56:10:Ale ty tego nie widzisz!
+02:56:13:Boisz siê!
+02:56:15:Ca³e ¿ycie ukrywa³eœ siê w cieniu.
+02:56:18:Boj¹c siê tego,|kim jesteœ... i czym jesteœ!
+02:56:23:Nie pozwolê, by Pierœcieñ|choæ zbli¿y³ siê do twego miasta!
+02:56:40:Frodo...
+02:56:43:Argonath...
+02:56:48:Od dawna pragn¹³em,|by ujrzeæ podobizny Wielkich Królów...
+02:56:52:moich przodków.
+02:58:13:Przebêdziemy jezioro po zmroku...
+02:58:16:Ukryjemy ³odzie|i dalej ruszymy pieszo.
+02:58:18:- Zbli¿ymy siê do Mordoru od pó³nocy.|- Doprawdy?
+02:58:22:Dla ciebie to taka zwyk³a rzecz|znaleŸæ drogê przez Emyn Muil?
+02:58:26:To niemo¿liwy do przejœcia labirynt|ostrych jak brzytwa ska³.
+02:58:30:A póŸniej...|jest jeszcze ciekawiej.
+02:58:33:J¹trz¹ce siê, œmierdz¹ce bagna,|jak okiem siêgn¹æ...
+02:58:38:To jest nasza droga.
+02:58:41:Proponuje, ¿ebyœ trochê odpocz¹³|i podreperowa³ swoje si³y, panie krasnoludzie.
+02:58:45:Podreperowaæ moje...
+02:58:49:- Powinniœmy wyruszyæ ju¿ teraz.|- Nie.
+02:58:52:Orkowie patroluj¹ wschodni brzeg.|Musimy poczekaæ na os³onê ciemnoœci.
+02:58:56:To nie wschodni brzeg mnie martwi.
+02:59:00:Cieñ i groŸba roœnie w moim umyœle.
+02:59:04:Coœ czai siê w pobli¿u, czujê to.
+02:59:11:Podreperowaæ si³y?|Nie przejmuj siê tym, m³ody hobbicie.
+02:59:16:Gdzie jest Frodo?
+02:59:43:Nikt z nas nie powinien|w³óczyæ siê samotnie.
+02:59:47:Zw³aszcza ty.
+02:59:49:Tak wiele od ciebie zale¿y.
+02:59:52:Frodo?
+03:00:01:Wiem, dlaczego szukasz odosobnienia.
+03:00:05:Cierpisz...|Widzê to ka¿dego dnia.
+03:00:09:Czy nie s¹dzisz,|¿e cierpisz zbytecznie?
+03:00:14:S¹ inne drogi, Frodo.
+03:00:17:- Inne œcie¿ki które moglibyœmy obraæ.|- Wiem, co byœ mi powiedzia³.
+03:00:21:Zabrzmia³oby to jak m¹droœæ,|gdyby nie ostrzega³o mnie moje serce.
+03:00:25:Ostrzega³o?|Przed czym?
+03:00:28:Wszyscy siê boimy, Frodo.
+03:00:30:Ale daæ siê opanowaæ lêkowi,|odrzuciæ ostatni¹ nadziejê...
+03:00:34:- Nie widzisz, ¿e to szaleñstwo?|- Nie ma innej drogi.
+03:00:40:Proszê tylko o si³ê,|¿eby obroniæ mój lud.
+03:00:45:- Gdybyœ tylko u¿yczy³ mi Pierœcienia...|- Nie!
+03:00:48:Dlaczego odsuwasz siê ode mnie?|Nie jestem z³odziejem.
+03:00:51:Nie jesteœ sob¹!
+03:00:53:Jak myœlisz, jakie masz szanse?
+03:00:57:Znajd¹ ciê.|Odbior¹ ci Pierœcieñ...
+03:01:02:I bêdziesz b³aga³ o œmieræ,|zanim siê to skoñczy.
+03:01:08:G³upcze!
+03:01:10:Jest twój tylko dziêki|szczêœliwemu zbiegowi okolicznoœci!
+03:01:14:Powinien byæ mój!|Daj mi go!
+03:01:17:- Daj mi go!|- Nie!
+03:01:19:- Daj mi go!|- Nie!
+03:01:28:Przejrza³em ciê.
+03:01:30:Zaniesiesz Pierœcieñ Sauronowi!
+03:01:33:Zdradzisz nas!
+03:01:35:Doprowadzisz do swojej œmierci|i do œmierci nas wszystkich.
+03:01:39:Przeklinam ciê!|Przeklinam ciebie i wszystkich nizio³ków!
+03:01:50:Frodo?
+03:01:56:Frodo.
+03:02:01:Co ja zrobi³em?
+03:02:03:Proszê, Frodo...
+03:02:05:Frodo, przepraszam ciê!
+03:02:37:/PrzyjdŸ do mnie!
+03:02:57:Frodo?
+03:02:59:- Opanowa³ Boromira.|- Gdzie jest Pierœcieñ?
+03:03:03:Nie zbli¿aj siê!
+03:03:05:Frodo!
+03:03:09:- Przysiêga³em ciê ochraniaæ.|- Przed sob¹ równie¿?
+03:03:22:Zniszczy³byœ go?
+03:03:30:/Aragornie...
+03:03:35:/Aragornie...
+03:03:39:/Elessarze...
+03:03:49:Poszed³bym z tob¹ do koñca.
+03:03:53:Do samego ognia Mordoru.
+03:03:59:Wiem.
+03:04:03:Zaopiekuj siê reszt¹. Zw³aszcza Samem.|On nie zrozumie.
+03:04:12:Uciekaj, Frodo!
+03:04:17:Biegnij!
+03:04:18:Biegnij!
+03:04:45:Panie Frodo!
+03:04:55:ZnaleŸæ nizio³ki!
+03:04:59:ZnaleŸæ nizio³ki!
+03:05:05:Elendil!
+03:05:13:Aragornie! Biegnij!
+03:05:36:Frodo!
+03:05:38:Ukryj siê tutaj, szybko!
+03:05:40:No dalej!
+03:05:44:Co on robi?
+03:05:51:Odchodzi.
+03:05:57:- Nie!|- Pippinie!
+03:06:05:Biegnij, Frodo!|Ju¿!
+03:06:08:Hej ty!|Tutaj!
+03:06:12:- Tutaj!|- Têdy!
+03:06:24:- To dzia³a!|- Wiem, biegnij!
+03:07:22:- Róg Gondoru!|- Boromir.
+03:08:08:Biegnijcie!
+03:11:41:Nie.
+03:11:46:- Zabrali malców!|- Le¿ spokojnie.
+03:11:50:Frodo...|Gdzie jest Frodo?
+03:11:53:Pozwoli³em mu odejœæ.
+03:11:56:Wiêc zrobi³eœ to,|czego ja nie potrafi³em zrobiæ.
+03:11:59:Próbowa³em odebraæ mu Pierœcieñ.
+03:12:03:- Jest teraz poza naszym zasiêgiem.|- Wybacz mi.
+03:12:07:By³em zaœlepiony...
+03:12:10:- Zawiod³em was wszystkich.|- Nie, Boromirze.
+03:12:14:Walczy³eœ dzielnie.
+03:12:17:Zachowa³eœ swój honor.
+03:12:20:Zostaw to!
+03:12:22:To ju¿ koniec.
+03:12:25:Œwiat ludzi upadnie.|Wszystko pogr¹¿y siê w ciemnoœci.
+03:12:31:A moje miasto legnie w gruzach.
+03:12:38:Nie wiem, jaka si³a|p³ynie w mojej krwi...
+03:12:41:Ale przysiêgam, ¿e nie dopuszczê|do upadku Bia³ego Miasta...
+03:12:46:ani do pora¿ki naszego ludu.
+03:12:49:Naszego ludu...
+03:12:55:Naszego ludu...
+03:13:18:Poszed³bym za tob¹, mój bracie...
+03:13:23:Mój dowódco...
+03:13:28:Mój królu...
+03:13:49:Spoczywaj w pokoju,|synu Gondoru.
+03:14:10:Bêd¹ wypatrywali jego powrotu|z Bia³ej Wie¿y...
+03:14:14:Ale on nie wróci.
+03:14:41:Frodo!
+03:15:02:/"Chcia³bym, ¿eby Pierœcieñ|/nigdy do mnie nie trafi³."
+03:15:06:/"¯eby nic takiego siê nie sta³o."
+03:15:12:/"To tak jak wszyscy,|/którzy do¿yli takich czasów."
+03:15:15:/"Ale to nie do nich nale¿y decyzja."
+03:15:19:/"Ty musisz zadecydowaæ o tym,
+03:15:22:/co zrobiæ z czasem,|/który zosta³ ci dany."
+03:15:55:Frodo, nie!
+03:15:58:Frodo!
+03:16:00:- Panie Frodo!|- Nie, Samie.
+03:16:06:Wracaj, Samie!
+03:16:09:- Idê sam do Mordoru.|- Jasne, ¿e tak.
+03:16:13:A ja idê z panem!
+03:16:16:Nie umiesz p³ywaæ!
+03:16:22:Samie!
+03:16:29:Samie!
+03:17:12:Z³o¿y³em przysiêgê panie Frodo.
+03:17:15:Przysiêgê.|"Nie opuœæ go, Samie Gamgee!"
+03:17:20:I nie zamierzam.
+03:17:23:Nie zamierzam.
+03:17:27:Samie!
+03:17:44:ChodŸ wiêc.
+03:18:14:Pospieszcie siê!|Frodo i Sam osi¹gnêli wschodni brzeg.
+03:18:33:- Nie zamierzasz iœæ za nimi.|- Los Froda nie jest ju¿ d³u¿ej w naszych rêkach.
+03:18:42:Wiêc wszystko by³o na pró¿no.|Dru¿yna siê rozpad³a.
+03:18:58:Nie, jeœli my bêdziemy|trzymaæ siê razem.
+03:19:03:Nie dopuœcimy, aby Merry i Pippin|byli torturowani lub zabici.
+03:19:08:Nie, dopóki starczy nam si³.|Zostawcie wszystko, co niepotrzebne.
+03:19:15:Bêdziemy biec bez obci¹¿enia.
+03:19:17:Upolujmy paru orków.
+03:19:23:Tak!
+03:19:43:Mordor.
+03:19:45:Mam nadziejê,|¿e inni znajd¹ bezpieczniejsz¹ drogê.
+03:19:49:Obie¿yœwiat siê nimi zaopiekuje.
+03:19:53:Nie s¹dzê, ¿ebyœmy ich|jeszcze kiedyœ zobaczyli.
+03:19:57:Kto wie, panie Frodo...
+03:19:59:Kto wie...
+03:20:03:Samie...
+03:20:08:cieszê siê, ¿e jesteœ ze mn¹.
+03:20:28:T³umaczenie:|Melinea & Timmy
+03:20:32:softSTORM CREW|e-mail: udun@go2.pl
+03:20:36:Dodatkowo wykorzystane t³umaczenia:|Psyborg i Tibi, QbaSOFT, Olksma Yamu Notru
+03:20:40:Posklejanie, zmiany i dodatki w³asne:|sinhue
+03:20:43:Ogromna iloœæ poprawek:|neo1989 & Igloo666
+03:20:51:.:: Napisy24 - Nowy Wymiar Napisów ::.|Napisy24.pl

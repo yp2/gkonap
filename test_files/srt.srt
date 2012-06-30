@@ -1,1950 +1,7800 @@
 1
-00:00:15,056 --> 00:00:19,144
-36 GODZIN WCZEŒNIEJ
+00:00:00,041 --> 00:00:03,003
+movie info: XVID  720x304 23.976fps 367.6 MB
+<i>SubEdit b.4072 (http:<i><i>subedit.com.pl)<i></i>
 
 2
-00:00:20,145 --> 00:00:22,522
-Wszystko wraca do morderstwa
-mojego partnera.
+00:00:32,240 --> 00:00:34,951
+<i>"I amar prestar aen..."</i>
 
 3
-00:00:22,647 --> 00:00:26,443
-Ci zbiegowie, których œciga
-twoja jednostka specjalna?
+00:00:35,827 --> 00:00:38,830
+<i>Œwiat siê zmieni³...</i>
 
 4
-00:00:26,526 --> 00:00:28,737
-Przestêpczoœæ zorganizowana.
+00:00:39,039 --> 00:00:42,083
+<i>"Han mathon ne nen..."</i>
+<i>Czujê to w wodzie...</i>
 
 5
-00:00:28,945 --> 00:00:33,950
-I zabójca mojego partnera
-wydaje siê byæ w centrum tego.
+00:00:42,834 --> 00:00:45,754
+<i>"Han mathon ne chae..."</i>
+<i>Czujê to w ziemi...</i>
 
 6
-00:00:36,953 --> 00:00:39,956
-Kapitanie, on chyba zna³ Willa.
+00:00:47,339 --> 00:00:50,342
+<i>"A han noston ne gwilith..."</i>
+<i>Wyczuwam to w powietrzu...</i>
 
 7
-00:00:40,248 --> 00:00:44,919
-- Zrzucenie go z krawêdzi...
-- By³o spraw¹ osobist¹.
+00:00:50,717 --> 00:00:54,387
+<i>Wiele z tego,</i>
+<i>co niegdyœ by³o, przepad³o.</i>
 
 8
-00:00:46,921 --> 00:00:51,051
-Co mi umyka?
-Czego nie widzê w aktach Willa?
+00:00:55,013 --> 00:00:58,141
+<i>A nie ¿yje ju¿ nikt z tych,</i>
+<i>którzy by o tym pamiêtali.</i>
 
 9
-00:00:53,136 --> 00:00:56,056
-Co myœli o tym twój wujek?
+00:00:58,183 --> 00:01:03,980
+W£ADCA PIERŒCIENI
 
 10
-00:00:56,848 --> 00:00:58,350
-A jak pan myœli?
+00:01:11,029 --> 00:01:15,408
+<i>Wszystko zaczê³o siê</i>
+<i>od wykucia Pierœcieni W³adzy.</i>
 
 11
-00:01:01,019 --> 00:01:06,941
-Wydzia³ wewnêtrzny prowadzi³
-dochodzenie przeciw Petersowi.
+00:01:15,617 --> 00:01:17,494
+<i>Trzy zosta³y dane elfom...</i>
 
 12
-00:01:07,317 --> 00:01:10,236
-Podejrzane wyp³aty
-z Broadway Mutual.
+00:01:17,702 --> 00:01:21,498
+<i>nieœmiertelnym, najmêdrszym</i>
+<i>i najbli¿szym magii spoœród wszystkich ras.</i>
 
 13
-00:01:10,320 --> 00:01:12,447
-Firma Harlana Simmonsa.
+00:01:22,540 --> 00:01:24,626
+<i>Siedem - w³adcom krasnoludów,</i>
+<i>wspania³ym górnikom...</i>
 
 14
-00:01:13,031 --> 00:01:16,242
-By³ego skazañca miliardera.
+00:01:25,377 --> 00:01:29,798
+<i>twórcom górskich podziemi.</i>
 
 15
-00:01:17,744 --> 00:01:19,037
-£apówka?
+00:01:30,256 --> 00:01:31,508
+<i>I dziewiêæ...</i>
 
 16
-00:01:19,954 --> 00:01:22,248
-Nie ustalono.
+00:01:31,716 --> 00:01:34,719
+<i>Dziewiêæ Pierœcieni zosta³o</i>
+<i>podarowanych rasie ludzi...</i>
 
 17
-00:01:22,540 --> 00:01:25,752
-I.A. odwo³a³o psy
-po œmierci Willa.
+00:01:34,928 --> 00:01:38,765
+<i>którzy ponad wszystko</i>
+<i>po¿¹dali w³adzy.</i>
 
 18
-00:01:25,919 --> 00:01:30,131
-B¹dŸ ostro¿na.
+00:01:39,891 --> 00:01:45,105
+<i>W tych pierœcieniach zawarta by³a si³a i wola,</i>
+<i>aby rz¹dziæ ka¿d¹ z ras.</i>
 
 19
-00:01:34,344 --> 00:01:36,429
-Przepraszam.
+00:01:46,606 --> 00:01:49,776
+<i>Lecz wszyscy oni zostali oszukani.</i>
 
 20
-00:01:50,318 --> 00:01:53,822
-- Przyszed³em na kontrolê.
-- To prywatny szpital psychiatryczny.
+00:01:50,026 --> 00:01:52,112
+<i>Powsta³ bowiem</i>
+<i>jeszcze jeden Pierœcieñ.</i>
 
 21
-00:01:53,947 --> 00:01:56,825
-- Proszê o nazwisko lekarza...
-- Nie, ¿adnych lekarzy.
+00:01:52,946 --> 00:01:56,533
+<i>W krainie Mordor,</i>
+<i>w ogniach Góry Przeznaczenia,</i>
 
 22
-00:01:56,950 --> 00:02:00,328
-Jestem wiêŸniem Alcatraz z 1963.
+00:01:56,950 --> 00:02:01,413
+<i>W³adca Ciemnoœci, Sauron,</i>
+<i>wyku³ w sekrecie Jedyny Pierœcieñ,</i>
 
 23
-00:02:01,329 --> 00:02:07,252
-Goni¹ mnie bardzo Ÿli ludzie.
-Muszê siê gdzieœ ukryæ.
+00:02:01,621 --> 00:02:03,665
+<i>by kontrolowaæ</i>
+<i>wszystkie pozosta³e.</i>
 
 24
-00:02:07,752 --> 00:02:09,754
-Limerick Joe.
+00:02:03,873 --> 00:02:07,836
+<i>W ten pierœcieñ wla³ ca³e</i>
+<i>swe okrucieñstwo, z³oœliwoœæ</i>
 
 25
-00:02:09,921 --> 00:02:13,717
-L-i-m-e-r-i-c-k.
+00:02:08,044 --> 00:02:12,257
+<i>i wolê dominacji</i>
+<i>nad wszelkim ¿yciem.</i>
 
 26
-00:02:13,842 --> 00:02:17,220
-Obudzi³em siê i by³em tutaj.
+00:02:13,216 --> 00:02:17,095
+<i>Jeden Pierœcieñ,</i>
+<i>by wszystkimi rz¹dziæ...</i>
 
 27
-00:02:17,345 --> 00:02:19,222
-Wiêzienie Alcatraz, tak.
+00:02:17,929 --> 00:02:19,597
+<i>Jedna po drugiej...</i>
 
 28
-00:02:20,348 --> 00:02:22,851
-Mia³em ma³o odsiadki, ale...
+00:02:19,806 --> 00:02:24,477
+<i>wolne krainy Œródziemia</i>
+<i>ulega³y mocy Pierœcienia.</i>
 
 29
-00:02:42,620 --> 00:02:48,918
-ALCATRAZ
-G£ÓWNY BLOK - 1960
+00:02:24,686 --> 00:02:27,731
+<i>Ale byli te¿ tacy,</i>
+<i>którzy stawiali opór.</i>
 
 30
-00:02:49,252 --> 00:02:50,253
-Limerick.
+00:02:28,189 --> 00:02:32,861
+<i>Ostatni sojusz pomiêdzy ludŸmi i elfami</i>
+<i>maszerowa³ przeciwko armiom Mordoru.</i>
 
 31
-00:02:50,337 --> 00:02:53,548
-Joe.
-To prawda?
+00:02:33,069 --> 00:02:37,699
+<i>I na zboczach Orodruiny walczy³</i>
+<i>o wolnoœæ krain Œródziemia.</i>
 
 32
-00:02:53,923 --> 00:02:56,426
-- Próbujesz uciec?
-- Próbujê?
+00:02:50,170 --> 00:02:53,006
+"Tangado a chadad!"
+Przygotowaæ siê do strza³u!
 
 33
-00:02:56,843 --> 00:03:00,638
-- Próbowa³em.
-- Nie wygl¹da mi to tak.
+00:03:08,021 --> 00:03:10,648
+<i>Zwyciêstwo by³o bliskie...</i>
 
 34
-00:03:00,722 --> 00:03:04,517
-Pr¹d spycha³ mnie z powrotem.
+00:03:15,403 --> 00:03:17,155
+<i>ale moc Pierœcienia...</i>
 
 35
-00:03:05,352 --> 00:03:08,229
-Nawet ocean nas nienawidzi.
+00:03:17,989 --> 00:03:19,407
+<i>by³a nieograniczona.</i>
 
 36
-00:03:10,523 --> 00:03:13,735
-Wiesz, dlaczego nie chc¹
-wypuœciæ mnie z celi?
+00:03:44,015 --> 00:03:45,892
+<i>W tym w³aœnie momencie,</i>
 
 37
-00:03:13,943 --> 00:03:19,657
-Oficjalna wieœæ g³osi, ¿e zgin¹³eœ,
-próbuj¹c dop³yn¹æ do brzegu.
+00:03:46,142 --> 00:03:48,478
+<i>kiedy ca³a nadzieja</i>
+<i>zda³a siê zgasn¹æ...</i>
 
 38
-00:03:19,949 --> 00:03:25,330
-S³ysza³em, ¿e naczelnik
-wype³ni³ akt zgonu.
+00:03:48,728 --> 00:03:52,857
+<i>Isildur, syn króla,</i>
+<i>podniós³ miecz swego ojca.</i>
 
 39
-00:03:25,747 --> 00:03:29,125
-To chyba czyni ciê duchem.
+00:04:23,888 --> 00:04:30,395
+<i>Sauron, wróg Wolnych Ludów Œródziemia,</i>
+<i>zosta³ pokonany.</i>
 
 40
-00:03:35,048 --> 00:03:37,425
-Otworzyæ 2002.
+00:04:37,277 --> 00:04:39,446
+<i>Pierœcieñ przeszed³</i>
+<i>na Isildura,</i>
 
 41
-00:03:43,348 --> 00:03:44,849
-Dok¹d mnie zabieracie?
+00:04:39,654 --> 00:04:43,867
+<i>który mia³ tê jedyn¹ szansê,</i>
+<i>by zniszczyæ z³o na zawsze.</i>
 
 42
-00:03:44,933 --> 00:03:47,519
-Panie naczelniku,
-kiedy dostanê znowu numer?
+00:04:44,576 --> 00:04:49,581
+<i>Ale serce cz³owieka z ³atwoœci¹</i>
+<i>mo¿na znieprawiæ.</i>
 
 43
-00:03:47,644 --> 00:03:48,645
-Przykro mi, synu.
+00:04:49,664 --> 00:04:54,294
+<i>A Pierœcieñ W³adzy</i>
+<i>okaza³ w³asn¹ moc.</i>
 
 44
-00:03:48,728 --> 00:03:52,649
-Wed³ug papierów nie ¿yjesz.
+00:05:19,486 --> 00:05:22,113
+<i>Zdradzi³ Isildura...</i>
 
 45
-00:03:57,153 --> 00:04:00,532
-- Pobieracie krew?
-- Nie dziœ, synu.
+00:05:23,948 --> 00:05:26,368
+<i>doprowadzaj¹c do jego œmierci.</i>
 
 46
-00:04:01,032 --> 00:04:04,035
-Dzisiaj j¹ oddajemy.
+00:05:30,538 --> 00:05:34,417
+<i>I pewne rzeczy,</i>
+<i>które nie powinny byæ zapomniane...</i>
 
 47
-00:04:08,623 --> 00:04:10,333
-Kim jesteœ?
+00:05:34,626 --> 00:05:36,961
+<i>przepad³y.</i>
 
 48
-00:04:14,421 --> 00:04:16,131
-Transfuzja.
+00:05:37,796 --> 00:05:40,006
+<i>Historia sta³a siê legend¹...</i>
 
 49
-00:04:18,925 --> 00:04:21,052
-Nie jestem chory.
+00:05:40,215 --> 00:05:42,217
+<i>legenda sta³a siê mitem.</i>
 
 50
-00:04:30,729 --> 00:04:32,647
-Co siê dzieje?
+00:05:42,425 --> 00:05:49,182
+<i>W ci¹gu 2500 lat o Pierœcieniu</i>
+<i>ca³kowicie zapomniano.</i>
 
 51
-00:04:33,023 --> 00:04:36,526
-- Co z ni¹ zrobiliœcie?
-- Du¿o rzeczy.
+00:05:49,808 --> 00:05:52,644
+<i>A¿ do chwili,</i>
+<i>kiedy nadesz³a szansa...</i>
 
 52
-00:04:44,743 --> 00:04:46,453
-Umrê?
+00:05:53,311 --> 00:05:56,439
+<i>i usidli³ nowego w³aœciciela.</i>
 
 53
-00:04:46,536 --> 00:04:48,329
-Mo¿liwe.
+00:05:57,774 --> 00:06:02,612
+<i>Mój sskarb...</i>
 
 54
-00:04:51,332 --> 00:04:52,834
-Metal.
+00:06:02,862 --> 00:06:05,365
+<i>Pierœcieñ przeszed³</i>
+<i>w posiadanie Golluma,</i>
 
 55
-00:04:54,127 --> 00:04:56,129
-Czujê metal.
+00:06:05,573 --> 00:06:09,494
+<i>który zabieraj¹c go</i>
+<i>w g³êbokie groty Gór Mglistych...</i>
 
 56
-00:05:34,250 --> 00:05:36,336
-- Gdzie twoja ¿ona?
-- Nie tutaj.
+00:06:09,786 --> 00:06:12,664
+<i>zosta³ przezeñ opanowany.</i>
 
 57
-00:05:36,419 --> 00:05:38,254
-Kiedy wróci?
+00:06:12,872 --> 00:06:14,916
+<i>Przyszed³ do mnie...</i>
 
 58
-00:05:38,546 --> 00:05:40,632
-- Kiedy?
-- Nie wiem!
+00:06:15,125 --> 00:06:18,211
+<i>Mój Jedyny...</i>
+<i>Moja Mi³oœæ...</i>
 
 59
-00:05:45,720 --> 00:05:47,430
-- Kto jeszcze tu jest?
-- Nikt.
+00:06:18,253 --> 00:06:24,592
+<i>Mój Jedyny...</i>
+<i>Mój Ssskarb...</i>
 
 60
-00:05:47,555 --> 00:05:49,557
-- Gdzie twoje dziecko?
-- Jest u kole¿anki.
+00:06:28,096 --> 00:06:31,516
+<i>Pierœcieñ da³ Gollumowi</i>
+<i>nienaturalnie d³ugie ¿ycie.</i>
 
 61
-00:05:49,641 --> 00:05:50,433
-Proszê...
+00:06:31,725 --> 00:06:35,562
+<i>Przez 500 lat</i>
+<i>zatruwa³ jego umys³.</i>
 
 62
-00:05:51,226 --> 00:05:53,937
-Zrobimy tak.
+00:06:35,770 --> 00:06:40,358
+<i>I w mroku jaskini Golluma czeka³...</i>
 
 63
-00:05:54,145 --> 00:05:58,316
-Napiszesz ¿onie SMS-a,
-¿eby wraca³a.
+00:06:40,567 --> 00:06:43,820
+<i>Ciemnoœæ zakrad³a siê znowu</i>
+<i>do lasów Œródziemia.</i>
 
 64
-00:06:00,443 --> 00:06:02,320
-Zaczekamy na ni¹.
+00:06:44,070 --> 00:06:46,906
+<i>Pojawi³a siê pog³oska</i>
+<i>o cieniu na Wschodzie.</i>
 
 65
-00:06:02,445 --> 00:06:05,448
-Odwróæ siê.
-Na górê.
+00:06:47,115 --> 00:06:49,909
+<i>szepcz¹c o nienazwanym strachu...</i>
 
 66
-00:06:11,454 --> 00:06:17,544
-<i>21 marca 1963 roku</i>
-<i>oficjalnie zamkniêto Alcatraz.</i>
+00:06:50,118 --> 00:06:53,413
+<i>Wtedy Pierœcieñ W³adzy spostrzeg³,</i>
 
 67
-00:06:20,255 --> 00:06:24,217
-<i>Wszystkich wiêŸniów</i>
-<i>przeniesiono poza wyspê.</i>
+00:06:53,621 --> 00:06:56,416
+<i>¿e jego czas nadszed³.</i>
 
 68
-00:06:25,427 --> 00:06:30,348
-<i>Ale nie tak by³o.</i>
-<i>Zupe³nie nie tak.</i>
+00:06:58,835 --> 00:07:01,504
+<i>Porzuci³ Golluma.</i>
 
 69
-00:06:31,224 --> 00:06:33,226
-.:: GrupaHatak.pl ::.
+00:07:02,172 --> 00:07:06,676
+<i>Zdarzy³o siê wtedy jednak coœ,</i>
+<i>czego Pierœcieñ nie przewidzia³.</i>
 
 70
-00:06:33,435 --> 00:06:36,354
-T³umaczenie: dzidek9216
-Korekta: Oin
+00:07:07,510 --> 00:07:12,098
+<i>Zosta³ podniesiony przez najmniej</i>
+<i>oczekiwane w tym miejscu stworzenie...</i>
 
 71
-00:06:36,521 --> 00:06:39,441
-Alcatraz [1x13]
-Tommy Madsen
-
-72
-00:06:45,947 --> 00:06:49,826
-Jak mam krew Webba Portera,
-to mogê graæ na skrzypcach?
-
-73
-00:06:50,326 --> 00:06:53,121
-Bo¿e, oby nie.
-
-74
-00:06:54,122 --> 00:06:56,624
-Dlaczego dodaj¹
-tyle srebra do krwi?
-
-75
-00:06:56,750 --> 00:07:00,337
-I dlaczego tylko niektórzy
-wiêŸniowie je maj¹?
-
-76
-00:07:00,420 --> 00:07:02,130
-Nie wiem.
-
-77
-00:07:02,756 --> 00:07:06,634
-Ty by³aœ pieskiem naczelnika.
-Zak³ada³em, ¿e wiesz.
-
-78
-00:07:06,718 --> 00:07:08,136
-Pieskiem?
-
-79
-00:07:08,345 --> 00:07:12,432
-W najpozytywniejszym
-tego s³owa znaczeniu.
-
-80
-00:07:14,851 --> 00:07:16,728
-Jest elektryczny?
-
-81
-00:07:18,730 --> 00:07:24,027
-Mo¿liwe, ¿e to dla mnie jedyna
-znoœna rzecz w tym stuleciu.
-
-82
-00:07:24,319 --> 00:07:27,447
-Mo¿emy wyizolowaæ srebro z krwi?
-
-83
-00:07:28,031 --> 00:07:31,117
-Myœlimy tak samo.
-
-84
-00:07:31,451 --> 00:07:34,454
-Powiadomiê ciê o postêpach.
-
-85
-00:07:37,457 --> 00:07:38,917
-<i>Tylko ty.</i>
-
-86
-00:07:39,751 --> 00:07:41,419
-<i>Jesteœ jedynym.</i>
-
-87
-00:07:41,628 --> 00:07:42,837
-<i>Dlaczego ja?</i>
-
-88
-00:07:43,254 --> 00:07:48,051
-<i>Dopóki ¿yjesz,</i>
-<i>zawsze bêdziesz celem.</i>
-
-89
-00:07:51,846 --> 00:07:55,350
-Nikt nie jest bezpieczny,
-dopóki wci¹¿ bêd¹ wracaæ.
-
-90
-00:07:55,725 --> 00:07:57,435
-Ale i tak...
-
-91
-00:07:59,938 --> 00:08:03,024
-Musimy ograniczyæ ryzyko.
-
-92
-00:08:03,316 --> 00:08:05,235
-Mo¿esz byæ tutaj,
-mo¿e w dowodzeniu...
-
-93
-00:08:05,318 --> 00:08:08,446
-Czemu nie zamkniesz mnie w celi?
-
-94
-00:08:10,532 --> 00:08:11,950
-Zaczekaj.
-
-95
-00:08:14,953 --> 00:08:18,540
-Mo¿e ktoœ rozpozna³
-Tommy'ego Madsena.
-
-96
-00:08:28,550 --> 00:08:31,928
-Jakiœ dobry cz³owiek zabra³ j¹
-z alei 30 minut temu.
-
-97
-00:08:32,053 --> 00:08:35,223
-- Przywióz³ j¹ na komisariat.
-- Jest w szoku. Nic nie mówi.
-
-98
-00:08:35,348 --> 00:08:40,645
-Coœ sta³o siê w jej domu.
-Uciek³a od tego mê¿czyzny.
-
-99
-00:08:40,729 --> 00:08:41,730
-To Tommy Madsen?
-
-100
-00:08:41,855 --> 00:08:43,356
-Gdzie ona mieszka?
-Czemu nas tam nie ma?
-
-101
-00:08:43,440 --> 00:08:47,444
-Jest tak wystraszona,
-¿e nie pamiêta adresu ani nazwiska.
-
-102
-00:08:47,527 --> 00:08:49,029
-Jeœli nie mówi,
-to sk¹d rysunek?
-
-103
-00:08:49,154 --> 00:08:53,616
-Rysownik u¿ywa katalogu FBI
-z popularnymi twarzami.
-
-104
-00:08:53,825 --> 00:08:56,327
-Masz rzeczy do rysowania w torbie?
-
-105
-00:08:58,455 --> 00:09:01,624
-Doktor rysuje najlepsze koty.
-
-106
-00:09:02,042 --> 00:09:04,627
-<i>Pomo¿esz mi go pokolorowaæ?</i>
-
-107
-00:09:04,753 --> 00:09:07,422
-<i>Nie umiem trzymaæ siê w liniach.</i>
-
-108
-00:09:07,547 --> 00:09:10,425
-Mo¿e niech doktor coœ opuœci.
-
-109
-00:09:16,348 --> 00:09:18,725
-Wolisz koty czy psy?
-
-110
-00:09:19,351 --> 00:09:22,354
-Twoja mama na pewno lubi koty.
-
-111
-00:09:23,855 --> 00:09:25,231
-Zaraz, zaraz.
-
-112
-00:09:26,649 --> 00:09:29,319
-Czegoœ tu brakuje.
-
-113
-00:09:31,654 --> 00:09:34,532
-Dwoje uszu, cztery nogi, ogon.
-
-114
-00:09:35,116 --> 00:09:36,326
-Oczy.
-
-115
-00:09:37,035 --> 00:09:38,953
-- Co?
-- Oczy.
-
-116
-00:09:39,120 --> 00:09:40,455
-Oczy?
-
-117
-00:09:42,540 --> 00:09:43,541
-Oczy.
-
-118
-00:09:44,250 --> 00:09:46,544
-Zawsze zapominam.
-
-119
-00:09:47,045 --> 00:09:49,756
-Koty widz¹ w ciemnoœciach.
-
-120
-00:09:50,632 --> 00:09:55,136
-- Co widzi ten kot?
-- Jak tato walczy z panem.
-
-121
-00:10:02,644 --> 00:10:04,354
-To ten pan?
-
-122
-00:10:56,823 --> 00:10:58,825
-NieŸle.
-
-123
-00:11:01,953 --> 00:11:03,538
-Œniadanie?
-
-124
-00:11:04,247 --> 00:11:05,957
-Czy ja nie ¿yjê?
-
-125
-00:11:07,417 --> 00:11:08,543
-To niebo?
-
-126
-00:11:08,626 --> 00:11:10,420
-Obawiam siê, ¿e nie.
-
-127
-00:11:11,838 --> 00:11:14,049
-- Czy to...
-- Znowu Ÿle.
-
-128
-00:11:14,257 --> 00:11:18,845
-W ka¿dej faustowskiej powieœci
-diabe³ jest potrzebny.
-
-129
-00:11:18,928 --> 00:11:21,639
-Jednak¿e b³êdnie rozumiesz.
-
-130
-00:11:21,931 --> 00:11:23,641
-Prze¿y³em.
-
-131
-00:11:24,142 --> 00:11:26,853
-Cokolwiek mi zrobiliœcie,
-prze¿y³em.
-
-132
-00:11:26,936 --> 00:11:32,317
-Powinieneœ byæ piêciocentówk¹
-z tak¹ iloœci¹ srebra w ¿y³ach.
-
-133
-00:11:36,946 --> 00:11:39,532
-Czujê siê œwietnie.
-
-134
-00:11:41,451 --> 00:11:44,537
-- Co to daje?
-- Potencja³.
-
-135
-00:11:45,246 --> 00:11:48,750
-Wielkie rzeczy,
-które mogê zrobiæ dla ciebie.
-
-136
-00:11:49,125 --> 00:11:52,921
-Wielkie rzeczy,
-które mo¿esz zrobiæ dla mnie.
-
-137
-00:11:53,129 --> 00:11:55,840
-Przebierz siê w ³azience.
-
-138
-00:11:56,549 --> 00:11:58,551
-PrzejdŸmy siê.
-
-139
-00:11:58,635 --> 00:12:01,554
-Jest piêkny dzieñ.
-
-140
-00:12:35,338 --> 00:12:36,131
-Michael?
-
-141
-00:12:36,256 --> 00:12:37,132
-Nie.
-
-142
-00:12:37,757 --> 00:12:39,134
-Georgia, padnij!
-
-143
-00:12:45,432 --> 00:12:48,435
-Ten dom potrzebuje numeru.
-
-144
-00:12:49,352 --> 00:12:52,230
-47 Cama-Nino-Mar.
-
-145
-00:12:52,939 --> 00:12:54,441
-To ulica?
-
-146
-00:12:55,150 --> 00:12:59,237
-47 Cama-Nino-Mar.
-Mieszkam tam.
-
-147
-00:12:59,946 --> 00:13:01,823
-El Camino del Mar.
-
-148
-00:13:02,157 --> 00:13:04,034
-Wybrze¿e morskie.
-
-149
-00:13:04,325 --> 00:13:06,036
-<i>El Camino del Mar?</i>
-
-150
-00:13:07,746 --> 00:13:10,331
-Znajdê twoich rodziców.
-
-151
-00:13:20,342 --> 00:13:21,051
-<i>Czysto!</i>
-
-152
-00:13:21,551 --> 00:13:23,928
-Zosta³ postrzelony.
-Dajcie sanitariuszy.
-
-153
-00:13:24,054 --> 00:13:25,722
-Przyszed³ po moj¹ ¿onê.
-
-154
-00:13:26,556 --> 00:13:28,725
-- Ile czasu temu?
-- Dziesiêæ minut.
-
-155
-00:13:28,850 --> 00:13:31,227
-Nie wiem.
-Moja córka?
-
-156
-00:13:31,353 --> 00:13:33,855
-ZnaleŸliœmy j¹.
-Jest bezpieczna.
-
-157
-00:13:34,147 --> 00:13:36,149
-Wyszli tylnymi drzwiami.
-
-158
-00:13:36,733 --> 00:13:38,443
-Chyba go postrzeli³em.
-
-159
-00:13:38,651 --> 00:13:40,945
-Zajmijcie siê nim.
-
-160
-00:13:50,246 --> 00:13:52,123
-Ile masz lat?
-
-161
-00:13:55,251 --> 00:13:58,254
-Jak myœlisz,
-ile ja mam lat?
-
-162
-00:14:00,924 --> 00:14:03,927
-Bêdziesz musia³ pójœæ
-do prawdziwego lekarza.
-
-163
-00:14:04,052 --> 00:14:05,637
-Wda siê zaka¿enie.
-
-164
-00:14:05,845 --> 00:14:08,056
-Zaszyj to.
-
-165
-00:14:08,848 --> 00:14:12,227
-Wierz mi, zagoi siê.
-
-166
-00:14:24,447 --> 00:14:26,324
-No proszê.
-
-167
-00:14:27,534 --> 00:14:29,828
-Kiedyœ jeŸdzi³eœ jeepem.
-
-168
-00:14:29,953 --> 00:14:32,956
-Kiedyœ robi³em wiele rzeczy.
-
-169
-00:14:39,254 --> 00:14:43,925
-Musisz za³atwiæ mi spotkanie
-z Harlanem Simmonsem.
-
-170
-00:14:44,551 --> 00:14:46,344
-Nie mogê tego zrobiæ.
-
-171
-00:14:47,137 --> 00:14:50,140
-Tommy Madsen
-jest znowu aktywny.
-
-172
-00:14:50,348 --> 00:14:56,021
-Zainteresowa³ siê Simmonsem
-i muszê wiedzieæ dlaczego.
-
-173
-00:14:58,023 --> 00:15:00,150
-To znaczy, ¿e naczelnik wróci³?
-
-174
-00:15:00,233 --> 00:15:03,737
-To pierwsze pytanie,
-jakie zadam Madsenowi,
-
-175
-00:15:03,820 --> 00:15:04,821
-jak go z³apiê.
-
-176
-00:15:04,946 --> 00:15:07,824
-Spotkanie z Simmonsem
-wykracza poza moj¹ w³adzê.
-
-177
-00:15:08,033 --> 00:15:12,746
-Poza twoj¹ w³adzê
-wykracza tylko prezydent.
-
-178
-00:15:12,829 --> 00:15:18,251
-Prezydent te¿ nie za³atwi ci
-spotkania z Simmonsem.
-
-179
-00:15:18,418 --> 00:15:20,920
-Dokumenty,
-o które prosi³eœ.
-
-180
-00:15:21,254 --> 00:15:23,840
-Lecimy do Paragwaju zaj¹æ siê
-t¹ warstw¹ wodonoœn¹,
-
-181
-00:15:23,923 --> 00:15:26,051
-któr¹ tak podniecaj¹ siê Chiñczycy.
-
-182
-00:15:26,134 --> 00:15:28,553
-Lucille mo¿e siê zabraæ.
-
-183
-00:15:28,845 --> 00:15:32,557
-Paragwaj jest dla mnie
-skomplikowany
-
-184
-00:15:32,640 --> 00:15:34,517
-od ostatniego razu.
-
-185
-00:15:37,354 --> 00:15:41,149
-I muszê jechaæ z ni¹,
-¿eby siê zadomowi³a.
-
-186
-00:15:42,942 --> 00:15:47,530
-Poinformuj zespó³.
-To bezpoœredni rozkaz.
-
-187
-00:15:48,239 --> 00:15:50,241
-W porz¹dku.
-
-188
-00:15:51,826 --> 00:15:53,828
-Wszystko, co wiadomo
-o Georgii Bradley.
-
-189
-00:15:53,953 --> 00:15:56,456
-33 lata.
-Dorasta³a w Rye.
-
-190
-00:15:56,539 --> 00:15:58,541
-Pracuje w szpitalu
-psychiatrycznym MacAlistera.
-
-191
-00:15:58,625 --> 00:16:01,836
-Oznaczy³am jej telefon, kartê,
-elektroniczne formy identyfikacji.
-
-192
-00:16:02,045 --> 00:16:03,838
-Jeœli ktoœ ich u¿yje,
-bêdziemy wiedzieæ.
-
-193
-00:16:03,922 --> 00:16:05,632
-Czego chce od niej
-Tommy Madsen?
-
-194
-00:16:05,757 --> 00:16:10,220
-Wiemy, ¿e Tommy Madsen by³
-koordynatorem Garretta Stillmana.
-
-195
-00:16:10,720 --> 00:16:14,349
-A Stillman ukrad³ coœ
-od Harlana Simmonsa.
-
-196
-00:16:14,432 --> 00:16:16,434
-Coœ, czego chce Tommy.
-
-197
-00:16:16,518 --> 00:16:22,440
-Myœlisz, ¿e Tommy dopad³ Georgiê,
-bo ma zwi¹zek z Simmonsem.
-
-198
-00:16:22,857 --> 00:16:25,527
-Nie wiem, ale wszystko
-sprowadza siê do niego.
-
-199
-00:16:25,652 --> 00:16:31,950
-Dowiedzia³am siê, ¿e mój partner
-móg³ braæ ³apówki od Broadway Mutual.
-
-200
-00:16:33,326 --> 00:16:35,245
-Mo¿e dlatego Tommy go zabi³.
-
-201
-00:16:35,328 --> 00:16:38,123
-To jest jak wojna narkotykowa.
-Ci z '63 walcz¹ przeciwko sobie.
-
-202
-00:16:38,248 --> 00:16:40,250
-Tylko nie wiem czemu.
-
-203
-00:16:42,252 --> 00:16:44,754
-Ja mogê wiedzieæ.
-
-204
-00:16:47,924 --> 00:16:51,344
-Lepszego zaproszenia
-nie dostaniesz.
-
-205
-00:16:57,142 --> 00:17:00,854
-Jaskinia Batmana za jaskini¹.
-
-206
-00:17:07,027 --> 00:17:08,528
-S¹ dwa klucze.
-
-207
-00:17:08,653 --> 00:17:11,322
-Jeden odzyska³aœ
-od Cala Sweeneyego.
-
-208
-00:17:11,448 --> 00:17:16,536
-Drugi Jack Sylvane zabra³
-od Barclaya Flynna, nim go zabi³.
-
-209
-00:17:16,619 --> 00:17:20,457
-Myœlisz, ¿e ich szukaj¹
-Tommy i Harlan.
-
-210
-00:17:21,124 --> 00:17:22,042
-Co otwieraj¹?
-
-211
-00:17:22,125 --> 00:17:25,920
-Drzwi w Alcatraz
-w starych lochach z wojny secesyjnej.
-
-212
-00:17:26,046 --> 00:17:28,131
-Nie da siê ich przeci¹æ ani obejœæ.
-
-213
-00:17:28,256 --> 00:17:29,632
-Co jest za nimi?
-
-214
-00:17:29,758 --> 00:17:34,637
-Nie odzyskaliœmy trzeciego klucza.
-Nic innego nie zadzia³a.
-
-215
-00:17:35,055 --> 00:17:38,224
-Klucze nale¿a³y do naczelnika.
-
-216
-00:17:38,350 --> 00:17:39,434
-Naczelnika Jamesa?
-
-217
-00:17:40,226 --> 00:17:44,147
-Podejrzewamy,
-¿e Tommy Madsen pracuje dla niego
-
-218
-00:17:44,856 --> 00:17:49,235
-i ¿e naczelnik
-za tym wszystkim stoi.
-
-219
-00:17:52,655 --> 00:17:54,324
+00:07:12,307 --> 00:07:13,350
 Co to?
 
-220
-00:17:56,451 --> 00:17:59,454
-S³u¿y do mierzenia termalnej
-i sejsmicznej aktywnoœci.
-
-221
-00:17:59,537 --> 00:18:00,747
-Mamy teoriê...
-
-222
-00:18:00,830 --> 00:18:03,917
-¯e skok zosta³ spowodowany
-przez zjawisko geotermalne.
-
-223
-00:18:04,042 --> 00:18:06,836
-Byæ mo¿e poœlizg
-p³yty tektonicznej.
-
-224
-00:18:06,920 --> 00:18:11,549
-- Te¿ nazywasz to skokiem?
-- Czasem, a czasem rozwarciem czasu.
-
-225
-00:18:11,633 --> 00:18:13,843
-Chyba ¿e to efekt tunelowy
-albo kriogenika.
-
-226
-00:18:13,927 --> 00:18:16,346
-Dlaczego teraz
-nam to pokazujesz?
-
-227
-00:18:16,429 --> 00:18:19,641
-To konieczny œrodek ostro¿noœci.
-
-228
-00:18:19,849 --> 00:18:22,727
-Muszê wyjechaæ na kilka dni,
-góra tydzieñ.
-
-229
-00:18:22,936 --> 00:18:23,937
-Lucy.
-
-230
-00:18:24,020 --> 00:18:25,939
-Muszê j¹ ukryæ.
-
-231
-00:18:26,147 --> 00:18:28,733
-- Ona o tym wie?
-- Nie wiedzia³a.
-
-232
-00:18:28,942 --> 00:18:30,944
-Do teraz.
-
-233
-00:18:32,153 --> 00:18:34,155
-Znalaz³am powi¹zanie z Harlanem.
-
-234
-00:18:34,239 --> 00:18:37,242
-Szpital, w którym pracuje Georgia,
-nale¿y do Broadway Mutual.
-
-235
-00:18:37,325 --> 00:18:39,452
-Jej skan siatkówki
-zosta³ aktywowany.
-
-236
-00:18:39,536 --> 00:18:42,330
-Jest teraz w szpitalu.
-
-237
-00:18:52,132 --> 00:18:54,217
-Witam, pani Bradley.
-Co pani robi tu tak póŸno?
-
-238
-00:18:54,342 --> 00:18:56,136
-Specjalna wizyta,
-jego ¿ona.
-
-239
-00:18:56,344 --> 00:18:59,139
-Przykro mi to s³yszeæ.
-Jest tu w dobrych rêkach.
-
-240
-00:18:59,347 --> 00:19:00,932
-IdŸ.
-
-241
-00:19:05,353 --> 00:19:09,024
-Czujê siê, jakbym by³ malowany
-na obrazie Normana Rockwella.
-
-242
-00:19:09,149 --> 00:19:10,525
-Nie lubi pan tego miejsca?
-
-243
-00:19:10,650 --> 00:19:16,448
-Poprosi³em, ¿ebyœ poda³ cenê,
-chcia³eœ cannolo i w³oskie wino.
-
-244
-00:19:16,656 --> 00:19:19,242
-To jest najlepsze w mieœcie.
-
-245
-00:19:19,826 --> 00:19:22,954
-Zapomnia³ pan, jak to jest.
-Proste przyjemnoœci.
-
-246
-00:19:23,038 --> 00:19:26,916
-Gest jest odpowiedni do zadania.
-Pobudzam twoj¹ wyobraŸniê.
-
-247
-00:19:28,251 --> 00:19:30,545
-Pozna³em tutaj ¿onê.
-
-248
-00:19:32,922 --> 00:19:35,342
-Obs³ugiwa³a stoliki.
-
-249
-00:19:35,842 --> 00:19:39,637
-Przychodzi³em
-codziennie przez tydzieñ,
-
-250
-00:19:39,721 --> 00:19:43,933
-próbuj¹c zdobyæ siê na odwagê,
-by zaprosiæ j¹ na randkê.
-
-251
-00:19:45,352 --> 00:19:48,021
-Za proste przyjemnoœci.
-
-252
-00:19:55,945 --> 00:19:58,323
-Uznaj mnie za d¿ina.
-
-253
-00:19:58,448 --> 00:20:03,620
-Z moc¹ przyznania ci teraz
-jednego idealnego dnia.
-
-254
-00:20:03,828 --> 00:20:07,457
-Czego pragniesz
-najbardziej na œwiecie?
-
-255
-00:20:19,844 --> 00:20:21,346
-Gdzie on jest?!
-
-256
-00:20:36,653 --> 00:20:38,655
-Czeœæ, duchu.
-
-257
-00:20:40,448 --> 00:20:42,951
-Gdzie jest klucz?
-
-258
-00:20:43,827 --> 00:20:45,120
-ChodŸ!
-
-259
-00:20:51,042 --> 00:20:56,047
-- Srebro emituje czêstotliwoœæ.
-- Sygna³ naprowadzaj¹cy.
-
-260
-00:20:56,256 --> 00:20:58,258
-Coœ w tym stylu.
-
-261
-00:20:58,425 --> 00:21:01,052
-Problem w tym,
-¿e nie mogê go oddzieliæ.
-
-262
-00:21:01,136 --> 00:21:05,849
-Srebro przyczepia siê do p³ytek krwi
-i staje siê jedn¹ ca³oœci¹.
-
-263
-00:21:05,932 --> 00:21:08,143
-Zawsze bêdê mieæ je w sobie?
-
-264
-00:21:08,852 --> 00:21:11,855
-Chcia³bym mieæ lepsze wieœci.
-
-265
-00:21:19,029 --> 00:21:21,031
-Pojedziesz z nim?
-
-266
-00:21:23,158 --> 00:21:25,618
-Czeka³ na mnie przez 50 lat.
-
-267
-00:21:26,327 --> 00:21:29,247
-Czujesz siê zobowi¹zana.
-
-268
-00:21:32,125 --> 00:21:34,544
-Czujê wiele rzeczy.
-
-269
-00:21:36,838 --> 00:21:40,342
-To nie ten sam cz³owiek,
-w którym siê zakocha³am.
-
-270
-00:21:40,550 --> 00:21:42,927
-Brakuje jego czêœci.
-
-271
-00:21:57,650 --> 00:22:00,737
-Nie widzia³em ich
-prawie trzy lata.
-
-272
-00:22:01,654 --> 00:22:03,740
-Niech pan na niego spojrzy...
-
-273
-00:22:03,823 --> 00:22:05,325
-Jest taki du¿y.
-
-274
-00:22:05,450 --> 00:22:08,953
-W tym wieku rosn¹
-jak na dro¿d¿ach.
-
-275
-00:22:11,247 --> 00:22:14,626
-- Mogê z nim porozmawiaæ?
-- To twój syn.
-
-276
-00:22:14,918 --> 00:22:17,629
-Zak³adam, ¿e po to
-tutaj jesteœmy.
-
-277
-00:22:40,527 --> 00:22:42,237
-Czeœæ, kole¿ko.
-
-278
-00:22:43,738 --> 00:22:46,241
-Porz¹dna ciê¿arówka.
-
-279
-00:22:49,744 --> 00:22:51,454
-Van?
-
-280
-00:22:55,333 --> 00:22:56,751
-To ja.
-
-281
-00:23:31,036 --> 00:23:34,039
-Wiem, czego od pana chcê.
-
-282
-00:23:47,052 --> 00:23:49,137
-Nie mam go.
-
-283
-00:23:50,138 --> 00:23:51,639
-Daj spokój.
-
-284
-00:23:51,848 --> 00:23:54,351
-Wiesz, ¿e ci nie wierzê.
-
-285
-00:23:54,851 --> 00:23:56,936
-On mnie zabije.
-
-286
-00:23:57,228 --> 00:23:59,647
-Daj mi klucz,
-
-287
-00:24:00,523 --> 00:24:03,151
-a ci pomogê, duchu.
-
-288
-00:24:03,318 --> 00:24:05,820
-Mogê chroniæ ciê
-przed Harlanem.
-
-289
-00:24:06,029 --> 00:24:08,156
-To niemo¿liwe.
-
-290
-00:24:09,240 --> 00:24:12,243
-Nie poproszê ponownie.
-
-291
-00:24:12,827 --> 00:24:14,454
-Wiem.
-
-292
-00:24:14,954 --> 00:24:16,039
-Nie.
-
-293
-00:24:41,523 --> 00:24:43,942
-Zamkn¹æ wyjœcia.
-
-294
-00:24:55,745 --> 00:24:58,456
-- Jesteœ ranna?
-- Nic mi nie jest.
-
-295
-00:24:58,748 --> 00:25:00,041
-Zszed³ przez szyb.
-
-296
-00:25:00,125 --> 00:25:02,544
-- Dok¹d prowadzi?
-- Na parking.
-
-297
-00:25:22,856 --> 00:25:24,858
-No dawaj.
-
-298
-00:25:44,044 --> 00:25:46,629
-Policja.
-Wysiadaæ.
-
-299
-00:25:47,422 --> 00:25:49,632
-¯artujesz sobie?
-Dopiero go kupi³em.
-
-300
-00:25:49,758 --> 00:25:52,218
-Oddam go w jednym kawa³ku.
-
-301
-00:26:11,738 --> 00:26:12,655
-Co siê dzieje?
-
-302
-00:26:12,739 --> 00:26:15,450
-Mówi³eœ, ¿e naczelnik
-chce ze mn¹ rozmawiaæ.
-
-303
-00:26:15,617 --> 00:26:18,244
-Musisz opuœciæ Alcatraz, Ray.
-
-304
-00:26:18,453 --> 00:26:22,457
-O czym ty mówisz?
-Dopiero tu przyp³yn¹³em.
-
-305
-00:26:22,624 --> 00:26:26,544
-Naczelnik wie,
-¿e jesteœmy tu razem?
-
-306
-00:26:31,132 --> 00:26:33,718
-Dokumenty adopcyjne.
-
-307
-00:26:34,344 --> 00:26:36,721
-Vana.
-
-308
-00:26:37,138 --> 00:26:38,723
-Wszystko zosta³o
-zatwierdzone.
-
-309
-00:26:38,848 --> 00:26:41,518
-Tommy, mieliœmy plan,
-¿ebyœ do niego wróci³.
-
-310
-00:26:41,643 --> 00:26:44,938
-- Koniec z planami.
-- Nie mo¿esz siê poddaæ.
-
-311
-00:26:45,021 --> 00:26:46,731
-Dobrze dogadujê siê
-z naczelnikiem.
-
-312
-00:26:46,856 --> 00:26:49,025
-Widzia³eœ, co zrobi³
-dla Harlana Simmonsa.
-
-313
-00:26:49,150 --> 00:26:50,944
-Mo¿e nam pomóc.
-
-314
-00:26:53,655 --> 00:26:55,740
-Zabi³em j¹, Ray.
-
-315
-00:26:57,450 --> 00:27:00,745
-Czeka³em,
-a¿ wróci do domu,
-
-316
-00:27:00,954 --> 00:27:04,457
-w³o¿y³em jej
-pistolet do ust
-
-317
-00:27:04,624 --> 00:27:07,627
-i poci¹gn¹³em za spust.
-
-318
-00:27:08,628 --> 00:27:11,548
-Dzieciaka ochlapa³a jej krew.
-
-319
-00:27:14,718 --> 00:27:17,721
-Nie zostawiê ciê tutaj.
-
-320
-00:27:18,221 --> 00:27:21,641
-Twoja rezygnacja
-te¿ tam jest.
-
-321
-00:27:21,725 --> 00:27:24,227
-Ostatnia ³ódŸ czeka.
-
-322
-00:27:26,354 --> 00:27:29,149
-Wynoœ siê st¹d, Ray.
-
-323
-00:27:30,942 --> 00:27:34,237
-Nie mogê ju¿ patrzeæ ci w twarz.
-
-324
-00:27:35,739 --> 00:27:37,949
-IdŸ!
-
-325
-00:27:49,127 --> 00:27:53,048
-Nigdy wiêcej nie zobaczysz syna.
-
-326
-00:29:05,954 --> 00:29:07,831
-Szuka³ klucza.
-
-327
-00:29:07,956 --> 00:29:11,543
-- Myœla³, ¿e pan Limerick go ma.
-- A mia³ go?
-
-328
-00:29:13,545 --> 00:29:15,255
-Chyba tak.
-
-329
-00:29:16,339 --> 00:29:17,924
-Mamusiu.
-
-330
-00:29:25,223 --> 00:29:29,519
-- Nie powinnaœ tu byæ.
-- Tommy szuka³ pacjenta?
-
-331
-00:29:29,728 --> 00:29:32,522
-- Joe Limericka.
-- Joe Limerick nie ¿yje.
-
-332
-00:29:32,647 --> 00:29:37,318
-- Œwietne spostrze¿enie, Soto.
-- To znaczy zgin¹³ w 1960.
-
-333
-00:29:37,444 --> 00:29:40,530
-Uton¹³ podczas próby
-ucieczki z Alcatraz.
-
-334
-00:29:40,655 --> 00:29:44,534
-Widzia³em jego akt zgonu.
-Nie mo¿e byæ z '63.
-
-335
-00:29:44,617 --> 00:29:46,619
-Jednak to on.
-
-336
-00:29:53,126 --> 00:29:56,254
-Madsen przyszed³ tu
-w poszukiwaniu klucza.
-
-337
-00:29:56,421 --> 00:29:57,839
-Tego klucza?
-
-338
-00:29:57,922 --> 00:30:00,050
-Trzeciego klucza naczelnika?
-
-339
-00:30:00,717 --> 00:30:01,551
-Nie ma go tu.
-
-340
-00:30:01,634 --> 00:30:05,347
-Pan Madsen zada³ sobie wiele trudu,
-¿eby siê co do tego myliæ.
-
-341
-00:30:05,430 --> 00:30:10,143
-WiêŸniowie z Alcatraz umieli
-ukrywaæ rzeczy przed stra¿nikami.
-
-342
-00:30:11,353 --> 00:30:16,232
-Niektórzy zaszywali rzeczy
-w mankietach spodni.
-
-343
-00:30:17,233 --> 00:30:20,945
-£atwo to przeoczyæ
-przy rutynowym przeszukaniu.
-
-344
-00:30:23,239 --> 00:30:25,033
-Dobra robota.
-
-345
-00:30:26,618 --> 00:30:28,620
-- Daj mi go.
-- Nie.
-
-346
-00:30:28,828 --> 00:30:32,040
-Znajdê Rebeccê
-i wszyscy tam pójdziemy.
-
-347
-00:30:32,123 --> 00:30:33,541
-Czekaj, Soto.
-
-348
-00:30:35,543 --> 00:30:38,546
-- Stój, Soto.
-- Emerson.
-
-349
-00:32:29,240 --> 00:32:30,533
-Wstawaj.
-
-350
-00:32:35,330 --> 00:32:39,542
-Nie potrzebujesz tego.
-Twój ojciec by³ moim synem.
-
-351
-00:32:40,418 --> 00:32:42,837
-Jesteœ moj¹ wnuczk¹, Rebecca.
-
-352
-00:32:42,921 --> 00:32:47,342
-- Jesteœmy spokrewnieni.
-- Myœlisz, ¿e to czyni nas rodzin¹?
-
-353
-00:32:48,551 --> 00:32:50,428
-Nie znam ciê.
-
-354
-00:32:51,137 --> 00:32:53,848
-Ale mnie uratowa³aœ.
-
-355
-00:32:55,016 --> 00:32:58,728
-Chcesz wiedzieæ,
-czemu zabi³em twojego partnera?
-
-356
-00:32:59,229 --> 00:33:02,148
-P³acono mu,
-¿eby mia³ ciê na oku.
-
-357
-00:33:02,232 --> 00:33:04,818
-Firma Harlana Simmonsa,
-Broadway Mutual, dlaczego?
-
-358
-00:33:04,943 --> 00:33:07,153
-¯eby do mnie dotrzeæ.
-Do nas wszystkich.
-
-359
-00:33:07,237 --> 00:33:10,657
-- Czemu obchodzi go, co robisz?
-- Bo Harlan z³ama³ obietnicê.
-
-360
-00:33:10,740 --> 00:33:11,825
-Wobec kogo?
-
-361
-00:33:12,951 --> 00:33:14,828
-Naczelnika Jamesa.
-
-362
-00:33:15,453 --> 00:33:17,622
-Wiêc on za tym stoi?
-
-363
-00:33:18,039 --> 00:33:21,126
-Rebecca, opuœæ broñ
-i mo¿emy porozmawiaæ.
-
-364
-00:33:21,251 --> 00:33:22,752
-Odwróæ siê.
-
-365
-00:33:23,336 --> 00:33:25,130
-A jeœli odmówiê?
-
-366
-00:33:25,922 --> 00:33:28,717
-To ciê zastrzelê.
-
-367
-00:33:40,520 --> 00:33:45,150
-Rebecca, jacy byli twoi rodzice?
-
-368
-00:33:45,817 --> 00:33:49,738
-- Twój ojciec by³ dobry?
-- Zamknij siê.
-
-369
-00:33:52,949 --> 00:33:56,244
-Ray powiedzia³ ci,
-co im siê sta³o?
-
-370
-00:33:57,245 --> 00:33:59,539
-Jak naprawdê zginêli?
-
-371
-00:34:42,540 --> 00:34:45,627
-Kobieta z urazem przenikaj¹cym
-lewej czêœci brzucha.
-
-372
-00:34:45,752 --> 00:34:46,336
-Krwawienie.
-
-373
-00:34:46,419 --> 00:34:48,254
-Pod³¹czmy j¹ do aparatury.
-
-374
-00:34:48,338 --> 00:34:49,339
-Jeden, dwa, trzy.
-
-375
-00:34:49,422 --> 00:34:51,925
-- Morfologia i panel chemiczny.
-- Dodajcie rentgen klatki.
-
-376
-00:34:52,050 --> 00:34:55,053
-Krwawienie têtnicze.
-Jeden miligram epinefryny.
-
-377
-00:34:55,220 --> 00:34:57,055
-Dajce defibrylator!
-
-378
-00:35:08,942 --> 00:35:12,529
-- Dlatego muszê ciê zabraæ.
-- I dlatego nie mogê wyjechaæ.
-
-379
-00:35:12,654 --> 00:35:15,240
-- Kiedy j¹ ustabilizuj¹.
+72
+00:07:13,558 --> 00:07:14,976
+<i>Hobbita...</i>
+
+73
+00:07:15,185 --> 00:07:17,937
+<i>Bilbo Bagginsa z Shire'u.</i>
+
+74
+00:07:18,146 --> 00:07:19,898
+Pierœcieñ.
+
+75
+00:07:20,106 --> 00:07:21,983
+<i>Zgin¹³!</i>
+
+76
+00:07:24,736 --> 00:07:28,198
+<i>Mój Ssskarb zgin¹³!</i>
+
+77
+00:07:28,406 --> 00:07:30,700
+<i>Wkrótce mia³y nadejœæ czasy,</i>
+
+78
+00:07:30,950 --> 00:07:36,122
+<i>gdy w rêkach hobbitów</i>
+ /bêd¹ losy wszystkich.
+
+79
+00:07:40,877 --> 00:07:43,922
+<i>Dwudziesty drugi dzieñ wrzeœnia...</i>
+
+80
+00:07:44,130 --> 00:07:47,342
+<i>roku tysi¹c czterysta dwudziestego,</i>
+
+81
+00:07:47,550 --> 00:07:49,803
+<i>wed³ug rachuby Shire'u.</i>
+
+82
+00:07:50,011 --> 00:07:55,767
+<i>Bag End, Bagshot Row,</i>
+<i>Hobbiton, Zachodnia Æwiartka...</i>
+
+83
+00:07:55,975 --> 00:07:57,977
+<i>Shire...</i>
+
+84
+00:07:58,186 --> 00:08:01,022
+<i>Œródziemie.</i>
+
+85
+00:08:05,652 --> 00:08:08,988
+<i>Trzecia Era tego Œwiata...</i>
+
+86
+00:08:11,408 --> 00:08:15,995
+DRU¯YNA PIERŒCIENIA
+
+87
+00:08:20,542 --> 00:08:24,504
+"Tam i z powrotem"
+
+88
+00:08:25,088 --> 00:08:26,881
+Historia o hobbitach...
+
+89
+00:08:27,090 --> 00:08:30,969
+spisana przez Bilbo Bagginsa.
+
+90
+00:08:35,849 --> 00:08:37,559
+A teraz...
+
+91
+00:08:38,309 --> 00:08:40,270
+jak tu zacz¹æ?
+
+92
+00:08:41,604 --> 00:08:42,605
+Ach, tak...
+
+93
+00:08:47,193 --> 00:08:52,157
+"O... hobbitach."
+
+94
+00:08:53,033 --> 00:08:56,494
+<i>Hobbici ¿yj¹ i uprawiaj¹ ziemiê</i>
+<i>na Czterech Æwiartkach Shire'u</i>
+
+95
+00:08:56,745 --> 00:08:58,663
+<i>od wielu stuleci.</i>
+
+96
+00:08:58,913 --> 00:09:01,833
+<i>Ca³kiem zadowoleni z tego,</i>
+<i>¿e ignoruj¹ i s¹ ignorowani</i>
+
+97
+00:09:02,083 --> 00:09:05,211
+<i>przez œwiat Du¿ych Ludzi...</i>
+
+98
+00:09:05,628 --> 00:09:11,176
+<i>Œródziemie jest pe³ne dziwnych stworzeñ,</i>
+<i>których nie bierze siê pod uwagê...</i>
+
+99
+00:09:11,426 --> 00:09:14,554
+<i>Wœród nich z pewnoœci¹ hobbici.</i>
+
+100
+00:09:14,763 --> 00:09:18,767
+<i>Nie ws³awiaj¹ siê</i>
+<i>jako wielcy wojownicy.</i>
+
+101
+00:09:18,975 --> 00:09:23,146
+<i>Nie s¹ te¿ zaliczani</i>
+<i>do grona najm¹drzejszych.</i>
+
+102
+00:09:27,525 --> 00:09:30,528
+Frodo!
+Ktoœ puka do drzwi!
+
+103
+00:09:31,738 --> 00:09:34,282
+<i>W³aœciwie, jak ktoœ zauwa¿y³,</i>
+
+104
+00:09:34,491 --> 00:09:38,912
+<i>prawdziwa namiêtnoœæ hobbitów</i>
+<i>to jedzenie.</i>
+
+105
+00:09:39,287 --> 00:09:41,456
+<i>By³a to raczej</i>
+<i>niesprawiedliwa ocena,</i>
+
+106
+00:09:41,664 --> 00:09:45,335
+<i>gdy¿ rozwinêliœmy równie¿</i>
+<i>umiejêtnoœæ warzenia piwa...</i>
+
+107
+00:09:45,752 --> 00:09:48,505
+<i>i palenia fajkowego ziela.</i>
+
+108
+00:09:48,963 --> 00:09:54,094
+<i>Ale nasze serca najbardziej</i>
+<i>kochaj¹ spokój i ciszê.</i>
+
+109
+00:09:54,803 --> 00:09:56,971
+<i>Oraz dobr¹, uprawion¹ ziemiê.</i>
+
+110
+00:09:57,180 --> 00:10:02,352
+<i>Gdy¿ hobbici kochaj¹</i>
+<i>wszystko, co roœnie.</i>
+
+111
+00:10:05,522 --> 00:10:09,859
+<i>I owszem, dla innych bez w¹tpienia</i>
+<i>nasze zwyczaje wydaj¹ siê staromodne.</i>
+
+112
+00:10:10,068 --> 00:10:15,323
+<i>Ale dzisiaj, przez pryzmat dawnych dni,</i>
+<i>dostrzegam wyraŸnie jedn¹ rzecz.</i>
+
+113
+00:10:15,907 --> 00:10:21,871
+<i>Nie ma nic z³ego</i>
+<i>w celebrowaniu prostego ¿ycia.</i>
+
+114
+00:10:26,001 --> 00:10:29,212
+Frodo! Drzwi!
+
+115
+00:10:33,049 --> 00:10:34,926
+A niech to!
+Gdzie jest ten ch³opak?
+
+116
+00:10:35,135 --> 00:10:36,845
+Frodo!
+
+117
+00:10:42,642 --> 00:10:46,187
+"A droga wiedzie w przód i w przód..."
+
+118
+00:10:50,942 --> 00:10:54,738
+"A ja wci¹¿ za ni¹ - tak jak mogê..."
+
+119
+00:10:55,739 --> 00:10:59,868
+"A droga wiedzie w przód i w przód,"
+
+120
+00:11:00,076 --> 00:11:03,538
+"Choæ siê zaczê³a tu¿ za progiem"
+
+121
+00:11:03,747 --> 00:11:08,710
+"I w dal przede mn¹ mknie na wschód,"
+
+122
+00:11:09,336 --> 00:11:11,880
+"A ja wci¹¿ za ni¹ - tak jak mogê..."
+
+123
+00:11:11,921 --> 00:11:14,007
+SpóŸni³eœ siê.
+
+124
+00:11:16,426 --> 00:11:20,221
+Czarodziej nigdy siê nie spóŸnia,
+Frodo Bagginsie.
+
+125
+00:11:21,014 --> 00:11:25,643
+Nie pojawia siê te¿ za wczeœnie.
+Przybywa dok³adnie wtedy, kiedy zamierza.
+
+126
+00:11:36,988 --> 00:11:40,075
+Wspaniale ciê widzieæ, Gandalfie.
+
+127
+00:11:43,953 --> 00:11:47,665
+Chyba nie myœlisz, ¿e przegapi³bym
+urodziny twojego wuja, Bilba.
+
+128
+00:11:49,376 --> 00:11:51,503
+A jak tam siê miewa
+nasz stary ³obuz?
+
+129
+00:11:52,045 --> 00:11:55,548
+S³ysza³em, ¿e zapowiada siê
+niezwykle wykwintne przyjêcie.
+
+130
+00:11:55,757 --> 00:11:58,176
+Znasz Bilba, poruszy³ ca³e to miejsce.
+
+131
+00:11:58,385 --> 00:12:00,303
+Có¿, to powinno go zadowoliæ.
+
+132
+00:12:00,512 --> 00:12:02,389
+Po³owa Shire'u zosta³a zaproszona.
+
+133
+00:12:02,639 --> 00:12:05,266
+A ca³a reszta, tak czy inaczej,
+te¿ siê pojawi.
+
+134
+00:12:08,436 --> 00:12:11,731
+<i>I tak toczy siê ¿ycie w Shire...</i>
+
+135
+00:12:11,940 --> 00:12:14,943
+<i>Nie uleg³o ¿adnym zmianom</i>
+<i>w ci¹gu ostatniego stulecia.</i>
+
+136
+00:12:15,151 --> 00:12:20,657
+<i>Pe³ne swoich w³asnych wyjazdów i powrotów,</i>
+<i>ze zmianami, które przychodzi³y wolno...</i>
+
+137
+00:12:20,865 --> 00:12:22,784
+<i>Jeœli w ogóle przychodzi³y...</i>
+
+138
+00:12:24,035 --> 00:12:27,455
+<i>Bo rzeczy w Shire</i>
+<i>zosta³y stworzone, ¿eby przetrwaæ...</i>
+
+139
+00:12:27,664 --> 00:12:31,167
+<i>przechodz¹c z jednego</i>
+<i>pokolenia na kolejne.</i>
+
+140
+00:12:31,584 --> 00:12:36,548
+<i>Zawsze mieszka³ tu jakiœ Baggins,</i>
+<i>pod Pagórkiem...</i>
+
+141
+00:12:36,756 --> 00:12:38,091
+<i>w Bag End.</i>
+
+142
+00:12:40,844 --> 00:12:43,638
+<i>I zawsze bêdzie.</i>
+
+143
+00:12:44,347 --> 00:12:47,767
+Szczerze mówi¹c...
+Bilbo dziwnie siê ostatnio zachowuje.
+
+144
+00:12:49,019 --> 00:12:51,229
+To znaczy, bardziej ni¿ zwykle.
+
+145
+00:12:52,272 --> 00:12:54,149
+Pogr¹¿a siê w nauce.
+
+146
+00:12:55,734 --> 00:12:59,863
+Ukradkiem spêdza godziny
+na przegl¹daniu starych map.
+
+147
+00:13:12,625 --> 00:13:14,252
+Gdzie on znikn¹³?
+
+148
+00:13:40,945 --> 00:13:43,156
+On coœ planuje.
+Có¿, mo¿e...
+
+149
+00:13:51,331 --> 00:13:53,792
+- A miejcie swoje sekrety.
 - Co?
 
-380
-00:35:15,448 --> 00:35:20,036
-Twoi przyjaciele zabior¹ nas
-do jakiejœ wioski w Kambod¿y?
+150
+00:13:54,042 --> 00:13:55,752
+Ale ja wiem, ¿e ty
+masz z tym coœ wspólnego.
 
-381
-00:35:20,245 --> 00:35:22,455
-Gdzie bêdê bezpieczniejsza, mo¿e.
+151
+00:13:56,002 --> 00:13:57,003
+Co ty opowiadasz?
 
-382
-00:35:23,456 --> 00:35:27,752
-Ale wrócisz tu, by skoñczyæ
-dzie³o swojego ¿ycia beze mnie?
+152
+00:13:57,504 --> 00:14:00,215
+Zanim siê pojawi³eœ,
+my Bagginsowie, mieliœmy dobr¹ opiniê.
 
-383
-00:35:27,836 --> 00:35:29,045
+153
+00:14:00,465 --> 00:14:01,341
+W istocie.
+
+154
+00:14:01,633 --> 00:14:04,386
+Nie mieliœmy ¿adnych przygód
+i nie robiliœmy niczego niespodziewanego.
+
+155
+00:14:04,427 --> 00:14:10,308
+Jeœli nawi¹zujesz do incydentu ze smokiem,
+by³em ledwo zaanga¿owany.
+
+156
+00:14:10,517 --> 00:14:14,062
+Popchn¹³em lekko
+twojego wuja do czynu.
+
+157
+00:14:14,270 --> 00:14:18,400
+Cokolwiek zrobi³eœ, zosta³eœ oficjalnie
+zaszufladkowany jako m¹ciciel porz¹dku.
+
+158
+00:14:18,775 --> 00:14:20,652
+Naprawdê?
+
+159
+00:14:26,366 --> 00:14:28,284
+Gandalf! Gandalf!
+
+160
+00:14:34,457 --> 00:14:35,667
+Fajerwerki, Gandalf!
+
+161
+00:14:38,753 --> 00:14:41,381
+- Gandalf!
+- Fajerwerki, Gandalfie!
+
+162
+00:15:00,233 --> 00:15:01,276
+Gandalfie?
+
+163
+00:15:01,860 --> 00:15:05,947
+Cieszê siê, ¿e wróci³eœ.
+Ja te¿, drogi ch³opcze.
+
+164
+00:15:10,368 --> 00:15:12,203
+Ja te¿...
+
+165
+00:15:37,729 --> 00:15:40,273
+<i>Nie wchodziæ. Nie dotyczy spraw</i>
+<i>zwi¹zanych z przyjêciem urodzinowym.</i>
+
+166
+00:15:44,027 --> 00:15:45,445
+Nie, dziêkujê!
+
+167
+00:15:45,653 --> 00:15:49,616
+Nie chcemy wiêcej goœci,
+sympatyków, czy te¿ dalekich krewnych.
+
+168
+00:15:49,824 --> 00:15:53,328
+A co powiesz
+na bardzo starych przyjació³?
+
+169
+00:15:56,498 --> 00:15:58,208
+Gandalf?
+
+170
+00:15:58,833 --> 00:16:02,337
+- Bilbo Baggins.
+- Mój drogi Gandalf!
+
+171
+00:16:02,545 --> 00:16:07,676
+Dobrze ciê widzieæ... 111 lat.
+Kto by pomyœla³?
+
+172
+00:16:09,427 --> 00:16:11,429
+Nie zestarza³eœ siê nawet o dzieñ...
+
+173
+00:16:18,103 --> 00:16:20,063
+Dalej, wchodŸ!
+
+174
+00:16:20,271 --> 00:16:22,649
+Witam, witam.
+
+175
+00:16:23,817 --> 00:16:26,361
+I ju¿...
+
+176
+00:16:28,029 --> 00:16:30,448
+Herbatê, a mo¿e coœ trochê mocniejszego?
+
+177
+00:16:30,657 --> 00:16:34,452
+Mam kilka butelek ze starej winnicy.
+Rocznik 1296.
+
+178
+00:16:34,661 --> 00:16:38,707
+Bardzo dobry rocznik.
+Prawie tak stary, jak ja.
+
+179
+00:16:39,874 --> 00:16:44,337
+Zosta³a za³o¿ona przez mojego ojca.
+Otworzymy jedn¹?
+
+180
+00:16:44,546 --> 00:16:47,215
+Wystarczy herbata, dziêkujê.
+
+181
+00:16:53,638 --> 00:16:55,265
+Spodziewa³em siê ciebie
+w zesz³ym tygodniu.
+
+182
+00:16:55,473 --> 00:16:58,935
+Przychodzisz i odchodzisz,
+tak jak zwyk³eœ to robiæ.
+
+183
+00:16:58,977 --> 00:17:01,479
+Obawiam siê, ¿e przy³apa³eœ mnie
+nieco nieprzygotowanego...
+
+184
+00:17:01,521 --> 00:17:04,357
+Mamy tylko zimnego kurczaka
+i trochê pikli...
+
+185
+00:17:04,399 --> 00:17:07,777
+Jest tu trochê sera.
+Nie, nic z tego nie bêdzie.
+
+186
+00:17:07,986 --> 00:17:11,906
+Mam d¿em malinowy,
+placek jab³kowy...
+
+187
+00:17:12,574 --> 00:17:16,578
+Ale nie mamy nic na póŸniej.
+O nie!... Wszystko w porz¹dku!
+
+188
+00:17:16,786 --> 00:17:19,622
+W³aœnie znalaz³em trochê biszkopta.
+
+189
+00:17:22,500 --> 00:17:24,085
+Móg³bym przyrz¹dziæ kilka jajek,
+jeœli chc...
+
+190
+00:17:27,672 --> 00:17:30,342
+Tylko herbatê, dziêkujê.
+Ach, tak.
+
+191
+00:17:31,426 --> 00:17:33,720
+- Nie bêdzie ci przeszkadzaæ, gdy bêdê jad³?
+- Nie, sk¹d¿e.
+
+192
+00:17:34,846 --> 00:17:36,723
+<i>Bilbo! Bilbo Baggins!</i>
+
+193
+00:17:36,931 --> 00:17:38,516
+Nie ma mnie w domu.
+
+194
+00:17:44,522 --> 00:17:47,067
+To Bagginsowie z Sackville.
+
+195
+00:17:47,317 --> 00:17:49,361
+<i>- Wiem, ¿e tam jesteœ!</i>
+- Przyszli w sprawie domu.
+
+196
+00:17:50,070 --> 00:17:52,530
+Nigdy mi nie wybaczyli,
+¿e tak d³ugo ¿yjê.
+
+197
+00:17:52,781 --> 00:17:57,702
+Muszê uciec od tych przeklêtych krewnych,
+nie daj¹ mi spokoju.
+
+198
+00:17:58,411 --> 00:18:01,915
+Chcê znowu zobaczyæ góry!
+Góry, Gandalfie!
+
+199
+00:18:02,123 --> 00:18:04,167
+A potem znaleŸæ siê
+w jakimœ spokojnym miejscu,
+
+200
+00:18:04,209 --> 00:18:06,836
+gdzie bêdê móg³ skoñczyæ moj¹ ksi¹¿kê.
+O, herbata.
+
+201
+00:18:06,878 --> 00:18:10,799
+- Wiêc zamierzasz trzymaæ siê planu?
+- Tak, wszystko mam pod kontrol¹.
+
+202
+00:18:11,007 --> 00:18:13,218
+Poczyni³em wszelkie przygotowania.
+
+203
+00:18:15,387 --> 00:18:16,846
+Dziêkujê.
+
+204
+00:18:17,555 --> 00:18:19,641
+Frodo coœ podejrzewa.
+
+205
+00:18:19,891 --> 00:18:22,310
+No pewnie, ¿e tak.
+To Baggins...
+
+206
+00:18:22,560 --> 00:18:25,146
+nie jakiœ zakuty ³eb
+z Bracegirdle'ów z Hardbottle.
+
+207
+00:18:25,689 --> 00:18:28,525
+Powiesz mu, prawda?
+
+208
+00:18:29,401 --> 00:18:31,403
+- Tak, tak.
+- Bardzo ciê lubi.
+
+209
+00:18:33,655 --> 00:18:35,198
+Wiem.
+
+210
+00:18:37,492 --> 00:18:40,870
+Pewnie wyruszy³by ze mn¹,
+gdybym go o to poprosi³.
+
+211
+00:18:41,538 --> 00:18:44,916
+Myœlê, ¿e Frodo w swoim sercu
+wci¹¿ jest zakochany w Shire.
+
+212
+00:18:46,501 --> 00:18:48,795
+Lasach, polach...
+
+213
+00:18:49,004 --> 00:18:51,339
+ma³ych rzeczkach.
+
+214
+00:18:55,802 --> 00:18:58,513
+Jestem stary Gandalfie.
+
+215
+00:18:59,848 --> 00:19:05,145
+Wiem, ¿e nie wygl¹dam...
+ale zaczynam czuæ to w moim sercu.
+
+216
+00:19:07,313 --> 00:19:09,816
+Czujê siê... cienki,
+
+217
+00:19:10,025 --> 00:19:11,735
+jakby rozci¹gniêty...
+
+218
+00:19:13,028 --> 00:19:16,322
+jak mas³o rozsmarowane
+na zbyt du¿ej kromce chleba.
+
+219
+00:19:16,531 --> 00:19:21,036
+Potrzebujê wakacji...
+bardzo d³ugich wakacji.
+
+220
+00:19:21,244 --> 00:19:24,456
+I nie spodziewam siê, ¿e wrócê.
+
+221
+00:19:26,666 --> 00:19:29,878
+W³aœciwie, to nie mam
+takiego zamiaru.
+
+222
+00:19:32,547 --> 00:19:36,634
+"Stary Toby"... najlepsze fajkowe ziele
+z Po³udniowej Æwiartki.
+
+223
+00:19:53,985 --> 00:19:56,529
+Gandalfie, stary przyjacielu...
+
+224
+00:19:56,738 --> 00:19:59,574
+to bêdzie noc godna zapamiêtania.
+
+225
+00:20:22,389 --> 00:20:23,473
+Witam, witam.
+
+226
+00:20:23,723 --> 00:20:27,769
+Grubas Bolger. Wspaniale was widzieæ.
+Witamy, witamy.
+
+227
+00:20:28,812 --> 00:20:31,356
+Dalej Samie,
+poproœ Ró¿yczkê do tañca.
+
+228
+00:20:33,983 --> 00:20:37,529
+- Chyba wezmê jeszcze jedno piwo.
+- A w³aœnie, ¿e nie.
+
+229
+00:20:38,571 --> 00:20:40,365
+No idŸ!
+
+230
+00:20:50,500 --> 00:20:52,335
+Wiêc, sta³em tam...
+
+231
+00:20:52,544 --> 00:20:56,589
+zdany na ³askê trzech potwornych trolli...
+
+232
+00:20:56,798 --> 00:21:01,386
+a one sprzecza³y siê miêdzy sob¹
+o to, jakby nas ugotowaæ.
+
+233
+00:21:01,594 --> 00:21:06,641
+Rozerw¹ nas na kawa³ki, czy bêd¹ siadaæ
+na nas po kolei i zmia¿d¿¹ na galaretê.
+
+234
+00:21:07,642 --> 00:21:11,187
+Ale spêdzili tyle czasu na k³óceniu siê,
+rozpatruj¹c za i przeciw...
+
+235
+00:21:11,396 --> 00:21:14,566
+¿e œwiat³o s³oneczne
+zakrad³o siê za czubki drzew...
+
+236
+00:21:14,941 --> 00:21:15,567
+Bach!
+
+237
+00:21:15,984 --> 00:21:18,486
+I zamieni³o ich wszystkich w kamieñ!
+
+238
+00:21:23,742 --> 00:21:25,160
+Szybko!
+
+239
+00:21:29,330 --> 00:21:31,374
+I do góry!
+
+240
+00:21:34,252 --> 00:21:35,462
+Nie, nie. T¹ wielk¹, najwiêksz¹.
+
+241
+00:21:44,637 --> 00:21:47,474
+Pani Bracegirdle, mi³o pani¹ widzieæ.
+Witam, witam.
+
+242
+00:21:47,682 --> 00:21:49,559
+- Te wszystkie dzieci s¹ pani?
+- Tak.
+
+243
+00:21:49,768 --> 00:21:52,771
+Wielkie nieba,
+to siê pani napracowa³a.
+
+244
+00:21:54,773 --> 00:21:56,107
+Bilbo?
+
+245
+00:21:57,817 --> 00:22:00,820
+Bagginsowie z Sackville!
+Szybko, schowajmy siê!
+
+246
+00:22:10,663 --> 00:22:12,916
+Dziêkujê, ch³opcze.
+
+247
+00:22:14,417 --> 00:22:16,753
+Jesteœ dobrym m³odzieñcem, Frodo.
+
+248
+00:22:17,962 --> 00:22:20,840
+Wiesz...
+Jestem bardzo samolubny...
+
+249
+00:22:21,257 --> 00:22:24,761
+Tak, jestem...
+bardzo samolubny...
+
+250
+00:22:24,886 --> 00:22:27,389
+Nie wiem, dlaczego przygarn¹³em ciê
+po œmierci rodziców,
+
+251
+00:22:27,430 --> 00:22:28,973
+ale nie zrobi³em tego bezinteresownie.
+
+252
+00:22:29,516 --> 00:22:33,436
+Myœlê, ¿e zrobi³em to dlatego,
+¿e ze wszystkich moich licznych krewnych,
+
+253
+00:22:33,770 --> 00:22:37,273
+by³eœ jedynym Bagginsem,
+który wykazywa³ prawdziwego ducha.
+
+254
+00:22:37,565 --> 00:22:39,359
+Bilbo, pi³eœ coœ dzisiaj u Gaffera?
+
+255
+00:22:39,609 --> 00:22:41,236
 Nie.
 
+256
+00:22:41,569 --> 00:22:44,114
+No có¿, tak,
+ale to nie o to chodzi...
+
+257
+00:22:44,364 --> 00:22:47,617
+chodzi o to, Frodo...
+
+258
+00:22:50,704 --> 00:22:52,747
+¿e wszystko bêdzie dobrze.
+
+259
+00:22:56,126 --> 00:22:58,169
+- Zrobione!
+- Powinieneœ to wbiæ w ziemiê.
+
+260
+00:22:58,378 --> 00:22:59,838
+- Jest w ziemi.
+- Na zewn¹trz!
+
+261
+00:23:00,046 --> 00:23:01,589
+To by³ twój pomys³.
+
+262
+00:23:17,439 --> 00:23:18,982
+Bilbo.
+
+263
+00:23:20,108 --> 00:23:22,861
+Bilbo, uwa¿aj na smoka!
+
+264
+00:23:23,111 --> 00:23:26,448
+Smoka?! Nonsens!
+W tych stronach nie by³o smoka od tysiêcy lat.
+
+265
+00:23:39,919 --> 00:23:43,548
+To by³o dobre...
+WeŸmy nastêpn¹...
+
+266
+00:23:44,841 --> 00:23:49,346
+Meriadok Brandybuck
+i Peregrin Tuk.
+
+267
+00:23:49,554 --> 00:23:51,431
+Mog³em siê domyœliæ.
+
+268
+00:23:57,312 --> 00:23:59,397
+Przemowa, Bilbo!
+
+269
+00:24:00,273 --> 00:24:01,566
+Przemowa! Przemowa!
+
+270
+00:24:01,775 --> 00:24:02,817
+Przemowa!
+
+271
+00:24:08,073 --> 00:24:13,286
+Moi drodzy Bagginsowie i Boffinowie,
+Tukowie i Brandybuckowie...
+
+272
+00:24:13,495 --> 00:24:15,997
+Grubbowie, Czubbowie...
+
+273
+00:24:16,206 --> 00:24:20,043
+Hornblowerowie...
+Bolgerowie...
+
+274
+00:24:20,460 --> 00:24:22,003
+Bracegirdle'owie...
+
+275
+00:24:22,212 --> 00:24:24,839
+- i Proudfootowie!
+- Proudfeetowie!
+
+276
+00:24:27,008 --> 00:24:30,178
+Dzisiaj s¹ moje 111 urodziny.
+
+277
+00:24:31,971 --> 00:24:33,515
+Wszystkiego najlepszego!
+
+278
+00:24:33,723 --> 00:24:37,977
+Niestety, 111 lat to zbyt krótki czas,
+¿eby ¿yæ...
+
+279
+00:24:38,186 --> 00:24:41,106
+poœród tak wspania³ych
+i godnych podziwu hobbitów...
+
+280
+00:24:42,023 --> 00:24:44,943
+Po³owy spoœród z was nie znam
+nawet w po³owie tak dobrze, jak bym pragn¹³,
+
+281
+00:24:44,984 --> 00:24:49,572
+a mniej ni¿ po³owê z was lubiê
+o po³owê mniej, ni¿ na to zas³ugujecie.
+
+282
+00:24:59,541 --> 00:25:01,918
+Mam... sprawy do za³atwienia...
+
+283
+00:25:08,299 --> 00:25:10,427
+Ju¿ i tak za d³ugo to odk³ada³em.
+
+284
+00:25:14,264 --> 00:25:18,226
+Z ¿alem zawiadamiam,
+¿e to jest koniec.
+
+285
+00:25:19,394 --> 00:25:20,562
+Wyje¿d¿am teraz...
+
+286
+00:25:21,688 --> 00:25:24,566
+¯yczê wam mi³ego
+przyjêcia po¿egnalnego.
+
+287
+00:25:26,943 --> 00:25:28,153
+Do widzenia.
+
+288
+00:26:01,394 --> 00:26:04,522
+Pewnie uwa¿asz,
+¿e to by³o niesamowicie m¹dre.
+
+289
+00:26:04,731 --> 00:26:08,068
+Daj spokój, Gandalfie.
+Widzia³eœ ich twarze?
+
+290
+00:26:08,276 --> 00:26:10,403
+Jest wiele magicznych pierœcieni
+na tym œwiecie,
+
+291
+00:26:10,445 --> 00:26:13,490
+i ¿aden z nich
+nie powinien byæ u¿yty w taki sposób.
+
+292
+00:26:13,531 --> 00:26:15,700
+To mia³o byæ trochê zabawne.
+
+293
+00:26:15,909 --> 00:26:19,621
+Ach, pewnie masz racjê...
+jak zwykle.
+
+294
+00:26:20,997 --> 00:26:24,542
+- Bêdziesz mia³ oko na Froda, prawda?
+- Nawet parê oczu.
+
+295
+00:26:24,751 --> 00:26:27,420
+Tak czêsto jak bêdê mia³ je wolne.
+
+296
+00:26:27,629 --> 00:26:30,799
+- Zostawiam mu wszystko...
+- A co z tym twoim pierœcieniem?
+
+297
+00:26:31,007 --> 00:26:34,344
+- Te¿ zostaje?
+- Tak, tak.
+
+298
+00:26:34,969 --> 00:26:38,848
+Jest w kopercie...
+tam, na gzymsie kominka.
+
+299
+00:26:39,933 --> 00:26:42,894
+Nie... zaczekaj, jest...
+
+300
+00:26:45,397 --> 00:26:48,108
+tutaj, w mojej kieszeni.
+
+301
+00:26:52,570 --> 00:26:55,949
+Czy to nie...
+Czy to nie dziwne?
+
+302
+00:26:57,617 --> 00:27:01,121
+A w³aœciwie, czemu nie...
+
+303
+00:27:02,664 --> 00:27:07,544
+- Dlaczego nie mia³bym go zatrzymaæ?
+- Powinieneœ go pozostawiæ, Bilbo.
+
+304
+00:27:07,961 --> 00:27:10,130
+Czy to takie trudne?
+
+305
+00:27:10,338 --> 00:27:11,673
+Có¿... nie...
+
+306
+00:27:14,050 --> 00:27:15,593
+I tak...
+
+307
+00:27:17,554 --> 00:27:20,640
+Kiedy ju¿ do tego dosz³o,
+nie mam ochoty siê z nim rozstaæ.
+
+308
+00:27:20,849 --> 00:27:22,767
+Ja go znalaz³em,
+przyszed³ do mnie!
+
+309
+00:27:22,809 --> 00:27:27,022
+- Nie ma powodu do gniewu.
+- To twoja wina!
+
+310
+00:27:27,480 --> 00:27:29,274
+Jest mój.
+
+311
+00:27:30,525 --> 00:27:32,986
+Mój w³asny...
+
+312
+00:27:33,361 --> 00:27:37,282
+- Mój skarb.
+- Skarb?
+
+313
+00:27:37,532 --> 00:27:40,410
+By³ ju¿ tak kiedyœ nazywany...
+ale nie przez ciebie.
+
+314
+00:27:40,660 --> 00:27:43,163
+To nie twój interes,
+co zrobiê z moimi w³asnymi rzeczami!
+
+315
+00:27:43,413 --> 00:27:46,166
+Myœlê, ¿e mia³eœ ten pierœcieñ
+ju¿ wystarczaj¹co d³ugo.
+
+316
+00:27:46,374 --> 00:27:49,210
+- Chcesz go dla siebie!
+- Bilbo Bagginsie!
+
+317
+00:27:49,419 --> 00:27:53,631
+Nie bierz mnie za jakiegoœ kuglarza
+od tanich sztuczek!
+
+318
+00:27:53,882 --> 00:27:57,510
+Nie próbujê ciê okraœæ.
+
+319
+00:28:02,557 --> 00:28:04,267
+Próbujê ci pomóc.
+
+320
+00:28:12,734 --> 00:28:16,029
+Przez te wszystkie d³ugie lata
+byliœmy przyjació³mi.
+
+321
+00:28:16,488 --> 00:28:18,573
+Zaufaj mi tak, jak kiedyœ.
+
+322
+00:28:20,450 --> 00:28:22,285
+Pozwól mu odejœæ.
+
+323
+00:28:23,370 --> 00:28:25,830
+Masz racjê, Gandalfie.
+
+324
+00:28:27,916 --> 00:28:30,627
+Pierœcieñ musi trafiæ do Frodo.
+
+325
+00:28:31,961 --> 00:28:34,923
+Ju¿ póŸno, a droga d³uga.
+
+326
+00:28:35,131 --> 00:28:37,634
+Tak, nadszed³ czas.
+
+327
+00:28:40,345 --> 00:28:45,433
+Bilbo... pierœcieñ jest wci¹¿
+w twojej kieszeni.
+
+328
+00:29:20,135 --> 00:29:23,179
+Myœla³em o zakoñczeniu
+do mojej ksi¹¿ki:
+
+329
+00:29:24,806 --> 00:29:29,811
+"I od tej chwili ¿y³ d³ugo i szczêœliwie...
+Do koñca swoich dni."
+
+330
+00:29:30,020 --> 00:29:33,440
+I jestem tego pewny,
+mój drogi przyjacielu.
+
+331
+00:29:34,482 --> 00:29:35,942
+Do widzenia, Gandalfie.
+
+332
+00:29:38,445 --> 00:29:41,322
+Do widzenia, drogi Bilbo.
+
+333
+00:29:49,122 --> 00:29:53,376
+"A droga wiedzie w przód i w przód..."
+
+334
+00:29:55,920 --> 00:29:58,340
+Do naszego nastêpnego spotkania.
+
+335
+00:30:25,658 --> 00:30:29,287
+<i>Jest mój, mój w³asny...</i>
+
+336
+00:30:29,496 --> 00:30:32,957
+<i>Mój sskarb!</i>
+
+337
+00:30:33,208 --> 00:30:36,127
+Zagadki w ciemnoœciach...
+
+338
+00:30:36,336 --> 00:30:37,754
+Bilbo!
+
+339
+00:30:37,962 --> 00:30:39,506
+Bilbo!
+
+340
+00:30:43,134 --> 00:30:46,096
+Mój skarb...
+
+341
+00:30:47,681 --> 00:30:49,891
+Skarb.
+
+342
+00:30:50,100 --> 00:30:52,644
+Odszed³, prawda?
+
+343
+00:30:55,397 --> 00:30:58,483
+Tak d³ugo mówi³ o odejœciu...
+
+344
+00:30:58,692 --> 00:31:01,403
+ale nie s¹dzi³em,
+¿e naprawdê to zrobi.
+
+345
+00:31:05,865 --> 00:31:07,784
+Gandalfie...
+
+346
+00:31:16,042 --> 00:31:17,711
+Pierœcieñ Bilba.
+
+347
+00:31:18,044 --> 00:31:20,422
+Odszed³, by zostaæ z elfami.
+
+348
+00:31:20,922 --> 00:31:24,009
+Zostawi³ ci Bag End.
+
+349
+00:31:27,637 --> 00:31:30,140
+Wraz z ca³ym dobytkiem.
+
+350
+00:31:30,348 --> 00:31:33,268
+Pierœcieñ jest teraz twój.
+
+351
+00:31:35,854 --> 00:31:39,315
+- Schowaj go w ustronnym miejscu.
+- Dok¹d idziesz?
+
+352
+00:31:39,524 --> 00:31:41,776
+- Mam parê spraw do za³atwienia.
+- Jakich?
+
+353
+00:31:41,985 --> 00:31:46,281
+- Pytania... pytania, które wymagaj¹ odpowiedzi.
+- Dopiero co przyjecha³eœ.
+
+354
+00:31:47,157 --> 00:31:49,784
+Nie rozumiem.
+
+355
+00:31:53,079 --> 00:31:54,122
+Ani ja.
+
+356
+00:31:57,375 --> 00:31:59,669
+Trzymaj go w sekrecie.
+
+357
+00:31:59,878 --> 00:32:01,671
+Zaopiekuj siê nim.
+
+358
+00:32:36,664 --> 00:32:38,792
+<i>Shire...</i>
+
+359
+00:32:39,125 --> 00:32:42,212
+<i>Baggins...</i>
+
+360
+00:33:30,760 --> 00:33:33,680
+"Rok 3434 Drugiej Ery.
+
+361
+00:33:33,888 --> 00:33:38,268
+"Oto relacja Isildura,
+najwy¿szego króla Gondoru,
+
+362
+00:33:38,476 --> 00:33:42,147
+dotycz¹ca odnalezienia
+Pierœcienia W³adzy."
+
+363
+00:33:45,650 --> 00:33:47,485
+"Przyszed³ do mnie..."
+
+364
+00:33:47,694 --> 00:33:51,156
+"Jedyny Pierœcieñ, który stanie siê
+dziedzictwem mego królestwa."
+
+365
+00:33:51,364 --> 00:33:54,784
+"Wszyscy, w których ¿y³ach p³ynie moja krew,
+zwi¹zani bêd¹ z jego losem."
+
+366
+00:33:54,993 --> 00:33:58,788
+"Zaryzykujê wszystko,
+¿eby Pierœcieñ nie dozna³ krzywdy."
+
+367
+00:33:58,997 --> 00:34:01,499
+"Jest mi drogi..."
+
+368
+00:34:02,375 --> 00:34:05,003
+"mimo, ¿e p³acê za niego
+cenê wielkiego bólu."
+
+369
+00:34:08,131 --> 00:34:12,344
+"Znaki na pierœcieniu
+zaczynaj¹ bledn¹æ."
+
+370
+00:34:12,677 --> 00:34:17,390
+"Napis, z pocz¹tku wyraŸny
+niczym krwawy p³omieñ, znikn¹³."
+
+371
+00:34:17,599 --> 00:34:21,644
+"Tajemnica, któr¹ tylko ogieñ
+mo¿e wyjawiæ."
+
+372
+00:34:38,161 --> 00:34:41,122
+Shire!
+
+373
+00:34:41,331 --> 00:34:43,333
+Baggins!
+
+374
+00:34:43,833 --> 00:34:47,879
+Tu nie ma Bagginsów.
+S¹ w Hobbitonie.
+
+375
+00:34:49,589 --> 00:34:51,091
+W tamt¹ stronê!
+
+376
+00:34:57,097 --> 00:34:59,265
+"Uleczyæ me serce i utopiæ ¿ale"
+
+377
+00:34:59,474 --> 00:35:01,768
+"Deszcz mo¿e sobie padaæ
+i wiatr wiaæ stale"
+
+378
+00:35:01,976 --> 00:35:03,895
+"Ale wci¹¿ bêdzie"
+
+379
+00:35:04,104 --> 00:35:05,522
+"Wiele mil do przejœcia"
+
+380
+00:35:05,730 --> 00:35:07,649
+"Deszczu ulewnego g³os
+jest bardzo mi³y"
+
+381
+00:35:07,857 --> 00:35:10,026
+"Co strumieniem siê leje
+ze wzgórz na równiny"
+
+382
+00:35:10,276 --> 00:35:12,070
+"Dobry jest deszcz i pluskaj¹cy potok"
+
+383
+00:35:12,278 --> 00:35:14,656
+"Lecz lepszy kufel piwa,
+który trzyma Tuk"
+
 384
-00:35:30,046 --> 00:35:33,717
-Zrobimy to razem.
+00:35:18,118 --> 00:35:20,912
+W Shire widziano dziwne stwory...
 
 385
-00:35:35,635 --> 00:35:40,348
-Straci³em ciê ju¿ dwa razy.
-To siê nie powtórzy.
+00:35:21,371 --> 00:35:25,208
+Krasnoludy i innych,
+z mniej bezpiecznych czêœci Œwiata.
 
 386
-00:35:40,432 --> 00:35:47,230
-Mo¿emy przetrwaæ pó³wieczny
-przeskok czasu i kulê w sercu.
+00:35:25,709 --> 00:35:27,085
+Wojna wisi na w³osku.
 
 387
-00:35:47,355 --> 00:35:50,525
-Co mog³oby nas rozdzieliæ?
+00:35:27,752 --> 00:35:30,630
+Góry a¿ siê roj¹ od goblinów.
 
 388
-00:35:55,447 --> 00:35:56,948
-Kto to zrobi³?
+00:35:30,839 --> 00:35:33,425
+Odleg³e opowieœci i bajki dla dzieci,
+to wszystko.
 
 389
-00:35:57,032 --> 00:35:59,117
-Twój brat, Ray.
+00:35:33,633 --> 00:35:38,096
+Gadasz jak ten stary Bilbo Baggins.
+On by³ stukniêty.
 
 390
-00:36:00,535 --> 00:36:04,539
-- Mówi³em, ¿ebyœcie odpuœcili.
-- Tu nie chodzi o ciebie i mnie.
+00:35:38,304 --> 00:35:41,266
+A oto m³ody pan Frodo,
+te¿ zaczyna bzikowaæ.
 
 391
-00:36:04,622 --> 00:36:07,042
-Wynocha!
+00:35:41,474 --> 00:35:42,851
+I jestem z tego dumny.
 
 392
-00:36:10,045 --> 00:36:13,256
-Pamiêtam ciê.
-By³aœ tam.
+00:35:43,059 --> 00:35:45,311
+- Zdrowie, Gaffer.
+- Zdrowie.
 
 393
-00:36:13,840 --> 00:36:15,717
-Jesteœ jedn¹ z nich.
+00:35:45,520 --> 00:35:49,607
+To nie nasza sprawa,
+co dzieje siê poza naszymi granicami.
 
 394
-00:36:29,230 --> 00:36:31,941
-Mo¿esz iœæ,
-jeœli chcesz.
+00:35:49,816 --> 00:35:54,112
+Trzymaj swój nos z dala od k³opotów,
+a nic ciê z³ego nie spotka.
 
 395
-00:36:33,318 --> 00:36:37,822
-Cokolwiek jest za drzwiami,
-nie jest tak wa¿ne jak...
+00:35:57,490 --> 00:35:59,659
+Do widzenia panom.
+Do widzenia.
 
 396
-00:36:38,448 --> 00:36:40,450
-Zostajê.
+00:35:59,868 --> 00:36:04,330
+Dobranoc, s³odka panno
+od z³otego piwa.
 
 397
-00:39:26,032 --> 00:39:27,951
-Numery wiêŸniów.
+00:36:04,539 --> 00:36:06,875
+Uwa¿aj, komu s³odzisz...
 
 398
-00:39:28,451 --> 00:39:32,330
-To mapa do ich namierzania?
+00:36:07,083 --> 00:36:11,629
+Nie martw siê Samie.
+Ró¿yczka potrafi rozpoznaæ idiotê.
 
 399
-00:39:33,957 --> 00:39:35,917
-Srebro w ich krwi.
+00:36:12,630 --> 00:36:13,840
+Naprawdê?
 
 400
-00:39:36,126 --> 00:39:39,129
-Wygl¹da na ustalone
-miejsca powrotu.
+00:36:14,466 --> 00:36:17,510
+- Dobranoc Samie.
+- Dobranoc, panie Frodo.
 
 401
-00:39:39,254 --> 00:39:42,757
-I to nie tylko San Francisco.
+00:36:42,243 --> 00:36:44,704
+Czy jest ukryty?
+Czy jest bezpieczny?
 
 402
-00:39:45,552 --> 00:39:48,221
-S¹ wszêdzie.
+00:36:53,630 --> 00:36:55,757
+Co robisz?
 
 403
-00:40:02,944 --> 00:40:06,156
-10:47.
-Mason Street.
+00:37:08,353 --> 00:37:12,273
+Wystaw rêkê, Frodo.
+Jest zupe³nie ch³odny.
 
 404
-00:40:06,239 --> 00:40:08,033
-12:22.
+00:37:15,777 --> 00:37:17,570
+Co widzisz?
 
 405
-00:40:08,158 --> 00:40:10,452
-Róg Balboa i Funston.
+00:37:19,322 --> 00:37:21,700
+Widzisz coœ?
 
 406
-00:40:10,618 --> 00:40:12,245
-13:48.
+00:37:24,452 --> 00:37:25,829
+Nic.
 
 407
-00:40:12,328 --> 00:40:15,457
-Prospect Avenue,
-Oakland, California.
+00:37:26,496 --> 00:37:28,456
+Nic nie ma.
 
 408
-00:40:15,540 --> 00:40:17,542
-A niech mnie.
+00:37:29,582 --> 00:37:31,042
+Czekaj...
 
 409
-00:40:17,751 --> 00:40:20,128
-Ka¿de miejsce,
-które dziœ odwiedziliœmy.
+00:37:34,421 --> 00:37:35,755
+<i>Isildur...</i>
 
 410
-00:40:20,253 --> 00:40:23,923
-- Mo¿emy ich namierzyæ.
-- Ty mo¿esz ich namierzyæ.
+00:37:35,797 --> 00:37:37,048
+Jakieœ znaki...
 
 411
-00:40:24,049 --> 00:40:27,552
-Ja bez ciebie
-i twojej nauki...
+00:37:38,842 --> 00:37:42,262
+Jakaœ odmiana jêzyka elfów,
+nie potrafiê tego przeczytaæ.
 
 412
-00:40:27,635 --> 00:40:30,430
-Moje najlepsze intencje
-nie zamieni¹ wody w wino.
+00:37:42,512 --> 00:37:45,056
+Jest kilku, którzy potrafi¹.
 
 413
-00:40:30,638 --> 00:40:34,517
-Woda.
-Eliksir ¿ycia.
+00:37:45,640 --> 00:37:50,437
+To jêzyk Mordoru,
+którego nie chcê tutaj u¿ywaæ.
 
 414
-00:40:37,437 --> 00:40:39,147
-Dobrze wygl¹da.
+00:37:51,104 --> 00:37:52,105
+Mordor!
 
 415
-00:40:39,647 --> 00:40:41,358
-Lepiej ni¿ dobrze.
+00:37:52,397 --> 00:37:54,399
+We Wspólnej Mowie
+jest tam napisane:
 
 416
-00:40:42,025 --> 00:40:47,739
-- Sk¹d pan wiedzia³, ¿e prze¿yjê?
-- Mia³em ciê na oku od 1952.
+00:37:54,607 --> 00:37:58,111
+"Jeden pierœcieñ, by wszystkimi rz¹dziæ...
 
 417
-00:40:47,947 --> 00:40:50,325
-Te¿ by³ pan w Korei?
+00:37:58,319 --> 00:38:00,655
+Jeden, by wszystkie odnaleŸæ...
 
 418
-00:40:51,534 --> 00:40:57,457
-- Co to za miejsce?
-- To twoja przysz³oœæ.
+00:38:00,864 --> 00:38:03,074
+Jeden, by wszystkie zgromadziæ...
 
 419
-00:40:57,624 --> 00:41:00,627
-Bêdzie pan naszym
-wysuniêtym cz³owiekiem.
+00:38:03,324 --> 00:38:06,369
+i w ciemnoœci zwi¹zaæ."
 
 420
-00:41:00,835 --> 00:41:04,422
-W armii to goœcie,
-którzy pierwsi dostaj¹ kulki.
+00:38:07,996 --> 00:38:10,040
+To jest Jedyny Pierœcieñ...
 
 421
-00:41:04,547 --> 00:41:07,550
-- Zatem mamy umowê.
-- Ale¿ oczywiœcie.
+00:38:10,248 --> 00:38:13,585
+Pierœcieñ,
+wykuty przez W³adcê Ciemnoœci, Saurona,
 
 422
-00:41:07,634 --> 00:41:11,721
-- Odsiadujê do¿ywocie.
-- A gdybym powiedzia³,
+00:38:13,626 --> 00:38:15,670
+w ogniach Góry Przeznaczenia.
 
 423
-00:41:11,846 --> 00:41:15,934
-¿e za trzy lata
-pan wyjdzie?
+00:38:15,712 --> 00:38:19,758
+Zabrany przez Isildura
+z rêki samego Saurona.
 
 424
-00:41:18,436 --> 00:41:20,021
-Wolny?
+00:38:20,508 --> 00:38:23,094
+Bilbo go znalaz³...
 
 425
-00:41:50,343 --> 00:41:52,637
-Jest tam kto?
+00:38:23,511 --> 00:38:25,472
+- W jaskini Golluma.
+- Tak.
 
 426
-00:42:03,940 --> 00:42:05,525
-Madsen?
+00:38:25,680 --> 00:38:30,226
+Przez 60 lat Pierœcieñ
+spoczywa³ w spokoju u Bilba...
 
 427
-00:42:06,526 --> 00:42:09,320
-Nie, jestem Hauser.
+00:38:30,435 --> 00:38:33,813
+wyd³u¿aj¹c mu ¿ycie,
+opóŸniaj¹c nadejœcie staroœci...
 
 428
-00:42:24,127 --> 00:42:26,046
-Jaki mamy rok?
+00:38:34,481 --> 00:38:38,860
+Ale ju¿ ani chwili d³u¿ej, Frodo.
+Z³o obudzi³o siê w Mordorze.
 
 429
-00:42:26,546 --> 00:42:29,132
-2012.
+00:38:39,069 --> 00:38:41,488
+Pierœcieñ siê przebudzi³.
 
 430
-00:42:45,732 --> 00:42:47,317
-Migotanie komór.
+00:38:41,696 --> 00:38:44,449
+Us³ysza³ wo³anie swojego Pana.
 
 431
-00:42:47,442 --> 00:42:49,444
-£aduj, 360.
+00:38:44,657 --> 00:38:48,536
+Ale on zosta³ zniszczony!
+Sauron zosta³ zniszczony!
 
 432
-00:42:49,944 --> 00:42:52,030
-- Uwaga.
-- 50 miligramów lidokainy.
+00:38:54,250 --> 00:38:56,336
+Nie, Frodo.
 
 433
-00:42:56,951 --> 00:42:58,953
-- Uwaga.
-- Brak akcji serca.
+00:38:57,295 --> 00:39:00,590
+Duch Saurona przetrwa³.
 
 434
-00:42:59,037 --> 00:43:01,748
-Asystolia potwierdzona.
+00:39:00,799 --> 00:39:06,137
+Jego si³y witalne s¹ powi¹zane
+z Pierœcieniem, a ten przetrwa³.
 
 435
-00:43:02,248 --> 00:43:05,043
-Zg³oœcie to.
+00:39:06,388 --> 00:39:09,015
+Sauron powróci³.
 
 436
-00:43:05,126 --> 00:43:07,128
-Zapisaæ czas.
+00:39:09,516 --> 00:39:11,601
+Jego orkowie rozmno¿yli siê.
 
 437
-00:43:10,840 --> 00:43:15,053
-.:: GrupaHatak.pl ::.
->> Release24.pl <<
+00:39:11,810 --> 00:39:15,814
+Jego twierdza, Barad-dur,
+zosta³a odbudowana w krainie Mordor.
 
 438
-00:43:17,055 --> 00:43:20,016
+00:39:16,022 --> 00:39:20,819
+Sauron potrzebuje tylko tego Pierœcienia,
+by okryæ wszystkie krainy drug¹ fal¹ Ciemnoœci.
+
+439
+00:39:21,027 --> 00:39:23,071
+Poszukuje go...
+
+440
+00:39:23,279 --> 00:39:27,158
+Ka¿da jego myœl jest na nim skupiona.
+
+441
+00:39:27,367 --> 00:39:33,665
+Pierœcieñ pragnie ponad wszystko
+wróciæ do rêki swego Pana.
+
+442
+00:39:33,915 --> 00:39:35,667
+S¹ jednoœci¹...
+
+443
+00:39:35,875 --> 00:39:38,962
+Pierœcieñ i W³adca Ciemnoœci.
+
+444
+00:39:39,170 --> 00:39:44,050
+- Frodo, Sauron nie mo¿e go znaleŸæ.
+- W takim razie schowamy go!
+
+445
+00:39:44,217 --> 00:39:48,513
+Ukryjemy go i nie bêdziemy
+nigdy o nim mówiæ.
+
+446
+00:39:48,722 --> 00:39:51,391
+Nikt nie wie,
+¿e on tu jest, prawda?
+
+447
+00:39:57,063 --> 00:39:58,273
+Prawda, Gandalfie?
+
+448
+00:39:59,315 --> 00:40:02,736
+Jest jeszcze ktoœ,
+kto wie, ¿e Bilbo mia³ Pierœcieñ.
+
+449
+00:40:03,945 --> 00:40:06,990
+Szuka³em wszêdzie stwora
+zwanego Gollumem,
+
+450
+00:40:07,198 --> 00:40:09,325
+ale wróg odnalaz³ go pierwszy.
+
+451
+00:40:11,077 --> 00:40:13,538
+<i>Nie wiem, jak d³ugo go torturowali.</i>
+
+452
+00:40:13,747 --> 00:40:18,209
+<i>Ale pomiêdzy niekoñcz¹cymi siê krzykami</i>
+<i>i bulgotaniem wychwycili dwa s³owa:</i>
+
+453
+00:40:18,418 --> 00:40:20,545
+<i>Shire!</i>
+
+454
+00:40:20,754 --> 00:40:22,380
+<i>Baggins!</i>
+
+455
+00:40:22,589 --> 00:40:24,382
+Shire.
+
+456
+00:40:24,591 --> 00:40:27,469
+Baggins.
+To ich doprowadzi tutaj!
+
+457
+00:40:30,221 --> 00:40:31,348
+Kogo diabli nios¹?
+
+458
+00:40:33,099 --> 00:40:34,309
+WeŸ go, Gandalfie!
+
+459
+00:40:34,642 --> 00:40:35,727
+- WeŸ go!
+- Nie, Frodo.
+
+460
+00:40:35,935 --> 00:40:38,313
+- Musisz go wzi¹æ!
+- Nie mo¿esz oferowaæ mi Pierœcienia.
+
+461
+00:40:38,521 --> 00:40:41,858
+- Dajê ci go!
+- Nie kuœ mnie, Frodo!
+
+462
+00:40:43,401 --> 00:40:48,406
+Nie oœmielê siê go wzi¹æ.
+Nawet po to, ¿eby go ukryæ.
+
+463
+00:40:49,491 --> 00:40:51,534
+Zrozum, Frodo.
+
+464
+00:40:52,202 --> 00:40:55,830
+U¿y³bym tego Pierœcienia
+z pragnienia czynienia dobra...
+
+465
+00:41:01,252 --> 00:41:05,965
+ale przeze mnie zdoby³by on
+moc tak wielk¹ i straszn¹,
+
+466
+00:41:06,007 --> 00:41:07,509
+¿e trudno j¹ sobie wyobraziæ.
+
+467
+00:41:07,550 --> 00:41:10,470
+- Ale nie mo¿e zostaæ w Shire!
+- Nie!
+
+468
+00:41:12,347 --> 00:41:13,973
+Nie mo¿e.
+
+469
+00:41:19,312 --> 00:41:20,689
+Co mam zrobiæ?
+
+470
+00:41:22,357 --> 00:41:25,902
+- Musisz wyjechaæ. I to szybko.
+- Dok¹d? Gdzie pojadê?
+
+471
+00:41:26,111 --> 00:41:29,364
+Z dala od Shire'u.
+Kieruj siê w stronê wioski Bree.
+
+472
+00:41:29,656 --> 00:41:30,740
+Bree.
+
+473
+00:41:30,949 --> 00:41:33,702
+- A co z tob¹?
+- Bêdê na ciebie czeka³
+
+474
+00:41:33,910 --> 00:41:36,371
+w gospodzie
+"Pod Rozbrykanym Kucykiem".
+
+475
+00:41:36,579 --> 00:41:40,250
+- Pierœcieñ bêdzie tam bezpieczny?
+- Nie wiem, Frodo.
+
+476
+00:41:40,500 --> 00:41:42,502
+Nie mam ¿adnych odpowiedzi.
+
+477
+00:41:44,004 --> 00:41:49,551
+Muszê zobaczyæ siê z Przewodnicz¹cym mej Rady.
+Jest m¹dry i potê¿ny.
+
+478
+00:41:49,759 --> 00:41:51,886
+Bêdzie wiedzia³, co czyniæ.
+
+479
+00:41:52,512 --> 00:41:55,348
+Bêdziesz musia³ porzuciæ
+nazwisko Baggins.
+
+480
+00:41:55,557 --> 00:41:58,018
+Nie jest bezpieczne
+poza granicami Shire'u.
+
+481
+00:41:58,727 --> 00:42:01,980
+Podró¿uj tylko za dnia.
+I trzymaj siê z dala od traktu.
+
+482
+00:42:02,689 --> 00:42:05,859
+Potrafiê podró¿owaæ przez kraj
+dostatecznie ³atwo.
+
+483
+00:42:08,361 --> 00:42:09,654
+Mój drogi Frodo...
+
+484
+00:42:09,988 --> 00:42:12,991
+Hobbici s¹ naprawdê
+niesamowitymi stworzeniami.
+
+485
+00:42:13,199 --> 00:42:16,119
+Mo¿esz dowiedzieæ siê o nich wszystkiego
+w ci¹gu miesi¹ca,
+
+486
+00:42:16,327 --> 00:42:20,874
+ale nawet po stu latach
+bêd¹ potrafili ciê czymœ zaskoczyæ.
+
+487
+00:42:22,542 --> 00:42:23,835
+Na ziemiê!
+
+488
+00:42:36,056 --> 00:42:39,517
+A niech ciê, Samwise Gamgee!
+Pods³uchiwa³eœ?!
+
+489
+00:42:39,768 --> 00:42:44,189
+Nie pods³uchiwa³em, proszê pana.
+Œcina³em trawê pod oknem.
+
+490
+00:42:44,439 --> 00:42:46,816
+Czy to aby nie za póŸno
+na przycinanie trawnika?
+
+491
+00:42:47,067 --> 00:42:49,861
+- Us³ysza³em podniesione g³osy.
+- Co s³ysza³eœ?! Mów!
+
+492
+00:42:50,070 --> 00:42:51,196
+Nic... wa¿nego...
+
+493
+00:42:51,738 --> 00:42:55,825
+Jakieœ tam rzeczy o Pierœcieniu...
+W³adcy Ciemnoœci i coœ o koñcu œwiata, ale...
+
+494
+00:42:56,034 --> 00:42:58,495
+proszê, panie Gandalfie,
+niech mnie pan nie krzywdzi.
+
+495
+00:42:58,536 --> 00:43:01,456
+Niech mnie pan nie przemienia
+w jakiegoœ... cudaka.
+
+496
+00:43:01,498 --> 00:43:03,124
+Nie?
+
+497
+00:43:04,334 --> 00:43:05,460
+Mo¿e nie...
+
+498
+00:43:06,711 --> 00:43:10,131
+Pomyœla³em o tym,
+aby zrobiæ z ciebie lepszy po¿ytek.
+
+499
+00:43:11,883 --> 00:43:14,886
+ChodŸ, Samwise, ¿wawo.
+
+500
+00:43:16,388 --> 00:43:18,598
+Uwa¿ajcie obaj.
+
+501
+00:43:18,890 --> 00:43:21,643
+wróg ma wielu szpiegów
+na swojej s³u¿bie.
+
+502
+00:43:21,893 --> 00:43:24,813
+Ptaki, bestie.
+
+503
+00:43:26,564 --> 00:43:28,400
+Jest bezpieczny?
+
+504
+00:43:29,818 --> 00:43:34,239
+Nigdy go nie zak³adaj.
+Przyci¹ga s³ugi W³adcy Ciemnoœci.
+
+505
+00:43:35,240 --> 00:43:36,741
+Zawsze pamiêtaj, Frodo...
+
+506
+00:43:37,242 --> 00:43:40,412
+Pierœcieñ próbuje
+wróciæ do swojego Pana.
+
+507
+00:43:40,787 --> 00:43:42,914
+Pragnie, by go odnaleŸæ.
+
+508
+00:44:23,496 --> 00:44:28,084
+- To tutaj.
+- Co takiego?
+
+509
+00:44:28,501 --> 00:44:30,587
+Jeœli postawiê jeszcze krok...
+
+510
+00:44:31,087 --> 00:44:34,966
+znajdê siê tak daleko od domu,
+jak jeszcze nigdy dot¹d.
+
+511
+00:44:39,179 --> 00:44:40,680
+ChodŸ, Samie.
+
+512
+00:44:49,147 --> 00:44:50,982
+Pamiêtasz, co zwyk³ mawiaæ Bilbo?
+
+513
+00:44:51,524 --> 00:44:55,278
+<i>"To niebezpieczna rzecz Frodo,</i>
+<i>wychodziæ poza w³asny próg.</i>
+
+514
+00:44:55,487 --> 00:44:59,908
+<i>Wchodzisz na drogê i jeœli</i>
+<i>nie powstrzymasz swoich stóp,</i>
+
+515
+00:45:00,116 --> 00:45:04,287
+<i>...nigdy nie wiadomo, gdzie ciê ponios¹."</i>
+
+516
+00:45:18,134 --> 00:45:19,969
+Samie.
+
+517
+00:45:23,431 --> 00:45:24,557
+Leœne elfy.
+
+518
+00:45:38,279 --> 00:45:44,119
+Udaj¹ siê do Szarych Przystani
+za Bia³ymi Wie¿ami...
+
+519
+00:45:44,703 --> 00:45:49,124
+Opuszczaj¹ Œródziemie
+aby ju¿ nigdy nie wróciæ.
+
+520
+00:45:52,043 --> 00:45:54,129
+Nie wiem czemu,
+ale wzbudza to we mnie smutek.
+
+521
+00:45:59,259 --> 00:46:03,930
+Wszêdzie, gdzie le¿ê, znajdzie siê brudny,
+wielki korzeñ wbijaj¹cy siê w moje plecy.
+
+522
+00:46:04,639 --> 00:46:06,349
+Zamknij oczy
+i wyobraŸ sobie ³ó¿ko,
+
+523
+00:46:09,519 --> 00:46:13,440
+z miêkkim materacem
+i œliczn¹, puchow¹ poduszk¹.
+
+524
+00:46:22,741 --> 00:46:25,410
+To nie dzia³a, panie Frodo.
+
+525
+00:46:25,618 --> 00:46:28,496
+Nigdy nie bêdê w stanie tu zasn¹æ.
+
+526
+00:46:30,832 --> 00:46:33,209
+Ja te¿ nie, Samie.
+
+527
+00:47:01,696 --> 00:47:04,699
+<i>Dym unosi siê nad Gór¹ Przeznaczenia.</i>
+
+528
+00:47:04,949 --> 00:47:06,576
+<i>Czasu zosta³o coraz mniej.</i>
+
+529
+00:47:06,785 --> 00:47:10,372
+<i>A Gandalf Szary</i>
+<i>przybywa do Isengardu,</i>
+
+530
+00:47:10,580 --> 00:47:12,957
+<i>szukaj¹c mojej rady.</i>
+
+531
+00:47:13,208 --> 00:47:17,128
+Po ni¹ przyby³eœ... nieprawda¿?
+
+532
+00:47:17,379 --> 00:47:20,465
+- Mój stary przyjacielu.
+ - Sarumanie...
+
+533
+00:47:25,345 --> 00:47:28,306
+- Jesteœ tego pewien?
+- Nie mam ¿adnych w¹tpliwoœci.
+
+534
+00:47:29,182 --> 00:47:31,393
+Wiêc Pierœcieñ W³adzy
+zosta³ odnaleziony.
+
+535
+00:47:31,643 --> 00:47:34,813
+Przez te wszystkie,
+d³ugie lata by³ w Shire.
+
+536
+00:47:35,063 --> 00:47:36,815
+Pod moim w³asnym nosem.
+
+537
+00:47:36,856 --> 00:47:38,775
+NajwyraŸniej nie by³eœ
+na tyle bystry, by to zauwa¿yæ.
+
+538
+00:47:38,817 --> 00:47:43,238
+Twoje uwielbienie do hobbickiego
+fajkowego ziela przyæmi³o ci umys³.
+
+539
+00:47:43,988 --> 00:47:48,118
+Nadal mamy wystarczaj¹co czasu,
+by pokonaæ Saurona, jeœli zadzia³amy szybko.
+
+540
+00:47:48,326 --> 00:47:49,828
+Czas?
+
+541
+00:47:50,787 --> 00:47:53,415
+Jaki czas mamy, wed³ug ciebie?
+
+542
+00:47:53,832 --> 00:47:57,669
+Sauron odzyska³ wiele
+ze swojej dawnej si³y.
+
+543
+00:47:57,877 --> 00:48:00,088
+Jeszcze nie mo¿e przybraæ
+materialnej postaci,
+
+544
+00:48:00,296 --> 00:48:03,008
+ale jego duch
+nie utraci³ nic ze swej mocy.
+
+545
+00:48:03,675 --> 00:48:08,763
+Ukryty w swej twierdzy,
+W³adca Mordoru widzi wszystko.
+
+546
+00:48:09,305 --> 00:48:15,270
+Jego wzrok przeszywa chmury, cienie,
+wnêtrze ziemi... i cia³o.
+
+547
+00:48:16,771 --> 00:48:19,899
+Wiesz o czym mówiê, Gandalfie.
+
+548
+00:48:20,817 --> 00:48:26,072
+Wielkie Oko, bez powiek,
+spowite ogniem.
+
+549
+00:48:27,032 --> 00:48:28,825
+Oko Saurona...
+
+550
+00:48:29,034 --> 00:48:31,619
+Gromadzi wokó³ siebie ca³e z³o.
+
+551
+00:48:32,037 --> 00:48:33,955
+Ju¿ wkrótce przyzwie armiê.
+
+552
+00:48:34,122 --> 00:48:36,916
+Wystarczaj¹co wielk¹,
+by najechaæ Œródziemie.
+
+553
+00:48:37,250 --> 00:48:41,087
+Sk¹d o tym wiesz?
+
+554
+00:48:42,255 --> 00:48:43,923
+Ujrza³em to.
+
+555
+00:48:44,341 --> 00:48:47,552
+Palantír to niebezpieczne narzêdzie,
+Sarumanie.
+
+556
+00:48:48,261 --> 00:48:49,763
+Dlaczego?
+
+557
+00:48:50,221 --> 00:48:52,932
+Dlaczego mielibyœmy
+obawiaæ siê u¿ycia go?
+
+558
+00:48:55,560 --> 00:48:59,522
+Nie odnaleziono wszystkich
+Kamieni Widzenia.
+
+559
+00:48:59,731 --> 00:49:02,942
+Nie wiemy, kto jeszcze
+mo¿e przez nie patrzeæ.
+
+560
+00:49:05,528 --> 00:49:08,239
+Jest póŸniej ni¿ myœlisz.
+
+561
+00:49:08,448 --> 00:49:10,784
+Si³y Saurona ju¿ siê przemieszczaj¹.
+
+562
+00:49:13,036 --> 00:49:15,789
+Dziewiêciu opuœci³o Minas Morgul.
+
+563
+00:49:16,164 --> 00:49:17,207
+Dziewiêciu?
+
+564
+00:49:17,415 --> 00:49:20,418
+Przekroczyli Isenê
+w przededniu przesilenia letniego.
+
+565
+00:49:20,627 --> 00:49:23,296
+Przybrali postaæ Czarnych JeŸdŸców.
+
+566
+00:49:23,505 --> 00:49:27,467
+- Dotarli do Shire?
+- Znajd¹ Pierœcieñ
+
+567
+00:49:29,094 --> 00:49:31,304
+i zabij¹ tego, który go nosi.
+
+568
+00:49:31,805 --> 00:49:33,306
+Frodo!
+
+569
+00:49:45,902 --> 00:49:50,323
+Nie myœlisz chyba powa¿nie, ¿e hobbit
+móg³by zmagaæ siê z wol¹ Saurona?
+
+570
+00:49:51,074 --> 00:49:53,868
+Nie ma takiego,
+który by to potrafi³.
+
+571
+00:49:56,371 --> 00:50:01,751
+Przeciwko potêdze Mordoru
+nie mo¿na odnieœæ zwyciêstwa.
+
+572
+00:50:03,878 --> 00:50:07,048
+Musimy siê z nim sprzymierzyæ,
+Gandalfie.
+
+573
+00:50:08,341 --> 00:50:10,677
+Musimy siê po³¹czyæ z Sauronem.
+
+574
+00:50:13,346 --> 00:50:16,016
+To bêdzie najm¹drzejsze,
+mój przyjacielu.
+
+575
+00:50:16,474 --> 00:50:19,102
+Powiedz mi... przyjacielu,
+
+576
+00:50:20,186 --> 00:50:24,733
+kiedy Saruman M¹dry
+porzuci³ rozs¹dek dla szaleñstwa?
+
+577
+00:51:04,230 --> 00:51:05,940
+Da³em ci szansê...
+
+578
+00:51:07,067 --> 00:51:09,694
+abyœ przy³¹czy³ siê do mnie dobrowolnie...
+
+579
+00:51:09,903 --> 00:51:14,074
+ale ty wybra³eœ...
+drogê bólu i cierpienia!
+
+580
+00:51:37,389 --> 00:51:38,848
+Panie Frodo?!
+
+581
+00:51:39,474 --> 00:51:41,267
+Frodo? Frodo!
+
+582
+00:51:42,686 --> 00:51:45,855
+- Myœla³em, ¿e ciê zgubi³em.
+- O czym ty mówisz?
+
+583
+00:51:46,106 --> 00:51:49,109
+- Chodzi o to, co Gandalf powiedzia³.
+- Co powiedzia³?
+
+584
+00:51:49,943 --> 00:51:53,780
+<i>"Tylko go nie zgub Samwise Gamgee."</i>
+I nie zamierzam.
+
+585
+00:51:54,072 --> 00:51:57,659
+Samie, wci¹¿ jeszcze jesteœmy w Shire,
+co mog³oby siê wydarzyæ?
+
+586
+00:52:00,662 --> 00:52:01,663
+Frodo.
+
+587
+00:52:01,955 --> 00:52:04,165
+- Merry, to Frodo Baggins.
+- Witaj, Frodo.
+
+588
+00:52:04,416 --> 00:52:05,792
+Z³aŸ z niego!
+
+589
+00:52:06,292 --> 00:52:07,711
+- ChodŸ, Frodo.
+ - Co to ma znaczyæ?
+
+590
+00:52:10,296 --> 00:52:13,341
+Byliœcie w uprawach Maggota!
+
+591
+00:52:14,551 --> 00:52:16,636
+Wracajcie!
+
+592
+00:52:17,303 --> 00:52:19,097
+Wracajcie natychmiast!
+Wynoœcie siê z moich pól!
+
+593
+00:52:19,139 --> 00:52:21,975
+Ujrzycie samego diab³a,
+gdy was dopadnê!
+
+594
+00:52:22,183 --> 00:52:25,103
+Nie wiem, dlaczego tak siê wœcieka.
+To tylko kilka marchewek.
+
+595
+00:52:25,311 --> 00:52:26,396
+I kilka kapust.
+
+596
+00:52:26,604 --> 00:52:29,524
+I te trzy worki ziemniaków,
+które wynieœliœmy w zesz³ym tygodniu.
+
+597
+00:52:29,774 --> 00:52:33,778
+- I pieczarki tydzieñ wczeœniej.
+- Tak, Pippin, chodzi mi o to...
+
+598
+00:52:33,987 --> 00:52:36,156
+¿e on najwyraŸniej
+jest przewra¿liwiony.
+
+599
+00:52:36,364 --> 00:52:37,866
+Biegnij!
+
+600
+00:52:51,338 --> 00:52:53,882
+By³o blisko.
+
+601
+00:52:54,966 --> 00:52:58,094
+Myœlê, ¿e coœ sobie z³ama³em...
+
+602
+00:52:59,095 --> 00:53:01,431
+Zaufaj Brandybuckowi i Tukowi.
+
+603
+00:53:01,639 --> 00:53:05,268
+No co?
+To by³a tylko droga na prze³aj, skrót.
+
+604
+00:53:05,477 --> 00:53:07,729
+- Skrót do czego?
+- Pieczarki!
+
+605
+00:53:16,488 --> 00:53:17,989
+Ta jest moja.
+
+606
+00:53:20,742 --> 00:53:24,871
+- Ta jest niez³a, Merry.
+ - Tu roœnie ca³kiem ³adna, Samie.
+
+607
+00:53:25,121 --> 00:53:27,665
+Myœlê, ¿e powinniœmy zejœæ z drogi.
+
+608
+00:53:36,841 --> 00:53:39,928
+ZejdŸcie z drogi!
+Szybko!
+
+609
+00:53:52,607 --> 00:53:54,109
+B¹dŸcie cicho!
+
+610
+00:55:00,425 --> 00:55:02,594
+Co to by³o?
+
+611
+00:55:35,293 --> 00:55:36,795
+Widzisz coœ?
+
+612
+00:55:37,462 --> 00:55:38,963
+Nic.
+
+613
+00:55:39,673 --> 00:55:41,966
+Co siê dzieje?
+
+614
+00:55:42,509 --> 00:55:46,262
+Ten Czarny JeŸdziec czegoœ szuka³...
+albo kogoœ...
+
+615
+00:55:47,639 --> 00:55:49,140
+Frodo?
+
+616
+00:55:49,808 --> 00:55:50,809
+Padnij!
+
+617
+00:56:07,784 --> 00:56:09,994
+Muszê opuœciæ Shire.
+
+618
+00:56:10,995 --> 00:56:13,289
+Sam i ja musimy dostaæ siê do Bree.
+
+619
+00:56:13,498 --> 00:56:14,958
+Dobra.
+
+620
+00:56:16,334 --> 00:56:18,545
+Do promu Buckleburry, za mn¹.
+
+621
+00:56:26,886 --> 00:56:28,179
+Biegnij!
+
+622
+00:56:29,431 --> 00:56:31,391
+Têdy, za mn¹!
+
+623
+00:56:35,020 --> 00:56:36,021
+Biegnij!
+
+624
+00:56:49,367 --> 00:56:51,077
+Uwolnij cumê, Samie!
+
+625
+00:56:53,747 --> 00:56:55,290
+Frodo!
+
+626
+00:56:55,999 --> 00:56:57,375
+Biegnij Frodo!
+
+627
+00:56:57,751 --> 00:56:58,793
+Biegnij!
+Szybciej!
+
+628
+00:56:59,044 --> 00:57:01,629
+Pospiesz siê!
+
+629
+00:57:02,589 --> 00:57:04,591
+Dalej! Szybciej!
+Skacz!
+
+630
+00:57:19,522 --> 00:57:23,735
+- Jak daleko do nastêpnej przeprawy?
+- Most na Brandywinie, 20 mil.
+
+631
+00:57:38,333 --> 00:57:39,834
+ChodŸcie.
+
+632
+00:57:51,012 --> 00:57:53,056
+Czego chcecie?
+
+633
+00:57:53,098 --> 00:57:55,141
+Zmierzamy do gospody
+"Pod Rozbrykanym Kucykiem".
+
+634
+00:57:57,936 --> 00:58:00,772
+Hobbici?
+Czterej hobbici.
+
+635
+00:58:00,980 --> 00:58:04,943
+Z Shire'u, wnioskuj¹c po akcencie.
+Co was sprowadza do Bree?
+
+636
+00:58:05,443 --> 00:58:08,530
+Chcielibyœmy siê zatrzymaæ w gospodzie.
+A dlaczego, to nasza sprawa.
+
+637
+00:58:09,698 --> 00:58:12,200
+W porz¹dku, paniczu,
+nie chcia³em pana obraziæ.
+
+638
+00:58:12,409 --> 00:58:14,911
+Moim obowi¹zkiem jest zadawanie pytañ
+po zapadniêciu zmroku.
+
+639
+00:58:15,120 --> 00:58:17,956
+Krêc¹ siê tu dziwni ludzie na granicy.
+
+640
+00:58:18,164 --> 00:58:20,333
+Nigdy zbyt wiele ostro¿noœci.
+
+641
+00:58:40,020 --> 00:58:43,523
+Z drogi!
+Uwa¿aj, jak chodzisz.
+
+642
+00:58:48,111 --> 00:58:50,280
+"POD ROZBRYKANYM KUCYKIEM"
+
+643
+00:59:07,547 --> 00:59:09,174
+Przepraszam...
+
+644
+00:59:10,216 --> 00:59:12,969
+Dobry wieczór mali panowie,
+co mogê dla was zrobiæ?
+
+645
+00:59:13,178 --> 00:59:17,640
+Jeœli szukacie noclegu,
+mam kilka mi³ych, przytulnych pokoików,
+
+646
+00:59:17,682 --> 00:59:19,434
+zbudowanych
+specjalnie dla hobbitów.
+
+647
+00:59:19,476 --> 00:59:24,147
+Zawsze jestem dumny, kiedy mogê
+zaspokoiæ potrzeby Ma³ych Ludzi... Panie...
+
+648
+00:59:25,231 --> 00:59:27,275
+Underhill...
+Nazywam siê Underhill.
+
+649
+00:59:28,526 --> 00:59:31,029
+- Underhill, tak.
+- Jesteœmy przyjació³mi Gandalfa Szarego,
+
+650
+00:59:31,237 --> 00:59:34,407
+- Powiadomi go pan, ¿e przyjechaliœmy?
+- Gandalf...?
+
+651
+00:59:34,824 --> 00:59:36,576
+Gandalf.
+
+652
+00:59:37,369 --> 00:59:39,079
+A, tak...
+
+653
+00:59:39,287 --> 00:59:44,668
+pamiêtam, starszy goœæ,
+d³uga szara broda i spiczasty kapelusz.
+
+654
+00:59:45,043 --> 00:59:46,878
+Nie widzia³em go od 6 miesiêcy.
+
+655
+00:59:53,677 --> 00:59:54,969
+Co teraz zrobimy?
+
+656
+01:00:02,185 --> 01:00:03,395
+Samie...
+
+657
+01:00:03,603 --> 01:00:05,480
+Przybêdzie tu, przyjedzie.
+
+658
+01:00:08,233 --> 01:00:10,318
+Z drogi!
+
+659
+01:00:12,696 --> 01:00:14,364
+Co to?
+
+660
+01:00:14,572 --> 01:00:17,075
+To mój przyjacielu...
+jest du¿e piwo.
+
+661
+01:00:17,283 --> 01:00:18,910
+Lej¹ tu takie?
+
+662
+01:00:19,285 --> 01:00:22,997
+- Idê po jedno.
+- Przecie¿ masz ju¿ piwo!
+
+663
+01:00:29,337 --> 01:00:33,174
+Ten goœæ nie spuszcza ciê z oka,
+odk¹d przybyliœmy.
+
+664
+01:00:36,720 --> 01:00:38,221
+Przepraszam.
+
+665
+01:00:40,015 --> 01:00:43,018
+Kim jest mê¿czyzna w k¹cie?
+
+666
+01:00:44,185 --> 01:00:48,565
+To jeden ze Stra¿ników.
+S¹ niebezpieczni, w³ócz¹ siê po dziczy.
+
+667
+01:00:48,857 --> 01:00:53,361
+Nie znam jego prawdziwego imienia,
+ale w okolicy znany jest jako Obie¿yœwiat.
+
+668
+01:00:55,739 --> 01:00:56,906
+Obie¿yœwiat.
+
+669
+01:01:10,003 --> 01:01:13,173
+<i>Baggins.</i>
+
+670
+01:01:16,676 --> 01:01:18,219
+<i>Baggins.</i>
+
+671
+01:01:30,565 --> 01:01:33,568
+Baggins?
+Jasne, ¿e znam Bagginsa.
+
+672
+01:01:33,610 --> 01:01:36,446
+Jest tam!
+Frodo Baggins.
+
+673
+01:01:36,654 --> 01:01:39,657
+Jest pierwszym synem drugiego kuzyna
+od strony jego matki,
+
+674
+01:01:39,908 --> 01:01:42,118
+i moim kuzynem
+w trzecim stopniu pokrewieñstwa.
+
+675
+01:01:46,664 --> 01:01:48,458
+- Pippin!
+- Spokojnie, Frodo!
+
+676
+01:02:17,946 --> 01:02:20,407
+<i>Nie ukryjesz siê...</i>
+
+677
+01:02:23,368 --> 01:02:26,496
+<i>Widzê ciê.</i>
+
+678
+01:02:28,206 --> 01:02:30,875
+<i>Nie ma ¿ycia...</i>
+
+679
+01:02:31,084 --> 01:02:33,253
+<i>w pustce.</i>
+
+680
+01:02:33,461 --> 01:02:34,963
+<i>Tylko...</i>
+
+681
+01:02:35,880 --> 01:02:37,382
+<i>œmieræ.</i>
+
+682
+01:02:43,388 --> 01:02:48,268
+Œci¹gasz na siebie zbyt wiele uwagi,
+panie Underhill.
+
+683
+01:02:52,897 --> 01:02:53,940
+Czego chcesz?
+
+684
+01:02:54,107 --> 01:02:56,568
+Nieco wiêcej ostro¿noœci z twojej strony.
+Nie nosisz b³yskotki.
+
+685
+01:02:56,609 --> 01:02:59,612
+- Nic nie noszê.
+- W rzeczy samej.
+
+686
+01:02:59,904 --> 01:03:02,407
+Mogê pozostaæ niezauwa¿ony,
+jeœli tego chcê...
+
+687
+01:03:02,615 --> 01:03:06,327
+ale znikn¹æ ca³kowicie?
+To rzadki dar.
+
+688
+01:03:06,828 --> 01:03:09,456
+- Kim jesteœ?
+- Boisz siê?
+
+689
+01:03:10,623 --> 01:03:11,666
+Tak.
+
+690
+01:03:11,875 --> 01:03:15,795
+NajwyraŸniej niewystarczaj¹co.
+Wiem, co ciê œciga.
+
+691
+01:03:19,799 --> 01:03:22,344
+Puœæ go!
+Albo bêdziesz mia³ ze mn¹ do czynienia!
+
+692
+01:03:24,012 --> 01:03:28,099
+Macie niez³omne serca jak na hobbitów.
+Ale to was nie ocali.
+
+693
+01:03:28,308 --> 01:03:31,227
+Nie mo¿esz d³u¿ej czekaæ
+na czarodzieja, Frodo.
+
+694
+01:03:31,436 --> 01:03:32,520
+Oni nadchodz¹.
+
+695
+01:04:56,104 --> 01:04:57,605
+Kim oni s¹?
+
+696
+01:04:59,774 --> 01:05:04,320
+Niegdyœ byli ludŸmi,
+wielkimi królami.
+
+697
+01:05:04,821 --> 01:05:07,991
+Potem Sauron Podstêpny
+da³ im dziewiêæ Pierœcieni W³adzy.
+
+698
+01:05:08,575 --> 01:05:11,703
+Zaœlepieni chciwoœci¹,
+wziêli je bez pytania.
+
+699
+01:05:11,911 --> 01:05:15,206
+Jeden za drugim
+stoczyli siê w Ciemnoœæ.
+
+700
+01:05:15,415 --> 01:05:17,917
+Teraz s¹ s³ugami jego woli.
+
+701
+01:05:20,295 --> 01:05:24,883
+To Nazgule, Upiory Pierœcienia.
+Ani ¿ywi, ani umarli.
+
+702
+01:05:25,675 --> 01:05:29,220
+Nieustannie wyczuwaj¹
+obecnoœæ Pierœcienia,
+
+703
+01:05:29,429 --> 01:05:33,975
+przyci¹gani przez moc Jedynego.
+Nigdy nie przestan¹ ciê œcigaæ.
+
+704
+01:05:43,943 --> 01:05:46,905
+- Gdzie nas zabierasz?
+- W ostêpy.
+
+705
+01:05:55,080 --> 01:05:59,125
+Sk¹d mamy mieæ pewnoœæ,
+¿e to przyjaciel Gandalfa?
+
+706
+01:05:59,334 --> 01:06:02,170
+Myœlê, ¿e s³uga nieprzyjaciela
+wygl¹da³by straszniej.
+
+707
+01:06:02,545 --> 01:06:06,466
+- By³by groŸniejszy.
+- On jest wystarczaj¹co groŸny!
+
+708
+01:06:07,050 --> 01:06:09,886
+Nie mamy innego wyboru,
+jak mu zaufaæ.
+
+709
+01:06:10,095 --> 01:06:13,515
+- Ale dok¹d on nas prowadzi?
+- Do Rivendell, panie Gamgee.
+
+710
+01:06:15,892 --> 01:06:19,145
+- Do domu Elronda.
+- S³ysza³eœ to? Rivendell.
+
+711
+01:06:19,771 --> 01:06:22,524
+Zobaczymy elfy.
+
+712
+01:06:44,170 --> 01:06:47,716
+Panowie. Nie zatrzymujemy siê,
+a¿ do zapadniêcia nocy.
+
+713
+01:06:47,757 --> 01:06:48,591
+A co ze œniadaniem?
+
+714
+01:06:48,633 --> 01:06:51,219
+- Ju¿ by³o.
+- Pierwsze, tak...
+
+715
+01:06:51,428 --> 01:06:53,638
+ale co z drugim œniadaniem?
+
+716
+01:06:57,058 --> 01:07:00,228
+Nie s¹dzê,
+¿e o nim s³ysza³, Pip.
+
+717
+01:07:00,437 --> 01:07:05,650
+A co ze œniadaniem o 11, lunchem,
+popo³udniow¹ herbatk¹? Obiadem, kolacj¹?
+
+718
+01:07:05,859 --> 01:07:10,030
+- O tych wie, prawda?
+- Nie liczy³bym na to.
+
+719
+01:07:15,493 --> 01:07:17,120
+Pippin!
+
+720
+01:07:33,636 --> 01:07:37,098
+Ciekawe, co one jedz¹,
+kiedy nie ma w pobli¿u hobbitów?
+
+721
+01:08:15,929 --> 01:08:18,139
+Kim ona jest?
+
+722
+01:08:18,848 --> 01:08:21,434
+Ta kobieta,
+o której œpiewa³eœ?
+
+723
+01:08:24,854 --> 01:08:27,232
+To jest Ballada o Luthien,
+
+724
+01:08:27,440 --> 01:08:32,612
+Elfiej pannie, która odda³a
+swoj¹ mi³oœæ Berenowi, œmiertelnikowi.
+
+725
+01:08:34,447 --> 01:08:36,574
+Co siê z ni¹ sta³o?
+
+726
+01:08:38,785 --> 01:08:41,287
+Umar³a.
+
+727
+01:08:45,333 --> 01:08:47,669
+Przeœpij siê trochê, Frodo.
+
+728
+01:08:57,929 --> 01:09:02,017
+Potêga Isengardu
+jest do twojej dyspozycji...
+
+729
+01:09:02,225 --> 01:09:06,646
+Sauronie - W³adco Ziemi.
+
+730
+01:09:09,983 --> 01:09:15,780
+<i>Zbuduj dla mnie armiê...</i>
+<i>wart¹ Mordoru...</i>
+
+731
+01:09:21,369 --> 01:09:25,832
+Jakie s¹ rozkazy z Mordoru, mój panie?
+Co nakaza³o Oko?
+
+732
+01:09:26,291 --> 01:09:28,209
+Mamy pracê do wykonania.
+
+733
+01:10:10,794 --> 01:10:15,465
+Drzewa s¹ silne, mój panie.
+Ich korzenie siêgaj¹ g³êboko.
+
+734
+01:10:15,799 --> 01:10:17,676
+Wyrwaæ je wszystkie.
+
+735
+01:10:45,078 --> 01:10:47,997
+Oto ruiny potê¿nej
+wie¿y stra¿niczej, Amon Sul.
+
+736
+01:10:49,708 --> 01:10:52,293
+Tu odpoczniemy tej nocy.
+
+737
+01:11:04,014 --> 01:11:07,434
+Te s¹ dla was..
+Trzymajcie je blisko.
+
+738
+01:11:07,684 --> 01:11:10,145
+Ja idê trochê rozejrzeæ siê.
+
+739
+01:11:12,522 --> 01:11:14,399
+Zostañcie tutaj.
+
+740
+01:11:16,985 --> 01:11:19,112
+Mój pomidor siê przypali³.
+
+741
+01:11:19,362 --> 01:11:23,283
+- Mogê prosiæ o bekon?
+ - Chcesz pomidora, Sam?
+
+742
+01:11:23,825 --> 01:11:27,454
+- Co wy robicie?!
+- Pomidory, kie³baski i pyszny bekon.
+
+743
+01:11:27,704 --> 01:11:30,373
+- Zosta³o i dla pana, panie Frodo.
+- Zgaœcie to, g³upcy!
+
+744
+01:11:30,582 --> 01:11:34,544
+- Zgaœcie!
+- No piêknie! Popió³ w pomidorach!
+
+745
+01:11:43,011 --> 01:11:44,721
+Uciekajcie!
+
+746
+01:12:38,233 --> 01:12:39,651
+Cofnijcie siê, diab³y!
+
+747
+01:14:03,151 --> 01:14:04,361
+Frodo!
+
+748
+01:14:09,115 --> 01:14:10,325
+Samie.
+
+749
+01:14:47,320 --> 01:14:48,363
+Obie¿yœwiacie!
+
+750
+01:14:51,116 --> 01:14:56,621
+- Pomó¿ mu, Obie¿yœwiacie!
+- Zosta³ pchniêty mieczem Morgula.
+
+751
+01:14:58,081 --> 01:15:03,003
+To przekracza moje mo¿liwoœci.
+Potrzebuje opieki elfów.
+
+752
+01:15:07,590 --> 01:15:08,633
+Pospieszcie siê!
+
+753
+01:15:08,842 --> 01:15:12,762
+Jesteœmy 6 dni od Rivendell!
+Nie da rady!
+
+754
+01:15:13,013 --> 01:15:14,889
+Wytrzymaj, Frodo.
+
+755
+01:15:15,390 --> 01:15:17,434
+Gandalf!
+
+756
+01:16:15,408 --> 01:16:18,745
+ZnajdŸ or³a Gwaihira...
+Poœpiesz siê!
+
+757
+01:17:55,467 --> 01:17:58,511
+Patrz Frodo,
+to trolle pana Bilba.
+
+758
+01:18:00,680 --> 01:18:03,558
+Panie Frodo?
+On ziêbnie!
+
+759
+01:18:06,436 --> 01:18:08,188
+Czy on umrze?
+
+760
+01:18:08,396 --> 01:18:13,276
+Przechodzi do Œwiata Cieni.
+Wkrótce stanie siê upiorem, jak oni.
+
+761
+01:18:18,448 --> 01:18:22,243
+- S¹ blisko.
+- Samie, czy znasz roœlinê Athelas?
+
+762
+01:18:22,452 --> 01:18:24,079
+- Athelas?
+- Królewskie ziele.
+
+763
+01:18:24,120 --> 01:18:25,330
+Królewskie Ziele, ten chwast?
+
+764
+01:18:25,372 --> 01:18:28,583
+Mo¿e spowolniæ truciznê,
+poœpiesz siê.
+
+765
+01:18:42,931 --> 01:18:47,102
+A có¿ to?
+Stra¿nik przy³apany na nieuwadze?
+
+766
+01:19:11,960 --> 01:19:13,003
+Frodo...
+
+767
+01:19:14,963 --> 01:19:18,091
+"Im Arwen. Telin le thaed"
+Jestem Arwena, przychodzê, by ci pomóc.
+
+768
+01:19:20,510 --> 01:19:22,554
+"Lasto beth nin"
+S³uchaj mojego g³osu...
+
+769
+01:19:22,595 --> 01:19:24,973
+"Tolo dan na ngalad"
+wróæ w stronê Œwiat³a.
+
+770
+01:19:29,811 --> 01:19:31,688
+Kim ona jest?
+
+771
+01:19:32,313 --> 01:19:34,107
+Frodo.
+
+772
+01:19:34,399 --> 01:19:37,902
+- Jest elfem.
+- On usycha...
+
+773
+01:19:40,196 --> 01:19:42,365
+Nie przetrwa.
+
+774
+01:19:42,574 --> 01:19:45,243
+Musimy go zabraæ do mojego ojca.
+
+775
+01:19:45,952 --> 01:19:48,830
+- Szukam was od dwóch dni.
+- Dok¹d go zabierasz?
+
+776
+01:19:49,039 --> 01:19:55,170
+Piêæ Upiorów jest tu¿ za wami.
+Gdzie s¹ pozostali czterej, nie wiem.
+
+777
+01:19:55,879 --> 01:19:58,965
+"Dartho guin berian. Rych le ad tolthathon"
+Zostañ z hobbitami, poœlê po was.
+
+778
+01:19:58,965 --> 01:20:01,634
+"Hon mabathon. Rochon ellint im"
+Je¿d¿ê szybciej, ja go zabiorê.
+
+779
+01:20:01,634 --> 01:20:03,553
+"Andelu i ven"
+Droga jest zbyt niebezpieczna.
+
+780
+01:20:03,595 --> 01:20:04,554
+Co oni mówi¹?
+
+781
+01:20:04,554 --> 01:20:06,848
+"Frodo fir. Ae athradon i hir"
+Frodo umiera. Jeœli sforsujê rzekê,
+
+782
+01:20:06,848 --> 01:20:10,226
+"Tur gwaith nin beriatha hon"
+moc mojego ludu go ochroni.
+
+783
+01:20:10,268 --> 01:20:11,853
+Nie bojê siê ich.
+
+784
+01:20:16,441 --> 01:20:18,985
+"Beyest lin".
+
+785
+01:20:21,738 --> 01:20:23,114
+Arweno...
+
+786
+01:20:23,323 --> 01:20:26,451
+JedŸ szybko,
+nie ogl¹daj siê za siebie.
+
+787
+01:20:26,493 --> 01:20:28,995
+"Noro lim, Asfaloth! Noro lim!"
+PêdŸ szybko, Asfaloth!
+
+788
+01:20:31,581 --> 01:20:35,877
+Co ty robisz?
+Ci jeŸdŸcy wci¹¿ tam s¹!
+
+789
+01:21:47,157 --> 01:21:49,492
+"Noro lim, Asfaloth!"
+PêdŸ szybko, Asfaloth!
+
+790
+01:22:30,533 --> 01:22:33,244
+Oddaj nam nizio³ka, kobieto-elfie!
+
+791
+01:22:34,204 --> 01:22:36,748
+Jeœli go chcecie,
+to go sobie weŸcie!
+
+792
+01:22:48,968 --> 01:22:52,180
+"Nin o Chithaeglir. Lasto beth daer"
+Wody z Gór Mglistych. S³uchajcie wielkiego s³owa:
+
+793
+01:22:52,180 --> 01:22:57,602
+"Rimmo nin Bruinen. Dan in Ulaer"
+P³yñcie wody Grzmi¹cej Rzeki. Naprzeciw Upiorom Pierœcienia!
+
+794
+01:23:30,635 --> 01:23:33,138
+Nie, nie.
+
+795
+01:23:36,433 --> 01:23:38,685
+Frodo, nie!
+
+796
+01:23:38,893 --> 01:23:41,187
+Frodo, nie poddawaj siê!
+
+797
+01:23:41,396 --> 01:23:43,398
+Nie teraz.
+
+798
+01:23:54,325 --> 01:23:56,828
+"Niech ³aska, która zosta³a mi dana,"
+
+799
+01:23:57,495 --> 01:23:59,330
+"spocznie na nim."
+
+800
+01:23:59,539 --> 01:24:01,708
+"Niech bêdzie oszczêdzony."
+
+801
+01:24:02,334 --> 01:24:04,377
+"Ocal go."
+
+802
+01:24:06,921 --> 01:24:09,424
+"Pos³uchaj mojego g³osu:"
+
+803
+01:24:09,716 --> 01:24:12,135
+"Powróæ ze snu do Œwiat³a!"
+
+804
+01:24:16,806 --> 01:24:21,978
+- Gdzie ja jestem?
+- Jesteœ w domu Elronda.
+
+805
+01:24:22,395 --> 01:24:28,902
+Jest 10 rano, 24 paŸdziernika,
+jeœli chcesz wiedzieæ.
+
+806
+01:24:30,862 --> 01:24:34,616
+- Gandalf!
+- Tak, jestem tutaj.
+
+807
+01:24:36,326 --> 01:24:39,371
+Ty te¿ masz szczêœcie, ¿e tu jesteœ.
+
+808
+01:24:40,038 --> 01:24:44,042
+Jeszcze kilka godzin
+i nie mo¿na by³oby ci pomóc.
+
+809
+01:24:44,250 --> 01:24:48,380
+Drzemi¹ w tobie niesamowite si³y,
+mój drogi hobbicie.
+
+810
+01:24:56,012 --> 01:24:58,473
+Co siê sta³o, Gandalfie?
+
+811
+01:24:59,432 --> 01:25:04,854
+- Dlaczego nie spotka³eœ siê z nami?
+- Przepraszam, Frodo...
+
+812
+01:25:09,567 --> 01:25:11,319
+Mia³em opóŸnienie.
+
+813
+01:25:12,195 --> 01:25:16,408
+Nie mo¿na bezkarnie
+odrzucaæ przyjaŸni Sarumana...
+
+814
+01:25:20,620 --> 01:25:25,250
+Jedno z³o zas³uguje na drugie...
+To koniec.
+
+815
+01:25:25,583 --> 01:25:31,381
+Uznaj w³adzê Pierœcienia
+albo poddaj siê w³asnej pora¿ce!
+
+816
+01:25:33,717 --> 01:25:37,554
+Jest tylko jeden W³adca Pierœcienia...
+
+817
+01:25:37,804 --> 01:25:41,766
+tylko jeden, który mo¿e go
+zwi¹zaæ ze sw¹ wol¹.
+
+818
+01:25:42,684 --> 01:25:46,563
+A on nie dzieli siê moc¹.
+
+819
+01:26:00,910 --> 01:26:04,247
+Wiêc wybra³eœ... œmieræ.
+
+820
+01:26:14,341 --> 01:26:18,136
+Gandalfie?
+Co siê sta³o?
+
+821
+01:26:19,095 --> 01:26:20,889
+Nic, Frodo.
+
+822
+01:26:21,556 --> 01:26:23,475
+Frodo!
+
+823
+01:26:24,851 --> 01:26:27,437
+- Sam!
+- Co za szczêœcie, ¿e siê pan obudzi³!
+
+824
+01:26:27,437 --> 01:26:30,190
+Sam prawie nie opuszcza³
+twego boku.
+
+825
+01:26:30,398 --> 01:26:32,567
+Martwiliœmy siê o pana.
+Prawda, panie Gandalfie?
+
+826
+01:26:32,942 --> 01:26:38,073
+To zas³uga starego Elronda,
+którego zaraz poznasz.
+
+827
+01:26:39,574 --> 01:26:43,161
+Witaj w Rivendell,
+Frodo Bagginsie.
+
+828
+01:27:31,251 --> 01:27:34,504
+- Bilbo!
+- Witaj, Frodo, mój m³odzieñcze.
+
+829
+01:27:34,713 --> 01:27:36,423
+Bilbo.
+
+830
+01:27:41,302 --> 01:27:43,179
+"Tam i z powrotem".
+
+831
+01:27:43,388 --> 01:27:46,182
+"Opowieœæ o hobbitach,
+spisana przez Bilbo Bagginsa".
+
+832
+01:27:49,269 --> 01:27:52,814
+- To jest cudowne.
+- Mia³em zamiar wróciæ,
+
+833
+01:27:53,148 --> 01:27:56,943
+podziwiaæ cuda Mrocznej Puszczy,
+
+834
+01:27:57,360 --> 01:27:59,696
+odwiedziæ Miasto nad Jeziorem.
+
+835
+01:27:59,904 --> 01:28:03,324
+zobaczyæ Samotn¹ Górê raz jeszcze...
+
+836
+01:28:03,742 --> 01:28:08,663
+Ale, zdaje siê, ¿e moje lata
+wreszcie da³y mi znaæ o sobie.
+
+837
+01:28:20,800 --> 01:28:22,552
+Têskniê za Shire.
+
+838
+01:28:22,969 --> 01:28:28,141
+Spêdzi³em ca³e dzieciñstwo udaj¹c,
+¿e jestem gdzieœ indziej...
+
+839
+01:28:28,391 --> 01:28:32,020
+Razem z tob¹,
+w jednej z twoich przygód.
+
+840
+01:28:34,939 --> 01:28:38,568
+Ale moja w³asna przygoda zmierza
+w zupe³nie innym kierunku.
+
+841
+01:28:43,782 --> 01:28:46,993
+Nie jestem taki jak ty, Bilbo.
+
+842
+01:28:48,161 --> 01:28:50,413
+Mój drogi ch³opcze...
+
+843
+01:28:54,542 --> 01:28:58,505
+- O czym to ja zapomnia³em?
+- Ju¿ spakowany?
+
+844
+01:28:59,297 --> 01:29:01,091
+Nic w tym z³ego,
+¿e chcia³em byæ przygotowany.
+
+845
+01:29:01,299 --> 01:29:03,843
+- Przecie¿ chcia³eœ ujrzeæ elfy.
+- To prawda...
+
+846
+01:29:04,052 --> 01:29:06,930
+Bardziej ni¿ cokolwiek innego.
+Chcia³em...
+
+847
+01:29:07,138 --> 01:29:09,057
+Tylko, ¿e...
+
+848
+01:29:09,849 --> 01:29:12,435
+Zrobiliœmy, co Gandalf nam poleci³, prawda?
+
+849
+01:29:12,644 --> 01:29:16,314
+Przynieœliœmy Pierœcieñ
+a¿ do Rivendell i pomyœla³em...
+
+850
+01:29:16,523 --> 01:29:19,818
+kiedy zobaczy³em pana wyleczonego,
+¿e wyjedziemy...
+
+851
+01:29:20,026 --> 01:29:21,736
+do domu.
+
+852
+01:29:25,907 --> 01:29:27,909
+Masz racjê, Samie.
+
+853
+01:29:30,078 --> 01:29:32,831
+Zrobiliœmy to,
+co nam powierzono.
+
+854
+01:29:33,415 --> 01:29:35,959
+Pierœcieñ bêdzie bezpieczny w Rivendell.
+
+855
+01:29:40,088 --> 01:29:42,382
+Ja jestem gotowy,
+¿eby wróciæ do domu.
+
+856
+01:29:43,425 --> 01:29:45,468
+Si³y do niego wracaj¹.
+
+857
+01:29:45,677 --> 01:29:51,391
+Rana nigdy siê do koñca nie wyleczy.
+Bêdzie nosi³ to brzemiê przez resztê ¿ycia.
+
+858
+01:29:51,975 --> 01:29:54,436
+A mimo to, dotar³ tak daleko,
+nios¹c Pierœcieñ...
+
+859
+01:29:54,686 --> 01:29:58,356
+Ten hobbit okaza³ niesamowit¹
+odpornoœæ na jego z³o.
+
+860
+01:29:58,606 --> 01:30:01,943
+To ciê¿ar, którego nigdy
+nie powinien by³ dŸwigaæ.
+
+861
+01:30:02,193 --> 01:30:07,615
+- Nie mo¿emy prosiæ Froda o wiêcej.
+- Gandalfie... nieprzyjaciel ruszy³.
+
+862
+01:30:07,824 --> 01:30:12,454
+Si³y Saurona koncentruj¹ siê na Wschodzie.
+Jego Oko jest zwrócone na Rivendell!
+
+863
+01:30:12,704 --> 01:30:15,457
+A Saruman, jak powiedzia³eœ,
+zdradzi³ nas.
+
+864
+01:30:15,665 --> 01:30:18,835
+Zastêpy sprzymierzeñców
+kurcz¹ siê.
+
+865
+01:30:19,627 --> 01:30:22,380
+Jego zdrada jest g³êbsza
+ni¿ ci siê wydaje.
+
+866
+01:30:22,630 --> 01:30:26,217
+Ten plugawiec, Saruman, skrzy¿owa³ orków
+z goblinami.
+
+867
+01:30:26,468 --> 01:30:28,887
+Pomna¿a armiê
+w lochach Isengardu.
+
+868
+01:30:29,220 --> 01:30:32,015
+Armiê, która mo¿e siê poruszaæ za dnia
+
+869
+01:30:32,057 --> 01:30:33,975
+i pokonywaæ wielkie odleg³oœci
+z niezwyk³¹ prêdkoœci¹.
+
+870
+01:30:34,017 --> 01:30:36,353
+Saruman nadchodzi po Pierœcieñ.
+
+871
+01:30:36,811 --> 01:30:40,857
+To z³o, nie mo¿e byæ chronione
+moc¹ elfów.
+
+872
+01:30:41,107 --> 01:30:45,445
+Nie mamy tyle si³, by walczyæ
+jednoczeœnie z Mordorem i Isengardem.
+
+873
+01:30:49,282 --> 01:30:54,371
+Gandalfie...
+Pierœcieñ nie mo¿e tu zostaæ.
+
+874
+01:31:13,765 --> 01:31:17,018
+To niebezpieczeñstwo
+spoczywa na ca³ym Œródziemiu.
+
+875
+01:31:17,227 --> 01:31:19,938
+Oni musz¹ teraz zdecydowaæ,
+jak to zakoñczyæ.
+
+876
+01:31:21,022 --> 01:31:24,567
+Czas elfów siê koñczy.
+Moi ludzie opuszczaj¹ Brzegi.
+
+877
+01:31:25,235 --> 01:31:28,822
+Do kogo siê zwrócisz, kiedy odejdziemy?
+Do krasnoludów?
+
+878
+01:31:29,030 --> 01:31:34,119
+Ukrywaj¹ siê w górach, szukaj¹c bogactw.
+Nie obchodz¹ ich problemy innych ludów.
+
+879
+01:31:35,745 --> 01:31:38,581
+W ludziach musimy pok³adaæ
+ca³¹ nasz¹ nadziejê.
+
+880
+01:31:38,915 --> 01:31:40,625
+Ludziach?
+
+881
+01:31:41,501 --> 01:31:44,713
+Ludzie s¹ s³abi.
+Ich rasa upada.
+
+882
+01:31:44,921 --> 01:31:47,716
+Krew Númenoru jest niczym innym
+jak tylko wspomnieniem.
+
+883
+01:31:47,757 --> 01:31:50,093
+Duma i godnoœæ zosta³y zapomniane.
+
+884
+01:31:50,135 --> 01:31:53,179
+To przez ludzi Pierœcieñ przetrwa³.
+
+885
+01:31:53,388 --> 01:31:55,015
+By³em tam, Gandalfie.
+
+886
+01:31:55,682 --> 01:31:58,518
+By³em tam, 3000 lat temu...
+
+887
+01:32:05,316 --> 01:32:07,736
+gdy Isildur zabra³ Pierœcieñ.
+
+888
+01:32:07,944 --> 01:32:11,823
+By³em tam w dniu,
+kiedy si³a ludzi zawiod³a.
+
+889
+01:32:14,367 --> 01:32:16,953
+Isildurze, pospiesz siê.
+ChodŸ za mn¹.
+
+890
+01:32:18,538 --> 01:32:22,167
+Zaprowadzi³em Isildura
+do serca Orodruiny,
+
+891
+01:32:22,375 --> 01:32:25,920
+gdzie zosta³ wykuty Pierœcieñ.
+Tylko tam móg³ byæ zniszczony.
+
+892
+01:32:26,129 --> 01:32:28,715
+Wrzuæ go do ognia!
+
+893
+01:32:33,845 --> 01:32:37,682
+- Zniszcz go!
+- Nie...
+
+894
+01:32:39,017 --> 01:32:41,186
+Isildurze!
+
+895
+01:32:41,644 --> 01:32:46,358
+Powinienem by³ zakoñczyæ to tamtego dnia.
+Ale pozwoli³em z³u przetrwaæ.
+
+896
+01:32:50,487 --> 01:32:54,741
+Isildur zatrzyma³ Pierœcieñ.
+Linia królów zosta³a przerwana.
+
+897
+01:32:55,658 --> 01:32:59,287
+Nie ma ju¿ si³y w œwiecie ludzi.
+
+898
+01:32:59,496 --> 01:33:04,334
+- Rozproszyli siê, s¹ bez przywódcy.
+- Jest jeden, który mo¿e ich zjednoczyæ.
+
+899
+01:33:04,542 --> 01:33:07,879
+Ktoœ, kto mo¿e
+wst¹piæ na tron Gondoru.
+
+900
+01:33:09,631 --> 01:33:13,385
+Zszed³ z tej œcie¿ki dawno temu.
+
+901
+01:33:13,593 --> 01:33:15,720
+Wybra³ wygnanie.
+
+902
+01:33:46,751 --> 01:33:48,753
+Nie jesteœ elfem.
+
+903
+01:33:48,962 --> 01:33:51,047
+Ludzie z Po³udnia
+s¹ tutaj mile widziani.
+
+904
+01:33:51,715 --> 01:33:55,218
+- Kim jesteœ?
+- Przyjacielem Gandalfa Szarego.
+
+905
+01:33:56,678 --> 01:33:59,472
+Jesteœmy tu z tego samego powodu...
+
+906
+01:33:59,889 --> 01:34:01,307
+przyjacielu.
+
+907
+01:34:16,531 --> 01:34:19,451
+Szcz¹tki Narsila!
+
+908
+01:34:22,954 --> 01:34:27,417
+Ostrze, które odciê³o Pierœcieñ
+z rêki Saurona.
+
+909
+01:34:30,295 --> 01:34:32,505
+Nadal ostre...
+
+910
+01:34:41,473 --> 01:34:44,517
+Teraz jest niczym wiêcej,
+jak strzaskan¹ relikwi¹...
+
+911
+01:35:11,336 --> 01:35:14,339
+Dlaczego boisz siê przesz³oœci?
+
+912
+01:35:15,256 --> 01:35:20,595
+Jesteœ spadkobierc¹ Isildura,
+nie samym Isildurem.
+
+913
+01:35:20,845 --> 01:35:24,224
+Nie jesteœ zwi¹zany jego kl¹tw¹.
+
+914
+01:35:24,808 --> 01:35:28,728
+Ta sama krew p³ynie
+w moich ¿y³ach.
+
+915
+01:35:31,815 --> 01:35:34,317
+Ta sama s³aboœæ.
+
+916
+01:35:37,028 --> 01:35:39,781
+Twój czas nadejdzie.
+
+917
+01:35:39,989 --> 01:35:44,411
+Zmierzysz siê z tym samym z³em,
+I pokonasz je...
+
+918
+01:35:47,622 --> 01:35:50,375
+"A si i-dhúath ú-orthor, Aragorn"
+Cieñ jeszcze Tob¹ nie rz¹dzi, Aragornie.
+
+919
+01:35:51,042 --> 01:35:54,629
+"Ú or le a ú or nin"
+Ani tob¹, ani mn¹.
+
+920
+01:36:06,016 --> 01:36:09,602
+"Renech i lu i erui govannem?"
+Pamiêtasz, kiedy siê po raz pierwszy spotkaliœmy?
+
+921
+01:36:12,772 --> 01:36:17,694
+"Nauthannem i ned ol reniannen."
+Myœla³em, ¿e b³¹dzê w snach.
+
+922
+01:36:17,861 --> 01:36:20,780
+"Gwenwin in enninath..."
+Wiele lat up³ynê³o.
+
+923
+01:36:22,073 --> 01:36:25,869
+"U-arnech in naeth i si celich."
+Nie mia³eœ tych zmartwieñ, które nosisz teraz.
+
+924
+01:36:26,911 --> 01:36:29,330
+"Renech i beth i pennen?"
+Pamiêtasz, co ci powiedzia³am?
+
+925
+01:36:34,919 --> 01:36:37,630
+Powiedzia³aœ, ¿e zwi¹¿esz siê ze mn¹...
+
+926
+01:36:39,674 --> 01:36:44,637
+wyrzekaj¹c siê nieœmiertelnoœci
+danej twemu ludowi.
+
+927
+01:36:45,722 --> 01:36:47,682
+I podtrzymujê tê obietnicê...
+
+928
+01:36:47,891 --> 01:36:51,519
+Wola³abym raczej dzieliæ
+jedno ¿ycie z tob¹,
+
+929
+01:36:51,728 --> 01:36:55,565
+ni¿ samotnie stawiæ czo³a
+wszystkim wiekom tego œwiata.
+
+930
+01:37:04,366 --> 01:37:07,827
+Wybieram œmiertelne ¿ycie...
+
+931
+01:37:09,162 --> 01:37:13,416
+- Nie mo¿esz mi tego daæ.
+- Jestem pani¹ swojej woli...
+
+932
+01:37:16,628 --> 01:37:19,172
+Tak jak i mojego serca.
+
+933
+01:37:34,979 --> 01:37:38,650
+Przybysze z odleg³ych krain...
+Starzy przyjaciele...
+
+934
+01:37:38,858 --> 01:37:42,821
+Zostaliœcie tu wezwani,
+by odpowiedzieæ na groŸbê Mordoru.
+
+935
+01:37:43,446 --> 01:37:48,326
+Œródziemie stoi na krawêdzi zniszczenia.
+Nikt nie mo¿e od tego uciec.
+
+936
+01:37:48,535 --> 01:37:52,080
+Zjednoczycie siê
+albo upadniecie.
+
+937
+01:37:52,288 --> 01:37:56,543
+Ka¿d¹ z ras czeka ten sam los,
+to samo przeznaczenie.
+
+938
+01:37:58,420 --> 01:38:01,923
+Przynieœ Pierœcieñ, Frodo.
+
+939
+01:38:15,979 --> 01:38:17,689
+Wiêc to prawda...
+
+940
+01:38:35,165 --> 01:38:37,250
+Mia³em sen...
+
+941
+01:38:38,877 --> 01:38:42,088
+Widzia³em, jak niebo
+na Wschodzie ciemnieje...
+
+942
+01:38:42,380 --> 01:38:44,132
+ale na Zachodzie
+utrzymywa³o siê blade œwiat³o...
+
+943
+01:38:44,883 --> 01:38:46,676
+Unosi³ siê g³os:
+
+944
+01:38:46,926 --> 01:38:49,846
+"Twoja zguba jest w zasiêgu rêki."
+
+945
+01:38:50,847 --> 01:38:53,600
+Kl¹twa Isildura zosta³a odnaleziona...
+
+946
+01:38:57,645 --> 01:38:59,439
+Kl¹twa Isildura.
+
+947
+01:39:00,023 --> 01:39:01,274
+Boromirze!
+
+948
+01:39:02,108 --> 01:39:04,110
+<i>Ash nazg durbatuluk...</i>
+
+949
+01:39:05,695 --> 01:39:07,864
+<i>ash nazg gimbatul...</i>
+
+950
+01:39:09,616 --> 01:39:12,035
+<i>Ash nazg thrakatuluk</i>
+<i>agh burzum...</i>
+
+951
+01:39:15,830 --> 01:39:18,708
+<i>Ishi krimpatul.</i>
+
+952
+01:39:24,464 --> 01:39:28,218
+Nigdy wczeœniej nikt nie wypowiedzia³
+s³ów w tym jêzyku w Imladris.
+
+953
+01:39:28,468 --> 01:39:32,138
+Nie ¿¹daj ode mnie przeprosin,
+mistrzu Elrondzie.
+
+954
+01:39:32,389 --> 01:39:36,142
+Czarny jêzyk Mordoru
+bêdzie mo¿na nied³ugo us³yszeæ
+
+955
+01:39:36,351 --> 01:39:39,270
+z ka¿dego zak¹tka Zachodu!
+
+956
+01:39:39,479 --> 01:39:42,190
+Pierœcieñ jest ucieleœnieniem Z³a!
+
+957
+01:39:42,482 --> 01:39:46,403
+To dar.
+Dar dla wrogów Mordoru.
+
+958
+01:39:47,278 --> 01:39:49,406
+Dlaczego by nie u¿yæ
+tego Pierœcienia?
+
+959
+01:39:49,614 --> 01:39:52,367
+Przez wiele lat mój ojciec,
+namiestnik Gondoru,
+
+960
+01:39:52,575 --> 01:39:56,871
+utrzymywa³ z dala si³y Mordoru.
+Krwi¹ naszych ludzi!
+
+961
+01:39:57,163 --> 01:39:59,374
+Po to, by wasze kraje
+by³y bezpieczne!
+
+962
+01:40:01,167 --> 01:40:05,505
+Daj Gondorowi broñ naszego wroga.
+U¿yjmy go przeciwko niemu!
+
+963
+01:40:05,755 --> 01:40:09,467
+Nie mo¿esz nim w³adaæ!
+Nikt z nas nie mo¿e.
+
+964
+01:40:10,093 --> 01:40:14,139
+Jedyny Pierœcieñ pos³uszny jest
+tylko Sauronowi.
+
+965
+01:40:14,389 --> 01:40:17,892
+A co Stra¿nik
+mo¿e o tym wiedzieæ?
+
+966
+01:40:18,226 --> 01:40:24,816
+To nie jest zwyk³y Stra¿nik.
+To Aragorn, syn Arathorna.
+
+967
+01:40:25,358 --> 01:40:28,236
+Jesteœ mu winien pos³uszeñstwo.
+
+968
+01:40:32,365 --> 01:40:34,242
+Aragorn.
+
+969
+01:40:36,036 --> 01:40:38,830
+To jest spadkobierca Isildura?
+
+970
+01:40:41,166 --> 01:40:43,918
+I spadkobierca tronu w Gondorze.
+
+971
+01:40:46,046 --> 01:40:47,589
+"Havo dad, Legolas."
+Usi¹dŸ, Legolasie.
+
+972
+01:40:50,800 --> 01:40:57,182
+Gondor nie ma króla.
+Nie potrzebuje go.
+
+973
+01:41:03,897 --> 01:41:07,567
+Aragorn ma racjê.
+Nie mo¿emy Go u¿yæ.
+
+974
+01:41:08,568 --> 01:41:12,072
+Mamy tylko jeden wybór.
+
+975
+01:41:12,280 --> 01:41:14,616
+Pierœcieñ musi byæ zniszczony.
+
+976
+01:41:19,871 --> 01:41:22,457
+Wiêc na co czekamy?
+
+977
+01:41:34,552 --> 01:41:37,597
+Pierœcieñ nie mo¿e byæ zniszczony,
+Gimli, synu Gloina,
+
+978
+01:41:37,806 --> 01:41:42,018
+przez ¿adn¹ broñ,
+jak¹ tu posiadamy.
+
+979
+01:41:42,560 --> 01:41:46,690
+Pierœcieñ zosta³ wykuty
+w ogniach Góry Przeznaczenia...
+
+980
+01:41:46,898 --> 01:41:50,735
+i tylko tam mo¿na go unicestwiæ.
+
+981
+01:41:51,820 --> 01:41:54,406
+Musi byæ zaniesiony
+w serce Mordoru...
+
+982
+01:41:54,614 --> 01:41:59,577
+i wrzucony do ognistej czeluœci,
+z której powsta³.
+
+983
+01:42:01,579 --> 01:42:05,959
+Jeden z was...
+musi tego dokonaæ.
+
+984
+01:42:09,170 --> 01:42:12,882
+Nie mo¿na ot tak
+wejœæ sobie do Mordoru.
+
+985
+01:42:13,800 --> 01:42:17,429
+Czarne Wrota s¹ strze¿one
+nie tylko przez samych orków.
+
+986
+01:42:18,263 --> 01:42:22,392
+Mieszka tam z³o, które nie œpi.
+
+987
+01:42:22,600 --> 01:42:26,855
+Wielkie Oko jest zawsze czujne.
+
+988
+01:42:27,605 --> 01:42:29,649
+To ja³owe pustkowie,
+
+989
+01:42:29,858 --> 01:42:33,445
+przesi¹kniête ogniem,
+popio³em i py³em.
+
+990
+01:42:33,653 --> 01:42:37,490
+Powietrze, którym siê oddycha,
+to truj¹ce opary.
+
+991
+01:42:37,699 --> 01:42:41,995
+Nawet z 10 000 ludzi nie móg³byœ tego zrobiæ.
+To szaleñstwo.
+
+992
+01:42:42,203 --> 01:42:46,666
+Nie s³ucha³eœ mistrza Elronda?
+Pierœcieñ musi zostaæ zniszczony.
+
+993
+01:42:46,875 --> 01:42:49,461
+I pewnie uwa¿asz, ¿e ty jesteœ tym,
+który potrafi tego dokonaæ?!
+
+994
+01:42:49,669 --> 01:42:54,341
+A jeœli zawiedziemy?
+Co, jeœli Sauron odzyska sw¹ w³asnoœæ?
+
+995
+01:42:54,549 --> 01:42:59,804
+Prêdzej umrê,
+ni¿eli ujrzê Pierœcieñ w rêkach elfa!
+
+996
+01:43:01,806 --> 01:43:04,309
+Nigdy nie ufaj elfowi!
+
+997
+01:43:05,477 --> 01:43:11,316
+Nie rozumiecie?
+Podczas tych k³ótni Sauron roœnie w si³ê!
+
+998
+01:43:11,649 --> 01:43:14,527
+Nie ma ucieczki!
+Wszyscy zostaniecie zniszczeni!
+
+999
+01:43:16,988 --> 01:43:19,783
+<i>Ash nazg durbatuluuk,</i>
+<i>ash nazg gimbatul</i>
+
+1000
+01:43:21,242 --> 01:43:23,536
+<i>Ash nazg durbatuluuk,</i>
+<i>ash nazg gimbatul</i>
+
+1001
+01:43:25,538 --> 01:43:28,124
+<i>Ash nazg durbatuluuk,</i>
+<i>ash nazg gimbatul</i>
+
+1002
+01:43:30,210 --> 01:43:32,921
+<i>Ash nazg thrakatuluk...</i>
+
+1003
+01:43:33,296 --> 01:43:35,548
+Ja go wezmê!
+
+1004
+01:43:37,509 --> 01:43:40,053
+Ja go wezmê.
+
+1005
+01:43:45,850 --> 01:43:48,937
+Ja zaniosê Pierœcieñ do Mordoru.
+
+1006
+01:43:57,028 --> 01:43:58,279
+Chocia¿...
+
+1007
+01:44:01,408 --> 01:44:03,201
+nie znam drogi.
+
+1008
+01:44:05,245 --> 01:44:09,541
+Ja pomogê ci nieœæ to brzemiê,
+Frodo Bagginsie.
+
+1009
+01:44:09,749 --> 01:44:13,128
+Tak d³ugo, jak zamierzasz je nieœæ.
+
+1010
+01:44:14,254 --> 01:44:17,257
+Na moje ¿ycie lub œmieræ,
+jeœli mogê ciê ochraniaæ.
+
+1011
+01:44:18,049 --> 01:44:19,384
+I bêdê...
+
+1012
+01:44:22,637 --> 01:44:24,931
+Mo¿esz liczyæ na mój miecz.
+
+1013
+01:44:26,725 --> 01:44:28,768
+I mój ³uk!
+
+1014
+01:44:29,394 --> 01:44:31,855
+I mój topór!
+
+1015
+01:44:38,903 --> 01:44:41,906
+Niesiesz w swych rêkach
+los nas wszystkich, mój ma³y.
+
+1016
+01:44:43,908 --> 01:44:47,537
+Jeœli taka jest w istocie
+wola Wielkiej Rady...
+
+1017
+01:44:48,038 --> 01:44:50,457
+Gondor te¿ siê do³¹czy.
+
+1018
+01:44:53,084 --> 01:44:57,797
+- Pan Frodo nigdzie nie idzie beze mnie.
+- To niemal niemo¿liwe, by was rozdzieliæ.
+
+1019
+01:44:58,048 --> 01:45:02,886
+Nawet za spraw¹ tajnej narady,
+na któr¹ nie zosta³eœ zaproszony.
+
+1020
+01:45:03,511 --> 01:45:05,388
+My te¿ idziemy!
+
+1021
+01:45:07,432 --> 01:45:10,185
+Musielibyœcie odes³aæ nas
+zwi¹zanych w workach!
+
+1022
+01:45:10,393 --> 01:45:13,772
+Tak czy inaczej,
+potrzebujecie inteligentnych ludzi...
+
+1023
+01:45:14,147 --> 01:45:15,398
+do swojej misji...
+
+1024
+01:45:15,648 --> 01:45:17,067
+zadania...
+
+1025
+01:45:17,567 --> 01:45:18,568
+wyprawy.
+
+1026
+01:45:20,445 --> 01:45:23,156
+W takim razie
+to ciebie wyklucza, Pip.
+
+1027
+01:45:24,699 --> 01:45:26,618
+Dziewiêciu towarzyszy.
+
+1028
+01:45:28,411 --> 01:45:30,246
+Niech tak bêdzie.
+
+1029
+01:45:30,580 --> 01:45:33,625
+Bêdziecie Dru¿yn¹ Pierœcienia.
+
+1030
+01:45:34,250 --> 01:45:36,086
+Œwietnie!
+
+1031
+01:45:36,336 --> 01:45:38,588
+A dok¹d idziemy?
+
+1032
+01:46:13,998 --> 01:46:16,501
+"Anirne hene beriad i chen în"
+Ona chcia³a chroniæ swoje dziecko...
+
+1033
+01:46:18,378 --> 01:46:24,217
+"Ned Imladris nauthant e le beriathar aen"
+Myœla³a, ¿e w Rivendell bêdziesz bezpieczny...
+
+1034
+01:46:24,759 --> 01:46:28,263
+Ale w sercu twoja matka czu³a,
+¿e bêdziesz przeœladowany ca³e ¿ycie.
+
+1035
+01:46:28,722 --> 01:46:30,432
+¯e nie uciekniesz
+przed przeznaczeniem.
+
+1036
+01:46:30,974 --> 01:46:34,602
+Rzemios³o elfów pozwoli
+przekuæ Miecz Królów...
+
+1037
+01:46:35,020 --> 01:46:38,940
+ale tylko ty masz si³ê,
+by go dŸwigaæ!
+
+1038
+01:46:39,983 --> 01:46:42,402
+Nie chcê tej w³adzy...
+
+1039
+01:46:42,610 --> 01:46:45,321
+Nigdy jej nie chcia³em.
+
+1040
+01:46:46,614 --> 01:46:49,200
+Jesteœ ostatnim z rodu,
+nie ma nikogo innego.
+
+1041
+01:46:53,747 --> 01:46:56,082
+Mój stary miecz - ¯¹d³o.
+
+1042
+01:46:56,291 --> 01:46:57,459
+Masz, weŸ go.
+
+1043
+01:47:02,964 --> 01:47:06,843
+- Jest taki lekki.
+- Tak... dzie³o elfickich kowali, wiedzia³eœ?
+
+1044
+01:47:07,552 --> 01:47:11,723
+Ostrze rozjarza siê b³êkitem,
+kiedy orkowie s¹ w pobli¿u.
+
+1045
+01:47:11,931 --> 01:47:16,519
+A na czasy takie jak te, mój drogi,
+kiedy musisz byæ wyj¹tkowo ostro¿ny...
+
+1046
+01:47:16,728 --> 01:47:19,189
+Mam tu coœ jeszcze.
+
+1047
+01:47:19,606 --> 01:47:20,857
+Mithril.
+
+1048
+01:47:21,691 --> 01:47:26,071
+Lekka jak piórko,
+a tak twarda jak smocza ³uska.
+
+1049
+01:47:26,279 --> 01:47:29,532
+Poka¿, jak bêdzie na tobie wygl¹daæ.
+No dalej.
+
+1050
+01:47:37,582 --> 01:47:39,626
+Mój stary pierœcieñ...
+
+1051
+01:47:40,877 --> 01:47:44,798
+powinienem... chcia³bym bardzo...
+
+1052
+01:47:45,006 --> 01:47:49,052
+potrzymaæ go jeszcze jeden raz,
+ostatni raz.
+
+1053
+01:48:06,403 --> 01:48:10,031
+Przepraszam, ¿e œci¹gn¹³em to na ciebie,
+mój ch³opcze.
+
+1054
+01:48:10,407 --> 01:48:14,452
+Wybacz, ¿e na ciebie
+spad³o to brzemiê.
+
+1055
+01:48:18,998 --> 01:48:22,043
+Przepraszam za wszystko.
+
+1056
+01:48:36,850 --> 01:48:41,229
+Powiernik Pierœcienia wyrusza
+na wyprawê do Góry Przeznaczenia.
+
+1057
+01:48:42,564 --> 01:48:45,191
+Na was, którzy z nim wyruszacie,
+nie ci¹¿y ¿adna przysiêga
+
+1058
+01:48:45,400 --> 01:48:48,528
+ani ¿adne zobowi¹zanie, by iœæ dalej,
+ni¿eli bêdziecie pragn¹æ.
+
+1059
+01:48:51,948 --> 01:48:54,492
+¯egnajcie...
+Trzymajcie siê waszego celu...
+
+1060
+01:48:54,951 --> 01:48:58,872
+I niech b³ogos³awieñstwo
+elfów, ludzi...
+
+1061
+01:48:59,414 --> 01:49:02,042
+i wszystkich Wolnych Ludów
+bêdzie z wami.
+
+1062
+01:49:05,086 --> 01:49:09,215
+Dru¿yna czeka
+na Powiernika Pierœcienia.
+
+1063
+01:49:27,609 --> 01:49:30,111
+Gandalfie... Mordor...
+To w lewo czy w prawo?
+
+1064
+01:49:30,653 --> 01:49:32,489
+W lewo.
+
+1065
+01:50:52,110 --> 01:50:56,531
+<i>Musimy trzymaæ siê zachodniego skraju</i>
+<i>Gór Mglistych przez 40 dni.</i>
+
+1066
+01:50:56,740 --> 01:51:00,493
+<i>Jeœli szczêœcie nas nie opuœci,</i>
+<i>Wrota Rohanu nadal bêd¹ dla nas otwarte.</i>
+
+1067
+01:51:00,702 --> 01:51:04,247
+<i>Stamt¹d nasza droga</i>
+<i>skrêci na wschód, do Mordoru.</i>
+
+1068
+01:51:04,456 --> 01:51:08,293
+Dwa, jeden, piêæ!
+Dobrze! Bardzo dobrze!
+
+1069
+01:51:10,086 --> 01:51:11,129
+Poruszaj stopami.
+
+1070
+01:51:11,338 --> 01:51:12,672
+- NieŸle, Pippin!
+- Dziêki!
+
+1071
+01:51:12,881 --> 01:51:14,299
+Szybciej.
+
+1072
+01:51:15,633 --> 01:51:19,429
+Gdyby ktoœ zechcia³ spytaæ mnie o zdanie,
+czego do tej pory nie zauwa¿y³em...
+
+1073
+01:51:19,637 --> 01:51:22,390
+powiedzia³bym, ¿e obraliœmy
+d³u¿sz¹, okrê¿n¹ drogê.
+
+1074
+01:51:22,891 --> 01:51:25,977
+Gandalfie,
+moglibyœmy przejœæ przez kopalnie Morii.
+
+1075
+01:51:26,603 --> 01:51:30,440
+Mój kuzyn Balin
+zgotowa³by nam królewskie powitanie.
+
+1076
+01:51:30,690 --> 01:51:36,029
+Nie, Gimli... Nie wybiorê Morii,
+chyba ¿e zabraknie wyboru.
+
+1077
+01:51:45,288 --> 01:51:46,456
+Przepraszam!
+
+1078
+01:51:47,165 --> 01:51:48,625
+Bierz go!
+
+1079
+01:51:50,126 --> 01:51:52,587
+- Za Shire!
+- Trzymaj go przy ziemi, Merry!
+
+1080
+01:51:53,129 --> 01:51:55,507
+Wystarczy, panowie!
+
+1081
+01:51:59,260 --> 01:52:00,887
+Masz moje ramiê!
+Masz moje ramiê!
+
+1082
+01:52:01,346 --> 01:52:03,932
+- Co to jest?
+- Nic, strzêp ob³oku.
+
+1083
+01:52:04,182 --> 01:52:06,851
+Porusza siê szybko...
+
+1084
+01:52:07,143 --> 01:52:09,270
+I to pod wiatr...
+
+1085
+01:52:10,063 --> 01:52:12,148
+- Krebainy z Dunlandu!
+- Kryæ siê!
+
+1086
+01:52:12,399 --> 01:52:15,151
+Szybko!
+Kryæ siê!
+
+1087
+01:52:48,518 --> 01:52:50,228
+Szpiedzy Sarumana.
+
+1088
+01:52:51,021 --> 01:52:54,274
+Przejœcie na po³udniu te¿ jest
+pod obserwacj¹.
+
+1089
+01:52:55,400 --> 01:52:58,737
+Musimy obraæ trasê
+przez prze³êcz Karadhras.
+
+1090
+01:53:11,374 --> 01:53:13,084
+Frodo!
+
+1091
+01:53:32,062 --> 01:53:34,356
+Boromirze...
+
+1092
+01:53:34,564 --> 01:53:38,777
+Czy¿ to nie dziwne, ¿e musimy
+cierpieæ tyle obaw i w¹tpliwoœci
+
+1093
+01:53:38,985 --> 01:53:42,113
+z powodu tak ma³ej rzeczy...
+
+1094
+01:53:45,325 --> 01:53:47,285
+Tak drobnej...
+
+1095
+01:53:47,494 --> 01:53:48,953
+Boromirze!
+
+1096
+01:53:49,579 --> 01:53:52,248
+Oddaj Pierœcieñ Frodowi.
+
+1097
+01:54:02,092 --> 01:54:04,135
+Jak sobie ¿yczysz...
+
+1098
+01:54:04,844 --> 01:54:06,888
+Nie zale¿y mi na nim.
+
+1099
+01:54:42,257 --> 01:54:46,970
+Wiêc Gandalfie... próbujesz ich
+poprowadziæ przez Karadhras?
+
+1100
+01:54:47,178 --> 01:54:51,766
+A jeœli to zawiedzie?
+Którêdy pójdziesz?
+
+1101
+01:54:53,059 --> 01:54:56,021
+<i>Jeœli Góra ciê pokona...</i>
+
+1102
+01:54:56,229 --> 01:55:00,692
+<i>czy zaryzykujesz bardziej</i>
+<i>niebezpieczn¹ drogê?</i>
+
+1103
+01:55:13,038 --> 01:55:15,957
+S³yszê jakiœ okropny g³os w powietrzu.
+
+1104
+01:55:17,042 --> 01:55:18,543
+To Saruman!
+
+1105
+01:55:27,469 --> 01:55:32,140
+Sprowadza na nas gniew Góry!
+Gandalfie! Musimy zawróciæ!
+
+1106
+01:55:32,349 --> 01:55:34,184
+Nie!
+
+1107
+01:55:37,145 --> 01:55:39,397
+"Losto Caradhras..."
+Œpij Caradhras...
+
+1108
+01:55:39,439 --> 01:55:42,484
+"Sedho, hodo, nuitho i 'ruith!"
+Uspokój siê, powstrzymaj swój gniew!
+
+1109
+01:55:47,072 --> 01:55:49,324
+"Cuiva nwalca Carnirassë!"
+ObudŸ siê, okrutna Góro Karadhras!
+
+1110
+01:55:49,366 --> 01:55:54,662
+"Nai yarvaxëa rasselya! Talto notto-carinnar!"
+Niech twój róg bêdzie splamiony krwi¹!
+
+1111
+01:56:40,625 --> 01:56:42,419
+Musimy zejœæ z góry!
+
+1112
+01:56:42,919 --> 01:56:47,215
+Skierowaæ siê na Wrota Rohanu...
+i obraæ drogê na zachód, do mojego miasta!
+
+1113
+01:56:47,465 --> 01:56:50,802
+Wrota Rohanu znajduj¹ siê
+zbyt blisko Isengardu!
+
+1114
+01:56:51,011 --> 01:56:54,723
+Skoro nie mo¿emy przejœæ ponad gór¹,
+przejdŸmy pod ni¹...
+
+1115
+01:56:54,931 --> 01:56:57,767
+PrzejdŸmy przez kopalnie Morii.
+
+1116
+01:56:59,686 --> 01:57:03,523
+<i>Moria...</i>
+<i>Obawiasz siê wejœcia do tych kopalñ...</i>
+
+1117
+01:57:04,190 --> 01:57:09,237
+Krasnoludy dr¹¿y³y korytarze zbyt chciwie
+i zbyt g³êboko.
+
+1118
+01:57:10,030 --> 01:57:14,909
+<i>Wiesz dobrze, co zbudzi³y</i>
+<i>w ciemnoœciach Khazad-dum...</i>
+
+1119
+01:57:16,202 --> 01:57:19,706
+Cieñ i P³omieñ.
+
+1120
+01:57:23,043 --> 01:57:25,795
+Niech Powiernik Pierœcienia zadecyduje.
+
+1121
+01:57:30,467 --> 01:57:32,594
+Nie mo¿emy tu zostaæ!
+
+1122
+01:57:32,802 --> 01:57:35,555
+Hobbici nie prze¿yj¹!
+
+1123
+01:57:35,764 --> 01:57:37,432
+Frodo?
+
+1124
+01:57:40,477 --> 01:57:43,355
+Pójdziemy przez kopalnie!
+
+1125
+01:57:44,147 --> 01:57:46,066
+Niechaj tak bêdzie.
+
+1126
+01:57:52,655 --> 01:57:56,534
+Frodo, chodŸ tu i pomó¿ starcowi...
+
+1127
+01:58:00,080 --> 01:58:02,290
+Jak tam twoje ramiê?
+
+1128
+01:58:02,499 --> 01:58:05,752
+- Lepiej ni¿ przedtem.
+- A Pierœcieñ?
+
+1129
+01:58:07,337 --> 01:58:09,839
+Czujesz, jak jego moc roœnie, prawda?
+
+1130
+01:58:10,298 --> 01:58:13,218
+Ja te¿ to poczu³em.
+Musisz byæ teraz ostro¿ny.
+
+1131
+01:58:13,677 --> 01:58:17,514
+Z³o spróbuje dostaæ siê
+do ciebie spoza dru¿yny...
+
+1132
+01:58:17,722 --> 01:58:20,308
+Obawiam siê,
+¿e z samej dru¿yny równie¿...
+
+1133
+01:58:22,936 --> 01:58:27,065
+- Komu wiêc mam ufaæ?
+- Samemu sobie.
+
+1134
+01:58:27,273 --> 01:58:30,110
+Zaufaj swoim w³asnym si³om.
+
+1135
+01:58:30,318 --> 01:58:32,862
+- Co masz na myœli?
+- Jest wiele mocy na tym œwiecie...
+
+1136
+01:58:33,071 --> 01:58:35,115
+dobrych i z³ych.
+
+1137
+01:58:35,323 --> 01:58:37,617
+Niektóre s¹ potê¿niejsze ode mnie...
+
+1138
+01:58:38,159 --> 01:58:41,788
+a z niektórymi
+jeszcze siê nie mierzy³em...
+
+1139
+01:58:43,206 --> 01:58:47,252
+Œciany Morii.
+
+1140
+01:58:53,049 --> 01:58:56,052
+Wrota krasnoludów s¹ niewidzialne,
+kiedy s¹ zamkniête.
+
+1141
+01:58:56,261 --> 01:58:59,014
+Tak, Gimli, nawet ich w³adcy
+nie bêd¹ mogli ich znaleŸæ,
+
+1142
+01:58:59,055 --> 01:59:01,016
+jeœli ich tajemnice zosta³y zapomniane.
+
+1143
+01:59:01,057 --> 01:59:03,518
+Dlaczego mnie to nie dziwi?
+
+1144
+01:59:11,526 --> 01:59:14,863
+Zobaczmy...
+
+1145
+01:59:15,113 --> 01:59:16,489
+Ithildin...
+
+1146
+01:59:17,198 --> 01:59:20,493
+w którym odbija siê jedynie
+œwiat³o gwiazd i ksiê¿yca.
+
+1147
+01:59:34,549 --> 01:59:38,636
+Napis g³osi: "Drzwi Durina,
+W³adcy Morii".
+
+1148
+01:59:39,220 --> 01:59:43,850
+- "Powiedz przyjacielu i... wejdŸ".
+- Co to mo¿e oznaczaæ?
+
+1149
+01:59:44,059 --> 01:59:48,813
+To proste. Jeœli jesteœ przyjacielem,
+musisz wypowiedzieæ has³o i drzwi siê otworz¹.
+
+1150
+01:59:49,356 --> 01:59:51,983
+Annon edhellen...
+
+1151
+01:59:52,400 --> 01:59:53,651
+edro hi ammen!
+
+1152
+02:00:01,910 --> 02:00:04,913
+Fennas nogothrim...
+
+1153
+02:00:05,121 --> 02:00:08,166
+lasto beth lammen!
+
+1154
+02:00:12,587 --> 02:00:13,672
+Nic siê nie dzieje.
+
+1155
+02:00:20,720 --> 02:00:24,933
+Zna³em kiedyœ ka¿de zaklêcie
+we wszystkich jêzykach elfów,
+
+1156
+02:00:25,225 --> 02:00:27,977
+Ludzi i orków.
+
+1157
+02:00:28,311 --> 02:00:29,479
+Wiêc co teraz zrobisz?
+
+1158
+02:00:29,646 --> 02:00:31,981
+Zapukam do tych drzwi twoj¹ g³ow¹,
+Peregrinie Tuku!
+
+1159
+02:00:32,023 --> 02:00:34,192
+I jeœli to ich nie roztrzaska
+
+1160
+02:00:34,401 --> 02:00:37,070
+i nie bêdziesz mi przeszkadza³
+g³upimi pytaniami,
+
+1161
+02:00:37,278 --> 02:00:40,699
+spróbujê znaleŸæ w³aœciwe s³owa.
+
+1162
+02:00:41,282 --> 02:00:49,958
+"Ando Eldarinwa a lasta quettanya".
+Wrota elfów, s³uchajcie mego s³owa...
+
+1163
+02:00:50,917 --> 02:00:52,877
+"Fenda Casarinwa!"
+Progu krasnoludów!
+
+1164
+02:00:53,670 --> 02:00:56,089
+Kopalnie to nie miejsca dla kucyka.
+
+1165
+02:00:56,548 --> 02:01:00,468
+- Nawet dla takiego dzielnego jak Bill.
+- ¯egnaj, Bill.
+
+1166
+02:01:01,678 --> 02:01:04,431
+Biegnij, Bill, no dalej.
+
+1167
+02:01:04,973 --> 02:01:08,518
+Nie martw siê, Samie.
+Zna drogê do domu.
+
+1168
+02:01:15,316 --> 02:01:17,902
+Nie m¹æ wody!
+
+1169
+02:01:18,111 --> 02:01:19,988
+Nie, to jest bezu¿yteczne.
+
+1170
+02:01:32,667 --> 02:01:34,836
+To zagadka.
+
+1171
+02:01:37,589 --> 02:01:40,717
+Powiedz "przyjacielu" i wejdŸ.
+
+1172
+02:01:41,092 --> 02:01:44,012
+Jak brzmi s³owo "przyjaciel"
+w jêzyku elfów?
+
+1173
+02:01:45,430 --> 02:01:46,723
+"Mellon".
+
+1174
+02:02:04,783 --> 02:02:09,662
+Wkrótce, panie elfie, zakosztujesz
+s³ynnej, krasnoludzkiej goœcinnoœci.
+
+1175
+02:02:10,121 --> 02:02:15,835
+Buzuj¹ce ogniska,
+s³odowe piwo, czerwone miêso!
+
+1176
+02:02:17,420 --> 02:02:20,423
+To mój przyjacielu,
+jest dom mego kuzyna Balina.
+
+1177
+02:02:20,965 --> 02:02:23,176
+A oni zowi¹ go kopalni¹...
+
+1178
+02:02:23,593 --> 02:02:25,553
+Kopalni¹!
+
+1179
+02:02:26,596 --> 02:02:29,933
+To nie jest ¿adna kopalnia,
+to grobowiec.
+
+1180
+02:02:36,064 --> 02:02:37,649
+Nie...
+
+1181
+02:02:38,900 --> 02:02:40,568
+Nie!
+
+1182
+02:02:43,196 --> 02:02:44,739
+Gobliny!
+
+1183
+02:02:48,535 --> 02:02:52,956
+Powinniœmy byli pójœæ przez Wrota Rohanu.
+Nie powinniœmy tu przychodziæ.
+
+1184
+02:02:53,998 --> 02:02:56,584
+A teraz wynoœmy siê st¹d.
+Wynoœmy!
+
+1185
+02:02:59,379 --> 02:03:01,756
+Frodo!
+Pomocy!
+
+1186
+02:03:01,965 --> 02:03:03,550
+Obie¿yœwiacie!
+
+1187
+02:03:03,633 --> 02:03:06,511
+- Pomocy!
+- Zostaw go!
+
+1188
+02:03:06,720 --> 02:03:07,762
+Aragornie!
+
+1189
+02:03:18,189 --> 02:03:19,232
+Frodo!
+
+1190
+02:03:45,258 --> 02:03:46,468
+Do kopalni!
+
+1191
+02:03:46,593 --> 02:03:50,013
+- Legolasie!
+- Do jaskini!
+
+1192
+02:03:54,100 --> 02:03:56,061
+Biegnijcie!
+
+1193
+02:04:12,869 --> 02:04:16,539
+Pozosta³a nam tylko jedna droga.
+
+1194
+02:04:16,623 --> 02:04:21,503
+Musimy stawiæ czo³a
+otch³aniom Morii.
+
+1195
+02:04:21,753 --> 02:04:23,713
+Miejcie siê na bacznoœci.
+
+1196
+02:04:23,922 --> 02:04:27,342
+S¹ stwory starsze
+i bardziej odra¿aj¹ce od orków,
+
+1197
+02:04:27,550 --> 02:04:31,054
+ukryte w g³êbiach Œwiata.
+
+1198
+02:04:39,062 --> 02:04:42,941
+Uciszmy siê.
+Mamy 4 dni drogi do drugiego wyjœcia.
+
+1199
+02:04:43,191 --> 02:04:46,986
+Oby nasza obecnoœæ
+pozosta³a niezauwa¿ona.
+
+1200
+02:05:32,782 --> 02:05:36,453
+Bogactwo Morii
+nie kryje siê w z³ocie...
+
+1201
+02:05:36,661 --> 02:05:39,039
+czy klejnotach...
+
+1202
+02:05:39,247 --> 02:05:42,292
+ale mithrilu.
+
+1203
+02:06:00,643 --> 02:06:05,523
+Bilbo mia³ kolczugê z mithrilu,
+któr¹ podarowa³ mu Thorin.
+
+1204
+02:06:05,774 --> 02:06:09,694
+- To by³ zaiste królewski dar.
+- Tak.
+
+1205
+02:06:09,903 --> 02:06:16,868
+Nigdy mu nie powiedzia³em,
+¿e warta by³a wiêcej ni¿ ca³e Shire.
+
+1206
+02:06:29,297 --> 02:06:31,007
+Pippin.
+
+1207
+02:06:51,528 --> 02:06:54,489
+Nie przypominam sobie tego miejsca.
+
+1208
+02:06:56,533 --> 02:06:57,951
+- Zab³¹dziliœmy?
+- Nie.
+
+1209
+02:06:58,159 --> 02:07:00,704
+- Myœlê, ¿e tak.
+- Gandalf myœli.
+
+1210
+02:07:00,912 --> 02:07:02,372
+- Merry!
+- Co?
+
+1211
+02:07:02,580 --> 02:07:04,499
+Jestem g³odny.
+
+1212
+02:07:15,969 --> 02:07:20,306
+- Tam coœ jest na dole.
+- To Gollum.
+
+1213
+02:07:20,515 --> 02:07:24,644
+- Gollum?
+- Idzie za nami od trzech dni.
+
+1214
+02:07:24,853 --> 02:07:29,024
+- Uciek³ z lochów Barad-dur?
+- Uciek³...
+
+1215
+02:07:29,733 --> 02:07:31,359
+albo zosta³ wypuszczony.
+
+1216
+02:07:31,901 --> 02:07:35,530
+A teraz Pierœcieñ
+przyprowadzi³ go tutaj.
+
+1217
+02:07:38,158 --> 02:07:40,910
+Nigdy nie wyzbêdzie siê
+potrzeby jego posiadania.
+
+1218
+02:07:41,119 --> 02:07:46,791
+Mienawidzi i zarazem kocha Pierœcieñ,
+tak jak nienawidzi i kocha siebie.
+
+1219
+02:07:47,000 --> 02:07:51,838
+¯ycie Sméagola to smutna opowieœæ.
+
+1220
+02:07:52,047 --> 02:07:58,011
+Tak, kiedyœ nazywano go Sméagolem...
+zanim znalaz³ go Pierœcieñ.
+
+1221
+02:07:58,970 --> 02:08:01,765
+Zanim doprowadzi³ go
+do szaleñstwa.
+
+1222
+02:08:02,015 --> 02:08:04,893
+Szkoda, ¿e Bilbo go nie zabi³,
+kiedy mia³ szansê.
+
+1223
+02:08:05,101 --> 02:08:06,311
+Szkoda?
+
+1224
+02:08:07,354 --> 02:08:10,315
+To w³aœnie litoœæ powstrzyma³a jego rêkê.
+
+1225
+02:08:11,191 --> 02:08:16,404
+Wielu ¿yj¹cych zas³uguje na œmieræ.
+Niektórzy, którzy umieraj¹, zas³uguj¹ na ¿ycie.
+
+1226
+02:08:17,864 --> 02:08:20,325
+Czy mo¿esz im je zwróciæ, Frodo?
+
+1227
+02:08:22,744 --> 02:08:26,664
+Nie b¹dŸ zbyt pochopny
+w ferowaniu wyroków œmierci.
+
+1228
+02:08:26,915 --> 02:08:29,834
+Nawet mêdrzec
+nie widzi wszystkiego, co bêdzie na koñcu.
+
+1229
+02:08:30,418 --> 02:08:36,341
+Moje serce mówi mi, ¿e Gollum
+odegra jeszcze jak¹œ rolê, dobr¹ lub z³¹...
+
+1230
+02:08:37,133 --> 02:08:39,969
+zanim to wszystko siê dope³ni.
+
+1231
+02:08:41,513 --> 02:08:45,350
+Litoœæ Bilba
+mo¿e zadecydowaæ o losie wielu.
+
+1232
+02:08:52,023 --> 02:08:55,360
+Chcia³bym, ¿eby Pierœcieñ
+nigdy do mnie nie trafi³...
+
+1233
+02:08:56,778 --> 02:08:58,780
+¯eby to wszystko
+nie mia³o miejsca.
+
+1234
+02:08:59,030 --> 02:09:04,035
+Jak ka¿dy, komu przysz³o ¿yæ w tych czasach.
+Ale nie im przysz³o o tym decydowaæ.
+
+1235
+02:09:04,869 --> 02:09:10,375
+My musimy zadecydowaæ o tym,
+co zrobiæ z czasem, który zosta³ nam dany.
+
+1236
+02:09:11,876 --> 02:09:15,839
+Dzia³aj¹ na tym œwiecie
+i inne si³y oprócz woli z³a, Frodo.
+
+1237
+02:09:16,256 --> 02:09:18,675
+Przeznaczeniem Bilba
+by³o znaleŸæ Pierœcieñ...
+
+1238
+02:09:19,217 --> 02:09:23,471
+Co oznacza, ¿e ty tak¿e jesteœ
+przeznaczony, do tego by go mieæ...
+
+1239
+02:09:23,680 --> 02:09:26,850
+i to jest zachêcaj¹ca myœl.
+
+1240
+02:09:31,730 --> 02:09:33,648
+To ta droga.
+
+1241
+02:09:33,857 --> 02:09:36,151
+- Przypomnia³ sobie.
+- Nie...
+
+1242
+02:09:36,359 --> 02:09:40,155
+tylko powietrze tutaj tak nie cuchnie.
+
+1243
+02:09:40,363 --> 02:09:45,577
+Jeœli masz w¹tpliwoœci, Meriadoku,
+zawsze kieruj siê swoim nosem.
+
+1244
+02:10:00,383 --> 02:10:04,554
+Zaryzykujmy trochê wiêcej œwiat³a...
+
+1245
+02:10:09,184 --> 02:10:11,269
+Spójrzcie!
+
+1246
+02:10:11,686 --> 02:10:16,941
+Oto wielkie królestwo,
+krasnoludzkie miasto Dwarrowdelf.
+
+1247
+02:10:19,402 --> 02:10:22,822
+Bez w¹tpienia
+robi olbrzymie wra¿enie.
+
+1248
+02:10:47,764 --> 02:10:49,474
+Gimli!
+
+1249
+02:10:56,898 --> 02:10:58,525
+Nie!
+
+1250
+02:11:01,111 --> 02:11:04,280
+Nie.
+
+1251
+02:11:06,116 --> 02:11:07,367
+Nie.
+
+1252
+02:11:14,666 --> 02:11:16,668
+"Tu le¿y Balin...
+
+1253
+02:11:17,127 --> 02:11:19,129
+syn Fundina...
+
+1254
+02:11:19,421 --> 02:11:22,048
+W³adca Morii."
+
+1255
+02:11:23,133 --> 02:11:24,801
+Wiêc umar³.
+
+1256
+02:11:26,511 --> 02:11:28,221
+Tego siê obawia³em.
+
+1257
+02:11:46,448 --> 02:11:49,367
+Musimy ruszaæ,
+nie mo¿emy zwlekaæ.
+
+1258
+02:11:49,576 --> 02:11:54,289
+"Zajêli most...
+i drug¹ salê..."
+
+1259
+02:11:55,373 --> 02:11:57,959
+"Zaryglowaliœmy wrota..."
+
+1260
+02:11:58,626 --> 02:12:01,087
+"ale nie zdo³amy d³ugo siê opieraæ..."
+
+1261
+02:12:01,296 --> 02:12:04,132
+"Ziemia dr¿y..."
+
+1262
+02:12:04,549 --> 02:12:06,134
+"Bêbny...
+
+1263
+02:12:06,509 --> 02:12:09,888
+bêbny w g³êbinach..."
+
+1264
+02:12:13,433 --> 02:12:15,477
+"Nie mo¿emy siê wydostaæ..."
+
+1265
+02:12:17,479 --> 02:12:21,316
+"Cieñ porusza siê w ciemnoœciach..."
+
+1266
+02:12:22,984 --> 02:12:25,528
+"Nie mo¿emy siê wydostaæ..."
+
+1267
+02:12:28,573 --> 02:12:30,492
+"Nadchodz¹..."
+
+1268
+02:13:13,535 --> 02:13:15,328
+G³upi Tuku!
+
+1269
+02:13:15,745 --> 02:13:19,499
+Nastêpnym razem rzuæ siê sam
+i oszczêdŸ nam swojej g³upoty.
+
+1270
+02:13:45,525 --> 02:13:47,235
+Frodo!
+
+1271
+02:13:49,529 --> 02:13:50,989
+Orkowie!
+
+1272
+02:13:57,996 --> 02:13:59,998
+Cofnijcie siê!
+Trzymajcie siê blisko Gandalfa!
+
+1273
+02:14:07,213 --> 02:14:09,049
+Jest z nimi troll jaskiniowy.
+
+1274
+02:14:24,856 --> 02:14:26,024
+Niech wejd¹!
+
+1275
+02:14:26,524 --> 02:14:30,070
+Zosta³ jeszcze jeden krasnolud w Morii,
+w którym wci¹¿ kipi krew.
+
+1276
+02:16:48,958 --> 02:16:51,711
+Chyba zaczynam siê wprawiaæ.
+
+1277
+02:16:56,424 --> 02:16:58,176
+Frodo!
+
+1278
+02:17:31,710 --> 02:17:33,545
+Aragornie, Aragornie!
+
+1279
+02:17:34,587 --> 02:17:36,423
+Frodo!
+
+1280
+02:18:21,593 --> 02:18:23,470
+Frodo!
+
+1281
+02:19:23,697 --> 02:19:24,989
+Nie...
+
+1282
+02:19:33,373 --> 02:19:35,291
+¯yje.
+
+1283
+02:19:37,752 --> 02:19:40,714
+Wszystko w porz¹dku.
+Nie jestem ranny.
+
+1284
+02:19:40,922 --> 02:19:43,133
+Powinieneœ byæ martwy...
+
+1285
+02:19:43,341 --> 02:19:45,844
+To by³o potê¿ne pchniêcie!
+
+1286
+02:19:46,052 --> 02:19:50,807
+Myœlê, ¿e w tym hobbicie jest coœ wiêcej,
+ni¿ na pozór siê wydaje.
+
+1287
+02:19:56,688 --> 02:19:57,731
+Mithril.
+
+1288
+02:20:00,525 --> 02:20:03,153
+Jesteœ pe³en niespodzianek, panie Baggins.
+
+1289
+02:20:09,159 --> 02:20:11,077
+Do mostu Khazad-dum!
+
+1290
+02:20:26,134 --> 02:20:27,802
+Têdy!
+
+1291
+02:21:38,164 --> 02:21:41,126
+Co to za nowe diabelstwo?
+
+1292
+02:21:57,225 --> 02:21:59,978
+Balrog.
+
+1293
+02:22:00,311 --> 02:22:03,440
+Demon pradawnego  œwiata.
+
+1294
+02:22:05,650 --> 02:22:08,069
+Z tym przeciwnikiem ¿aden z was nie
+mo¿e siê mierzyæ.
+
+1295
+02:22:09,237 --> 02:22:10,822
+Biegnijcie!
+
+1296
+02:22:18,163 --> 02:22:19,664
+Szybko!
+
+1297
+02:22:36,264 --> 02:22:37,557
+Gandalfie...
+
+1298
+02:22:38,183 --> 02:22:39,768
+ProwadŸ ich dalej, Aragornie.
+
+1299
+02:22:41,186 --> 02:22:43,688
+Most jest blisko.
+
+1300
+02:22:45,732 --> 02:22:49,861
+Rób, co mówiê!
+Miecze na nic siê tu nie zdadz¹.
+
+1301
+02:23:18,973 --> 02:23:20,725
+Gandalfie!
+
+1302
+02:23:38,993 --> 02:23:40,245
+Merry! Pippin!
+
+1303
+02:23:51,339 --> 02:23:52,882
+Samie!
+
+1304
+02:23:55,593 --> 02:23:58,847
+Nikt nie bêdzie rzucaæ krasnoludem.
+
+1305
+02:24:01,891 --> 02:24:03,309
+Nie za brodê!
+
+1306
+02:24:16,531 --> 02:24:18,450
+Spokojnie.
+
+1307
+02:24:20,535 --> 02:24:22,203
+Trzymaj siê!
+
+1308
+02:24:43,266 --> 02:24:44,476
+Trzymaj siê!
+
+1309
+02:24:55,236 --> 02:24:56,988
+Pochyl siê do przodu!
+
+1310
+02:24:59,991 --> 02:25:00,992
+Spokojnie.
+
+1311
+02:25:02,327 --> 02:25:03,495
+No dalej!
+
+1312
+02:25:03,703 --> 02:25:05,205
+Teraz!
+
+1313
+02:25:22,389 --> 02:25:24,182
+Na most!
+
+1314
+02:25:24,432 --> 02:25:25,975
+Pêdem!
+
+1315
+02:26:10,562 --> 02:26:12,605
+Nie przejdziesz!
+
+1316
+02:26:12,814 --> 02:26:14,399
+Gandalfie!
+
+1317
+02:26:18,653 --> 02:26:23,533
+Jam jest s³ug¹ Tajemnego Ognia,
+w³adam P³omieniem Anoru.
+
+1318
+02:26:24,534 --> 02:26:28,329
+Ciemny ogieñ na nic ci siê nie zda,
+P³omieniu z Udunu!
+
+1319
+02:26:38,298 --> 02:26:40,258
+Wracaj do Cienia.
+
+1320
+02:26:48,099 --> 02:26:52,562
+Nie przejdziesz!
+
+1321
+02:27:19,714 --> 02:27:23,593
+- Nie, nie!
+- Gandalfie!
+
+1322
+02:27:31,267 --> 02:27:33,728
+Uciekajcie g³upcy!
+
+1323
+02:27:37,857 --> 02:27:40,026
+Nie!
+
+1324
+02:27:46,157 --> 02:27:48,326
+Aragornie!
+
+1325
+02:28:45,633 --> 02:28:48,428
+Legolasie, zbierz ich!
+
+1326
+02:28:52,515 --> 02:28:54,392
+Daj im chwilê, na mi³oœæ Bosk¹!
+
+1327
+02:28:54,601 --> 02:28:58,229
+Do nocy, na tych wzgórzach
+roiæ siê bêdzie od orków!
+
+1328
+02:28:58,438 --> 02:29:01,775
+Musimy dotrzeæ do lasów Lothlórien.
+
+1329
+02:29:02,692 --> 02:29:05,987
+ChodŸ, Boromirze.
+Legolasie, Gimli, zbierzcie ich!
+
+1330
+02:29:07,489 --> 02:29:09,699
+Stawaj na nogi, Samie.
+
+1331
+02:29:10,033 --> 02:29:11,534
+Frodo?
+
+1332
+02:29:13,578 --> 02:29:15,288
+Frodo!
+
+1333
+02:30:07,799 --> 02:30:10,301
+Trzymajcie siê blisko, hobbici.
+
+1334
+02:30:11,094 --> 02:30:15,181
+Powiadaj¹, ¿e potê¿na czarownica
+mieszka w tych lasach.
+
+1335
+02:30:15,390 --> 02:30:21,146
+Elficka wiedŸma...
+o wielkiej mocy.
+
+1336
+02:30:21,896 --> 02:30:24,107
+Wszyscy, którzy na ni¹ spojrz¹...
+
+1337
+02:30:24,315 --> 02:30:26,109
+poddaj¹ siê jej urokowi...
+
+1338
+02:30:26,317 --> 02:30:27,610
+<i>Frodo...</i>
+
+1339
+02:30:29,863 --> 02:30:31,906
+i przepadaj¹ bez wieœci na wieki.
+
+1340
+02:30:32,115 --> 02:30:36,619
+<i>Twoje przyjœcie do nas,</i>
+<i>jest podyktowane przeznaczeniem...</i>
+
+1341
+02:30:36,828 --> 02:30:40,540
+<i>Przynosisz tu wielkie z³o...</i>
+<i>Powierniku Pierœcienia...</i>
+
+1342
+02:30:40,749 --> 02:30:42,500
+Panie Frodo...
+
+1343
+02:30:47,797 --> 02:30:53,386
+Jest tu jednak jeden krasnolud,
+którego tak ³atwo nie usidli...
+
+1344
+02:30:53,595 --> 02:30:58,141
+Mam oczy soko³a i uszy lisa.
+
+1345
+02:31:05,815 --> 02:31:10,403
+Krasnolud oddycha tak g³oœno,
+¿e mo¿na trafiæ go w ciemnoœci.
+
+1346
+02:31:14,949 --> 02:31:17,994
+"Mae govannen, Legolas Thranduilion"
+Witaj Legolasie, synu Thranduila.
+
+1347
+02:31:18,620 --> 02:31:22,123
+"Govannas vîn gwennen le, Haldir o Lórien"
+Nasza dru¿yna jest ci zobowi¹zana, Haldirze z Lórien.
+
+1348
+02:31:23,917 --> 02:31:26,002
+"A Aragorn in Dúnedain..."
+Aragornie z Dunedainów,
+
+1349
+02:31:26,211 --> 02:31:28,254
+"istannen le ammen"
+twe imiê jest nam znane.
+
+1350
+02:31:28,296 --> 02:31:29,130
+"Hennaid"
+Dziêkujê.
+
+1351
+02:31:29,172 --> 02:31:30,965
+To jest w³aœnie
+legendarna uprzejmoœæ elfów!
+
+1352
+02:31:31,007 --> 02:31:32,884
+Mówcie w jêzyku,
+który wszyscy zrozumiej¹!
+
+1353
+02:31:33,093 --> 02:31:37,681
+Nie zadajemy siê z krasnoludami
+od czasów Mrocznych Dni.
+
+1354
+02:31:37,931 --> 02:31:40,475
+A wiesz, co ten krasnolud
+ci na to odpowie?
+
+1355
+02:31:41,142 --> 02:31:44,145
+"Ishkhaqwi ai durugnul!"
+Plujê na twój grób!
+
+1356
+02:31:47,315 --> 02:31:49,275
+To nie by³o zbyt uprzejme.
+
+1357
+02:31:55,824 --> 02:31:59,869
+Przyprowadzasz ze sob¹ wielkie z³o.
+
+1358
+02:32:01,621 --> 02:32:03,832
+Nie mo¿ecie iœæ dalej.
+
+1359
+02:32:10,171 --> 02:32:20,849
+"Boe ammen veriad lîn. Andelu i ven."
+
+1360
+02:32:34,904 --> 02:32:37,115
+"Merin le telim."
+
+1361
+02:32:37,699 --> 02:32:39,200
+"Henio, aníron boe ammen i dulu lîn."
+
+1362
+02:32:39,784 --> 02:32:40,869
+"Andelu i ven."
+
+1363
+02:32:41,244 --> 02:32:43,872
+Œmieræ Gandalfa nie by³a bezcelowa.
+
+1364
+02:32:44,998 --> 02:32:46,916
+Nie mo¿esz traciæ nadziei.
+
+1365
+02:32:48,418 --> 02:32:51,755
+Niesiesz wielki ciê¿ar, Frodo.
+
+1366
+02:32:52,589 --> 02:32:55,717
+Nie próbuj dŸwigaæ go a¿ do œmierci.
+
+1367
+02:32:58,553 --> 02:33:00,597
+Pójdziecie za mn¹.
+
+1368
+02:33:12,317 --> 02:33:14,277
+Caras Galadhon.
+
+1369
+02:33:14,903 --> 02:33:17,822
+Tu jest serce królestwa elfów na ziemi.
+
+1370
+02:33:18,031 --> 02:33:23,703
+Królestwo
+Pana Celeborna i Galadrieli, Pani Œwiat³a.
+
+1371
+02:34:42,782 --> 02:34:45,869
+Wróg wie, ¿e tu dotarliœcie...
+
+1372
+02:34:46,536 --> 02:34:51,708
+Nadzieja, ¿e zostanie to
+tajemnic¹, upad³a.
+
+1373
+02:34:53,460 --> 02:34:57,881
+Jest was oœmiu,
+chocia¿ dziewiêciu wyruszy³o z Rivendell.
+
+1374
+02:34:58,131 --> 02:35:03,219
+Powiedzcie mi, gdzie jest Gandalf?
+Bardzo pragnê z nim pomówiæ.
+
+1375
+02:35:03,428 --> 02:35:06,639
+Lecz nie mogê dostrzec go w tej dali.
+
+1376
+02:35:07,140 --> 02:35:12,270
+Gandalf Szary
+nie przekroczy³ granic tej ziemi.
+
+1377
+02:35:12,520 --> 02:35:14,981
+Wpad³ w otch³añ Cienia.
+
+1378
+02:35:19,903 --> 02:35:24,407
+Zosta³ zaatakowany przez Cieñ i P³omieñ...
+
+1379
+02:35:25,992 --> 02:35:29,788
+Balroga, s³ugê Morgotha.
+
+1380
+02:35:30,497 --> 02:35:33,875
+Bez potrzeby wszed³ w pu³apkê Morii.
+
+1381
+02:35:35,919 --> 02:35:39,255
+Nic, co robi³ Gandalf za ¿ycia,
+nie by³o niepotrzebne.
+
+1382
+02:35:39,798 --> 02:35:43,093
+Nie znamy jeszcze
+jego ca³ego zamys³u.
+
+1383
+02:35:47,847 --> 02:35:52,143
+Nie pozwól, ¿eby wielka pustka
+Khazad-dum wype³ni³a twoje serce,
+
+1384
+02:35:52,352 --> 02:35:54,688
+Gimli, synu Gloina.
+
+1385
+02:35:55,689 --> 02:35:59,234
+Œwiat jest teraz pe³en niebezpieczeñstw...
+
+1386
+02:36:00,694 --> 02:36:03,321
+i na wszystkich ziemiach...
+
+1387
+02:36:03,530 --> 02:36:07,033
+mi³oœæ miesza siê z ¿alem.
+
+1388
+02:36:19,671 --> 02:36:22,382
+Co teraz stanie siê dru¿yn¹?
+
+1389
+02:36:22,924 --> 02:36:25,927
+Bez Gandalfa nie ma nadziei...
+
+1390
+02:36:28,888 --> 02:36:32,142
+Powodzenie wyprawy
+zawis³o na ostrzu no¿a.
+
+1391
+02:36:32,350 --> 02:36:35,437
+Jeœli zboczycie choæ o w³os,
+wszystko przepadnie...
+
+1392
+02:36:36,187 --> 02:36:39,024
+grzebi¹c nas pod gruzami.
+
+1393
+02:36:43,361 --> 02:36:49,200
+Jednak jest wci¹¿ nadzieja...
+dopóki dru¿yna jest wierna sprawie.
+
+1394
+02:36:50,744 --> 02:36:55,498
+Nie dopuszczajcie lêku do serc.
+IdŸcie teraz i odpocznijcie...
+
+1395
+02:36:55,915 --> 02:36:59,586
+bo jesteœcie wyczerpani ¿alem i znojem.
+
+1396
+02:37:01,838 --> 02:37:03,965
+Dzisiejsz¹ noc przeœpicie spokojnie...
+
+1397
+02:37:04,257 --> 02:37:07,677
+<i>Witaj, Frodo z Shire...</i>
+
+1398
+02:37:09,137 --> 02:37:10,930
+<i>Ty, który widzia³eœ Oko!</i>
+
+1399
+02:37:25,570 --> 02:37:28,114
+Pieœñ ¿a³obna za Gandalfa...
+
+1400
+02:37:35,413 --> 02:37:36,956
+Co o nim œpiewaj¹?
+
+1401
+02:37:37,207 --> 02:37:39,834
+Nie mam serca,
+¿eby wam powiedzieæ.
+
+1402
+02:37:42,712 --> 02:37:44,964
+Dla mnie ta rana
+jest jeszcze zbyt œwie¿a.
+
+1403
+02:37:47,926 --> 02:37:50,720
+Nic nie wspomnieli
+o jego fajerwerkach...
+
+1404
+02:37:50,929 --> 02:37:53,932
+Powinien byæ o nich
+choæ jeden wers.
+
+1405
+02:37:57,519 --> 02:37:59,896
+"Najwspanialsze rakiety,
+jakie kiedykolwiek widzia³em..."
+
+1406
+02:38:00,647 --> 02:38:03,483
+"Niczym wybuchaj¹ce gwiazdy
+ubrane w zielenie i b³êkity..."
+
+1407
+02:38:04,401 --> 02:38:09,572
+"Albo po grzmotach
+prysznic srebrny te¿..."
+
+1408
+02:38:10,323 --> 02:38:13,076
+"Spada niczym kwiatów deszcz..."
+
+1409
+02:38:13,284 --> 02:38:17,163
+To nie oddaje tego najlepiej.
+
+1410
+02:38:27,882 --> 02:38:30,552
+Odpocznijcie trochê.
+
+1411
+02:38:30,760 --> 02:38:33,430
+Te granice s¹ dobrze strze¿one.
+
+1412
+02:38:33,638 --> 02:38:36,141
+Ja nie znajdê tu odpoczynku.
+
+1413
+02:38:39,019 --> 02:38:41,980
+Us³ysza³em jej g³os w mojej g³owie...
+
+1414
+02:38:42,313 --> 02:38:45,942
+Mówi³a o moim ojcu
+i upadku Gondoru...
+
+1415
+02:38:46,151 --> 02:38:51,614
+Powiedzia³a mi:
+"Nawet teraz jest jeszcze nadzieja".
+
+1416
+02:38:52,991 --> 02:38:55,827
+Ale ja jej nie widzê.
+
+1417
+02:38:57,162 --> 02:38:59,664
+Tak du¿o czasu minê³o,
+odk¹d nie mamy ju¿ nadziei...
+
+1418
+02:39:09,841 --> 02:39:11,968
+Mój ojciec
+to szlachetny cz³owiek,
+
+1419
+02:39:12,761 --> 02:39:14,971
+lecz jego rz¹dy upadaj¹...
+
+1420
+02:39:18,099 --> 02:39:20,727
+i nasi ludzie trac¹ wiarê...
+
+1421
+02:39:22,145 --> 02:39:25,648
+Oczekuje, ¿e przywrócê œwietnoœæ Gondoru...
+A ja... ja chcia³bym, to zrobiæ.
+
+1422
+02:39:25,857 --> 02:39:29,402
+Chcia³bym znów zobaczyæ
+Gondor w chwale...
+
+1423
+02:39:32,238 --> 02:39:35,241
+Czy mia³eœ okazjê to zobaczyæ, Aragornie?
+
+1424
+02:39:35,867 --> 02:39:37,869
+Bia³¹ Wie¿ê Ectheliona,
+
+1425
+02:39:38,078 --> 02:39:41,915
+migocz¹ca w s³oñcu
+jak w³ócznia z pere³ i srebra...
+
+1426
+02:39:42,582 --> 02:39:46,086
+Jej sztandary uniesione wysoko
+przez porann¹ bryzê...
+
+1427
+02:39:48,963 --> 02:39:50,924
+Czy kiedykolwiek
+by³eœ wzywany do domu...
+
+1428
+02:39:51,132 --> 02:39:55,053
+poprzez czysty dŸwiêk
+srebrnych tr¹bek?
+
+1429
+02:39:55,679 --> 02:40:00,600
+Widzia³em Bia³e Miasto,
+dawno temu.
+
+1430
+02:40:01,726 --> 02:40:06,690
+Pewnego dnia
+nasza œcie¿ka nas tam doprowadzi.
+
+1431
+02:40:07,649 --> 02:40:10,568
+I stra¿nik na wie¿y obwieœci:
+
+1432
+02:40:11,027 --> 02:40:14,364
+"Panowie Gondoru wrócili"...
+
+1433
+02:41:21,556 --> 02:41:24,059
+Czy spojrzysz w Zwierciad³o?
+
+1434
+02:41:24,267 --> 02:41:25,810
+Co w nim zobaczê?
+
+1435
+02:41:28,772 --> 02:41:31,107
+Nawet mêdrzec
+nie potrafi powiedzieæ...
+
+1436
+02:41:32,025 --> 02:41:36,571
+bo zwierciad³o...
+pokazuje wiele rzeczy.
+
+1437
+02:41:39,616 --> 02:41:41,993
+Rzeczy, które by³y...
+
+1438
+02:41:42,202 --> 02:41:44,746
+Rzeczy, które s¹...
+
+1439
+02:41:45,538 --> 02:41:47,499
+I niektóre rzeczy...
+
+1440
+02:41:51,086 --> 02:41:54,422
+które jeszcze
+nie sta³y siê przesz³oœci¹...
+
+1441
+02:43:16,921 --> 02:43:19,758
+Wiem, czym jest, to co zobaczy³eœ...
+
+1442
+02:43:22,344 --> 02:43:24,763
+Poniewa¿ ten sam widok
+pojawi³ siê równie¿ w moich myœlach.
+
+1443
+02:43:26,556 --> 02:43:30,602
+<i>To widok tego, co by siê sta³o...,</i>
+<i>jeœli byœ zawiód³.</i>
+
+1444
+02:43:32,979 --> 02:43:37,859
+<i>Dru¿yna siê rozpada...</i>
+<i>To ju¿ siê rozpoczê³o...</i>
+
+1445
+02:43:38,485 --> 02:43:41,780
+<i>On bêdzie chcia³ przej¹æ Pierœcieñ...</i>
+
+1446
+02:43:41,988 --> 02:43:43,990
+<i>Wiesz, o kim mówiê...</i>
+
+1447
+02:43:44,991 --> 02:43:49,662
+<i>Jednego po drugim...</i>
+<i>zniszczy ich wszystkich.</i>
+
+1448
+02:43:51,164 --> 02:43:53,625
+<i>Jeœli mnie o to prosisz...</i>
+
+1449
+02:43:54,000 --> 02:43:57,087
+<i>dam ci Jedyny Pierœcieñ.</i>
+
+1450
+02:43:58,129 --> 02:44:00,298
+Chcesz dobrowolnie
+oddaæ mi Pierœcieñ?
+
+1451
+02:44:04,886 --> 02:44:08,807
+Nie zaprzeczam, ¿e moje serce
+wielce tego po¿¹da...
+
+1452
+02:44:15,188 --> 02:44:18,483
+Na miejscu W³adcy Ciemnoœci
+mia³byœ Królow¹...
+
+1453
+02:44:18,942 --> 02:44:22,737
+Nie mroczn¹,
+ale piêkn¹ i straszn¹ jak Sauron!
+
+1454
+02:44:23,363 --> 02:44:26,408
+Zdradliw¹ jak morze!
+
+1455
+02:44:26,991 --> 02:44:31,830
+Potê¿niejsz¹ ni¿eli fundamenty Ziemi!
+
+1456
+02:44:32,288 --> 02:44:37,210
+Wszyscy kochaliby mnie
+i rozpaczali!
+
+1457
+02:44:51,808 --> 02:44:56,146
+Przesz³am próbê.
+Wyrzeknê siê wielkoœci...
+
+1458
+02:44:56,396 --> 02:44:58,857
+Odejdê na Zachód.
+
+1459
+02:44:59,149 --> 02:45:03,528
+- Pozostanê Galadriel¹.
+- Nie potrafiê tego zrobiæ sam.
+
+1460
+02:45:07,240 --> 02:45:11,286
+Ty jesteœ Powiernikiem Pierœcienia, Frodo...
+Nosiæ Pierœcieñ W³adzy,
+
+1461
+02:45:12,203 --> 02:45:13,705
+oznacza samotnoœæ.
+
+1462
+02:45:17,042 --> 02:45:19,794
+To jest Nenya,
+Pierœcieñ z Adamentem.
+
+1463
+02:45:20,003 --> 02:45:21,588
+A ja jestem jego powierniczk¹.
+
+1464
+02:45:24,799 --> 02:45:28,428
+To zadanie by³o tobie przeznaczone...
+
+1465
+02:45:29,471 --> 02:45:35,310
+I jeœli ty nie znajdziesz drogi,
+nikt jej nie odnajdzie.
+
+1466
+02:45:36,144 --> 02:45:39,105
+Wiem, co muszê zrobiæ...
+
+1467
+02:45:39,981 --> 02:45:40,982
+Tylko, ¿e...
+
+1468
+02:45:44,235 --> 02:45:46,488
+bojê siê to uczyniæ.
+
+1469
+02:45:49,991 --> 02:45:55,121
+Nawet najmniejsza osoba mo¿e odmieniæ
+bieg przysz³oœci.
+
+1470
+02:46:00,460 --> 02:46:06,216
+Czy wiesz, jak narodzili siê
+pierwsi orkowie?
+
+1471
+02:46:06,966 --> 02:46:10,303
+Kiedyœ byli elfami.
+
+1472
+02:46:11,471 --> 02:46:14,808
+Uprowadzeni przez Moce Ciemnoœci...
+
+1473
+02:46:15,016 --> 02:46:18,186
+Torturowani i okaleczani...
+
+1474
+02:46:18,520 --> 02:46:23,775
+Upodlona, potworna forma ¿ycia.
+
+1475
+02:46:24,109 --> 02:46:25,902
+A teraz...
+
+1476
+02:46:27,404 --> 02:46:29,280
+udoskonalona.
+
+1477
+02:46:29,989 --> 02:46:33,159
+Moi waleczni Uruk-hai...
+
+1478
+02:46:35,120 --> 02:46:37,372
+Komu bêdziesz s³u¿y³?
+
+1479
+02:46:37,622 --> 02:46:40,083
+Sarumanowi!
+
+1480
+02:47:00,937 --> 02:47:04,357
+Œcigaæ ich! Nie zatrzymujcie siê,
+dopóki nie zostan¹ odnalezieni!
+
+1481
+02:47:04,607 --> 02:47:07,485
+Nie wiecie czym jest ból,
+nie znacie strachu.
+
+1482
+02:47:07,694 --> 02:47:10,655
+Poznacie smak ludzkiego miêsa!
+
+1483
+02:47:15,702 --> 02:47:19,372
+Jeden z nizio³ków
+niesie coœ o wielkiej wartoœci...
+
+1484
+02:47:19,581 --> 02:47:23,793
+PrzyprowadŸcie ich do mnie
+¿ywych i ca³ych.
+
+1485
+02:47:25,587 --> 02:47:26,880
+Resztê zabiæ!
+
+1486
+02:47:46,066 --> 02:47:51,529
+Nigdy przedtem nie ubieraliœmy obcych
+w szaty naszych ludzi.
+
+1487
+02:47:52,655 --> 02:47:56,451
+Mam nadziejê, ¿e uchroni¹ was
+od nieprzyjaznych oczu.
+
+1488
+02:48:03,667 --> 02:48:05,293
+Lembas.
+
+1489
+02:48:05,502 --> 02:48:07,128
+Elficki chleb podró¿ny.
+
+1490
+02:48:09,631 --> 02:48:12,634
+Jeden ma³y kês jest w stanie
+zape³niæ ¿o³¹dek doros³ego mê¿czyzny.
+
+1491
+02:48:19,099 --> 02:48:21,017
+Ile zjad³eœ?
+
+1492
+02:48:21,226 --> 02:48:22,894
+Cztery.
+
+1493
+02:48:28,692 --> 02:48:31,277
+Z ka¿d¹ mil¹
+niebezpieczeñstwo bêdzie narastaæ...
+
+1494
+02:48:31,486 --> 02:48:35,573
+Orkowie z Mordoru
+strzeg¹ wschodniego brzegu Anduiny.
+
+1495
+02:48:35,782 --> 02:48:38,284
+Ale na zachodnim brzegu
+te¿ nie bêdziecie bezpieczni...
+
+1496
+02:48:38,493 --> 02:48:42,288
+Dziwne stworzenia ze znakiem Bia³ej Rêki
+by³y widziane u naszych granic.
+
+1497
+02:48:42,497 --> 02:48:47,585
+Rzadko orkowie pokazuj¹ siê za dnia,
+jednak te tak zrobi³y.
+
+1498
+02:48:56,261 --> 02:48:58,847
+"Le aphadar aen."
+Jesteœcie tropieni.
+
+1499
+02:49:00,265 --> 02:49:04,894
+P³yn¹c rzek¹ a¿ do wodospadu Rauros,
+macie szansê wyprzedziæ nieprzyjaciela.
+
+1500
+02:49:22,203 --> 02:49:26,958
+Mój podarunek dla ciebie Legolasie...
+To ³uk Galadhrim...
+
+1501
+02:49:27,167 --> 02:49:30,670
+Stosowny do umiejêtnoœci
+naszego leœnego rodu.
+
+1502
+02:49:36,051 --> 02:49:38,470
+To s¹ mieczyki z noldorskiej stali...
+
+1503
+02:49:38,678 --> 02:49:42,640
+które ju¿ siê sprawdzi³y w boju.
+
+1504
+02:49:42,849 --> 02:49:45,101
+Nie bój siê, m³ody Peregrinie Tuku...
+
+1505
+02:49:45,310 --> 02:49:48,605
+odnajdziesz swoj¹ odwagê...
+
+1506
+02:49:50,482 --> 02:49:52,442
+A dla ciebie, Samwisie Gamgee,
+
+1507
+02:49:52,650 --> 02:49:55,153
+lina elfów zrobiona z hithlainu.
+
+1508
+02:49:55,362 --> 02:49:57,489
+Dziêkujê, proszê pani.
+
+1509
+02:49:59,324 --> 02:50:02,660
+Nie masz ju¿ wiêcej
+tych piêknych, lœni¹cych sztyletów?
+
+1510
+02:50:09,084 --> 02:50:12,087
+A o jaki dar chcia³by
+prosiæ elfy krasnolud?
+
+1511
+02:50:12,295 --> 02:50:14,422
+O nic...
+
+1512
+02:50:15,048 --> 02:50:18,385
+z wyj¹tkiem
+ostatniego spojrzenia na Pani¹ Galadrielê,
+
+1513
+02:50:19,010 --> 02:50:24,224
+gdy¿ jej piêknoœæ jest wiêksza,
+ni¿eli wszystkie dziwy na Ziemi!
+
+1514
+02:50:31,272 --> 02:50:32,816
+W³aœciwie...
+
+1515
+02:50:33,024 --> 02:50:34,651
+to jest jedna rzecz...
+
+1516
+02:50:35,485 --> 02:50:38,071
+Nie, nie. Nie móg³bym...
+To raczej niemo¿liwe.
+
+1517
+02:50:38,321 --> 02:50:41,074
+G³upio o to prosiæ.
+
+1518
+02:50:43,660 --> 02:50:45,704
+Nie mam ci nic wiêkszego do podarowania...
+
+1519
+02:50:45,954 --> 02:50:49,499
+ni¿ dar, który ju¿ nosisz.
+
+1520
+02:50:50,792 --> 02:50:52,127
+"Am meleth dîn."
+Bojê siê...
+
+1521
+02:50:53,128 --> 02:50:58,466
+"I ant e-guil Arwen Undómiel pelitha." ¿e z mi³oœci
+do Ciebie uroda Arweny, Gwiazdy Wieczornej, zblednie.
+
+1522
+02:50:59,259 --> 02:51:02,512
+"Aníron i e broniatha,"
+Opuœci brzegi Œródziemia,
+
+1523
+02:51:04,055 --> 02:51:06,975
+"ar periatham... amar hen"
+i zostanie ze swoim ludem.
+
+1524
+02:51:09,019 --> 02:51:14,691
+"Aníron e ciratha a Valannor."
+Chcê, ¿eby pop³ynê³a statkiem do Valinoru.
+
+1525
+02:51:14,983 --> 02:51:18,028
+Ten wybór jest jeszcze przed ni¹.
+
+1526
+02:51:18,778 --> 02:51:21,656
+Ty masz do podjêcia
+swoj¹ w³asn¹ decyzjê, Aragornie.
+
+1527
+02:51:21,990 --> 02:51:27,787
+Wznieœæ siê ponad wszystkich
+swoich przodków od czasów Elendila...
+
+1528
+02:51:27,996 --> 02:51:32,334
+albo stoczyæ siê w cieñ
+z tym wszystkim, co osta³o z twego rodu...
+
+1529
+02:51:39,591 --> 02:51:40,884
+¯egnaj.
+
+1530
+02:51:44,763 --> 02:51:48,141
+Masz jeszcze wiele do zrobienia.
+
+1531
+02:51:54,689 --> 02:51:56,441
+"Dan, ú-'eveditham..."
+Ju¿ siê nie spotkamy...
+
+1532
+02:51:56,483 --> 02:51:57,817
+"Elessar."
+Elessarze.
+
+1533
+02:51:59,903 --> 02:52:03,073
+<i>¯egnaj, Frodo Baggins.</i>
+
+1534
+02:52:03,281 --> 02:52:06,701
+<i>Dajê ci œwiat³o Earendila...</i>
+
+1535
+02:52:07,452 --> 02:52:09,788
+<i>Naszej najukochañszej gwiazdy.</i>
+
+1536
+02:52:18,922 --> 02:52:23,343
+<i>Niech bêdzie dla ciebie œwiat³em</i>
+<i>w Ciemnoœci,</i>
+
+1537
+02:52:23,551 --> 02:52:27,681
+<i>kiedy wszystkie inne œwiat³a zgasn¹.</i>
+
+1538
+02:52:36,648 --> 02:52:39,818
+Dozna³em najgorszej rany
+podczas tego rozstania.
+
+1539
+02:52:40,443 --> 02:52:44,739
+Spogl¹daj¹c po raz ostatni,
+na coœ najpiêkniejszego.
+
+1540
+02:52:45,490 --> 02:52:48,827
+Odt¹d, nigdy ju¿ nic nie nazwê piêknym,
+chyba, ¿e bêdzie to dar od niej.
+
+1541
+02:52:49,077 --> 02:52:50,995
+Jaki by³ jej dar?
+
+1542
+02:52:51,204 --> 02:52:56,126
+Poprosi³em j¹ o jeden w³os
+z jej z³otej g³owy...
+
+1543
+02:52:56,918 --> 02:52:59,796
+A ona da³a mi trzy...
+
+1544
+02:54:41,981 --> 02:54:45,402
+Gollum.
+Œledzi nas od Morii.
+
+1545
+02:54:49,155 --> 02:54:52,242
+Mia³em nadziejê,
+¿e zgubimy go na rzece...
+
+1546
+02:54:52,492 --> 02:54:55,662
+ale on jest zbyt dobrym p³ywakiem.
+
+1547
+02:54:56,496 --> 02:54:59,749
+Jeœli powiadomi nieprzyjaciela
+o naszym po³o¿eniu,
+
+1548
+02:54:59,958 --> 02:55:02,127
+przeprawa stanie siê
+jeszcze bardziej niebezpieczna.
+
+1549
+02:55:02,377 --> 02:55:04,379
+Proszê coœ zjeœæ,
+panie Frodo.
+
+1550
+02:55:04,629 --> 02:55:07,632
+- Nie, Samie.
+- Nie jad³ pan ca³y dzieñ.
+
+1551
+02:55:07,882 --> 02:55:10,969
+Nie zmru¿y³ pan te¿ oka.
+Nie ukryje pan tego.
+
+1552
+02:55:11,928 --> 02:55:14,931
+- Panie Frodo...
+- Nic mi nie jest.
+
+1553
+02:55:15,181 --> 02:55:16,307
+Ale¿ to nieprawda.
+
+1554
+02:55:16,641 --> 02:55:19,060
+Jestem tu po to, ¿eby panu pomóc.
+
+1555
+02:55:19,310 --> 02:55:20,979
+Obieca³em Gandalfowi,
+¿e tak bêdzie.
+
+1556
+02:55:26,943 --> 02:55:29,696
+Nie mo¿esz mi pomóc Samie...
+
+1557
+02:55:31,823 --> 02:55:33,575
+Nie tym razem...
+
+1558
+02:55:36,453 --> 02:55:38,580
+Przeœpij siê trochê.
+
+1559
+02:55:44,794 --> 02:55:47,005
+Szlak do Minas Tirith
+jest bezpieczniejszy.
+
+1560
+02:55:47,547 --> 02:55:50,300
+Wiesz o tym.
+Tam moglibyœmy siê przegrupowaæ.
+
+1561
+02:55:50,967 --> 02:55:53,219
+Uderzyæ prosto na Mordor
+z silnej pozycji.
+
+1562
+02:55:53,470 --> 02:55:56,348
+Nie ma si³y w Gondorze,
+z której moglibyœmy skorzystaæ.
+
+1563
+02:55:56,806 --> 02:55:58,808
+Elfom szybko uwierzy³eœ...
+
+1564
+02:56:00,685 --> 02:56:03,480
+a tak ma³¹ wiarê masz we w³asny lud?
+
+1565
+02:56:03,688 --> 02:56:06,649
+Tak, jest u nich s³aboœæ, obawa...
+
+1566
+02:56:06,858 --> 02:56:10,195
+ale nie jest im obca
+odwaga... ani honor!
+
+1567
+02:56:10,403 --> 02:56:12,614
+Ale ty tego nie widzisz!
+
+1568
+02:56:12,947 --> 02:56:14,366
+Boisz siê!
+
+1569
+02:56:14,616 --> 02:56:17,202
+Ca³e ¿ycie ukrywa³eœ siê w cieniu.
+
+1570
+02:56:17,452 --> 02:56:20,914
+Boj¹c siê tego,
+kim jesteœ... i czym jesteœ!
+
+1571
+02:56:23,333 --> 02:56:27,712
+Nie pozwolê, by Pierœcieñ
+choæ zbli¿y³ siê do twego miasta!
+
+1572
+02:56:39,557 --> 02:56:40,892
+Frodo...
+
+1573
+02:56:42,769 --> 02:56:44,270
+Argonath...
+
+1574
+02:56:47,732 --> 02:56:51,444
+Od dawna pragn¹³em,
+by ujrzeæ podobizny Wielkich Królów...
+
+1575
+02:56:52,195 --> 02:56:54,114
+moich przodków.
+
+1576
+02:58:13,151 --> 02:58:15,362
+Przebêdziemy jezioro po zmroku...
+
+1577
+02:58:15,570 --> 02:58:18,114
+Ukryjemy ³odzie
+i dalej ruszymy pieszo.
+
+1578
+02:58:18,365 --> 02:58:21,826
+- Zbli¿ymy siê do Mordoru od pó³nocy.
+- Doprawdy?
+
+1579
+02:58:22,160 --> 02:58:25,914
+Dla ciebie to taka zwyk³a rzecz
+znaleŸæ drogê przez Emyn Muil?
+
+1580
+02:58:26,164 --> 02:58:29,417
+To niemo¿liwy do przejœcia labirynt
+ostrych jak brzytwa ska³.
+
+1581
+02:58:29,626 --> 02:58:32,712
+A póŸniej...
+jest jeszcze ciekawiej.
+
+1582
+02:58:33,129 --> 02:58:38,009
+J¹trz¹ce siê, œmierdz¹ce bagna,
+jak okiem siêgn¹æ...
+
+1583
+02:58:38,218 --> 02:58:39,636
+To jest nasza droga.
+
+1584
+02:58:41,179 --> 02:58:44,349
+Proponuje, ¿ebyœ trochê odpocz¹³
+i podreperowa³ swoje si³y, panie krasnoludzie.
+
+1585
+02:58:44,557 --> 02:58:46,267
+Podreperowaæ moje...
+
+1586
+02:58:49,312 --> 02:58:51,272
+- Powinniœmy wyruszyæ ju¿ teraz.
+- Nie.
+
+1587
+02:58:51,481 --> 02:58:55,860
+Orkowie patroluj¹ wschodni brzeg.
+Musimy poczekaæ na os³onê ciemnoœci.
+
+1588
+02:58:56,111 --> 02:58:59,531
+To nie wschodni brzeg mnie martwi.
+
+1589
+02:58:59,781 --> 02:59:03,743
+Cieñ i groŸba roœnie w moim umyœle.
+
+1590
+02:59:04,285 --> 02:59:08,498
+Coœ czai siê w pobli¿u, czujê to.
+
+1591
+02:59:10,458 --> 02:59:15,380
+Podreperowaæ si³y?
+Nie przejmuj siê tym, m³ody hobbicie.
+
+1592
+02:59:15,922 --> 02:59:17,590
+Gdzie jest Frodo?
+
+1593
+02:59:43,241 --> 02:59:45,160
+Nikt z nas nie powinien
+w³óczyæ siê samotnie.
+
+1594
+02:59:46,536 --> 02:59:48,663
+Zw³aszcza ty.
+
+1595
+02:59:48,872 --> 02:59:51,332
+Tak wiele od ciebie zale¿y.
+
+1596
+02:59:52,375 --> 02:59:54,336
+Frodo?
+
+1597
+03:00:01,426 --> 03:00:04,012
+Wiem, dlaczego szukasz odosobnienia.
+
+1598
+03:00:04,721 --> 03:00:08,141
+Cierpisz...
+Widzê to ka¿dego dnia.
+
+1599
+03:00:08,933 --> 03:00:12,020
+Czy nie s¹dzisz,
+¿e cierpisz zbytecznie?
+
+1600
+03:00:13,646 --> 03:00:16,316
+S¹ inne drogi, Frodo.
+
+1601
+03:00:16,524 --> 03:00:20,362
+- Inne œcie¿ki które moglibyœmy obraæ.
+- Wiem, co byœ mi powiedzia³.
+
+1602
+03:00:20,570 --> 03:00:24,366
+Zabrzmia³oby to jak m¹droœæ,
+gdyby nie ostrzega³o mnie moje serce.
+
+1603
+03:00:24,574 --> 03:00:27,660
+Ostrzega³o?
+Przed czym?
+
+1604
+03:00:27,869 --> 03:00:29,996
+Wszyscy siê boimy, Frodo.
+
+1605
+03:00:30,205 --> 03:00:33,833
+Ale daæ siê opanowaæ lêkowi,
+odrzuciæ ostatni¹ nadziejê...
+
+1606
+03:00:34,042 --> 03:00:37,837
+- Nie widzisz, ¿e to szaleñstwo?
+- Nie ma innej drogi.
+
+1607
+03:00:39,589 --> 03:00:42,926
+Proszê tylko o si³ê,
+¿eby obroniæ mój lud.
+
+1608
+03:00:44,511 --> 03:00:46,554
+- Gdybyœ tylko u¿yczy³ mi Pierœcienia...
+- Nie!
+
+1609
+03:00:47,806 --> 03:00:50,642
+Dlaczego odsuwasz siê ode mnie?
+Nie jestem z³odziejem.
+
+1610
+03:00:50,684 --> 03:00:52,268
+Nie jesteœ sob¹!
+
+1611
+03:00:53,269 --> 03:00:56,606
+Jak myœlisz, jakie masz szanse?
+
+1612
+03:00:56,815 --> 03:01:01,486
+Znajd¹ ciê.
+Odbior¹ ci Pierœcieñ...
+
+1613
+03:01:01,695 --> 03:01:05,407
+I bêdziesz b³aga³ o œmieræ,
+zanim siê to skoñczy.
+
+1614
+03:01:07,534 --> 03:01:09,619
+G³upcze!
+
+1615
+03:01:09,828 --> 03:01:13,790
+Jest twój tylko dziêki
+szczêœliwemu zbiegowi okolicznoœci!
+
+1616
+03:01:13,998 --> 03:01:16,793
+Powinien byæ mój!
+Daj mi go!
+
+1617
+03:01:17,002 --> 03:01:18,253
+- Daj mi go!
+- Nie!
+
+1618
+03:01:18,461 --> 03:01:20,296
+- Daj mi go!
+- Nie!
+
+1619
+03:01:27,929 --> 03:01:29,973
+Przejrza³em ciê.
+
+1620
+03:01:30,181 --> 03:01:33,143
+Zaniesiesz Pierœcieñ Sauronowi!
+
+1621
+03:01:33,351 --> 03:01:35,228
+Zdradzisz nas!
+
+1622
+03:01:35,437 --> 03:01:38,648
+Doprowadzisz do swojej œmierci
+i do œmierci nas wszystkich.
+
+1623
+03:01:39,065 --> 03:01:42,736
+Przeklinam ciê!
+Przeklinam ciebie i wszystkich nizio³ków!
+
+1624
+03:01:49,784 --> 03:01:51,327
+Frodo?
+
+1625
+03:01:55,623 --> 03:01:57,208
+Frodo.
+
+1626
+03:02:01,129 --> 03:02:03,173
+Co ja zrobi³em?
+
+1627
+03:02:03,381 --> 03:02:05,091
+Proszê, Frodo...
+
+1628
+03:02:05,300 --> 03:02:07,969
+Frodo, przepraszam ciê!
+
+1629
+03:02:37,082 --> 03:02:39,084
+<i>PrzyjdŸ do mnie!</i>
+
+1630
+03:02:56,559 --> 03:02:57,936
+Frodo?
+
+1631
+03:02:59,229 --> 03:03:02,315
+- Opanowa³ Boromira.
+- Gdzie jest Pierœcieñ?
+
+1632
+03:03:02,524 --> 03:03:04,317
+Nie zbli¿aj siê!
+
+1633
+03:03:04,734 --> 03:03:06,277
+Frodo!
+
+1634
+03:03:08,571 --> 03:03:12,409
+- Przysiêga³em ciê ochraniaæ.
+- Przed sob¹ równie¿?
+
+1635
+03:03:22,085 --> 03:03:24,546
+Zniszczy³byœ go?
+
+1636
+03:03:29,551 --> 03:03:31,469
+<i>Aragornie...</i>
+
+1637
+03:03:34,931 --> 03:03:37,225
+<i>Aragornie...</i>
+
+1638
+03:03:39,019 --> 03:03:40,895
+<i>Elessarze...</i>
+
+1639
+03:03:48,778 --> 03:03:52,115
+Poszed³bym z tob¹ do koñca.
+
+1640
+03:03:52,782 --> 03:03:55,618
+Do samego ognia Mordoru.
+
+1641
+03:03:58,955 --> 03:04:00,123
+Wiem.
+
+1642
+03:04:02,584 --> 03:04:08,048
+Zaopiekuj siê reszt¹. Zw³aszcza Samem.
+On nie zrozumie.
+
+1643
+03:04:11,801 --> 03:04:13,511
+Uciekaj, Frodo!
+
+1644
+03:04:16,514 --> 03:04:18,016
+Biegnij!
+
+1645
+03:04:18,266 --> 03:04:19,934
+Biegnij!
+
+1646
+03:04:44,501 --> 03:04:46,169
+Panie Frodo!
+
+1647
+03:04:55,428 --> 03:04:57,222
+ZnaleŸæ nizio³ki!
+
+1648
+03:04:58,848 --> 03:05:01,393
+ZnaleŸæ nizio³ki!
+
+1649
+03:05:04,854 --> 03:05:06,523
+Elendil!
+
+1650
+03:05:13,029 --> 03:05:14,572
+Aragornie! Biegnij!
+
+1651
+03:05:36,302 --> 03:05:37,595
+Frodo!
+
+1652
+03:05:38,179 --> 03:05:39,806
+Ukryj siê tutaj, szybko!
+
+1653
+03:05:40,432 --> 03:05:41,891
+No dalej!
+
+1654
+03:05:44,352 --> 03:05:46,396
+Co on robi?
+
+1655
+03:05:50,608 --> 03:05:52,610
+Odchodzi.
+
+1656
+03:05:57,407 --> 03:06:00,326
+- Nie!
+- Pippinie!
+
+1657
+03:06:05,248 --> 03:06:07,584
+Biegnij, Frodo!
+Ju¿!
+
+1658
+03:06:08,126 --> 03:06:11,254
+Hej ty!
+Tutaj!
+
+1659
+03:06:11,629 --> 03:06:13,256
+- Tutaj!
+- Têdy!
+
+1660
+03:06:24,100 --> 03:06:26,436
+- To dzia³a!
+- Wiem, biegnij!
+
+1661
+03:07:21,783 --> 03:07:24,869
+- Róg Gondoru!
+- Boromir.
+
+1662
+03:08:07,704 --> 03:08:09,039
+Biegnijcie!
+
+1663
+03:11:40,625 --> 03:11:42,252
+Nie.
+
+1664
+03:11:46,172 --> 03:11:49,175
+- Zabrali malców!
+- Le¿ spokojnie.
+
+1665
+03:11:49,467 --> 03:11:51,469
+Frodo...
+Gdzie jest Frodo?
+
+1666
+03:11:53,388 --> 03:11:54,848
+Pozwoli³em mu odejœæ.
+
+1667
+03:11:55,598 --> 03:11:58,101
+Wiêc zrobi³eœ to,
+czego ja nie potrafi³em zrobiæ.
+
+1668
+03:11:59,185 --> 03:12:02,439
+Próbowa³em odebraæ mu Pierœcieñ.
+
+1669
+03:12:03,023 --> 03:12:07,235
+- Jest teraz poza naszym zasiêgiem.
+- Wybacz mi.
+
+1670
+03:12:07,444 --> 03:12:09,738
+By³em zaœlepiony...
+
+1671
+03:12:09,946 --> 03:12:13,158
+- Zawiod³em was wszystkich.
+- Nie, Boromirze.
+
+1672
+03:12:13,742 --> 03:12:16,119
+Walczy³eœ dzielnie.
+
+1673
+03:12:16,661 --> 03:12:19,080
+Zachowa³eœ swój honor.
+
+1674
+03:12:19,873 --> 03:12:21,583
+Zostaw to!
+
+1675
+03:12:22,042 --> 03:12:24,127
+To ju¿ koniec.
+
+1676
+03:12:25,337 --> 03:12:30,550
+Œwiat ludzi upadnie.
+Wszystko pogr¹¿y siê w ciemnoœci.
+
+1677
+03:12:31,009 --> 03:12:34,012
+A moje miasto legnie w gruzach.
+
+1678
+03:12:38,058 --> 03:12:40,769
+Nie wiem, jaka si³a
+p³ynie w mojej krwi...
+
+1679
+03:12:40,977 --> 03:12:44,981
+Ale przysiêgam, ¿e nie dopuszczê
+do upadku Bia³ego Miasta...
+
+1680
+03:12:45,982 --> 03:12:48,485
+ani do pora¿ki naszego ludu.
+
+1681
+03:12:49,444 --> 03:12:50,820
+Naszego ludu...
+
+1682
+03:12:54,574 --> 03:12:56,743
+Naszego ludu...
+
+1683
+03:13:18,390 --> 03:13:21,393
+Poszed³bym za tob¹, mój bracie...
+
+1684
+03:13:22,936 --> 03:13:24,938
+Mój dowódco...
+
+1685
+03:13:27,565 --> 03:13:29,484
+Mój królu...
+
+1686
+03:13:49,129 --> 03:13:53,758
+Spoczywaj w pokoju,
+synu Gondoru.
+
+1687
+03:14:10,358 --> 03:14:13,570
+Bêd¹ wypatrywali jego powrotu
+z Bia³ej Wie¿y...
+
+1688
+03:14:14,154 --> 03:14:17,073
+Ale on nie wróci.
+
+1689
+03:14:40,472 --> 03:14:42,307
+Frodo!
+
+1690
+03:15:01,868 --> 03:15:05,163
+<i>"Chcia³bym, ¿eby Pierœcieñ</i>
+<i>nigdy do mnie nie trafi³."</i>
+
+1691
+03:15:06,414 --> 03:15:09,417
+<i>"¯eby nic takiego siê nie sta³o."</i>
+
+1692
+03:15:12,379 --> 03:15:15,131
+<i>"To tak jak wszyscy,</i>
+<i>którzy do¿yli takich czasów."</i>
+
+1693
+03:15:15,340 --> 03:15:18,760
+<i>"Ale to nie do nich nale¿y decyzja."</i>
+
+1694
+03:15:19,010 --> 03:15:21,638
+<i>"Ty musisz zadecydowaæ o tym,</i>
+
+1695
+03:15:21,846 --> 03:15:26,559
+<i>co zrobiæ z czasem,</i>
+<i>który zosta³ ci dany."</i>
+
+1696
+03:15:55,422 --> 03:15:57,465
+Frodo, nie!
+
+1697
+03:15:58,049 --> 03:15:59,300
+Frodo!
+
+1698
+03:16:00,135 --> 03:16:02,804
+- Panie Frodo!
+- Nie, Samie.
+
+1699
+03:16:06,349 --> 03:16:08,268
+Wracaj, Samie!
+
+1700
+03:16:08,810 --> 03:16:12,355
+- Idê sam do Mordoru.
+- Jasne, ¿e tak.
+
+1701
+03:16:12,605 --> 03:16:15,400
+A ja idê z panem!
+
+1702
+03:16:15,859 --> 03:16:18,319
+Nie umiesz p³ywaæ!
+
+1703
+03:16:21,948 --> 03:16:23,825
+Samie!
+
+1704
+03:16:29,414 --> 03:16:30,749
+Samie!
+
+1705
+03:17:11,581 --> 03:17:14,292
+Z³o¿y³em przysiêgê panie Frodo.
+
+1706
+03:17:14,626 --> 03:17:18,963
+Przysiêgê.
+"Nie opuœæ go, Samie Gamgee!"
+
+1707
+03:17:20,090 --> 03:17:22,717
+I nie zamierzam.
+
+1708
+03:17:22,967 --> 03:17:25,136
+Nie zamierzam.
+
+1709
+03:17:26,805 --> 03:17:28,640
+Samie!
+
+1710
+03:17:43,530 --> 03:17:45,198
+ChodŸ wiêc.
+
+1711
+03:18:13,852 --> 03:18:18,189
+Pospieszcie siê!
+Frodo i Sam osi¹gnêli wschodni brzeg.
+
+1712
+03:18:33,121 --> 03:18:38,084
+- Nie zamierzasz iœæ za nimi.
+- Los Froda nie jest ju¿ d³u¿ej w naszych rêkach.
+
+1713
+03:18:41,504 --> 03:18:46,384
+Wiêc wszystko by³o na pró¿no.
+Dru¿yna siê rozpad³a.
+
+1714
+03:18:58,229 --> 03:19:01,399
+Nie, jeœli my bêdziemy
+trzymaæ siê razem.
+
+1715
+03:19:02,776 --> 03:19:07,238
+Nie dopuœcimy, aby Merry i Pippin
+byli torturowani lub zabici.
+
+1716
+03:19:08,239 --> 03:19:13,453
+Nie, dopóki starczy nam si³.
+Zostawcie wszystko, co niepotrzebne.
+
+1717
+03:19:14,954 --> 03:19:16,790
+Bêdziemy biec bez obci¹¿enia.
+
+1718
+03:19:16,998 --> 03:19:18,917
+Upolujmy paru orków.
+
+1719
+03:19:22,504 --> 03:19:24,964
+Tak!
+
+1720
+03:19:42,816 --> 03:19:44,984
+Mordor.
+
+1721
+03:19:45,110 --> 03:19:48,446
+Mam nadziejê,
+¿e inni znajd¹ bezpieczniejsz¹ drogê.
+
+1722
+03:19:49,406 --> 03:19:51,950
+Obie¿yœwiat siê nimi zaopiekuje.
+
+1723
+03:19:52,909 --> 03:19:56,246
+Nie s¹dzê, ¿ebyœmy ich
+jeszcze kiedyœ zobaczyli.
+
+1724
+03:19:56,621 --> 03:19:58,998
+Kto wie, panie Frodo...
+
+1725
+03:19:59,249 --> 03:20:00,792
+Kto wie...
+
+1726
+03:20:02,877 --> 03:20:03,920
+Samie...
+
+1727
+03:20:07,549 --> 03:20:10,135
+cieszê siê, ¿e jesteœ ze mn¹.
+
+1728
+03:20:27,902 --> 03:20:32,032
+T³umaczenie:
+Melinea & Timmy
+
+1729
+03:20:32,073 --> 03:20:36,202
+softSTORM CREW
+e-mail: udun@go2.pl
+
+1730
+03:20:36,244 --> 03:20:40,373
+Dodatkowo wykorzystane t³umaczenia:
+Psyborg i Tibi, QbaSOFT, Olksma Yamu Notru
+
+1731
+03:20:40,415 --> 03:20:42,459
+Posklejanie, zmiany i dodatki w³asne:
+sinhue
+
+1732
+03:20:42,584 --> 03:20:48,715
+Ogromna iloœæ poprawek:
+neo1989 & Igloo666
+
+1733
+03:20:50,717 --> 03:20:53,720
 .:: Napisy24 - Nowy Wymiar Napisów ::.
 Napisy24.pl
 
