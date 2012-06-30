@@ -41,6 +41,9 @@ class ConvertBase(object):
         
         #re for finding subs type
         self.re_subs_type = None
+        
+        #re for decompose of subs - re.compile
+        self.re_decompose_subs = None
     
     def pluginType(self):
         return self.type
@@ -72,13 +75,22 @@ class ConvertBase(object):
             return None
         
     
-    def decompose(self, movie_fps, subtitle_file):
+    def decompose(self, subtitle_file_path, movie_fps):
         """
         Methode for decoding the subtitles.
         Returns: start_time, stop_time, subtitle content
         movie_fps - fps of video file or given fps for subtitle file
         """
-        raise NotImplementedError
+        # Open subtitle file
+        self.subtile_file = open(subtitle_file_path, 'rU')
+    
+    def preDecomposeProcessing(self):
+        """
+        Method for pre decompose procesing of subtitles.
+        """
+        
+        #Join substitle in one string for future processing
+        self.joined_sub = ''.join(self.subtile_file)
     
     def subProcesing(self):
         """
