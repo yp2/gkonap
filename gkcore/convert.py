@@ -23,7 +23,6 @@
 import os
 import re
 
-
 class ConvertBase(object):
     """
     Base class for plugins to convert subtitles. 
@@ -44,7 +43,7 @@ class ConvertBase(object):
         
         #re for decompose of subs - re.compile
         self.re_decompose_subs = None
-    
+        
     def pluginType(self):
         return self.type
     
@@ -74,7 +73,6 @@ class ConvertBase(object):
         else:
             return None
         
-    
     def decompose(self, subtitle_file_path, movie_fps):
         """
         Methode for decoding the subtitles.

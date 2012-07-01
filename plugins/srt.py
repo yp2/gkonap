@@ -38,16 +38,38 @@ class PluginSRT(ConvertBase):
         
         self.preDecomposeProcessing()
         
-        #podział na na listę czas_start czas_stop napis
+        #podział na na listę time_start time_stop napis
         #będącecj wynikiem podziału na grupy [wyrażenie re z ()]
         #wycinek listy element 0 jest pust
         _decompose_subs = self.re_decompose_subs.split(self.joined_sub)[1:]
         
-        #konwersja czasów
+        #utworzenie listy zawierającej linie poszczególnych  
+        #napisów w postaci listy [time_start, time_stop, napis]
+        #[[], [], [], ...]
+        #plus konwersja czasu na sekundy z dokładmości do 1000 częsci sekundy
+        _decompose_subs_lines = []
+        while _decompose_subs:
+            time_start = self.decomposeTimeConversion(_decompose_subs[0])
+            time_stop = self.decomposeTimeConversion(_decompose_subs[1])
+            sub_line = _decompose_subs[2]
+            line = [time_start, time_stop, sub_line]
+            _decompose_subs_lines.append(line)
+            _decompose_subs = _decompose_subs[3:]
         
+        self.decomposed_subtitle = _decompose_subs_lines
         
-        print _decompose_subs 
-        
+    def decomposeTimeConversion(self, time):
+        _re_time = re.compile('(?P<hour>\d{2}):(?P<min>\d{2}):(?P<sec>\d{2}),(?P<msec>\d{3})')
+        _re_time = _re_time.match(time)
+        _re_time = _re_time.groupdict()
+        _t_hour = float(_re_time['hour'])
+        _t_min = float(_re_time['min'])
+        _t_sec = float(_re_time['sec'])
+        _t_msec = float(_re_time['msec'])/1000
+        conv_time = (_t_hour * 3600) + (_t_min * 60) + _t_sec + _t_msec 
+        conv_time = round(conv_time, 3)
+        return conv_time
+    
     def preDecomposeProcessing(self):
         #delete first line in srt type of subs 
         #subs converted to list
@@ -59,8 +81,3 @@ class PluginSRT(ConvertBase):
         # remove marks of linies
         self.joined_sub = re.sub(r'\n{2}\d*\n', '', self.joined_sub)
         
-        
-            
-        
-        
-    
