@@ -23,9 +23,9 @@
 import os
 from gkcore.core import pluginLoad, pluginInstance
 from gkcore.convert import ConvertBase
+from plugins.srt import PluginSRT
 import unittest
 import inspect
-
 
 
 class PluginLoadTest(unittest.TestCase):
@@ -48,7 +48,7 @@ class ConvertPluginLoadTest(PluginLoadTest):
             loaded_plugins_instances.append(plugin_instance)
         self.assertNotEqual(len(loaded_plugins_instances), 0, "No Plugin Instance")
         
-class ConvertPluginRcognizeTest(PluginLoadTest):
+class ConvertPluginRecognizeTest(PluginLoadTest):
     def setUp(self):
         PluginLoadTest.setUp(self)
         # load and do instances of plugns
@@ -149,3 +149,42 @@ class ConvertPluginRcognizeTest(PluginLoadTest):
                 subs_type.append(st)
                 
         self.assertEqual(len(subs_type), 0, "No subs file was recognize as subs file")
+
+
+        
+class DecomposeTest(ConvertPluginRecognizeTest):
+    def setUp(self):
+        ConvertPluginRecognizeTest.setUp(self)
+        self.first_line = [0.041, 3.003, 'movie info: XVID  720x304 23.976fps 367.6 MB\n<i>SubEdit b.4072 (http:<i><i>subedit.com.pl)<i></i>']
+        self.last_line = [12050.717, 12053.720, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.\nNapisy24.pl\n\n']
+        self.middle_line = [5426.468, 5428.887, 'Pomna\xbfa armi\xea\nw lochach Isengardu.']
+    
+    def test_srtDecompose(self):
+        subs_path = self.sub_srt
+        movie_fps = 23.976
+        #recognize and processing
+        for pli in self.plugins:
+            if pli.recognize(subs_path):
+                pli.decompose(subs_path, movie_fps)
+                decompose_subs = pli.decomposed_subtitle
+        
+        self.assertNotEqual(decompose_subs, None, "No decompose subs")
+        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
+        self.assertEqual(decompose_subs[-1], self.last_line, 'Fail Last line')
+        self.assertEqual(decompose_subs[866], self.middle_line, 'Fail Middle line')
+    
+    def test_mdvdDecompose(self):
+        subs_path = self.sub_mdvd
+        movie_fps = 23.976
+        #recognize and processing
+        for pli in self.plugins:
+            if pli.recognize(subs_path):
+                pli.decompose(subs_path, movie_fps)
+                decompose_subs = pli.decomposed_subtitle
+        
+        self.assertNotEqual(decompose_subs, None, "No decompose subs")        
+        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
+        self.assertEqual(decompose_subs[-1], self.last_line, 'Fail Last line')
+        self.assertEqual(decompose_subs[866], self.middle_line, 'Fail Middle line')
+        
+        
