@@ -21,7 +21,7 @@
 #       MA 02110-1301, USA
 
 from gkcore.convert import ConvertBase
-
+import re
 
 class PluginMDVD(ConvertBase):
     def __init__(self):
@@ -31,5 +31,49 @@ class PluginMDVD(ConvertBase):
         self.description = "Plugin for MicroDvd format of subtitles"
         self.subtype = "mdvd"
         self.re_subs_type = r'^\{\d*\}'
+        self.re_decompose_subs = re.compile(r'\{(\d*)\}\{(\d*)\}')
+
+    def decompose(self, subtitle_file_path, movie_fps):
+        super(PluginMDVD, self).decompose(subtitle_file_path, movie_fps)
         
+        self.preDecomposeProcessing()
         
+        #podział na na listę time_start time_stop napis
+        #będącecj wynikiem podziału na grupy [wyrażenie re z ()]
+        #wycinek listy element 0 jest pust
+        _decompose_subs = self.re_decompose_subs.split(self.joined_sub)[1:]
+        
+        #utworzenie listy zawierającej linie poszczególnych  
+        #napisów w postaci listy [time_start, time_stop, napis]
+        #[[], [], [], ...]
+        #plus konwersja czasu na sekundy z dokładmości do 1000 częsci sekundy
+        _decompose_subs_lines = []
+        while _decompose_subs:
+            time_start = self.decomposeTimeConversion(_decompose_subs[0], movie_fps)
+            time_stop = self.decomposeTimeConversion(_decompose_subs[1], movie_fps)
+            sub_line = _decompose_subs[2]
+            line = [time_start, time_stop, sub_line]
+            _decompose_subs_lines.append(line)
+            _decompose_subs = _decompose_subs[3:]
+        
+        self.decomposed_subtitle = _decompose_subs_lines
+        
+        #post processing
+        self.postDecomposeProcsessing()
+        
+    def decomposeTimeConversion(self, frame_number, movie_fps):
+        #format klatkowy czyli frame_number/movie_fps = time w sek
+        conv_time = float(frame_number) / movie_fps
+        conv_time = round(conv_time, 3)
+        return conv_time
+    
+    def preDecomposeProcessing(self):
+        super(PluginMDVD, self).preDecomposeProcessing()
+        
+    
+        
+if __name__ == "__main__":
+    sub_path = '/home/daniel/git/gkonap/test_files/mdvd.txt'
+    movie_fps = 23.976
+    plugin = PluginMDVD()
+    plugin.decompose(sub_path, movie_fps)
