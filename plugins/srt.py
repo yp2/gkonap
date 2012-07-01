@@ -58,6 +58,9 @@ class PluginSRT(ConvertBase):
         
         self.decomposed_subtitle = _decompose_subs_lines
         
+        #post processing
+        self.postDecomposeProcsessing()
+        
     def decomposeTimeConversion(self, time):
         _re_time = re.compile('(?P<hour>\d{2}):(?P<min>\d{2}):(?P<sec>\d{2}),(?P<msec>\d{3})')
         _re_time = _re_time.match(time)
@@ -80,4 +83,8 @@ class PluginSRT(ConvertBase):
         # subs type specific pre processing
         # remove marks of linies
         self.joined_sub = re.sub(r'\n{2}\d*\n', '', self.joined_sub)
+        
+            
+            
+        
         
