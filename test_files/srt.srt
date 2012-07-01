@@ -1,7 +1,7 @@
 1
 00:00:00,041 --> 00:00:03,003
 movie info: XVID  720x304 23.976fps 367.6 MB
-<i>SubEdit b.4072 (http:<i><i>subedit.com.pl)<i></i>
+SubEdit b.4072 (http://subedit.com.pl)
 
 2
 00:00:32,240 --> 00:00:34,951
