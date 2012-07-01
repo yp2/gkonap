@@ -89,6 +89,19 @@ class ConvertBase(object):
         
         #Join substitle in one string for future processing
         self.joined_sub = ''.join(self.subtile_file)
+        
+    def postDecomposeProcsessing(self):
+        """
+        Methode for post decompose processing of subs
+        """
+        #dla ujednolicenia formatu ogólnego brak znaków nowej lini
+        # na końcach napisów
+        # w środku zasąpienie '\n' - '|' jak znak podziału napisu
+        
+        for line in self.decomposed_subtitle:
+            line[2] = line[2].rstrip()
+            #zamiana '\n' na '|"
+            line[2] = re.sub(r'\n', '|', line[2])
     
     def subProcesing(self):
         """
