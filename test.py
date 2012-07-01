@@ -155,10 +155,12 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
 class DecomposeTest(ConvertPluginRecognizeTest):
     def setUp(self):
         ConvertPluginRecognizeTest.setUp(self)
-        self.first_line = [0.041, 3.003, 'movie info: XVID  720x304 23.976fps 367.6 MB\n<i>SubEdit b.4072 (http:<i><i>subedit.com.pl)<i></i>']
-        self.last_line = [12050.717, 12053.720, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.\nNapisy24.pl\n\n']
-        self.middle_line = [5426.468, 5428.887, 'Pomna\xbfa armi\xea\nw lochach Isengardu.']
-    
+        self.first_line = [0.041, 3.003, 'movie info: XVID  720x304 23.976fps 367.6 MB|SubEdit b.4072 (http://subedit.com.pl)']
+        self.last_line = [12050.717, 12053.720, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
+        self.middle_line = [5426.468, 5428.887, 'Pomna\xbfa armi\xea|w lochach Isengardu.']
+        self.line_list = [self.first_line, self.middle_line, self.last_line]
+        self.line_decompose_number = [0, 866, -1]
+        
     def test_srtDecompose(self):
         subs_path = self.sub_srt
         movie_fps = 23.976
@@ -169,9 +171,17 @@ class DecomposeTest(ConvertPluginRecognizeTest):
                 decompose_subs = pli.decomposed_subtitle
         
         self.assertNotEqual(decompose_subs, None, "No decompose subs")
-        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
-        self.assertEqual(decompose_subs[-1], self.last_line, 'Fail Last line')
-        self.assertEqual(decompose_subs[866], self.middle_line, 'Fail Middle line')
+        
+        for y in range(3):
+            self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
+            for x in range(2):
+                #for times
+                self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=2)
+            
+
+#        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
+#        self.assertEqual(decompose_subs[866], self.middle_line, 'Fail Middle line')
+#        self.assertEqual(decompose_subs[-1], self.last_line, 'Fail Last line')
     
     def test_mdvdDecompose(self):
         subs_path = self.sub_mdvd
@@ -182,9 +192,17 @@ class DecomposeTest(ConvertPluginRecognizeTest):
                 pli.decompose(subs_path, movie_fps)
                 decompose_subs = pli.decomposed_subtitle
         
-        self.assertNotEqual(decompose_subs, None, "No decompose subs")        
-        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
-        self.assertEqual(decompose_subs[-1], self.last_line, 'Fail Last line')
-        self.assertEqual(decompose_subs[866], self.middle_line, 'Fail Middle line')
+        self.assertNotEqual(decompose_subs, None, "No decompose subs")
+        
+        for y in range(3):
+            self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
+            for x in range(2):
+                #for times
+                self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=2)
+            
+        
+#        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
+#        self.assertEqual(decompose_subs[-1], self.last_line, 'Fail Last line')
+#        self.assertEqual(decompose_subs[866], self.middle_line, 'Fail Middle line')
         
         
