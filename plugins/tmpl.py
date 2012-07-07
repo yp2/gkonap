@@ -21,6 +21,7 @@
 #       MA 02110-1301, USA
 
 from gkcore.convert import ConvertBase
+import re
 
 class PluginTMPL(ConvertBase):
     def __init__(self):
@@ -29,4 +30,80 @@ class PluginTMPL(ConvertBase):
         self.name = "Plugin TMPlayer"
         self.description = "Plugin for TMPlayer format of subtitles"
         self.subtype = 'tmpl'
-        self.re_subs_type = r'^\d{1,2}:\d{2}:\d{2}:'
+        self.re_subs_type = '^\d{1,2}:\d{2}:\d{2}:'
+        self.re_decompose_subs = re.compile(r'(\d{1,2}:\d{2}:\d{2}:)')
+        
+    def decompose(self, subtitle_file_path, movie_fps):
+        super(PluginTMPL, self).decompose(subtitle_file_path, movie_fps)
+        
+        self.preDecomposeProcessing()
+        
+        #podział na na listetime_start time_stop napis
+        #będącecj wynikiem podziału na grupy [wyrażenie re z ()]
+        #wycinek listy element 0 jest pusty
+        _decompose_subs = self.re_decompose_subs.split(self.joined_sub)[1:]
+        
+        #utworzenie listy zawierającej linie poszczególnych  
+        #napisów w postaci listy [time_start, time_stop, napis]
+        #[[], [], [], ...]
+        #plus konwersja czasu na sekundy z dokładmości do 1000 częsci sekundy
+        _decompose_subs_lines = []
+        while _decompose_subs:
+            
+            time_start = self.decomposeTimeConversion(_decompose_subs[0])
+            try:
+                time_stop = self.decomposeTimeConversion(_decompose_subs[2])
+            except IndexError:
+                #wychwycenie końca listy, przekazanie listy z pierwszą pozycją
+                #określającą co się stało, druga pozycja to czas początku napisu
+                time_stop = self.decomposeTimeConversion(['stop', _decompose_subs[0]])
+                
+            sub_line = _decompose_subs[1]
+            line = [time_start, time_stop, sub_line]
+            _decompose_subs_lines.append(line)
+            _decompose_subs = _decompose_subs[2:]
+        
+        
+        self.decomposed_subtitle = _decompose_subs_lines
+        
+        #porównienie czasów bardzo nie dokładny format
+        #maksymalna róźnica pomiędzy startem a stop w sekundach
+        _max_diff_time = 6
+        self.postDecomposeTimeProcessing(_max_diff_time)
+    
+        
+        self.postDecomposeProcsessing()
+        
+        
+    def decomposeTimeConversion(self, time):
+        if type(time) is list:
+            #jako czas końcowy dla ostaniego napisu użyjemy jego początku
+            #następnie przy zwracaniu dodamy określony czas
+            time = time[1]
+            #dodajemy do końcowgo czasu
+            _plus_t_stop = 2
+        else:
+            #nic nie dodajmy
+            _plus_t_stop = 0
+    
+        _re_time = re.compile(r"(?P<hour>\d{1,2}):(?P<min>\d{2}):(?P<sec>\d{2}):")
+        _re_time = _re_time.match(time)
+        _re_time = _re_time.groupdict()
+        _t_hour = float(_re_time['hour'])
+        _t_min = float(_re_time['min'])
+        _t_sec = float(_re_time['sec'])
+        conv_time = (_t_hour * 3600) + (_t_min * 60) + _t_sec + _plus_t_stop
+        conv_time = round(conv_time, 3)
+            
+        return conv_time
+        
+    def preDecomposeProcessing(self):
+        super(PluginTMPL, self).preDecomposeProcessing()
+
+if __name__ == "__main__":
+    sub_path = '/home/daniel/git/gkonap/test_files/tmpl.txt'
+    movie_fps = 23.976
+    plugin = PluginTMPL()
+    plugin.decompose(sub_path, movie_fps)
+        
+    
