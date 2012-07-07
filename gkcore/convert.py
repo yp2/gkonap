@@ -112,6 +112,30 @@ class ConvertBase(object):
         # implementujemy tu całość
         pass
     
+    def postDecomposeTimeProcessing(self, max_diff_time):
+        """
+        Methoda dla bardzo niedokładnych napisów np TMPlayer.
+        Porównuje czasy startu i stopu.
+        Napisy w formaie listy w liście [[],[],...] 
+        
+        @max_diff_time - w sekundach
+        """
+        subs = self.decomposed_subtitle
+        subs_out = []
+        while subs:
+            time_start = subs[0][0]
+            time_stop = subs[0][1]
+            subs_line = subs[0][2]
+            diff_time = time_stop - time_start
+            if diff_time > max_diff_time:
+                time_stop = time_start + max_diff_time
+            subs_out.append([time_start, time_stop, subs_line])
+            subs = subs[1:]
+        
+        self.decomposed_subtitle = subs_out
+        
+        
+    
     def compose(self, movie_fps, decompose_contenet):
         """
         Methode for converting subtitles to right format
