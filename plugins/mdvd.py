@@ -38,9 +38,9 @@ class PluginMDVD(ConvertBase):
         
         self.preDecomposeProcessing()
         
-        #podział na na listę time_start time_stop napis
+        #podział na na listetime_start time_stop napis
         #będącecj wynikiem podziału na grupy [wyrażenie re z ()]
-        #wycinek listy element 0 jest pust
+        #wycinek listy element 0 jest pusty
         _decompose_subs = self.re_decompose_subs.split(self.joined_sub)[1:]
         
         #utworzenie listy zawierającej linie poszczególnych  
