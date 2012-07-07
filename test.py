@@ -23,9 +23,7 @@
 import os
 from gkcore.core import pluginLoad, pluginInstance
 from gkcore.convert import ConvertBase
-from plugins.srt import PluginSRT
 import unittest
-import inspect
 
 
 class PluginLoadTest(unittest.TestCase):
@@ -156,9 +154,18 @@ class DecomposeTest(ConvertPluginRecognizeTest):
     def setUp(self):
         ConvertPluginRecognizeTest.setUp(self)
         self.first_line = [0.041, 3.003, 'movie info: XVID  720x304 23.976fps 367.6 MB|SubEdit b.4072 (http://subedit.com.pl)']
-        self.last_line = [12050.717, 12053.720, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
         self.middle_line = [5426.468, 5428.887, 'Pomna\xbfa armi\xea|w lochach Isengardu.']
+        self.last_line = [12050.717, 12053.720, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
+        
+        
+        self.tmpl_first_line = [0.0, 6.0, 'movie info: XVID  720x304 23.976fps 367.6 MB|SubEdit b.4072 (http://subedit.com.pl)']
+        self.tmpl_middle_line = [5427.0, 5429.0, 'Pomna\xbfa armi\xea|w lochach Isengardu.']
+        self.tmpl_last_line = [12051.0, 12053.0, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
+        
+        
         self.line_list = [self.first_line, self.middle_line, self.last_line]
+        self.tmpl_line_list = [self.tmpl_first_line, self.tmpl_middle_line, self.tmpl_last_line]
+        
         self.line_decompose_number = [0, 866, -1]
         
     def test_srtDecompose(self):
@@ -175,7 +182,7 @@ class DecomposeTest(ConvertPluginRecognizeTest):
         for y in range(3):
             self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
             for x in range(2):
-                #for times
+                #for times tests
                 self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=2)
             
 
@@ -197,12 +204,46 @@ class DecomposeTest(ConvertPluginRecognizeTest):
         for y in range(3):
             self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
             for x in range(2):
-                #for times
+                #for times tests
                 self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=2)
             
         
 #        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
 #        self.assertEqual(decompose_subs[-1], self.last_line, 'Fail Last line')
 #        self.assertEqual(decompose_subs[866], self.middle_line, 'Fail Middle line')
+
+    def test_mpl2Decompose(self):
+            subs_path = self.sub_mpl2
+            movie_fps = 23.976
+            #recognize and processing
+            for pli in self.plugins:
+                if pli.recognize(subs_path):
+                    pli.decompose(subs_path, movie_fps)
+                    decompose_subs = pli.decomposed_subtitle
+            
+            self.assertNotEqual(decompose_subs, None, "No decompose subs")
+            
+            for y in range(3):
+                self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
+                for x in range(2):
+                    #for times test mpl2 is less acurate than mdvd, srt
+                    self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=0)
+    
+    def test_tmplDecompose(self):
+            subs_path = self.sub_tmpl
+            movie_fps = 23.976
+            #recognize and processing
+            for pli in self.plugins:
+                if pli.recognize(subs_path):
+                    pli.decompose(subs_path, movie_fps)
+                    decompose_subs = pli.decomposed_subtitle
+            
+            self.assertNotEqual(decompose_subs, None, "No decompose subs")
+            
+            for y in range(3):
+                self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.tmpl_line_list[y][2])
+                for x in range(2):
+                    #for times test mpl2 is less acurate than mdvd, srt
+                    self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.tmpl_line_list[y][x])
         
         
