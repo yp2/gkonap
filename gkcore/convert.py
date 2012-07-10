@@ -44,6 +44,11 @@ class ConvertBase(object):
         #re for decompose of subs - re.compile
         self.re_decompose_subs = None
         
+        #holds subs after composing to susb format (list of strings)
+        self.compose_subtitle = None
+        
+        self.compose_line = None
+        
     def pluginType(self):
         return self.type
     
@@ -112,40 +117,19 @@ class ConvertBase(object):
         # implementujemy tu całość
         pass
     
-    def postDecomposeTimeProcessing(self, max_diff_time):
-        """
-        Methoda dla bardzo niedokładnych napisów np TMPlayer.
-        Porównuje czasy startu i stopu.
-        Napisy w formaie listy w liście [[],[],...] 
-        
-        @max_diff_time - w sekundach
-        """
-        subs = self.decomposed_subtitle
-        subs_out = []
-        while subs:
-            time_start = subs[0][0]
-            time_stop = subs[0][1]
-            subs_line = subs[0][2]
-            diff_time = time_stop - time_start
-            if diff_time > max_diff_time:
-                time_stop = time_start + max_diff_time
-            subs_out.append([time_start, time_stop, subs_line])
-            subs = subs[1:]
-        
-        self.decomposed_subtitle = subs_out
-        
-        
-    
-    def compose(self, movie_fps, decompose_contenet):
+    def compose(self, movie_fps):
         """
         Methode for converting subtitles to right format
+        Najpierw aby metoda zadziałała trzeba przypisać do 
+        plugin.decompose_subs rozłożone napisy
         """
-        raise NotImplementedError
-
-
-            
-            
-        
-        
+        if self.decomposed_subtitle == None:
+            raise AttributeError, 'Brak przypisanych napisów do zmiennej decompose_subtitle'
     
+    def writeComposeSubs(self, sub_out_path):
+        if not self.compose_subtitle:
+            raise AttributeError, 'Brak napisów do zapisania.'
         
+        out_file = open(sub_out_path, 'w')
+        out_file.writelines(self.compose_subtitle)
+        out_file.close()
