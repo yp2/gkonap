@@ -22,6 +22,10 @@
 
 from gkcore.convert import ConvertBase
 import re
+try:
+    from cdecimal import Decimal, ROUND_DOWN
+except ImportError:
+    from decimal import Decimal, ROUND_DOWN
 
 class PluginMPL2(ConvertBase):
     def __init__(self):
@@ -63,8 +67,8 @@ class PluginMPL2(ConvertBase):
     def decomposeTimeConversion(self, time):
         #format czasowy w postaci [234] gdzie 23 to sec a 4 do dziesiąte części sek.
         conv_time = float(time)/10
-        conv_time = round(conv_time, 1)
-        return conv_time
+        conv_time = Decimal(str(conv_time))
+        return conv_time.quantize(Decimal('1.000'), rounding=ROUND_DOWN,)
     
     def preDecomposeProcessing(self):
         super(PluginMPL2, self).preDecomposeProcessing()
@@ -74,3 +78,4 @@ if __name__ == "__main__":
     movie_fps = 23.976
     plugin = PluginMPL2()
     plugin.decompose(sub_path, movie_fps)
+    print plugin.decomposed_subtitle[-1]

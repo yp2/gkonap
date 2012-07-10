@@ -22,6 +22,13 @@
 
 from gkcore.convert import ConvertBase
 import re
+try:
+    from cdecimal import Decimal, ROUND_DOWN
+except ImportError:
+    from decimal import Decimal, ROUND_DOWN
+
+
+
 
 class PluginMDVD(ConvertBase):
     def __init__(self):
@@ -63,9 +70,10 @@ class PluginMDVD(ConvertBase):
         
     def decomposeTimeConversion(self, frame_number, movie_fps):
         #format klatkowy czyli frame_number/movie_fps = time w sek
-        conv_time = float(frame_number) / movie_fps
-        conv_time = round(conv_time, 3)
-        return conv_time
+        conv_time = int(frame_number) / movie_fps
+        conv_time = Decimal(str(conv_time))
+
+        return conv_time.quantize(Decimal('1.000'), rounding=ROUND_DOWN)
     
     def preDecomposeProcessing(self):
         super(PluginMDVD, self).preDecomposeProcessing()
@@ -74,6 +82,14 @@ class PluginMDVD(ConvertBase):
         
 if __name__ == "__main__":
     sub_path = '/home/daniel/git/gkonap/test_files/mdvd.txt'
+    ct_sub_path = '/home/daniel/git/gkonap/test_files/ct_mdvd.txt'
     movie_fps = 23.976
     plugin = PluginMDVD()
     plugin.decompose(sub_path, movie_fps)
+    subs = plugin.decomposed_subtitle
+    print subs[0]
+#    plugin.decomposed_subtitle = None
+#    plugin.decomposed_subtitle = subs
+#    plugin.compose(movie_fps)
+#    print plugin.compose_subtitle
+#    plugin.writeComposeSubs(ct_sub_path)
