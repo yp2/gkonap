@@ -73,9 +73,6 @@ class PluginMDVD(ConvertBase):
         #format klatkowy czyli frame_number/movie_fps = time w sek
         movie_fps = Decimal(str(movie_fps))
         conv_time = Decimal(frame_number) / movie_fps
-#        conv_time = Decimal(str(conv_time))
-
-#        return conv_time.quantize(Decimal('1.000'))
         return conv_time
     
     def preDecomposeProcessing(self):
