@@ -24,7 +24,10 @@ import os
 from gkcore.core import pluginLoad, pluginInstance
 from gkcore.convert import ConvertBase
 import unittest
-
+try:
+    from cdecimal import Decimal
+except ImportError:
+    from decimal import Decimal
 
 class PluginLoadTest(unittest.TestCase):
     def setUp(self):
@@ -153,14 +156,14 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
 class DecomposeTest(ConvertPluginRecognizeTest):
     def setUp(self):
         ConvertPluginRecognizeTest.setUp(self)
-        self.first_line = [0.041, 3.003, 'movie info: XVID  720x304 23.976fps 367.6 MB|SubEdit b.4072 (http://subedit.com.pl)']
-        self.middle_line = [5426.468, 5428.887, 'Pomna\xbfa armi\xea|w lochach Isengardu.']
-        self.last_line = [12050.717, 12053.720, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
+        self.first_line = [Decimal('0.041'), Decimal('3.003'), 'movie info: XVID  720x304 23.976fps 367.6 MB|SubEdit b.4072 (http://subedit.com.pl)']
+        self.middle_line = [Decimal('5426.468'), Decimal('5428.887'), 'Pomna\xbfa armi\xea|w lochach Isengardu.']
+        self.last_line = [Decimal('12050.717'), Decimal('12053.720'), '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
         
         
-        self.tmpl_first_line = [0.0, 6.0, 'movie info: XVID  720x304 23.976fps 367.6 MB|SubEdit b.4072 (http://subedit.com.pl)']
-        self.tmpl_middle_line = [5427.0, 5429.0, 'Pomna\xbfa armi\xea|w lochach Isengardu.']
-        self.tmpl_last_line = [12051.0, 12053.0, '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
+        self.tmpl_first_line = [Decimal('0.0'), Decimal('6.0'), 'movie info: XVID  720x304 23.976fps 367.6 MB|SubEdit b.4072 (http://subedit.com.pl)']
+        self.tmpl_middle_line = [Decimal('5427.0'), Decimal('5429.0'), 'Pomna\xbfa armi\xea|w lochach Isengardu.']
+        self.tmpl_last_line = [Decimal('12051.0'), Decimal('12053.0'), '.:: Napisy24 - Nowy Wymiar Napis\xf3w ::.|Napisy24.pl']
         
         
         self.line_list = [self.first_line, self.middle_line, self.last_line]
@@ -183,7 +186,7 @@ class DecomposeTest(ConvertPluginRecognizeTest):
             self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
             for x in range(2):
                 #for times tests
-                self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=2)
+                self.assertEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x])
             
 
 #        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
@@ -205,7 +208,7 @@ class DecomposeTest(ConvertPluginRecognizeTest):
             self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
             for x in range(2):
                 #for times tests
-                self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=2)
+                self.assertEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x],)
             
         
 #        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
@@ -243,7 +246,53 @@ class DecomposeTest(ConvertPluginRecognizeTest):
             for y in range(3):
                 self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.tmpl_line_list[y][2])
                 for x in range(2):
-                    #for times test mpl2 is less acurate than mdvd, srt
-                    self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.tmpl_line_list[y][x])
+                    #for times test tmpl is less acurate than mdvd, srt
+                    self.assertEqual(decompose_subs[self.line_decompose_number[y]][x], self.tmpl_line_list[y][x])
+        
+class ComposeTest(ConvertPluginRecognizeTest):
+    def setUp(self):
+        super(ComposeTest, self).setUp()
+        
+        self.comp_test_sub_mdvd = self.test_files_dir + 'ct_mdvd.txt'
+        self.comp_test_sub_mpl2 = self.test_files_dir + 'ct_mpl2.txt'
+        self.comp_test_sub_srt = self.test_files_dir + 'ct_srt.srt'
+        self.comp_test_sub_tmpl = self.test_files_dir + 'ct_tmpl.txt'
+        self.comp_test_paths = [self.comp_test_sub_mdvd, self.comp_test_sub_mpl2,
+                                self.comp_test_sub_srt, self.comp_test_sub_tmpl]
+        
+    def test_srtCompose(self):
+        subs_path = self.sub_srt
+        compose_out_path = self.comp_test_sub_srt
+        movie_fps = 23.976
+        for pli in self.plugins:
+            if pli.recognize(subs_path):
+                pli.decompose(subs_path, movie_fps)
+                decompose_subs = pli.decomposed_subtitle
+                
+                #assign decopose_subs for pli.decomposed_substitle
+                pli.decomposed_subtitle = None
+                pli.decomposed_subtitle = decompose_subs
+                
+                #compose 
+                pli.compose(movie_fps)
+                
+                #write to file
+                pli.writeComposeSubs(compose_out_path)
+                
+        org_subs = open(subs_path, 'rU').readlines()
+        conv_subs = open(compose_out_path, 'ru').readlines()
+        
+        
+        while org_subs:
+            self.assertEqual(org_subs[0], conv_subs[0], 'Linie nie jest identyczna\n%i\n%s')
+            org_subs = org_subs[1:]
+            conv_subs = conv_subs[1:]
+    
+            
+        
+#        self.assertEqual(org_subs, conv_subs, "Pliki nie są identyczne")
+
+                
+                
         
         
