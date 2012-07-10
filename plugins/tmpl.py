@@ -22,6 +22,10 @@
 
 from gkcore.convert import ConvertBase
 import re
+try:
+    from cdecimal import Decimal, ROUND_DOWN
+except ImportError:
+    from decimal import Decimal, ROUND_DOWN
 
 class PluginTMPL(ConvertBase):
     def __init__(self):
@@ -74,7 +78,28 @@ class PluginTMPL(ConvertBase):
         
         self.postDecomposeProcsessing()
         
+    def postDecomposeTimeProcessing(self, max_diff_time):
+        """
+        Methoda dla bardzo niedokładnych napisów np TMPlayer.
+        Porównuje czasy startu i stopu.
+        Napisy w formaie listy w liście [[],[],...] 
         
+        @max_diff_time - w sekundach
+        """
+        subs = self.decomposed_subtitle
+        subs_out = []
+        while subs:
+            time_start = subs[0][0]
+            time_stop = subs[0][1]
+            subs_line = subs[0][2]
+            diff_time = time_stop - time_start
+            if diff_time > max_diff_time:
+                time_stop = time_start + max_diff_time
+            subs_out.append([time_start, time_stop, subs_line])
+            subs = subs[1:]
+        
+        self.decomposed_subtitle = subs_out    
+    
     def decomposeTimeConversion(self, time):
         if type(time) is list:
             #jako czas końcowy dla ostaniego napisu użyjemy jego początku
@@ -93,9 +118,9 @@ class PluginTMPL(ConvertBase):
         _t_min = float(_re_time['min'])
         _t_sec = float(_re_time['sec'])
         conv_time = (_t_hour * 3600) + (_t_min * 60) + _t_sec + _plus_t_stop
-        conv_time = round(conv_time, 3)
-            
-        return conv_time
+        conv_time = Decimal(str(conv_time))
+          
+        return conv_time.quantize(Decimal('1.000'), rounding=ROUND_DOWN)
         
     def preDecomposeProcessing(self):
         super(PluginTMPL, self).preDecomposeProcessing()
@@ -105,5 +130,6 @@ if __name__ == "__main__":
     movie_fps = 23.976
     plugin = PluginTMPL()
     plugin.decompose(sub_path, movie_fps)
+    print plugin.decomposed_subtitle[0]
         
     
