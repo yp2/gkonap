@@ -208,7 +208,7 @@ class DecomposeTest(ConvertPluginRecognizeTest):
             self.assertEqual(decompose_subs[self.line_decompose_number[y]][2], self.line_list[y][2])
             for x in range(2):
                 #for times tests
-                self.assertEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x],)
+                self.assertAlmostEqual(decompose_subs[self.line_decompose_number[y]][x], self.line_list[y][x], places=2)
             
         
 #        self.assertEqual(decompose_subs[0], self.first_line, 'Fail First line')
@@ -283,14 +283,48 @@ class ComposeTest(ConvertPluginRecognizeTest):
         conv_subs = open(compose_out_path, 'ru').readlines()
         
         
-        while org_subs:
-            self.assertEqual(org_subs[0], conv_subs[0], 'Linie nie jest identyczna\n%i\n%s')
-            org_subs = org_subs[1:]
-            conv_subs = conv_subs[1:]
+        self.assertEqual(org_subs, conv_subs, "Pliki nie są identyczne")
+        
+#        while org_subs:
+#            self.assertEqual(org_subs[0], conv_subs[0], 'Linie nie jest identyczna\n%i\n%s')
+#            org_subs = org_subs[1:]
+#            conv_subs = conv_subs[1:]
+
+    def test_mdvdCompose(self):
+        subs_path = self.sub_mdvd
+        compose_out_path = self.comp_test_sub_mdvd
+        movie_fps = 23.976
+        for pli in self.plugins:
+            if pli.recognize(subs_path):
+                pli.decompose(subs_path, movie_fps)
+                decompose_subs = pli.decomposed_subtitle
+                
+                #assign decopose_subs for pli.decomposed_substitle
+                pli.decomposed_subtitle = None
+                pli.decomposed_subtitle = decompose_subs
+                
+                #compose 
+                pli.compose(movie_fps)
+                
+                #write to file
+                pli.writeComposeSubs(compose_out_path)
+                
+        org_subs = open(subs_path, 'rU').readlines()
+        conv_subs = open(compose_out_path, 'ru').readlines()
+        
+        
+        self.assertEqual(org_subs, conv_subs, "Pliki nie są identyczne")
+        
+#        while org_subs:
+#            self.assertEqual(org_subs[0], conv_subs[0], 'Linie nie jest identyczna\n%i\n%s')
+#            org_subs = org_subs[1:]
+#            conv_subs = conv_subs[1:]
+    
+            
     
             
         
-#        self.assertEqual(org_subs, conv_subs, "Pliki nie są identyczne")
+        
 
                 
                 
