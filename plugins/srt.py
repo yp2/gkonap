@@ -104,7 +104,6 @@ class PluginSRT(ConvertBase):
         
         #w tym miejscu jest ostatnia możliwość zmiany czegoś w lini napisów
         #chodzi o metoda subProcessing
-        
         self.subProcesing()
         
         _compose_subs = []
@@ -118,13 +117,8 @@ class PluginSRT(ConvertBase):
             # '%i\n%s --> %s\n%s\n\n'            
             conv_line = self.compose_line % (_sub_count, time_start, time_stop, line)
             _compose_subs.append(conv_line)
-            
-            #TODO: Zaokroglenia coś jest nie tak
-#            if _sub_count == 1:
-#                print _sub_count
-#                print sub_line[0], sub_line[1]
+           
             _sub_count += 1
-            
             self.decomposed_subtitle = self.decomposed_subtitle[1:]
             
         self.compose_subtitle = _compose_subs
