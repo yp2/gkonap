@@ -39,6 +39,7 @@ class PluginMDVD(ConvertBase):
         self.subtype = "mdvd"
         self.re_subs_type = r'^\{\d*\}'
         self.re_decompose_subs = re.compile(r'\{(\d*)\}\{(\d*)\}')
+        self.compose_line = '%s%s%s\n'
 
     def decompose(self, subtitle_file_path, movie_fps):
         super(PluginMDVD, self).decompose(subtitle_file_path, movie_fps)
@@ -70,14 +71,46 @@ class PluginMDVD(ConvertBase):
         
     def decomposeTimeConversion(self, frame_number, movie_fps):
         #format klatkowy czyli frame_number/movie_fps = time w sek
-        conv_time = int(frame_number) / movie_fps
-        conv_time = Decimal(str(conv_time))
+        movie_fps = Decimal(str(movie_fps))
+        conv_time = Decimal(frame_number) / movie_fps
+#        conv_time = Decimal(str(conv_time))
 
-        return conv_time.quantize(Decimal('1.000'), rounding=ROUND_DOWN)
+#        return conv_time.quantize(Decimal('1.000'))
+        return conv_time
     
     def preDecomposeProcessing(self):
         super(PluginMDVD, self).preDecomposeProcessing()
         
+    def compose(self, movie_fps):
+        super(PluginMDVD, self).compose(movie_fps)
+        
+        #decopmse to lista w liście - [[], [], ...]
+        #wewnętrzne listy oznaczają poszczególne linie
+        
+        #w tym miejscu jest ostatnia możliwość zmiany czegoś w lini napisów
+        #chodzi o metoda subProcessing
+        self.subProcesing()
+        
+        _compose_subs = []
+        while self.decomposed_subtitle:
+            sub_line = self.decomposed_subtitle[0]
+            time_start = self.composeTimeConversion(sub_line[0], movie_fps)
+            time_stop = self.composeTimeConversion(sub_line[1], movie_fps)
+            line = sub_line[2]
+            
+            # '%s%s%s'
+            conv_line = self.compose_line % (time_start, time_stop, line)
+            _compose_subs.append(conv_line)
+            
+            self.decomposed_subtitle = self.decomposed_subtitle[1:]
+        
+        self.compose_subtitle = _compose_subs
+            
+    def composeTimeConversion(self, time, movie_fps):
+        movie_fps = Decimal(str(movie_fps))
+        conv_time = time * movie_fps
+        conv_time = '{%d}' % conv_time.quantize(Decimal('1'))
+        return conv_time
     
         
 if __name__ == "__main__":
@@ -87,9 +120,9 @@ if __name__ == "__main__":
     plugin = PluginMDVD()
     plugin.decompose(sub_path, movie_fps)
     subs = plugin.decomposed_subtitle
-    print subs[0]
-#    plugin.decomposed_subtitle = None
-#    plugin.decomposed_subtitle = subs
-#    plugin.compose(movie_fps)
-#    print plugin.compose_subtitle
+    print subs[1]
+    plugin.decomposed_subtitle = None
+    plugin.decomposed_subtitle = subs
+    plugin.compose(movie_fps)
+    print plugin.compose_subtitle[1]
 #    plugin.writeComposeSubs(ct_sub_path)
