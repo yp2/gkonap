@@ -36,6 +36,7 @@ class PluginTMPL(ConvertBase):
         self.subtype = 'tmpl'
         self.re_subs_type = '^\d{1,2}:\d{2}:\d{2}:'
         self.re_decompose_subs = re.compile(r'(\d{1,2}:\d{2}:\d{2}:)')
+        self.compose_line = '%s%s\n'
         
     def decompose(self, subtitle_file_path, movie_fps):
         super(PluginTMPL, self).decompose(subtitle_file_path, movie_fps)
@@ -100,7 +101,7 @@ class PluginTMPL(ConvertBase):
         
         self.decomposed_subtitle = subs_out    
     
-    def decomposeTimeConversion(self, time):
+    def decomposeTimeConversion(self, time, movie_fps=None):
         if type(time) is list:
             #jako czas końcowy dla ostaniego napisu użyjemy jego początku
             #następnie przy zwracaniu dodamy określony czas
@@ -124,12 +125,58 @@ class PluginTMPL(ConvertBase):
         
     def preDecomposeProcessing(self):
         super(PluginTMPL, self).preDecomposeProcessing()
+        
+    def compose(self, movie_fps):
+        super(PluginTMPL, self).compose(movie_fps)
+        
+        #decopmse to lista w liście - [[], [], ...]
+        #wewnętrzne listy oznaczają poszczególne linie
+        
+        #w tym miejscu jest ostatnia możliwość zmiany czegoś w lini napisów
+        #chodzi o metoda subProcessing
+        self.subProcesing()
+        
+        _compose_subs = []
+        while self.decomposed_subtitle:
+            sub_line = self.decomposed_subtitle[0]
+            time_start = self.composeTimeConversion(sub_line[0])
+            # czas stop nie istnieje dla tego formatu
+            line = sub_line[2]
+            
+            # '%s%s%s'
+            conv_line = self.compose_line % (time_start, line)
+            _compose_subs.append(conv_line)
+            
+            self.decomposed_subtitle = self.decomposed_subtitle[1:]
+        
+        self.compose_subtitle = _compose_subs
+        
+    def composeTimeConversion(self, time, movie_fps=None):
+        """
+        Metdoa do konwersji czasu dla danego formatu 
+        wynik w postaci gotowy do wstawienia do szablonu napisu
+        @time = czas w sekundach uwaga w formacie Decimal
+        @movie_fps = ilość klatek na sekundę
+        """
+        second = time
+        hour = second // (3600)
+        second %= 3600
+        minute = second // 60
+        second %= 60
+        
+        conv_time = "%02d:%02d:%02d:" % (hour, minute, second)
+        return conv_time
 
 if __name__ == "__main__":
     sub_path = '/home/daniel/git/gkonap/test_files/tmpl.txt'
+    ct_sub_path = '/home/daniel/git/gkonap/test_files/ct_tmpl.txt'
     movie_fps = 23.976
     plugin = PluginTMPL()
     plugin.decompose(sub_path, movie_fps)
-    print plugin.decomposed_subtitle[0]
-        
+    subs = plugin.decomposed_subtitle
+    plugin.decomposed_subtitle = None
+    plugin.decomposed_subtitle = subs
+    plugin.compose(movie_fps)
+    print plugin.compose_subtitle[0]
+    plugin.writeComposeSubs(ct_sub_path)
     
