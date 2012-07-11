@@ -320,7 +320,63 @@ class ComposeTest(ConvertPluginRecognizeTest):
 #            org_subs = org_subs[1:]
 #            conv_subs = conv_subs[1:]
     
-            
+    def test_mpl2Compose(self):
+        subs_path = self.sub_mpl2
+        compose_out_path = self.comp_test_sub_mpl2
+        movie_fps = 23.976
+        for pli in self.plugins:
+            if pli.recognize(subs_path):
+                pli.decompose(subs_path, movie_fps)
+                decompose_subs = pli.decomposed_subtitle
+                
+                #assign decopose_subs for pli.decomposed_substitle
+                pli.decomposed_subtitle = None
+                pli.decomposed_subtitle = decompose_subs
+                
+                #compose 
+                pli.compose(movie_fps)
+                
+                #write to file
+                pli.writeComposeSubs(compose_out_path)
+                
+        org_subs = open(subs_path, 'rU').readlines()
+        conv_subs = open(compose_out_path, 'ru').readlines()
+        
+        
+        self.assertEqual(org_subs, conv_subs, "Pliki nie są identyczne")
+#        while org_subs:
+#            self.assertEqual(org_subs[0], conv_subs[0], 'Linie nie jest identyczna\n%s\n%s' % (org_subs[0], conv_subs[0]) )
+#            org_subs = org_subs[1:]
+#            conv_subs = conv_subs[1:]
+
+    def test_tmplCompose(self):
+        subs_path = self.sub_tmpl
+        compose_out_path = self.comp_test_sub_tmpl
+        movie_fps = 23.976
+        for pli in self.plugins:
+            if pli.recognize(subs_path):
+                pli.decompose(subs_path, movie_fps)
+                decompose_subs = pli.decomposed_subtitle
+                
+                #assign decopose_subs for pli.decomposed_substitle
+                pli.decomposed_subtitle = None
+                pli.decomposed_subtitle = decompose_subs
+                
+                #compose 
+                pli.compose(movie_fps)
+                
+                #write to file
+                pli.writeComposeSubs(compose_out_path)
+                
+        org_subs = open(subs_path, 'rU').readlines()
+        conv_subs = open(compose_out_path, 'ru').readlines()
+        
+        
+        self.assertEqual(org_subs, conv_subs, "Pliki nie są identyczne")
+#        while org_subs:
+#            self.assertEqual(org_subs[0], conv_subs[0], 'Linie nie jest identyczna\n%s\n%s' % (org_subs[0], conv_subs[0]) )
+#            org_subs = org_subs[1:]
+#            conv_subs = conv_subs[1:]
     
             
         
