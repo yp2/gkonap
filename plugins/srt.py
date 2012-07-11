@@ -69,7 +69,7 @@ class PluginSRT(ConvertBase):
         
 #        print self.decomposed_subtitle[1]
         
-    def decomposeTimeConversion(self, time):
+    def decomposeTimeConversion(self, time, movie_fps=None):
         '''
         Zwraca sekundy w Decimal
         '''
