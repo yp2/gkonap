@@ -47,7 +47,16 @@ class ConvertBase(object):
         #holds subs after composing to susb format (list of strings)
         self.compose_subtitle = None
         
+        #holds schema for line construction
         self.compose_line = None
+        
+    def clear(self):
+        """
+        Metoda do zerowanie pluginu
+        Wstawi None w poszczególne atrybuty 
+        """
+        self.decomposed_subtitle = None
+        self.compose_subtitle = None
         
     def pluginType(self):
         return self.type
