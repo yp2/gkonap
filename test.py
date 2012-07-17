@@ -467,13 +467,4 @@ class GetFpsFromFile(unittest.TestCase):
             fps_out.append(fps)
         
         self.assertEqual(fps_list, fps_out, "Fps nie są identyczne - file")
-            
-        
-            
-        
-        
-
-                
-                
-        
         
