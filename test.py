@@ -21,13 +21,16 @@
 #       MA 02110-1301, USA
 
 import os
-from gkcore.core import pluginLoad, pluginInstance
-from gkcore.convert import ConvertBase
 import unittest
 try:
     from cdecimal import Decimal
 except ImportError:
     from decimal import Decimal
+    
+from gkcore.core import pluginLoad, pluginInstance
+from gkcore.convert import ConvertBase
+import gkcore.info
+
 
 class PluginLoadTest(unittest.TestCase):
     def setUp(self):
@@ -260,6 +263,11 @@ class ComposeTest(ConvertPluginRecognizeTest):
         self.comp_test_paths = [self.comp_test_sub_mdvd, self.comp_test_sub_mpl2,
                                 self.comp_test_sub_srt, self.comp_test_sub_tmpl]
         
+    def tearDown(self):
+        for path in self.comp_test_paths:
+            if os.path.exists(path):
+                os.remove(path)
+        
     def test_srtCompose(self):
         subs_path = self.sub_srt
         compose_out_path = self.comp_test_sub_srt
@@ -378,6 +386,8 @@ class ComposeTest(ConvertPluginRecognizeTest):
 #            org_subs = org_subs[1:]
 #            conv_subs = conv_subs[1:]
     
+
+#class GetFpsFromFile(unittest.TestCase):
             
         
         
