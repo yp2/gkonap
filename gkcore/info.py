@@ -24,10 +24,7 @@
 #    UWAGA
 # Moduł wymaga do działania:
 # python: kaa.metadata
-# programy: ffmpeg, mplayer, file, 
-
-
-
+# programy: ffprobe, mplayer, file, 
 
 import kaa.metadata
 from subprocess import Popen, PIPE, STDOUT
@@ -48,7 +45,7 @@ def fps_kaa_metada(file_path):
         kaa_parser = kaa.metadata.parse(file_path)
         fps = kaa_parser.video[0].fps
         if fps:
-            #Jeżeli wykryto fps to zamieniamy na decimal - do poprawnego liczenia
+            # Jeżeli wykryto fps to zamieniamy na decimal - do poprawnego liczenia
             fps = Decimal(str(fps)).quantize(Decimal('1.000')) 
     except AttributeError:
         fps = None
@@ -62,18 +59,40 @@ def fps_mplayer(file_path):
     """
     
     cmd = ["mplayer", "-vo", "null", "-ao", "null", "-frames", "0", "-identify", file_path]
-    #wyrażenie regularne dla przeszukania wyniku
+    # Wyrażenie regularne dla przeszukania wyniku
     re_fps = re.compile(r"(ID_VIDEO_FPS=)(\d*\.\d*)")
     try:  
         mplayer_info = Popen(cmd, stdout=PIPE, stderr=STDOUT)
         mp_out = str(mplayer_info.communicate()[0])
         fps = re.search(re_fps, mp_out).groups()[1]
-        #zwrócenie wartości w postaci Decimal
+        # Zwrócenie wartości w postaci Decimal
         fps = Decimal(fps).quantize(Decimal('1.000'))
     except (OSError, ValueError, AttributeError):
-        #wychwycenie wyjątków pierwsze 2 od Popen, ostatni do re.serarch
+        # Wychwycenie wyjątków pierwsze 2 od Popen, ostatni do re.serarch
         fps = None
        
+    return fps
+
+def fps_ffprobe(file_path):
+    """
+    Funkcja używa ffprobe do zwrócenia fps dla pliku.
+    """
+    cmd = ['ffprobe', file_path]
+    # Wyrażenie regularne dla przeszukania wyniku
+    # tbr oznaczenie fps dla pliku wideo
+    # ffprobe ma mniejszą dokładność niź mplayer oraz
+    # kaa.metadata
+    re_fps = re.compile(r'(\d*\.\d*|\d*).tbr')
+    try:
+        ffprobe_info = Popen(cmd, stdout=PIPE, stderr=STDOUT)
+        ffprobe_out = str(ffprobe_info.communicate()[0])
+        fps = re.search(re_fps, ffprobe_out).groups()[0]
+        # Zwrócenie wartości w postaci Decimal
+        fps = Decimal(fps).quantize(Decimal('1.000'))
+    except (OSError, ValueError, AttributeError):
+        # Wychwycenie wyjątków 2 pierwsze dla Popen, ostatni dla re.search
+        fps = None  # Zwracamy None jeżeli nie udało znaleźć się fps
+    
     return fps
 
 def fps_file(file_path):
@@ -82,16 +101,16 @@ def fps_file(file_path):
     """
     
     cmd = ['file', file_path]
-    #wyrażenie regularne dla przeszukania wyniku
+    # Wyrażenie regularne dla przeszukania wyniku
     re_fps = re.compile(r'(\d*\.\d*).fps')
     try:
         file_info = Popen(cmd, stdout=PIPE, stderr=STDOUT)
         file_out = str(file_info.communicate()[0])
         fps = re.search(re_fps, file_out).groups()[0]
-        #zwrócenie wartości w postaci Decimal
+        # Zwrócenie wartości w postaci Decimal
         fps = Decimal(fps).quantize(Decimal('1.000'))
     except (OSError, ValueError, AttributeError):
-        #wychwycenie wyjątków pierwsze 2 od Popen, ostatni do re.serarch
+        # Wychwycenie wyjątków pierwsze 2 od Popen, ostatni do re.serarch
         fps = None
     
     return fps
@@ -129,5 +148,5 @@ if __name__ == "__main__":
     
     file_path = [avi, mkv, mp4, blind]
     for path in file_path:
-        print get_fps(path)
+        print fps_ffprobe(path)
     
