@@ -62,11 +62,11 @@ def fps_mplayer(file_path):
     """
     
     cmd = ["mplayer", "-vo", "null", "-ao", "null", "-frames", "0", "-identify", file_path]
+    #wyrażenie regularne dla przeszukania wyniku
+    re_fps = re.compile(r"(ID_VIDEO_FPS=)(\d*\.\d*)")
     try:  
         mplayer_info = Popen(cmd, stdout=PIPE, stderr=STDOUT)
         mp_out = str(mplayer_info.communicate()[0])
-        #wyrażenie regularne dla przeszukania wyniku
-        re_fps = re.compile(r"(ID_VIDEO_FPS=)(\d*\.\d*)")
         fps = re.search(re_fps, mp_out).groups()[1]
         #zwrócenie wartości w postaci Decimal
         fps = Decimal(fps).quantize(Decimal('1.000'))
@@ -74,6 +74,26 @@ def fps_mplayer(file_path):
         #wychwycenie wyjątków pierwsze 2 od Popen, ostatni do re.serarch
         fps = None
        
+    return fps
+
+def fps_file(file_path):
+    """
+    Uzyskanie fps przy wykorzystaniu programu file
+    """
+    
+    cmd = ['file', file_path]
+    #wyrażenie regularne dla przeszukania wyniku
+    re_fps = re.compile(r'(\d*\.\d*).fps')
+    try:
+        file_info = Popen(cmd, stdout=PIPE, stderr=STDOUT)
+        file_out = str(file_info.communicate()[0])
+        fps = re.search(re_fps, file_out).groups()[0]
+        #zwrócenie wartości w postaci Decimal
+        fps = Decimal(fps).quantize(Decimal('1.000'))
+    except (OSError, ValueError, AttributeError):
+        #wychwycenie wyjątków pierwsze 2 od Popen, ostatni do re.serarch
+        fps = None
+    
     return fps
     
 def get_fps(file_path):
@@ -85,8 +105,9 @@ def get_fps(file_path):
     # od jak najbardziej dokładnych
        
     # lista referencji do funkcij
-    func_fps = [fps_kaa_metada, 
-                fps_mplayer]
+    func_fps = [fps_kaa_metada,
+                fps_mplayer,
+                fps_file]
 
     #dla każdej funkcji sprawdzamy wynik, jeżeli różny
     #od None zwracamy wartość i wyskakujemy z pętli
