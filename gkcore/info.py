@@ -126,6 +126,7 @@ def get_fps(file_path):
     # lista referencji do funkcij
     func_fps = [fps_kaa_metada,
                 fps_mplayer,
+                fps_ffprobe,
                 fps_file]
 
     #dla każdej funkcji sprawdzamy wynik, jeżeli różny
@@ -148,5 +149,5 @@ if __name__ == "__main__":
     
     file_path = [avi, mkv, mp4, blind]
     for path in file_path:
-        print fps_ffprobe(path)
+        print fps_file(path)
     
