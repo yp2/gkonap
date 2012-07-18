@@ -1,2 +1,7 @@
 *** Zastąpienie wyszukiwania FPS przez programy czysto pythonowską metodą - wiąże się
     to z dodaniem do kaa.metadata możliwość odczytywania fps z plików mp4 
+    
+*** w pluginach do ściągania plików dodać funkcje zmieniająca rozszeżenie na włąściwe dla formatu.
+    Przydaje się to w przypadku ściągania plików przez napi tam zawsze rozszeżenie to txt
+
+*** Opracować sposób komunikacji z użytkownikiem - jakiś loger??
