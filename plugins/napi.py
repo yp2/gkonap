@@ -35,10 +35,12 @@ import hashlib
 import urllib
 import os
 from subprocess import Popen, PIPE
+from gkcore.subsdwn import SubsDownload
 
-class Napiprojekt(object):
+class Napiprojekt(SubsDownload):
     def __init__(self):
-        self.file_path = None
+        super(Napiprojekt, self).__init__()
+        
         self.subs_http = None
         self.arch_path = '/var/tmp/napisy.7z'
         
