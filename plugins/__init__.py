@@ -25,7 +25,7 @@ from gkcore.subsdwn import SubsDownloadBase
 from gkcore.core import pluginLoad, pluginInstance
 import os
 
-PLUGIN_DIR = [os.path.dirname(__file__)]
+PLUGIN_DIR = [os.path.dirname(__file__)]    #katalog bazowy dla pluginów
 PLUGINS_CONVERT = None
 PLUGINS_SUBS_DOWN = None
 

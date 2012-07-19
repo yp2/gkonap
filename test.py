@@ -30,6 +30,7 @@ except ImportError:
 from gkcore.core import pluginLoad, pluginInstance
 from gkcore.convert import ConvertBase
 import gkcore.info
+import plugins
 
 
 class PluginLoadTest(unittest.TestCase):

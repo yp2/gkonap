@@ -35,7 +35,9 @@ except ImportError:
     from decimal import Decimal
     
 # Ścieżki do porgramów
-MPLAYER = "mplayer"
+MPLAYER = 'mplayer'
+FFPROBE = 'ffprobe'
+FILE = 'file'
     
 def fps_kaa_metada(file_path):
     """
@@ -58,7 +60,7 @@ def fps_mplayer(file_path):
     Uwaga trzeba przepuszczać tylko dobre ścieżki do plików wideo
     """
     
-    cmd = ["mplayer", "-vo", "null", "-ao", "null", "-frames", "0", "-identify", file_path]
+    cmd = [MPLAYER, "-vo", "null", "-ao", "null", "-frames", "0", "-identify", file_path]
     # Wyrażenie regularne dla przeszukania wyniku
     re_fps = re.compile(r"(ID_VIDEO_FPS=)(\d*\.\d*)")
     try:  
@@ -77,7 +79,7 @@ def fps_ffprobe(file_path):
     """
     Funkcja używa ffprobe do zwrócenia fps dla pliku.
     """
-    cmd = ['ffprobe', file_path]
+    cmd = [FFPROBE, file_path]
     # Wyrażenie regularne dla przeszukania wyniku
     # tbr oznaczenie fps dla pliku wideo
     # ffprobe ma mniejszą dokładność niź mplayer oraz
@@ -100,7 +102,7 @@ def fps_file(file_path):
     Uzyskanie fps przy wykorzystaniu programu file
     """
     
-    cmd = ['file', file_path]
+    cmd = [FILE, file_path]
     # Wyrażenie regularne dla przeszukania wyniku
     re_fps = re.compile(r'(\d*\.\d*).fps')
     try:
