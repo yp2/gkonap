@@ -25,8 +25,7 @@ from gkcore.subsdwn import SubsDownloadBase
 from gkcore.core import pluginLoad, pluginInstance
 import os
 
-#TODO: zmienić ścieżkę na ścieżkę gdzie jest ten plik
-PLUGIN_DIR = [os.getcwd()]
+PLUGIN_DIR = [os.path.dirname(__file__)]
 PLUGINS_CONVERT = None
 PLUGINS_SUBS_DOWN = None
 
