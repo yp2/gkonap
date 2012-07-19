@@ -25,6 +25,14 @@ class SubsDownloadBase(object):
     Base class for plugins to download subs
     """
     def __init__(self):
+        
+        #implement in plugin
+        self.type = 'subsdwn'
+        self.name = None
+        self.description = None
+        self.subtype = None
+        
+        #plugin specyfic
         self.file_path = None # path to video file
     
     def run(self, file_path):

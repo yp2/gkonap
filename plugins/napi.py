@@ -41,6 +41,10 @@ class Napiprojekt(SubsDownloadBase):
     def __init__(self):
         super(Napiprojekt, self).__init__()
         
+        self.name = 'napiprojekt'
+        self.description = 'Plugin for downloading subs from napiprojket.pl'
+        self.subtype = 'napi'
+        
         self.subs_http = None
         self.arch_path = '/var/tmp/napisy.7z'
         
@@ -71,7 +75,6 @@ class Napiprojekt(SubsDownloadBase):
         h = hashlib.md5()
         h.update(movie_file)
         
-        #link = "http://napiprojekt.pl/unit_napisy/dl.php?l=PL&f="+h.hexdigest()+"&t="+self.f(h.hexdigest())+"&v=other&kolejka=false&nick=&pass=&napios="+os.name
         link = "http://napiprojekt.pl/unit_napisy/dl.php?l=PL&f=%s&t=%s&v=other&kolejka=false&nick=&pass=&napios=%s" % (h.hexdigest(), self.f(h.hexdigest()), os.name)
         self.subs_http = urllib.urlopen(link).read()
     
