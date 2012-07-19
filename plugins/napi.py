@@ -82,7 +82,7 @@ class Napiprojekt(SubsDownloadBase):
         
         # utworzenie komendy dla 7z
         cmd = ['/usr/bin/7z x -y -so -piBlm8NTigvru0Jr0 %s 2>/dev/null >\"%s\"' % (self.arch_path, sub_path)]
-        unpack = Popen(cmd, shell=True, stdout=PIPE, stderr=PIPE)
+        unpack = Popen(cmd, shell=True)
         if unpack.wait():
             # nie udało ściągnąć się napisów do filmu
             # kasujemy powstały plik sub_path
