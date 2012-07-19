@@ -41,9 +41,9 @@ class Napiprojekt(SubsDownloadBase):
     def __init__(self):
         super(Napiprojekt, self).__init__()
         
-        self.name = 'napiprojekt'
+        self.name = 'Plugin napiprojekt.pl'
         self.description = 'Plugin for downloading subs from napiprojket.pl'
-        self.subtype = 'napi'
+        self.subtype = 'napiprojket'
         
         self.subs_http = None
         self.arch_path = '/var/tmp/napisy.7z'

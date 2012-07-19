@@ -34,4 +34,3 @@ PLUGINS_CONVERT = pluginInstance(_plugins_convert)
 
 _plugins_subs_down = pluginLoad(PLUGIN_DIR, SubsDownloadBase)
 PLUGINS_SUBS_DOWN = pluginInstance(_plugins_subs_down)
- 
