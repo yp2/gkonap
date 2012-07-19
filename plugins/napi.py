@@ -20,7 +20,7 @@
 #       Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #       MA 02110-1301, USA
 
-# Moduł odpowiedzialny za ściąganie napisów powstał na podstawie skryptu napisanego przez: 
+# Plugin powstał na podstawie skryptu napisanego przez: 
 #  - gim, 
 #  - krzynio, 
 #  - dosiu, 
@@ -71,7 +71,8 @@ class Napiprojekt(SubsDownloadBase):
         h = hashlib.md5()
         h.update(movie_file)
         
-        link = "http://napiprojekt.pl/unit_napisy/dl.php?l=PL&f="+h.hexdigest()+"&t="+self.f(h.hexdigest())+"&v=other&kolejka=false&nick=&pass=&napios="+os.name
+        #link = "http://napiprojekt.pl/unit_napisy/dl.php?l=PL&f="+h.hexdigest()+"&t="+self.f(h.hexdigest())+"&v=other&kolejka=false&nick=&pass=&napios="+os.name
+        link = "http://napiprojekt.pl/unit_napisy/dl.php?l=PL&f=%s&t=%s&v=other&kolejka=false&nick=&pass=&napios=%s" % (h.hexdigest(), self.f(h.hexdigest()), os.name)
         self.subs_http = urllib.urlopen(link).read()
     
     def write_subs(self):
