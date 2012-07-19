@@ -35,9 +35,9 @@ import hashlib
 import urllib
 import os
 from subprocess import Popen, PIPE
-from gkcore.subsdwn import SubsDownload
+from gkcore.subsdwn import SubsDownloadBase
 
-class Napiprojekt(SubsDownload):
+class Napiprojekt(SubsDownloadBase):
     def __init__(self):
         super(Napiprojekt, self).__init__()
         

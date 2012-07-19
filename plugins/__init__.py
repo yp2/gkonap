@@ -19,3 +19,20 @@
 #       along with this program; if not, write to the Free Software
 #       Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #       MA 02110-1301, USA
+
+from gkcore.convert import ConvertBase
+from gkcore.subsdwn import SubsDownloadBase
+from gkcore.core import pluginLoad, pluginInstance
+import os
+
+#TODO: zmienić ścieżkę na ścieżkę gdzie jest ten plik
+PLUGIN_DIR = [os.getcwd()]
+PLUGINS_CONVERT = None
+PLUGINS_SUBS_DOWN = None
+
+_plugins_convert = pluginLoad(PLUGIN_DIR, ConvertBase)
+PLUGINS_CONVERT = pluginInstance(_plugins_convert)
+
+_plugins_subs_down = pluginLoad(PLUGIN_DIR, SubsDownloadBase)
+PLUGINS_SUBS_DOWN = pluginInstance(_plugins_subs_down)
+ 

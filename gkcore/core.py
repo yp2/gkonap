@@ -27,7 +27,6 @@ def findSubclass(plugin_name, plugin_path, cls):
     """
     Function for seraching given class in 
     """
-       
     imported_module = imp.load_source(plugin_name, plugin_path)
         
     module_dict = imported_module.__dict__
@@ -48,6 +47,7 @@ def pluginLoad(plugin_dirs, cls):
     Function for loading converting plugins
     @plugin_dirs - list of string, each string represents directory with plugins
     @class_name - name of class for subclassed plugins
+    returns plugin list - list
     """
     
     plugins = []
@@ -59,7 +59,8 @@ def pluginLoad(plugin_dirs, cls):
                     plugin_path = os.path.join(root_path, name)
                     name = os.path.splitext(name)[0]
                     finded_plugin = findSubclass(name, plugin_path, cls)
-                    plugins.append(finded_plugin)
+                    if finded_plugin:
+                        plugins.append(finded_plugin)
                     
     return plugins
 

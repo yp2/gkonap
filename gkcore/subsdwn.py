@@ -20,7 +20,7 @@
 #       Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #       MA 02110-1301, USA
 
-class SubsDownload(object):
+class SubsDownloadBase(object):
     """
     Base class for plugins to download subs
     """
