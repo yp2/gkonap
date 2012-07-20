@@ -1,24 +1,22 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-
 <subtitle>
-        <id>13406</id>
-        <title>True Blood 1x00</title>
-        <altTitle>True Blood 1x00</altTitle>
-            <season>1</season>
-            <episode>0</episode>
-            <epTitle>Preair</epTitle>
-        <imdb>tt0844441</imdb>
-        <year>2007</year>
-        <release>PREAIR.DVDSCR.XviD-MEDIEVAL</release>
-        <language>pl</language>
-        <cd>1</cd>
-        <time>00:56:09|||</time>
-        <size>574803968|||</size>
-        <fps>23.976</fps>
-        <resolution>624x352</resolution>
-        <author>Attis</author>
-        <rating>6.0000</rating>
+<id>13406</id>
+<title>True Blood 1x00</title>
+<altTitle>True Blood 1x00</altTitle>
+<season>1</season>
+<episode>0</episode>
+<epTitle>Preair</epTitle>
+<imdb>tt0844441</imdb>
+<year>2007</year>
+<release>PREAIR.DVDSCR.XviD-MEDIEVAL</release>
+<language>pl</language>
+<cd>1</cd>
+<time>00:56:09|||</time>
+<size>574803968|||</size>
+<fps>23.976</fps>
+<resolution>624x352</resolution>
+<author>Attis</author>
+<rating>6.0000</rating>
 </subtitle>
 
 <subtitle>
