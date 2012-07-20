@@ -42,14 +42,28 @@ if __name__ == '__main__':
 #    p = Napisy24()
 #    p.run()
     
-    search1 = 'true+blood'
-    search2 = 'true+blood+01x01'
+    search1 = 'true blood'
+    search2 = 'true blood 01x01'
+    search3 = 'The Iron Lady'
     url1 = 'http://napisy24.pl/search.php?str=%s' % (search1)
     url2 = 'http://napisy24.pl/search.php?str=%s' % (search2)
-    out1 = urllib.urlopen(url1).readlines()
-    out2 = urllib.urlopen(url2).readlines()
-    out1 = ''.join(out1)
-    out2 = ''.join(out2)
+    urlappi1 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search1)
+    urlappi2 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search2)
+    urlappi3 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search3)
+    
+#    out1 = urllib.urlopen(url1).readlines()
+#    out2 = urllib.urlopen(url2).readlines()
+    outappi1 = urllib.urlopen(urlappi1).readlines()
+    outappi2 = urllib.urlopen(urlappi2).readlines()
+    outappi3 = urllib.urlopen(urlappi3).readlines()
+#    out1 = ''.join(out1)
+#    out2 = ''.join(out2)
+    outappi1 = ''.join(outappi1)
+    outappi2 = ''.join(outappi2)
+    outappi3 = ''.join(outappi3)
+    print outappi1
+    print outappi2
+    print outappi3
 #    print out1
 #    print out2
 #    class ParserN24(HTMLParser.HTMLParser):

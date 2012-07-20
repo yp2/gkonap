@@ -1,0 +1,600 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subtitle>
+        <id>13406</id>
+        <title>True Blood 1x00</title>
+        <altTitle>True Blood 1x00</altTitle>
+            <season>1</season>
+            <episode>0</episode>
+            <epTitle>Preair</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>PREAIR.DVDSCR.XviD-MEDIEVAL</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:56:09|||</time>
+        <size>574803968|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>14561</id>
+        <title>True Blood 1x01</title>
+        <altTitle>True Blood 1x01</altTitle>
+            <season>1</season>
+            <episode>1</episode>
+            <epTitle>Strange Love</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:57:06|||</time>
+        <size>577450090|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>22332</id>
+        <title>True Blood 1x01</title>
+        <altTitle>True Blood 1x01</altTitle>
+            <season>1</season>
+            <episode>1</episode>
+            <epTitle>Strange Love</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:58:17|||</time>
+        <size>1565450381|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>23186</id>
+        <title>True Blood 1x01</title>
+        <altTitle>True Blood 1x01</altTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>DVDRip.XviD-REWARD; 720p.BRRip.XviD.AC3-ViSiON; 720p.Bluray.x264.DTS-SiNNERS</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:58:31|||</time>
+        <size>576677888|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>14737</id>
+        <title>True Blood 1x02</title>
+        <altTitle>True Blood 1x02</altTitle>
+            <season>1</season>
+            <episode>2</episode>
+            <epTitle>The First Taste</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:54:02|||</time>
+        <size>576740390|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>14738</id>
+        <title>True Blood 1x02</title>
+        <altTitle>True Blood 1x02</altTitle>
+            <season>1</season>
+            <episode>2</episode>
+            <epTitle>The First Taste</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>RERIP.HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:55:37|||</time>
+        <size>576715290|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>14861</id>
+        <title>True Blood 1x02</title>
+        <altTitle>True Blood 1x02</altTitle>
+            <season>1</season>
+            <episode>2</episode>
+            <epTitle>The First Taste</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:54:01|||</time>
+        <size>1565498024|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>23187</id>
+        <title>True Blood 1x02</title>
+        <altTitle>True Blood 1x02</altTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>DVDRip.XviD-REWARD; 720p.BRRip.XviD.AC3-ViSiON; 720p.Bluray.x264.DTS-SiNNERS</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:54:13|||</time>
+        <size>576581632|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>14995</id>
+        <title>True Blood 1x03</title>
+        <altTitle>True Blood 1x03</altTitle>
+            <season>1</season>
+            <episode>3</episode>
+            <epTitle></epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>en</language>
+        <cd>1</cd>
+        <time>00:00:00|||</time>
+        <size>000000000|||</size>
+        <fps>23.976</fps>
+        <resolution></resolution>
+        <author></author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15085</id>
+        <title>True Blood 1x03</title>
+        <altTitle>True Blood 1x03</altTitle>
+            <season>1</season>
+            <episode>3</episode>
+            <epTitle>Mine</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:52:05|||</time>
+        <size>576778600|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15771</id>
+        <title>True Blood 1x03</title>
+        <altTitle>True Blood 1x03</altTitle>
+            <season>1</season>
+            <episode>3</episode>
+            <epTitle>Mine</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:53:37|||</time>
+        <size>1565382862|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>23188</id>
+        <title>True Blood 1x03</title>
+        <altTitle>True Blood 1x03</altTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>DVDRip.XviD-REWARD; 720p.BRRip.XviD.AC3-ViSiON; 720p.Bluray.x264.DTS-SiNNERS</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:52:17|||</time>
+        <size>576415744|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15262</id>
+        <title>True Blood 1x04</title>
+        <altTitle>True Blood 1x04</altTitle>
+            <season>1</season>
+            <episode>4</episode>
+            <epTitle></epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-NoTV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:49:58|||</time>
+        <size>577584702|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>kamilus</author>
+        <rating>5.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15287</id>
+        <title>True Blood 1x04</title>
+        <altTitle>True Blood 1x04</altTitle>
+            <season>1</season>
+            <episode>4</episode>
+            <epTitle>Escape From Dragon House</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-NoTV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:49:58|||</time>
+        <size>577584702|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15294</id>
+        <title>True Blood 1x04</title>
+        <altTitle>True Blood 1x04</altTitle>
+            <season>1</season>
+            <episode>4</episode>
+            <epTitle>Escape From Dragon House</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:48:59|||</time>
+        <size>1173625319|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>23189</id>
+        <title>True Blood 1x04</title>
+        <altTitle>True Blood 1x04</altTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>DVDRip.XviD-REWARD; 720p.BRRip.XviD.AC3-ViSiON; 720p.Bluray.x264.DTS-SiNNERS</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:50:13|||</time>
+        <size>576382976|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15499</id>
+        <title>True Blood 1x05</title>
+        <altTitle>True Blood 1x05</altTitle>
+            <season>1</season>
+            <episode>5</episode>
+            <epTitle>Sparks Fly Out</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:55:05|||</time>
+        <size>576750038|||</size>
+        <fps>23.976</fps>
+        <resolution>608x336</resolution>
+        <author>kamilus</author>
+        <rating>4.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15514</id>
+        <title>True Blood 1x05</title>
+        <altTitle>True Blood 1x05</altTitle>
+            <season>1</season>
+            <episode>5</episode>
+            <epTitle>Sparks Fly Out</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:55:05|||</time>
+        <size>576750038|||</size>
+        <fps>23.976</fps>
+        <resolution>608x336</resolution>
+        <author>michalu, Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15531</id>
+        <title>True Blood 1x05</title>
+        <altTitle>True Blood 1x05</altTitle>
+            <season>1</season>
+            <episode>5</episode>
+            <epTitle>Sparks Fly Out</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-Funner</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:55:14|||</time>
+        <size>2147483647|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>michalu, Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15772</id>
+        <title>True Blood 1x05</title>
+        <altTitle>True Blood 1x05</altTitle>
+            <season>1</season>
+            <episode>5</episode>
+            <epTitle>Sparks Fly Out</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:55:07|||</time>
+        <size>1566168068|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>michalu, Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>23190</id>
+        <title>True Blood 1x05</title>
+        <altTitle>True Blood 1x05</altTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>DVDRip.XviD-REWARD; 720p.BRRip.XviD.AC3-ViSiON; 720p.Bluray.x264.DTS-REAVERS</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:55:16|||</time>
+        <size>576403456|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>michalu, Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>15800</id>
+        <title>True Blood 1x06</title>
+        <altTitle>True Blood 1x06</altTitle>
+            <season>1</season>
+            <episode>6</episode>
+            <epTitle>Cold Ground</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:52:19|||</time>
+        <size>576827308|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>16107</id>
+        <title>True Blood 1x06</title>
+        <altTitle>True Blood 1x06</altTitle>
+            <season>1</season>
+            <episode>6</episode>
+            <epTitle>Cold Ground</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:52:19|||</time>
+        <size>1565086168|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>23191</id>
+        <title>True Blood 1x06</title>
+        <altTitle>True Blood 1x06</altTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>DVDRip.XviD-REWARD; 720p.BRRip.XviD.AC3-ViSiON; 720p.Bluray.x264.DTS-REAVERS</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:52:27|||</time>
+        <size>576352256|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>16100</id>
+        <title>True Blood 1x07</title>
+        <altTitle>True Blood 1x07</altTitle>
+            <season>1</season>
+            <episode>7</episode>
+            <epTitle>Burning House of Love</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:51:56|||</time>
+        <size>577628738|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subtitle>
+        <id>14561</id>
+        <title>True Blood 1x01</title>
+        <altTitle>True Blood 1x01</altTitle>
+            <season>1</season>
+            <episode>1</episode>
+            <epTitle>Strange Love</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>HDTV.XviD-0TV</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:57:06|||</time>
+        <size>577450090|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>22332</id>
+        <title>True Blood 1x01</title>
+        <altTitle>True Blood 1x01</altTitle>
+            <season>1</season>
+            <episode>1</episode>
+            <epTitle>Strange Love</epTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>720p.HDTV.x264-2HD</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:58:17|||</time>
+        <size>1565450381|||</size>
+        <fps>23.976</fps>
+        <resolution>1280x720</resolution>
+        <author>Attis</author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>23186</id>
+        <title>True Blood 1x01</title>
+        <altTitle>True Blood 1x01</altTitle>
+        <imdb>tt0844441</imdb>
+        <year>2007</year>
+        <release>DVDRip.XviD-REWARD; 720p.BRRip.XviD.AC3-ViSiON; 720p.Bluray.x264.DTS-SiNNERS</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>00:58:31|||</time>
+        <size>576677888|||</size>
+        <fps>23.976</fps>
+        <resolution>624x352</resolution>
+        <author>Attis</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subtitle>
+        <id>55922</id>
+        <title>The Iron Lady</title>
+        <altTitle>La dame de fer</altTitle>
+        <imdb>tt1007029</imdb>
+        <year>2011</year>
+        <release>DVDSCR.XviD.AC3.HQ.Hive-CM8</release>
+        <language>en</language>
+        <cd>1</cd>
+        <time>01:44:00|||</time>
+        <size>1232556032|||</size>
+        <fps>23.976</fps>
+        <resolution>640x272</resolution>
+        <author></author>
+        <rating>0.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>56639</id>
+        <title>The Iron Lady</title>
+        <altTitle>?elazna dama</altTitle>
+        <imdb>tt1007029</imdb>
+        <year>2011</year>
+        <release>DVDSCR.XviD-TARGET; 480p.BRRip.XviD.AC3-NYDIC; 720p.BluRay.x264-Felony</release>
+        <language>pl</language>
+        <cd>1</cd>
+        <time>|||</time>
+        <size>|||</size>
+        <fps>23.976</fps>
+        <resolution>720x304</resolution>
+        <author>Shylock</author>
+        <rating>6.0000</rating>
+</subtitle>
+
+<subtitle>
+        <id>56640</id>
+        <title>The Iron Lady</title>
+        <altTitle>?elazna dama</altTitle>
+        <imdb>tt1007029</imdb>
+        <year>2011</year>
+        <release>DVDRip.XviD-SPARKS</release>
+        <language>pl</language>
+        <cd>2</cd>
+        <time>|||</time>
+        <size>|||</size>
+        <fps>23.976</fps>
+        <resolution>640x272</resolution>
+        <author>Shylock</author>
+        <rating>0.0000</rating>
+</subtitle>
