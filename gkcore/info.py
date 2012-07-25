@@ -23,8 +23,15 @@
 #
 #    UWAGA
 # Moduł wymaga do działania:
-# python: kaa.metadata
+# Bibiloteki dynamiczne: libmediainfo, libzen (http://mediainfo.sourceforge.net, 
+# ppa dla paczek https://launchpad.net/~shiki/+archive/mediainfo/
+# python: kaa.metadata, MediaInfoDLL.py (wrapper dla libmediainfo)
+#
 # programy: ffprobe, mplayer, file, 
+#
+# pomysł na libmediainfo zaczerniety z subsdownloader
+# autorstwa Dawid Bankowski <enigma2subsdownloader at gmail.com>
+
 
 import kaa.metadata
 from subprocess import Popen, PIPE, STDOUT
@@ -34,10 +41,32 @@ try:
 except ImportError:
     from decimal import Decimal
     
+try:
+    from gkcore.MediaInfoDLL import *
+    MEDIAINFO = True
+except OSError:
+    MEDIAINFO = False
+    
 # Ścieżki do porgramów
 MPLAYER = 'mplayer'
 FFPROBE = 'ffprobe'
 FILE = 'file'
+
+def fps_mediainfo(file_path):
+    if MEDIAINFO:
+        mediainfo = MediaInfo()
+        mediainfo.Open(file_path)
+        fps = mediainfo.Get(Stream.Video, 0, "FrameRate")
+        if fps:
+            fps = Decimal(fps).quantize(Decimal('1.000'))
+        else:
+            fps = None
+        mediainfo.Close()
+    else:
+        fps = None
+    
+    return fps
+    
     
 def fps_kaa_metada(file_path):
     """
@@ -126,7 +155,8 @@ def get_fps(file_path):
     # od jak najbardziej dokładnych
        
     # lista referencji do funkcij
-    func_fps = [fps_kaa_metada,
+    func_fps = [fps_mediainfo,
+                fps_kaa_metada,
                 fps_mplayer,
                 fps_ffprobe,
                 fps_file]
@@ -149,7 +179,8 @@ if __name__ == "__main__":
     mp4 = "/media/ork_storage/filmy/Black.Swan/Black.Swan.mp4"
     blind = "/media/ork_storage/completed/True.Blood.S05E02.720p.HDTV.x264-IMMERSE.srt"
     
+    
     file_path = [avi, mkv, mp4, blind]
     for path in file_path:
-        print fps_file(path)
+        print get_fps(path)
     
