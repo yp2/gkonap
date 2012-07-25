@@ -5,3 +5,9 @@
     Przydaje się to w przypadku ściągania plików przez napi tam zawsze rozszeżenie to txt
 
 *** Opracować sposób komunikacji z użytkownikiem - jakiś loger??
+
+*** Dodanie obłsugi libmediainfo do pobierania danych o fps z plików 
+    wideo.
+
+*** Przerobienie pluginu napiprojket tak aby miał wspolne API z reszta pluginów, oraz
+    dawał takie same wyniki do przetworzenia/decyzji uzytkownika 
