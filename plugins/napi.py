@@ -21,21 +21,17 @@
 #       MA 02110-1301, USA
 
 # Plugin powstał na podstawie skryptu napisanego przez: 
-#  - gim, 
-#  - krzynio, 
-#  - dosiu, 
-#  - hash.
-# Oryginalny skrypt można pobrać ze strony:
+# 2009 Arkadiusz Miskiewicz <arekm@pld-linux.org>
 #
-# http://hacking.apcoh.com/2008/01/napi_06.html
-#
-# Gratsy dla nich!!! 
+# Wielkie dzięki
 
 import hashlib
 import urllib
 import os
+import time
 from subprocess import Popen, PIPE
 from gkcore.subsdwn import SubsDownloadBase
+
 
 class Napiprojekt(SubsDownloadBase):
     def __init__(self):
@@ -46,7 +42,9 @@ class Napiprojekt(SubsDownloadBase):
         self.subtype = 'napiprojket'
         
         self.subs_http = None
-        self.arch_path = '/var/tmp/napisy.7z'
+        self.error_ = 0
+#        self.arch_path = '/var/tmp/napisy.7z'
+        
         
     def f(self, z):
         idx = [ 0xe, 0x3,  0x6, 0x8, 0x2 ]
@@ -75,27 +73,60 @@ class Napiprojekt(SubsDownloadBase):
         h = hashlib.md5()
         h.update(movie_file)
         
-        link = "http://napiprojekt.pl/unit_napisy/dl.php?l=PL&f=%s&t=%s&v=other&kolejka=false&nick=&pass=&napios=%s" % (h.hexdigest(), self.f(h.hexdigest()), os.name)
-        self.subs_http = urllib.urlopen(link).read()
+        link = "http://napiprojekt.pl/unit_napisy/dl.php?l=PL&f=%s&t=%s&v=pynapi&kolejka=false&nick=&pass=&napios=%s" % \
+        (h.hexdigest(), self.f(h.hexdigest()), os.name)
+
+        repeat = 3
+        self.subs_http = None
+        http_code = 200
+           
+               
+        while repeat > 0:
+            repeat = repeat - 1
+            try:
+                self.subs_http = urllib.urlopen(link)
+                if hasattr(self.subs_http, 'getcode'):
+                    http_code = self.subs_http.getcode() 
+                    self.subs_http = self.subs_http.read()
+                    self.error_ = 0
+                    print "Napisy pobrane pomyślnie"
+            except (IOError, OSError), e:
+                print  "Pobranie napisów nie powidoło się." 
+                time.sleep(0.5)
+                self.error_ = 1
+                continue
+
+            if http_code != 200:
+                print "Pobranie napisów nie powidoło się, odpowiedź HTTP %s" % http_code
+                time.sleep(0.5)
+                self.error_ = 1
+                continue
+    
+            if self.subs_http.startswith('NPc'):
+                print "Nie znaleziono napisów" 
+                repeat = -1
+                self.error_ = 1
+                continue
+                repeat = 0
+
+            if self.subs_http is None or self.subs_http == "":
+                print "Poberanie napisów nie powiodło się" 
+                self.error_ = 1
+                continue
+
+            if repeat == -1:
+                self.error_ = 1
+                continue
     
     def write_subs(self):
-        open(self.arch_path, 'w').write(self.subs_http) #utowrzenie pliku z archiwum
-        sub_path = os.path.splitext(self.file_path)[0] + ".txt" # utowrzenie nazwy dla pliku z napisami
-        # podstawa nazwy taka sama rozszeżenie inne
-        
-        # utworzenie komendy dla 7z
-        cmd = ['/usr/bin/7z x -y -so -piBlm8NTigvru0Jr0 %s 2>/dev/null >\"%s\"' % (self.arch_path, sub_path)]
-        unpack = Popen(cmd, shell=True)
-        if unpack.wait():
-            # nie udało ściągnąć się napisów do filmu
-            # kasujemy powstały plik sub_path
-            print "Brak napisów"
-            os.remove(sub_path)
+        if self.error_ == 1:
+            return "None"
         else:
-            # obrano napisy
-            print "Napisy pobrano"
-            
-        os.remove(self.arch_path) # kasujemy pobrany plik 7z
+            subs_path = os.path.splitext(self.file_path)[0] + '.txt' # ścieżka do pliku napisów
+        
+            subs_save = open(subs_path, 'w') # utworzenie pliku
+            subs_save.write(self.subs_http)
+            subs_save.close()
     
     def run(self, file_path):
         self.file_path = file_path
