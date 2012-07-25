@@ -42,7 +42,6 @@ class Napiprojekt(SubsDownloadBase):
         self.subtype = 'napiprojket'
         
         self.subs_http = None
-        self.error_ = 0
 #        self.arch_path = '/var/tmp/napisy.7z'
         
         
@@ -77,53 +76,51 @@ class Napiprojekt(SubsDownloadBase):
         (h.hexdigest(), self.f(h.hexdigest()), os.name)
 
         repeat = 3
-        self.subs_http = None
-        http_code = 200
-           
-               
-        while repeat > 0:
-            repeat = repeat - 1
+        self.subs_http = None # dla pewnośći zerujemy zmienną
+        
+        while repeat > 0 :
             try:
                 self.subs_http = urllib.urlopen(link)
-                if hasattr(self.subs_http, 'getcode'):
-                    http_code = self.subs_http.getcode() 
-                    self.subs_http = self.subs_http.read()
-                    self.error_ = 0
-                    print "Napisy pobrane pomyślnie"
-            except (IOError, OSError), e:
-                print  "Pobranie napisów nie powidoło się." 
-                time.sleep(0.5)
-                self.error_ = 1
-                continue
-
-            if http_code != 200:
-                print "Pobranie napisów nie powidoło się, odpowiedź HTTP %s" % http_code
-                time.sleep(0.5)
-                self.error_ = 1
-                continue
+                if hasattr(self.subs_http, "getcode"):
+                    http_code = self.subs_http.getcode()
     
-            if self.subs_http.startswith('NPc'):
-                print "Nie znaleziono napisów" 
-                repeat = -1
-                self.error_ = 1
-                continue
-                repeat = 0
-
-            if self.subs_http is None or self.subs_http == "":
-                print "Poberanie napisów nie powiodło się" 
-                self.error_ = 1
-                continue
-
-            if repeat == -1:
-                self.error_ = 1
+                    if http_code != 200: # sprawdzamy kod odpowiedzi 
+                        print "Pobranie napisów nie powidoło się, odpowiedź HTTP %s" % http_code
+                        time.sleep(0.5)
+                        repeat =- 1
+                        self.subs_http = None # zerujemy zmienną dla kolejnego cyklu 
+                        continue
+                    
+                    self.subs_http = self.subs_http.read() # wczytanie wyniku
+                    #sprawdzanie czy wynik jest dobry
+                    if self.subs_http.startswith('NPc'):
+                        print "Nie znaleziono napisów" 
+                        repeat = 0 # brak napisów nie ma co ponownie szukać
+                        self.subs_http = None
+                        continue
+                    
+                    if self.subs_http is None or self.subs_http == "":
+                        print "Poberanie napisów nie powiodło się"
+                        repeat =-1 
+                        self.subs_http = None
+                        continue
+                    
+                    # sprwdzanie wyszło ok 
+                    print "Napisy pobrane pomyślnie"
+                    #
+                    # tu jest miejsce na dodanie odpoiwedniego interefejsu potrzebnego dla API
+                    #
+                    break # napisy pobrane nie potrzebujemy dalszej pętli
+            except (IOError, OSError):
+                print  "Pobranie napisów nie powidoło się."
+                repeat =- 1
+                self.subs_http = None
+                time.sleep(0.5)
                 continue
     
     def write_subs(self):
-        if self.error_ == 1:
-            return "None"
-        else:
+        if self.subs_http:
             subs_path = os.path.splitext(self.file_path)[0] + '.txt' # ścieżka do pliku napisów
-        
             subs_save = open(subs_path, 'w') # utworzenie pliku
             subs_save.write(self.subs_http)
             subs_save.close()
@@ -140,4 +137,7 @@ if __name__ == '__main__':
     mkv = '/media/ork_storage/completed/True.Blood.S05E01.REPACK.720p.HDTV.x264-IMMERSE.mkv'
     napi = Napiprojekt()
     napi.run(mkv)
+#    napi.file_path = mkv
+#    napi.get_subs()
+#    print napi.subs_http
     
