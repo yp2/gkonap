@@ -418,6 +418,15 @@ class GetFpsFromFile(unittest.TestCase):
     # składowych modułu info.py potrzebnych do działania
     # głównej funkcji get_fps
     # 
+    def test_fps_mediainfo(self):
+        # Funkcja zwraca wszystkie wyniki
+        fps_out = []
+        for path in self.path_list:
+            fps = gkcore.info.fps_mediainfo(path)
+            fps_out.append(fps)
+        
+        self.assertEqual(self.fps_list, fps_out, 'Fps nie jest identyczne - mediainfo')
+    
     def test_fps_kaa_metadata(self):
         # Własna definicja poprawności testu.
         # Ta funkcja nie zwraca fps dla plików mp4
