@@ -28,7 +28,7 @@ class ConvertBase(object):
     """    
     def __init__(self):
         
-        #implement name and plugin_subtypesubtype in plugin subclass
+        #implement name and plugin_subtype in plugin subclass
         self.type = "convert"
         self.name = None
         self.description = None
@@ -61,10 +61,10 @@ class ConvertBase(object):
         return self.type
     
     def pluginName(self):
-        return  self.name
+        return self.name
     
     def pluginSubType(self):
-        returplugin_subtypeplugin_subtype
+        return self.plugin_subtype
     
     def recognize(self, subtitle_file_path):
         """
@@ -82,7 +82,7 @@ class ConvertBase(object):
         subtitle_file.close()
         
         if _re_subs_type.search(sub_first_line):
-   plugin_subtype  return self.plugin_subtype
+            return self.plugin_subtype
         else:
             return None
         
