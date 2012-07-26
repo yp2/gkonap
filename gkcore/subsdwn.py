@@ -24,6 +24,10 @@ class SubsDownloadBase(object):
     """
     Base class for plugins to download subs
     
+    Uwaga cała logika sprawdzania czy plik
+    istnieje, czy jest to plik wideo itp
+    spada na program główny.
+    
     Używanie:
     ...
     

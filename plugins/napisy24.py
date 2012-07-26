@@ -43,6 +43,9 @@ class Napisy24(SubsDownloadBase):
         self.name = 'Plugin napisy24.pl'
         self.description = 'Plugin for downloading susbs from napisy24.pl'
         self.plugin_subtype = 'napisy24'
+        self.multichoice = True
+        
+        self.file_path = None
 
     def run(self):
         pass
@@ -55,7 +58,7 @@ if __name__ == '__main__':
     file_name = []
     ext_video = ['.avi', '.3gp', '.asf', '.asx', '.divx', '.mkv', '.mov', '.mp4', '.mpeg', '.mpg', '.ogm', '.qt', '.rm', '.rmvb', '.wmv', '.xvid']
     movie_dir = '/media/ork_storage/filmy'
-    re_ilosc_cd = re.compile(r'(?:cd|dvd|e|part|p)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE) 
+    re_ilosc_cd = re.compile(r'(?:cd|dvd|e|part)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE) 
     
     #od najbardziej szczegółowego 
     re_list = [
