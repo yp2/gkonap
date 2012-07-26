@@ -23,6 +23,12 @@
 class SubsDownloadBase(object):
     """
     Base class for plugins to download subs
+    
+    Używanie:
+    ...
+    
+    
+    
     """
     def __init__(self):
         
@@ -30,15 +36,33 @@ class SubsDownloadBase(object):
         self.type = 'subsdwn'
         self.name = None
         self.description = None
-        self.subtype = None
+        self.plugin_subtype = None
+        self.multichoice = False
+        self.choice = None
         
         #plugin specyfic
         self.file_path = None # path to video file
     
-    def run(self, file_path):
+    def get_subs(self):
         """
-        Main method for plugin run
-        @file_path - path to video file
-        dont forget to assign it to self.file_path
+        Metoda do pobierania informacji o napisach 
+        dla danego pliku video
+        Najpierw musi być ustwiony atrybut file_path
+        dla pluginu
         """
         raise NotImplementedError
+    
+    def download_subs(self):
+        """
+        Metoda do ściąganie wybranego pliku z napisami
+        na podstawie opcji self.choice
+        Najpier trzeba ustawić self.choice
+        """
+        raise NotImplementedError
+    
+    def write_subs(self):
+        """
+        Metoda do zapisanie wybranego pliku napisów
+        na podstawie decyzji użytkownika/programu 
+        Wybór zapisany w self.choice
+        """

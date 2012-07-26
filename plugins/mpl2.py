@@ -33,7 +33,7 @@ class PluginMPL2(ConvertBase):
         
         self.name = "Plugin MPL2"
         self.description = "Plugin for MPL2 format of subtitles"
-        self.subtype = 'mpl2'
+        self.plugin_subtype = 'mpl2'
         self.re_subs_type = r'^\[\d*\]'
         self.re_decompose_subs = re.compile(r'\[(\d*)\]\[(\d*)\]')
         self.compose_line = '%s%s%s\n'

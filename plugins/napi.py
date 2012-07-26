@@ -22,14 +22,14 @@
 
 # Plugin powstał na podstawie skryptu napisanego przez: 
 # 2009 Arkadiusz Miskiewicz <arekm@pld-linux.org>
-#
+# Oryginał został mocno poprawiony
 # Wielkie dzięki
+# Plugin już nie potrzebuje 7z napisy ściągane są w postacji nie spakowanej
 
 import hashlib
 import urllib
 import os
 import time
-from subprocess import Popen, PIPE
 from gkcore.subsdwn import SubsDownloadBase
 
 
@@ -39,11 +39,10 @@ class Napiprojekt(SubsDownloadBase):
         
         self.name = 'Plugin napiprojekt.pl'
         self.description = 'Plugin for downloading subs from napiprojket.pl'
-        self.subtype = 'napiprojket'
+        self.plugin_subtype = 'napiprojket'
+        self.multichoice = False
         
         self.subs_http = None
-#        self.arch_path = '/var/tmp/napisy.7z'
-        
         
     def f(self, z):
         idx = [ 0xe, 0x3,  0x6, 0x8, 0x2 ]
@@ -64,10 +63,9 @@ class Napiprojekt(SubsDownloadBase):
     
     def get_subs(self):
         """
-        @file_path - ścieżka do pliku wideo do którego 
-                     będą ściagane napisy
         """
-        
+        # TODO: Dodać wyjątek do sprawdzania czy self.file_path jest róźny od None
+        # aby plugin nie wyrzucał błędu
         movie_file = open(self.file_path).read(10485760)
         h = hashlib.md5()
         h.update(movie_file)
@@ -107,9 +105,20 @@ class Napiprojekt(SubsDownloadBase):
                     
                     # sprwdzanie wyszło ok 
                     print "Napisy pobrane pomyślnie"
-                    #
-                    # tu jest miejsce na dodanie odpoiwedniego interefejsu potrzebnego dla API
-                    #
+                    
+                    # Ustawnienie atrybutu self.subs okrślającego jakie
+                    # napisy ściągnąć w przypadku gdy self.multichoce = True
+                    # w przypadku multichoice False zawsze będzie to jedna opcja
+                    
+                    self.subs_path = os.path.splitext(self.file_path)[0] + '.txt' # ścieżka do pliku napisów
+                    subs_name = os.path.split(self.subs_path)[1]
+                    
+                    self.subs = {1:{
+                                    'title':subs_name,
+                                    'plugin': self.plugin_subtype,
+                                    }
+                                 }
+                    
                     break # napisy pobrane nie potrzebujemy dalszej pętli
             except (IOError, OSError):
                 print  "Pobranie napisów nie powidoło się."
@@ -117,27 +126,25 @@ class Napiprojekt(SubsDownloadBase):
                 self.subs_http = None
                 time.sleep(0.5)
                 continue
+            
+    def download_subs(self):
+        # plugin nie daje wyboru napisów, jężeli są to 
+        # są już ściagniete 
+        if not self.multichoice:
+            pass
     
     def write_subs(self):
         if self.subs_http:
-            subs_path = os.path.splitext(self.file_path)[0] + '.txt' # ścieżka do pliku napisów
-            subs_save = open(subs_path, 'w') # utworzenie pliku
+            subs_save = open(self.subs_path, 'w') # utworzenie pliku
             subs_save.write(self.subs_http)
             subs_save.close()
-    
-    def run(self, file_path):
-        self.file_path = file_path
-        
-        self.get_subs()
-        self.write_subs()
-        
-        
 
 if __name__ == '__main__':
     mkv = '/media/ork_storage/completed/True.Blood.S05E01.REPACK.720p.HDTV.x264-IMMERSE.mkv'
     napi = Napiprojekt()
-    napi.run(mkv)
-#    napi.file_path = mkv
-#    napi.get_subs()
-#    print napi.subs_http
+#    napi.run(mkv)
+    napi.file_path = mkv
+    napi.get_subs()
+    print napi.subs_http
+    print napi.subs[1]['title']
     

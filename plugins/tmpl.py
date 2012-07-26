@@ -33,7 +33,7 @@ class PluginTMPL(ConvertBase):
         
         self.name = "Plugin TMPlayer"
         self.description = "Plugin for TMPlayer format of subtitles"
-        self.subtype = 'tmpl'
+        self.plugin_subtype = 'tmpl'
         self.re_subs_type = '^\d{1,2}:\d{2}:\d{2}:'
         self.re_decompose_subs = re.compile(r'(\d{1,2}:\d{2}:\d{2}:)')
         self.compose_line = '%s%s\n'

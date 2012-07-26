@@ -36,7 +36,7 @@ class PluginMDVD(ConvertBase):
         
         self.name = "Plugin MDVD"
         self.description = "Plugin for MicroDvd format of subtitles"
-        self.subtype = "mdvd"
+        self.plugin_subtype = "mdvd"
         self.re_subs_type = r'^\{\d*\}'
         self.re_decompose_subs = re.compile(r'\{(\d*)\}\{(\d*)\}')
         self.compose_line = '%s%s%s\n'

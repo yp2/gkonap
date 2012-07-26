@@ -28,11 +28,11 @@ class ConvertBase(object):
     """    
     def __init__(self):
         
-        #implement name and subtype in plugin subclass
+        #implement name and plugin_subtypesubtype in plugin subclass
         self.type = "convert"
         self.name = None
         self.description = None
-        self.subtype = None
+        self.plugin_subtype = None
         
         #holds subs after decomposing to universal format
         self.decomposed_subtitle = None
@@ -64,13 +64,13 @@ class ConvertBase(object):
         return  self.name
     
     def pluginSubType(self):
-        return self.subtype
+        returplugin_subtypeplugin_subtype
     
     def recognize(self, subtitle_file_path):
         """
         Methode for recognizing the type of subtitles.
         @subtitle_file_path - path to subtitle file
-        Return subs type definied in each plugin in atr subtype.
+        Return subs type definied in each plugin_subtypein atr plugin_subtype.
         If subs are not recognize returns None
         """
         _re_subs_type = re.compile(self.re_subs_type)
@@ -82,7 +82,7 @@ class ConvertBase(object):
         subtitle_file.close()
         
         if _re_subs_type.search(sub_first_line):
-            return self.subtype
+   plugin_subtype  return self.plugin_subtype
         else:
             return None
         

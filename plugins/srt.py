@@ -34,7 +34,7 @@ class PluginSRT(ConvertBase):
         
         self.name = "Plugin SRT"
         self.description = "Plugin for SubRip Format of subtitles"
-        self.subtype = 'srt'
+        self.plugin_subtype = 'srt'
         self.re_subs_type = r'^\d{1}$'
         self.re_decompose_subs = re.compile(r'(\d{2}:\d{2}:\d{2},\d{3}) --> (\d{2}:\d{2}:\d{2},\d{3})\n')
         self.compose_line = '%i\n%s --> %s\n%s\n\n'
