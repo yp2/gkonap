@@ -41,7 +41,7 @@ class Napiprojekt(SubsDownloadBase):
         self.description = 'Plugin for downloading subs from napiprojket.pl'
         self.plugin_subtype = 'napiprojket'
         self.multichoice = False
-        
+        self.subs = None
         self.subs_http = None
         
     def f(self, z):
@@ -138,7 +138,11 @@ class Napiprojekt(SubsDownloadBase):
             subs_save = open(self.subs_path, 'w') # utworzenie pliku
             subs_save.write(self.subs_http)
             subs_save.close()
-
+    
+    def reset(self):
+        super(Napiprojekt, self).reset()
+        self.subs_http = None
+        
 if __name__ == '__main__':
     mkv = '/media/ork_storage/completed/True.Blood.S05E01.REPACK.720p.HDTV.x264-IMMERSE.mkv'
     napi = Napiprojekt()
