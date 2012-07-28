@@ -43,6 +43,7 @@ class SubsDownloadBase(object):
         self.plugin_subtype = None
         self.multichoice = False
         self.choice = None
+        self.subs = None
         
         #plugin specyfic
         self.file_path = None # path to video file
@@ -70,3 +71,8 @@ class SubsDownloadBase(object):
         na podstawie decyzji użytkownika/programu 
         Wybór zapisany w self.choice
         """
+        raise NotImplementedError
+    
+    def reset(self):
+        self.file_path, self.choice, \
+        self.subs = None
