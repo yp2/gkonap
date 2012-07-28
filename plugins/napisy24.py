@@ -20,7 +20,11 @@
 #       Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #       MA 02110-1301, USA
 
+import re
+import os
+
 from gkcore.subsdwn import SubsDownloadBase
+from gkcore.info import get_fps
 
 # w wynikach otrzymanych z re powinnismy poszukac numeru cd/dvd - cd1, cd2 ...
 # re będzię sparawdzane pokolejn dla każdego 
@@ -28,10 +32,17 @@ from gkcore.subsdwn import SubsDownloadBase
 #
 
 # (?P<title>.*) - łapie całość 
-# (?P<title>.*)(?P<release>dvd.*|br.*|blu.*)
+# (?P<title>.*?)[\.|\s]{1}(?P<release>(?:limited|proper|unrated|dvd|br|blu|cd|repack).*)
 # 
-# (?P<title>.*)(?:[\.|\[|\(|\{]{1}|\s{1})(?P<year>\d{4})(?:[\.|\]|\)|\}]{1}|\s{1})(?P<release>.*) - łapie z rokiem, release'em
+# (?P<title>.*?)(?:[\.|\[|\(|\{]{1}|\s{1})(?P<year>\d{4})(?:[\.|\]|\)|\}]{1}|\s{1})(?P<release>.*) - łapie z rokiem, release'em
 
+# serial
+#
+# (?P<title>.*)
+# (?P<title>.*?)S(?P<season>[0-9]{1,2})(?:\s|.)*?E(?P<episode>[0-9]{1,2})
+#
+# (?P<title>.*?)(?P<season>[0-9]{1,2})x(?P<episode>[0-9]{1,2})(?P<e_title>.*?)(?P<release>(?:720|1080|hdtv|blu|dvd|limited|proper|repack).*)
+# (?P<title>.*?)S(?P<season>[0-9]{1,2})E(?P<episode>[0-9]{1,2})(?P<e_title>.*?)(?P<release>(?:720|1080|hdtv|blu|dvd|limited|proper|repack|ws|pdtv|x264|h264).*)
 
 
 
@@ -44,65 +55,205 @@ class Napisy24(SubsDownloadBase):
         self.description = 'Plugin for downloading susbs from napisy24.pl'
         self.plugin_subtype = 'napisy24'
         self.multichoice = True
+        self.choice = None
+        self.subs = None
         
-        self.file_path = None
-
-    def run(self):
-        pass
+        self.release = '720|1080|hdtv|blu|brrip|dvd|cd|limited|proper|repack|part|(?:\.ws|\sws)|pdtv|x264|h264|unrated' # niezbędne do utorzenia wyrażenia regularnego
+        self.str_re_m_name = [
+            '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}E(?P<episode>[0-9]{1,2})(?P<eptitle>.*?)(?P<release>(?:%s).*)' % self.release,
+            '(?P<title>.*)(?:.|\s){0,3}season(?P<season>[0-9]{1,2})(?:.|\s){0,3}episode(?P<episode>[0-9]{1,2})(?P<eptitle>.*?)(?P<release>(?:%s).*)' % self.release,
+            '(?P<title>.*)(?:.|\s){0,3}(?P<season>[0-9]{1,2})(?:.|\s){0,3}x(?:.|\s){0,3}(?P<episode>[0-9]{1,2})(?P<eptitle>.*?)(?P<release>(?:%s).*)' % self.release,
+            '(?P<title>.*)[.|\.|\[|\(|\{|\s]{1,2}(?P<year>\d{4})[.|\.|\]|\)|\}|\s]{1}(?P<release>.*)',
+            '(?P<title>.*?)(?:\.|\s){0,2}(?P<release>(?:%s).*)' % self.release, # (?P<title>.*?) na końcu ważne '?' ściąga jak naj mniej
+            '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}E(?P<episode>[0-9]{1,2})',
+            '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}xE(?P<episode>[0-9]{1,2})',
+            '(?P<title>.*)(?:.|\s){0,3}season(?P<season>[0-9]{1,2})(?:.|\s){0,3}episode(?P<episode>[0-9]{1,2})',
+            '(?P<title>.*)'
+                       ]
+        self.re_m_parts = re.compile(r'(?:cd|dvd|part)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE)
+        self.re_m_name = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in self.str_re_m_name] # utworzone na podstawie m_name
+        self.media_name = None # słownik z danymi o podanym pliku odczytanymi przez plugin (title, year, release itp)
+        
+    def get_subs(self):
+        
+        # określenie nazwy pliku video na podstawies ścieżki
+        name_m = os.path.splitext(os.path.split(self.file_path)[1])[0]
+        
+        # przejście nazwy pliku video przez utowrzone wyrażenia regularne 
+        # przejście następuje od najbardziej szczegółowego
+        
+        m_dict = None # zmiena do przetrzymywania danych słownika z dopasowania dla pliku video
+        
+        for re_exp in self.re_m_name:
+            re_match = re_exp.match(name_m)
+            if re_match: # znaleziono wzór
+                m_dict = re_match.groupdict() # utowrzenie słownika zawierającego grupy z dopasowania (match)
+                
+                # dodanie fps do słownika
+                m_dict['fps'] = str(get_fps(self.file_path))
+                
+                # poszukiwanie danych release, year, title jeżeli nie ma ich w nazwie
+                # pliku, będziemy szukać jej w nazwie katalogu o poziom niżej
+                if not m_dict.get('release') or m_dict.get('year') or m_dict.get('title'):
+                    # nie mamy danych o release, może jest w nazwie katalogu
+                    dir_name = os.path.split(os.path.split(self.file_path)[0])[1]
+                    for _re_exp in self.re_m_name:
+                        dir_re_match = _re_exp.match(dir_name)
+                        if dir_re_match:
+                            d_m_dict = dir_re_match.groupdict()
+                            if d_m_dict.get('release') and not m_dict.get('release'):
+                                m_dict['release'] = d_m_dict.get('release')
+                            if d_m_dict.get('year') and not m_dict.get('year'):
+                                m_dict['relese'] = d_m_dict.get('year')
+                            if d_m_dict.get('title') and not m_dict.get('title'):
+                                m_dict['title'] = d_m_dict.get('title')
+                            break
+                
+                # przeszukanie w poszukiwaniu numeru części jeżeli video składa
+                # się z kilku odrebnych plików (z kilku płyt)
+                    
+                part_ele = [m_dict.get('title'), m_dict.get('release')]
+                for ele in part_ele:
+                    if ele: # jeżeli ele zawiera wartość 
+                        part = self.re_m_parts.search(ele)
+                        if part:
+                            m_dict['cd'] = part.groupdict().get('cd') # utworzenie nowego klucza cd - okreslające część
+                            
+                break # znalezione dopasowanie wyskakujemy z pętli             
+        
+        if m_dict:
+            self.media_name = m_dict
+            self.clear_media_name()
+            
+            
+                        
+    def clear_media_name(self):
+        """
+        Metoda czyści słowonika
+        """
+        _re_clear = re.compile(r'\.', re.IGNORECASE|re.UNICODE)
+        _re_clear_parts = re.compile(r'(?:cd|dvd|part)\d{1}', re.IGNORECASE|re.UNICODE)
+        
+        
+        if self.media_name.get('title'):
+            title = self.media_name['title']
+            title = re.sub(_re_clear, ' ', title)
+            title = re.sub(_re_clear_parts, '', title)
+            title = title.strip('. ')
+            self.media_name['title'] = title
+        
+        if self.media_name.get('eptitle'):
+            eptitle = self.media_name['eptitle']
+            eptitle = re.sub(_re_clear, ' ', eptitle)
+            eptitle = eptitle.strip('. ')
+            self.media_name['eptitle'] = eptitle
+        
+        if self.media_name.get('release'):
+            release = self.media_name['release']
+            release = re.sub(_re_clear_parts, '', release)
+            release = release.strip('. ')
+            self.media_name['release'] = release
+        
+        _keys = ['year', 'season', 'episode', 'cd', 'fps']
+        
+        for k in _keys:
+            if self.media_name.get(k):
+                ele = self.media_name[k]
+                ele = ele.strip('. ')
+                self.media_name[k] = ele
     
+    def reset(self):
+        super(Napisy24, self).reset()
+        self.media_name= None
     
 if __name__ == '__main__':
-    import re
-    import os
+    
     
     file_name = []
     ext_video = ['.avi', '.3gp', '.asf', '.asx', '.divx', '.mkv', '.mov', '.mp4', '.mpeg', '.mpg', '.ogm', '.qt', '.rm', '.rmvb', '.wmv', '.xvid']
     movie_dir = '/media/ork_storage/filmy'
-    re_ilosc_cd = re.compile(r'(?:cd|dvd|e|part)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE) 
-    
-    #od najbardziej szczegółowego 
-    re_list = [
-               '(?P<title>.*)(?:[\.|\[|\(|\{|\s]{1,2})(?P<year>\d{4})(?:[\.|\]|\)|\}|\s]{1,2})(?P<release>.*)',
-               #'(?P<title>.*)(?:[\.|\[|\(|\{]{1}|\s{1})(?P<year>\d{4})(?:[\.|\]|\)|\}]{1}|\s{1})(?P<release>.*)',
-               '(?P<title>.*?)[\.|\s]{1}(?P<release>(?:limited|proper|unrated|dvd|br|blu|cd).*)',
-#               '(?P<title>.*)(?P<release>[\.|\s]{1}(?:proper.*|limited.*|unrated.*|dvd.*|br.*|blu.*))',
-               '(?P<title>.*)',
-               ]
-    
-    for r, d, f in os.walk(movie_dir):
+    tv_dir = '/media/ork_storage/tv'
+#    movie_dir = tv_dir
+    pn24 = Napisy24()
+    for r,d,f in os.walk(movie_dir):
         for n in f:
-            if os.path.splitext(n)[1] in ext_video:
-                name = os.path.split(n)[1]
-                name = os.path.splitext(name)[0]
-                file_name.append(name)
-    
-    re_list = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in re_list]
-    
-    for m_name in file_name:
-        for r in re_list:
-            x = r.match(m_name)
-            if x:
-                dict = x.groupdict()
-                d_title = dict.get('title')
-                d_year = dict.get('year')
-                d_release = dict.get('release')
-                
-                d_ele = [d_title, d_year, d_release]
-                for ele in d_ele:
-                    if ele:
-                        cd_match = re_ilosc_cd.search(ele)
-                        if cd_match:
-                            cd_dict = cd_match.groupdict()
-                            dict['cd'] = cd_dict.get('cd').strip()
-                
-                print 'Orygi\t: %s' % m_name
-                print 'Title\t: %s' % dict.get('title')
-                print 'Year\t: %s' % dict.get('year')
-                print 'Release\t: %s' % dict.get('release')
-                print 'CD\t: %s' % dict.get('cd')
+            f_path = os.path.join(r,n)
+            if os.path.splitext(f_path)[1] in ext_video:
+                pn24.file_path = f_path
+                pn24.get_subs()
+                print pn24.file_path
+                for k,v in pn24.media_name.iteritems():
+                    print k + '\t: ' + v
                 print '-'*80
-                break
-        
+                pn24.file_path = None
+                pn24.subs = None
+                
+
+
+#release = '720|1080|hdtv|blu|brrip|dvd|cd|limited|proper|repack|ws|pdtv|x264|h264|unrated'
+    #re_ilosc_cd = re.compile(r'(?:cd|dvd|part)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE) 
+    #
+    #od najbardziej szczegółowego 
+    #re_list = [
+#               '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}E(?P<episode>[0-9]{1,2})(?P<e_title>.*?)(?P<release>(?:%s).*)' % release,
+#               '(?P<title>.*)(?:.|\s){0,3}(?P<season>[0-9]{1,2})(?:.|\s){0,3}x(?:.|\s){0,3}(?P<episode>[0-9]{1,2})(?P<e_title>.*?)(?P<release>(?:%s).*)' % release,
+#
+#               '(?P<title>.*)[.|\.|\[|\(|\{|\s]{1,2}(?P<year>\d{4})[.|\.|\]|\)|\}|\s]{1}(?P<release>.*)',
+#               '(?P<title>.*?)(?:\.|\s){0,2}(?P<release>(?:%s).*)' % release, # (?P<title>.*?) na końcu ważne '?' ściąga jak naj mniej
+#               
+#               '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}E(?P<episode>[0-9]{1,2})',
+#               
+#               '(?P<title>.*)',
+#               ]
+    
+    #zamiana katologów na potrzeby seriali
+#    movie_dir = tv_dir
+    
+    
+#    for r, d, f in os.walk(movie_dir):
+#        for n in f:
+#            if os.path.splitext(n)[1] in ext_video:
+#                print r, d, n
+#                name = os.path.split(n)[1]
+#                name = os.path.splitext(name)[0]
+#                file_name.append(name)
+    
+#    re_list = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in re_list]
+    
+#    for n in file_name:
+#        print n
+    
+#    for m_name in file_name:
+#        for r in re_list:
+#            x = r.match(m_name)
+#            if x:
+#                dict = x.groupdict()
+#                d_title = dict.get('title')
+#                d_year = dict.get('year')
+#                d_release = dict.get('release')
+#                d_season = dict.get('season')
+#                d_episode = dict.get('episode')
+#                d_e_title = dict.get('e_title')
+#                
+#                d_ele = [d_title, d_year, d_release]
+#                for ele in d_ele:
+#                    if ele:
+#                        cd_match = re_ilosc_cd.search(ele)
+#                        if cd_match:
+#                            cd_dict = cd_match.groupdict()
+#                            dict['cd'] = cd_dict.get('cd').strip()
+#                
+#                print 'Orygi\t: %s' % m_name
+#                print 'Title\t: %s' % dict.get('title')
+#                print 'Year\t: %s' % dict.get('year')
+#                print 'Release\t: %s' % dict.get('release')
+#                print 'Season\t: %s' % dict.get('season')
+#                print 'Episode\t: %s' % dict.get('episode')
+#                print 'E title\t: %s' % dict.get('e_title')
+#                print 'CD\t: %s' % dict.get('cd')
+#                print '-'*80
+#                break
+#        
     
     
 #    from urllib import urlopen, quote
