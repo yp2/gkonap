@@ -22,6 +22,8 @@
 
 import re
 import os
+from urllib2 import urlopen, quote
+from urllib import urlencode
 
 from gkcore.subsdwn import SubsDownloadBase
 from gkcore.info import get_fps
@@ -73,6 +75,7 @@ class Napisy24(SubsDownloadBase):
         self.re_m_parts = re.compile(r'(?:cd|dvd|part)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE)
         self.re_m_name = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in self.str_re_m_name] # utworzone na podstawie m_name
         self.media_name = None # słownik z danymi o podanym pliku odczytanymi przez plugin (title, year, release itp)
+        self.subs_language = 'pl'
         
     def get_subs(self):
         
@@ -91,6 +94,9 @@ class Napisy24(SubsDownloadBase):
                 
                 # dodanie fps do słownika
                 m_dict['fps'] = str(get_fps(self.file_path))
+                
+                # dodanie rzomiaru do słownika
+                m_dict['size'] = str(os.stat(self.file_path).st_size)
                 
                 # poszukiwanie danych release, year, title jeżeli nie ma ich w nazwie
                 # pliku, będziemy szukać jej w nazwie katalogu o poziom niżej
@@ -122,10 +128,74 @@ class Napisy24(SubsDownloadBase):
                 break # znalezione dopasowanie wyskakujemy z pętli             
         
         if m_dict:
+            # ustawienie 
             self.media_name = m_dict
             self.clear_media_name()
+            print self.get_query()
             
+    def query_server(self):
+        q_http = 'http://napisy24.pl/libs/webapi.php?%s' # na końcu wstawiamy dokładne zapytanie
+                
+    def get_query(self):
+        """
+        Metoda zwaraca zapytania od jak najbardziej szczegółowych
+        """
+        def get_none(obj):
+            if obj == None or obj == 'None':
+                return ''
+            else:
+                return obj
             
+        season = self.media_name.get('season')
+        episode = self.media_name.get('episode')
+        url_query = [] # lista do przechowywania utworzonych częsci zapytań za pomocą urlencode
+        if not season or not episode:
+            # movie
+            
+            # listy uporządkowane są od najbardziej szczególowego zapytania
+            query =[
+                    ['title', 'release', 'size', 'cd'],
+                    ['title', 'release', 'cd'],
+                    ['title', 'release', 'size'],
+                    ['title', 'size', 'cd'],
+                    ['title', 'release'],
+                    ['title', 'size'],
+                    ['title', 'cd'],
+                    ['title'],
+                    ]
+            for q_list in query:
+                _q_dict = {} # słownik zostanie przekszłacony na zapytanie przez urlencode
+                _q_dict['language'] = self.subs_language # język dla napisów
+                for ele in q_list:
+                    _q_dict[ele] = get_none(self.media_name.get(ele)) # mapowaniw poszczególnych danych na nowy słownik
+                
+                url_query.append(urlencode(_q_dict)) # utowrzenie oraz dodanie str po urlencode
+            
+        else:
+            # tvshow
+            query =[
+                    ['title', 'release', 'size'],
+                    ['title', 'release'],
+                    ['title', 'size'],
+                    ['title'],
+                    ]
+                    
+            for q_list in query:
+                _q_dict = {} # słownik zostanie przekszłacony na zapytanie przez urlencode
+                _q_dict['language'] = self.subs_language # język dla napisów
+                for ele in q_list:
+                    if ele == 'title':
+                        # dla tytułu musimy utowrzyć nowy tytuł zawierajacy 
+                        # seson oraz odcinek w postaci seasonxepisode
+                        value_ele = self.media_name.get(ele)
+                        value_ele = '%s %sx%s' % (value_ele, season, episode)
+                        _q_dict[ele] = get_none(value_ele)
+                    else:
+                        _q_dict[ele] = get_none(self.media_name.get(ele)) # mapowaniw poszczególnych danych na nowy słownik
+                
+                url_query.append(urlencode(_q_dict)) # utowrzenie oraz dodanie str po urlencode
+        
+        return url_query
                         
     def clear_media_name(self):
         """
@@ -133,6 +203,7 @@ class Napisy24(SubsDownloadBase):
         """
         _re_clear = re.compile(r'\.', re.IGNORECASE|re.UNICODE)
         _re_clear_parts = re.compile(r'(?:cd|dvd|part)\d{1}', re.IGNORECASE|re.UNICODE)
+        _re_clear_rel = re.compile('_', re.IGNORECASE|re.UNICODE)
         
         
         if self.media_name.get('title'):
@@ -150,6 +221,7 @@ class Napisy24(SubsDownloadBase):
         
         if self.media_name.get('release'):
             release = self.media_name['release']
+            release = re.sub(_re_clear_rel, '\.', release) 
             release = re.sub(_re_clear_parts, '', release)
             release = release.strip('. ')
             self.media_name['release'] = release
@@ -173,7 +245,7 @@ if __name__ == '__main__':
     ext_video = ['.avi', '.3gp', '.asf', '.asx', '.divx', '.mkv', '.mov', '.mp4', '.mpeg', '.mpg', '.ogm', '.qt', '.rm', '.rmvb', '.wmv', '.xvid']
     movie_dir = '/media/ork_storage/filmy'
     tv_dir = '/media/ork_storage/tv'
-#    movie_dir = tv_dir
+    movie_dir = tv_dir
     pn24 = Napisy24()
     for r,d,f in os.walk(movie_dir):
         for n in f:
@@ -255,7 +327,7 @@ if __name__ == '__main__':
 #                break
 #        
     
-    
+#    
 #    from urllib import urlopen, quote
 #    from xml.dom.minidom import parse, parseString
 #    import re
@@ -263,20 +335,27 @@ if __name__ == '__main__':
 ##    p = Napisy24()
 ##    p.run()
 #    
-#    search1 = quote('true blood')
+#    search1 = quote('Star.wars')
 #    search2 = quote('true blood 01x01')
 #    search3 = quote('The Iron Lady')
 #    urlappi1 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search1)
 #    urlappi2 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search2)
 #    urlappi3 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search3)
 #    
-#    outappi1 = urlopen(urlappi1).read()
+#    outappi1 = urlopen(urlappi1).readlines()
 #    outappi2 = urlopen(urlappi2).read()
 #    outappi3 = urlopen(urlappi3).readlines()
-#    outappi1 = re.sub(r'<\?.*\?>', '', outappi1)
-#    outappi1 = re.sub(r'\n|\t', '', outappi1) #usuwanasz białe znaki 
-#    outappi1 = "<root>%s</root>" % outappi1
-##    print outappi1
+##    outappi1 = re.sub(r'<\?.*\?>', '', outappi1)
+##    outappi1 = re.sub(r'\n|\t', '', outappi1) #usuwanasz białe znaki 
+##    outappi1 = "<root>%s</root>" % outappi1
+#    if outappi1[0].startswith('\n'):
+#        outappi1 = outappi1[1:]
+#        outappi1.insert(1, '<root>')
+#        outappi1.append('</root>')
+#        outappi1 = ''.join(outappi1)
+#        outappi1 = outappi1.decode('CP1252').encode('UTF-8')
+#        outappi1 = re.sub(r'\n|\t', '', outappi1)
+#    print outappi1
 #    
 #    xinput =  parseString(outappi1)
 ##    print outappi2
@@ -284,6 +363,7 @@ if __name__ == '__main__':
 #    class SUBS(object):
 #        def __init__(self):
 #            pass
+#        
 #    def handleRoot(xinput):
 #        subs = []
 ##        n = xinput.getElementsByTagName('root')
@@ -320,7 +400,7 @@ if __name__ == '__main__':
 #            handleSub(sub)
 #    
 #    handleRoot(outappi1)
-    
+ 
 #    print parseString(outappi2)
 #    print out1
 #    print out2
