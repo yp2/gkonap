@@ -138,6 +138,9 @@ class Napiprojekt(SubsDownloadBase):
             subs_save = open(self.subs_path, 'w') # utworzenie pliku
             subs_save.write(self.subs_http)
             subs_save.close()
+            
+        # resetujemy kluczowe atrybuty pluginu
+        self.reset()
     
     def reset(self):
         super(Napiprojekt, self).reset()
