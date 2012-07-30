@@ -131,14 +131,24 @@ class Napisy24(SubsDownloadBase):
             # ustawienie 
             self.media_name = m_dict
             self.clear_media_name()
-            print self.get_query()
+            query = self.get_query() # utow
             
-    def query_server(self):
+            
+    def query_server(self, query):
+        """
+        
+        @ query - lista z str zawiarające już zakodowane koncówki zapytań
+        
+        """
+        
         q_http = 'http://napisy24.pl/libs/webapi.php?%s' # na końcu wstawiamy dokładne zapytanie
                 
     def get_query(self):
         """
-        Metoda zwaraca zapytania od jak najbardziej szczegółowych
+        Metoda zwaraca zapytania od jak najbardziej szczegółowych do
+        najmniej szczegółowych.
+        wynik ma postać listy łacuchów znaków przekszłaconych na 
+        postać zgodną z linkami http przez metodę urllib.urlencode 
         """
         def get_none(obj):
             if obj == None or obj == 'None':
@@ -199,7 +209,10 @@ class Napisy24(SubsDownloadBase):
                         
     def clear_media_name(self):
         """
-        Metoda czyści słowonika
+        Metoda do czyszczenia słownika zawierającego 
+        dane uzyskane przez plugin o podanym pliku 
+        video. 
+        Dane te potrzebnę są do utowrzenia zapytań
         """
         _re_clear = re.compile(r'\.', re.IGNORECASE|re.UNICODE)
         _re_clear_parts = re.compile(r'(?:cd|dvd|part)\d{1}', re.IGNORECASE|re.UNICODE)

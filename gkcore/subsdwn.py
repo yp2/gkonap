@@ -41,9 +41,9 @@ class SubsDownloadBase(object):
         self.name = None
         self.description = None
         self.plugin_subtype = None
-        self.multichoice = False
-        self.choice = None
-        self.subs = None
+        self.multichoice = False    # czy plugin daje wynik multi
+        self.choice = None # ustawiane po wyborze przez User/program którem napisy maja być ściągniete
+        self.subs = None   # obiekt z opisem dostępnych napisów uzyskanych przez plugin         
         
         #plugin specyfic
         self.file_path = None # path to video file
