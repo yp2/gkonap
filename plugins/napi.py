@@ -154,4 +154,3 @@ if __name__ == '__main__':
     napi.get_subs()
     print napi.subs_http
     print napi.subs[1]['title']
-    

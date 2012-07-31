@@ -128,10 +128,11 @@ class Napisy24(SubsDownloadBase):
                 break # znalezione dopasowanie wyskakujemy z pętli             
         
         if m_dict:
-            # ustawienie 
+            # ustawienie media_name na podstawie danych ze słownika m_dict
+            # uzyskanych z nazwy pliku przez plugin 
             self.media_name = m_dict
             self.clear_media_name()
-            query = self.get_query() # utow
+            query = self.get_query() # utoworzenie listy z zapytaniami
             
             
     def query_server(self, query):
@@ -142,6 +143,11 @@ class Napisy24(SubsDownloadBase):
         """
         
         q_http = 'http://napisy24.pl/libs/webapi.php?%s' # na końcu wstawiamy dokładne zapytanie
+        
+        # dla utorzonych zapytań od najbardziej szczegułowego 
+        # wysyłamy zapytanie do serwera
+        for q in query:
+            pass
                 
     def get_query(self):
         """
