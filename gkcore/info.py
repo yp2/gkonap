@@ -155,9 +155,9 @@ def get_fps(file_path):
     # od jak najbardziej dokładnych
        
     # lista referencji do funkcij
-    func_fps = [fps_mediainfo,
-                fps_kaa_metada,
+    func_fps = [fps_kaa_metada,
                 fps_mplayer,
+                fps_mediainfo,
                 fps_ffprobe,
                 fps_file]
 
