@@ -22,8 +22,9 @@
 
 import re
 import os
-from urllib2 import urlopen, quote
+from urllib2 import urlopen, quote, HTTPError, URLError
 from urllib import urlencode
+import time
 
 from gkcore.subsdwn import SubsDownloadBase
 from gkcore.info import get_fps
@@ -133,6 +134,7 @@ class Napisy24(SubsDownloadBase):
             self.media_name = m_dict
             self.clear_media_name()
             query = self.get_query() # utoworzenie listy z zapytaniami
+            self.query_server(query)
             
             
     def query_server(self, query):
@@ -141,14 +143,61 @@ class Napisy24(SubsDownloadBase):
         @ query - lista z str zawiarające już zakodowane koncówki zapytań
         
         """
+        self.subs = None # dla pewności reset zmiennej subs (do przetrzymywania wyików tej metody)
         
         q_http = 'http://napisy24.pl/libs/webapi.php?%s' # na końcu wstawiamy dokładne zapytanie
         
         # dla utorzonych zapytań od najbardziej szczegułowego 
         # wysyłamy zapytanie do serwera
         for q in query:
-            pass
+            # utworzenie url składającego się z bazy (wyżej) oraz uzyskanych zapytań w
+            # form zakodowane dla http z metody get_query
+            url = q_http % q
+            
+            try:
+                h_subs = urlopen(url) # otwarcie danego url
+                h_subs = h_subs.readlines() # wczytanie zawarości odpowiedzi
                 
+                # sprawdzamy czy mamy dobry wynik w odpowiedzi
+                # jeżeli odpowiedź nie zawira żadnych wyników to pierwsza linie
+                # brzmi "brak wynikow"
+                if h_subs[0] != 'brak wynikow':
+                    self.handle_XML_response(h_subs)
+                
+                
+                
+                else:
+                    print 'No'
+            
+                
+            except (HTTPError, URLError), e:
+                #błąd podaczas pobierania informacji o napisach 
+                print e.reason
+                self.subs = None # w przypadku błędu w pobieraniu ustawiamy None dla pobranych inforamcji o napisach
+            
+            time.sleep(0.5)
+            
+    def handle_XML_response(self, response):
+        """
+        Metoda przetwarza otrzymaną odpowiedż w poprawny XML, 
+        następnie przetwarza dla postaci niezbędnej dla typu 
+        przechowywanego w zmiennej self.subs, która ma służyć jako
+        podstawa decyzju użytkownika/programu co do decyzji jakie
+        napisy ściągnąć dla danego pliku wideo
+        @ response - lista zawierająca poszczególne linie odpowiedzi od
+        serwera
+        """
+        
+        if response[0].startswith('\n'):
+            response = response[1:] #usunięcie piwerwszej niepotrzebnej lini
+        
+        response.insert(1, '<root>') # w pozycji 1 dodanie elementu głównego dok. xml
+        response.append('/<root>') # tak mamy poprawny dok. XML
+        response = ''.join(response) # łączymy poszczególne linie
+        response = response.decode('CP1252').encode('UTF-8') # zakodowanie wyniku do UTF-8
+        response = re.sub(r'\n|\t', '', response)
+        
+        print response
     def get_query(self):
         """
         Metoda zwaraca zapytania od jak najbardziej szczegółowych do
