@@ -62,6 +62,7 @@ class Napisy24(SubsDownloadBase):
         self.subs = None
         
         self.release = '720|1080|hdtv|blu|brrip|dvd|cd|limited|proper|repack|part|(?:\.ws|\sws)|pdtv|x264|h264|unrated' # niezbędne do utorzenia wyrażenia regularnego
+        # m_name - media_name
         self.str_re_m_name = [
             '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}E(?P<episode>[0-9]{1,2})(?P<eptitle>.*?)(?P<release>(?:%s).*)' % self.release,
             '(?P<title>.*)(?:.|\s){0,3}season(?P<season>[0-9]{1,2})(?:.|\s){0,3}episode(?P<episode>[0-9]{1,2})(?P<eptitle>.*?)(?P<release>(?:%s).*)' % self.release,
@@ -74,7 +75,7 @@ class Napisy24(SubsDownloadBase):
             '(?P<title>.*)'
                        ]
         self.re_m_parts = re.compile(r'(?:cd|dvd|part)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE)
-        self.re_m_name = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in self.str_re_m_name] # utworzone na podstawie m_name
+        self.re_m_name = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in self.str_re_m_name] # utworzone na podstawie str_re_m_name
         self.media_name = None # słownik z danymi o podanym pliku odczytanymi przez plugin (title, year, release itp)
         self.subs_language = 'pl'
         
@@ -134,7 +135,12 @@ class Napisy24(SubsDownloadBase):
             self.media_name = m_dict
             self.clear_media_name()
             query = self.get_query() # utoworzenie listy z zapytaniami
+            
+            # zapytanie do serwera
             self.query_server(query)
+            
+        else:
+            print "Nie udało się uzyskać inforamcji o pliku"
             
             
     def query_server(self, query):
@@ -144,6 +150,10 @@ class Napisy24(SubsDownloadBase):
         
         """
         self.subs = None # dla pewności reset zmiennej subs (do przetrzymywania wyików tej metody)
+        
+        _subs = {} # tymczasowa zmienna do przetrzymywania danych uzyskanych
+        # podczas przetwarzania zapytań oraz odpowiedzi, jeżeli będą jakieś wyniki 
+        # to zostanie ona przypisana do atrybut self.subs
         
         q_http = 'http://napisy24.pl/libs/webapi.php?%s' # na końcu wstawiamy dokładne zapytanie
         
@@ -162,6 +172,8 @@ class Napisy24(SubsDownloadBase):
                 # jeżeli odpowiedź nie zawira żadnych wyników to pierwsza linie
                 # brzmi "brak wynikow"
                 if h_subs[0] != 'brak wynikow':
+                    
+                    #przekazanie odpowiedzi do obróbki i ustawienia 
                     self.handle_XML_response(h_subs)
                 
                 
@@ -176,6 +188,10 @@ class Napisy24(SubsDownloadBase):
                 self.subs = None # w przypadku błędu w pobieraniu ustawiamy None dla pobranych inforamcji o napisach
             
             time.sleep(0.5)
+        
+        # przypisanie do zmiennej _subs do atrybutu self.subs 
+        if len(_subs) != 0:
+            self.subs = _subs
             
     def handle_XML_response(self, response):
         """
