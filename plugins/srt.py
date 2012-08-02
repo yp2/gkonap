@@ -38,6 +38,7 @@ class PluginSRT(ConvertBase):
         self.re_subs_type = r'^\d{1}$'
         self.re_decompose_subs = re.compile(r'(\d{2}:\d{2}:\d{2},\d{3}) --> (\d{2}:\d{2}:\d{2},\d{3})\n')
         self.compose_line = '%i\n%s --> %s\n%s\n\n'
+        self.subs_file_ext = '.srt'
         
     def decompose(self, subtitle_file_path, movie_fps):
         super(PluginSRT, self).decompose(subtitle_file_path, movie_fps)
