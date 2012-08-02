@@ -25,6 +25,7 @@ import os
 from urllib2 import urlopen, quote, HTTPError, URLError
 from urllib import urlencode
 import time
+from xml.etree import cElementTree
 
 from gkcore.subsdwn import SubsDownloadBase
 from gkcore.info import get_fps
@@ -157,6 +158,8 @@ class Napisy24(SubsDownloadBase):
         
         q_http = 'http://napisy24.pl/libs/webapi.php?%s' # na końcu wstawiamy dokładne zapytanie
         
+        t = 1 # ilość powtórzeń. 
+        
         # dla utorzonych zapytań od najbardziej szczegułowego 
         # wysyłamy zapytanie do serwera
         for q in query:
@@ -174,13 +177,9 @@ class Napisy24(SubsDownloadBase):
                 if h_subs[0] != 'brak wynikow':
                     
                     #przekazanie odpowiedzi do obróbki i ustawienia 
-                    self.handle_XML_response(h_subs)
-                
-                
-                
-                else:
-                    print 'No'
-            
+                    s = self.handle_XML_response(h_subs)
+                    _subs[t] = s
+                    t += 1
                 
             except (HTTPError, URLError), e:
                 #błąd podaczas pobierania informacji o napisach 
@@ -192,6 +191,8 @@ class Napisy24(SubsDownloadBase):
         # przypisanie do zmiennej _subs do atrybutu self.subs 
         if len(_subs) != 0:
             self.subs = _subs
+        else:
+            print 'Brak napisów w napisy24.pl dla tego filmu'
             
     def handle_XML_response(self, response):
         """
@@ -208,12 +209,20 @@ class Napisy24(SubsDownloadBase):
             response = response[1:] #usunięcie piwerwszej niepotrzebnej lini
         
         response.insert(1, '<root>') # w pozycji 1 dodanie elementu głównego dok. xml
-        response.append('/<root>') # tak mamy poprawny dok. XML
+        response.append('</root>') # tak mamy poprawny dok. XML
         response = ''.join(response) # łączymy poszczególne linie
         response = response.decode('CP1252').encode('UTF-8') # zakodowanie wyniku do UTF-8
         response = re.sub(r'\n|\t', '', response)
-        
         print response
+        
+        for element in cElementTree.fromstring(response):
+            for subelement in element.getiterator('subtitle'):
+                subele_dict = {}
+                for children in subelement.getchildren():
+                    subele_dict[children.tag] = children.text
+        
+        return subele_dict
+            
     def get_query(self):
         """
         Metoda zwaraca zapytania od jak najbardziej szczegółowych do
@@ -338,11 +347,15 @@ if __name__ == '__main__':
                 pn24.file_path = f_path
                 pn24.get_subs()
                 print pn24.file_path
-                for k,v in pn24.media_name.iteritems():
-                    print k + '\t: ' + v
-                print '-'*80
-                pn24.file_path = None
-                pn24.subs = None
+                if pn24.subs:
+                    for k,v in pn24.subs.iteritems():
+                        print k
+                        for xk, xv in v.iteritems():
+                            print '%s\t\t:%s' % (xk, xv)
+                    print '-'*80
+                else:
+                    print "brak napisów"
+                pn24.reset()
                 
 
 
@@ -441,7 +454,7 @@ if __name__ == '__main__':
 #        outappi1 = re.sub(r'\n|\t', '', outappi1)
 #    print outappi1
 #    
-#    xinput =  parseString(outappi1)
+##    xinput =  parseString(outappi1)
 ##    print outappi2
 #    
 #    class SUBS(object):
