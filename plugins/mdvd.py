@@ -40,6 +40,7 @@ class PluginMDVD(ConvertBase):
         self.re_subs_type = r'^\{\d*\}'
         self.re_decompose_subs = re.compile(r'\{(\d*)\}\{(\d*)\}')
         self.compose_line = '%s%s%s\n'
+        self.subs_file_ext = '.txt'
 
     def decompose(self, subtitle_file_path, movie_fps):
         super(PluginMDVD, self).decompose(subtitle_file_path, movie_fps)
