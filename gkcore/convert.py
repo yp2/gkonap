@@ -21,6 +21,7 @@
 #       MA 02110-1301, USA
 
 import re
+import os
 
 class ConvertBase(object):
     """
@@ -49,6 +50,9 @@ class ConvertBase(object):
         #holds schema for line construction
         self.compose_line = None
         
+        # holds corect subtitle file extension
+        self.subs_file_ext = None
+        
     def clear(self):
         """
         Metoda do zerowanie pluginu
@@ -75,16 +79,33 @@ class ConvertBase(object):
         """
         _re_subs_type = re.compile(self.re_subs_type)
         
-        subtitle_file = open(subtitle_file_path, 'rU')
+        # dodanie możliwości sprawdzania nie tylko pliku ale także 
+        # file-like objects 
+        if type(subtitle_file_path) == str and os.path.isfile(subtitle_file_path):
+            subtitle_file = open(subtitle_file_path, 'rU')
+        else:
+            subtitle_file = subtitle_file_path
         
         sub_first_line = subtitle_file.readline()
         
-        subtitle_file.close()
-        
+        if type(subtitle_file_path) == str and os.path.isfile(subtitle_file_path):
+            subtitle_file.close()
+            
         if _re_subs_type.search(sub_first_line):
             return self.plugin_subtype
         else:
             return None
+    
+    def checkExt(self, subtitle_file_path):
+        """
+        Methode to check ext of files, if ext are diferent than daclared in 
+        self.subs_file_ext
+        """
+        if os.path.isfile(subtitle_file_path):
+            if os.path.splitext(subtitle_file_path)[1] != self.subs_file_ext:
+                old = subtitle_file_path
+                nwe = os.path.splitext(subtitle_file_path)[0] + self.subs_file_ext
+                os.rename(old, new)
         
     def decompose(self, subtitle_file_path, movie_fps):
         """
