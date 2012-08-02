@@ -74,5 +74,6 @@ class SubsDownloadBase(object):
         raise NotImplementedError
     
     def reset(self):
-        self.file_path, self.choice, \
+        self.file_path = None 
+        self.choice = None
         self.subs = None
