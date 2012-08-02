@@ -138,7 +138,14 @@ class Napisy24(SubsDownloadBase):
             query = self.get_query() # utoworzenie listy z zapytaniami
             
             # zapytanie do serwera
-            self.query_server(query)
+            _subs = self.query_server(query) # wynik query_server w zmiennej _subs w celu
+            # sprawdzenia czy zawiera jakieś dane jeżeli tak to nastąpi przypisanie do self.subs
+            
+            # przypisanie do zmiennej _subs do atrybutu self.subs 
+            if len(_subs) != 0:
+                self.subs = _subs
+            else:
+                print 'Brak napisów w napisy24.pl dla tego filmu'
             
         else:
             print "Nie udało się uzyskać inforamcji o pliku"
@@ -188,11 +195,7 @@ class Napisy24(SubsDownloadBase):
             
             time.sleep(0.5)
         
-        # przypisanie do zmiennej _subs do atrybutu self.subs 
-        if len(_subs) != 0:
-            self.subs = _subs
-        else:
-            print 'Brak napisów w napisy24.pl dla tego filmu'
+        return _subs # przypisanie do zmiennej self.subs nastąpi w met. self.get_subs
             
     def handle_XML_response(self, response):
         """
@@ -213,7 +216,6 @@ class Napisy24(SubsDownloadBase):
         response = ''.join(response) # łączymy poszczególne linie
         response = response.decode('CP1252').encode('UTF-8') # zakodowanie wyniku do UTF-8
         response = re.sub(r'\n|\t', '', response)
-        print response
         
         for element in cElementTree.fromstring(response):
             for subelement in element.getiterator('subtitle'):
