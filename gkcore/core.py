@@ -78,6 +78,21 @@ def pluginInstance(plugin_list):
         plugin_instance.append(pli)
         
     return plugin_instance
+
+def save_zip_file_http(http_file_obj, save_path):
+    """
+    Funkcja do zapisywania otrzymanego objektu po wykonaniu zapytania.
+    Ściąga i zapisuje plik zip do podanej ścieżki
+    @ http_file_obj - obiekt file-like otrzymany po wykonaniu zapytania
+    @ save_path - ścieżka do zapisu pliku
+    """
+    temp_zip_file = open(save_path, 'wb')
+    while 1:
+        packet = http_file_obj.read()
+        if not packet:
+            break
+        temp_zip_file.write(packet)
+    temp_zip_file.close()
         
                     
                     
