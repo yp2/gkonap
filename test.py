@@ -478,3 +478,8 @@ class GetFpsFromFile(unittest.TestCase):
         
         self.assertEqual(fps_list, fps_out, "Fps nie są identyczne - file")
         
+#TODO: Dodać testy:
+# - rozpoznawania file like object przez convert plugins
+# - zamiany rzoszeżenia przy błędnym rozszeżeniu w zależności od typu napisów
+# - testy pluginów do pobierania napisów
+        

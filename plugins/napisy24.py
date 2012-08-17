@@ -359,6 +359,7 @@ if __name__ == '__main__':
                     print "brak napisów"
                 pn24.reset()
                 
+                
 
 
 #release = '720|1080|hdtv|blu|brrip|dvd|cd|limited|proper|repack|ws|pdtv|x264|h264|unrated'

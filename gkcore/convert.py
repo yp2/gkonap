@@ -104,7 +104,7 @@ class ConvertBase(object):
         if os.path.isfile(subtitle_file_path):
             if os.path.splitext(subtitle_file_path)[1] != self.subs_file_ext:
                 old = subtitle_file_path
-                nwe = os.path.splitext(subtitle_file_path)[0] + self.subs_file_ext
+                new = os.path.splitext(subtitle_file_path)[0] + self.subs_file_ext
                 os.rename(old, new)
         
     def decompose(self, subtitle_file_path, movie_fps):
