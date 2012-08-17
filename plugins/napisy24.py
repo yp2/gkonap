@@ -26,6 +26,7 @@ from urllib2 import urlopen, quote, HTTPError, URLError
 from urllib import urlencode
 import time
 from xml.etree import cElementTree
+import zipfile
 
 from gkcore.subsdwn import SubsDownloadBase
 from gkcore.info import get_fps
@@ -59,7 +60,7 @@ class Napisy24(SubsDownloadBase):
         self.description = 'Plugin for downloading susbs from napisy24.pl'
         self.plugin_subtype = 'napisy24'
         self.multichoice = True
-        self.choice = None
+        self.choice = None # !!! ważne przekazywać tylko int
         self.subs = None
         
         self.release = '720|1080|hdtv|blu|brrip|dvd|cd|limited|proper|repack|part|(?:\.ws|\sws)|pdtv|x264|h264|unrated' # niezbędne do utorzenia wyrażenia regularnego
@@ -79,6 +80,14 @@ class Napisy24(SubsDownloadBase):
         self.re_m_name = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in self.str_re_m_name] # utworzone na podstawie str_re_m_name
         self.media_name = None # słownik z danymi o podanym pliku odczytanymi przez plugin (title, year, release itp)
         self.subs_language = 'pl'
+        self.subs_dwn_link = 'http://napisy.me/download/' # należy dodać jeszcze typ oraz id napisów
+        self.subs_dwn_type = None # typ napisów do ściągnięcia !!! ważne przekazywać int
+        self.subs_type = {1 : 'mdvd',
+                          2 : 'tmp',
+                          3 : 'mpl2',
+                          4 : 'sr'} # 1 - microDVD, 2 - TMplayer, 3 - MPL2, 4 - SubRip 
+                                    
+        
         
     def get_subs(self):
         
@@ -329,6 +338,83 @@ class Napisy24(SubsDownloadBase):
                 ele = ele.strip('. ')
                 self.media_name[k] = ele
     
+    def download_subs(self):
+        """
+        Metoda do ściągania wybranego napisu. Wybór na podstawie 
+        atrybutu self.choice oraz typu napisów self.subs_dwn_type
+        """
+        # plugin ściąga podane napisy na podstawie
+        # self.choice oraz  obecności danych w self.subs
+        if self.choice and self.subs and self.subs_dwn_type:
+            # utworzenie linka http
+            # link http http://napisy.me/download/mdvd/61111/
+            
+            _subs = self.subs[self.choice]                  # wybór danych napisów
+            _subs_id = _subs['id']                               # id danych napisów
+            _subs_type = self.subs_type[self.subs_dwn_type] # jakie maja być ściągnięte
+            
+            _http_dwn = self.subs_dwn_link + "%s/%s/" % (_subs_type, _subs_id)
+            _tmp_zip = '/tmp/n24.zip'
+            
+            if os.path.exists(_tmp_zip):
+                # jeżeli istneje już taki plik najpierw go kasujemy
+                os.remove(_tmp_zip)
+                
+            try:
+                _dwn_subs = urlopen(_http_dwn)
+                self.save_zip_file_http(_dwn_subs, _tmp_zip)
+                print 'Napisy pomyślnie ściągnięte'
+            except (HTTPError, URLError), e:
+                print e.reason
+                
+            if os.path.exists(_tmp_zip):
+                _subs_from_zip = []
+                # istnieje zachowane archiwum
+                # należy je otworzyć
+                if zipfile.is_zipfile(_tmp_zip):
+                    #sprawdzenie czy plik to archiwum zip
+                    _zfile = zipfile.ZipFile(_tmp_zip, mode='r')
+
+                    for _ele_zfile in _zfile.infolist():
+                        if not re.search(r'napisy24.pl', _ele_zfile.filename, re.I):
+                            #plik nie zawiera w nazwie czyli wlaściwy plik z napisami
+                            _subs_from_zip.append(_ele_zfile)
+                    
+                    if _subs_from_zip:
+                        # sprawdzamy czy _subs_from_zip na jakieś elementy
+                        
+                        if len(_subs_from_zip) == 1:
+                            # jeden plik z napisami rozpakuj
+                            !!!!
+                        
+                    else:
+                        print "Brak napisów w archiwum"
+                
+                else:
+                    print "Niepoprawne archiwum zip z napisami"
+            else:
+                print "Brak archiwum z napisami"
+                
+            
+            
+        else:
+            print "Brak danych potrzebnych do ściągniacia napisów"
+    
+    def save_zip_file_http(self, http_file_obj, save_path):
+        """
+        Funkcja do zapisywania otrzymanego objektu po wykonaniu zapytania.
+        Ściąga i zapisuje plik zip do podanej ścieżki
+        @ http_file_obj - obiekt file-like otrzymany po wykonaniu zapytania
+        @ save_path - ścieżka do zapisu pliku
+        """
+        temp_zip_file = open(save_path, 'wb')
+        while 1:
+            packet = http_file_obj.read()
+            if not packet:
+                break
+            temp_zip_file.write(packet)
+        temp_zip_file.close()
+    
     def reset(self):
         super(Napisy24, self).reset()
         self.media_name= None
@@ -340,24 +426,44 @@ if __name__ == '__main__':
     ext_video = ['.avi', '.3gp', '.asf', '.asx', '.divx', '.mkv', '.mov', '.mp4', '.mpeg', '.mpg', '.ogm', '.qt', '.rm', '.rmvb', '.wmv', '.xvid']
     movie_dir = '/media/ork_storage/filmy'
     tv_dir = '/media/ork_storage/tv'
+    file_path = '/media/ork_storage/tv/Sherlock.2x01.A.Scandal.In.Belgravia.720p.HDTV.x264-FoV.mkv'
     movie_dir = tv_dir
     pn24 = Napisy24()
-    for r,d,f in os.walk(movie_dir):
-        for n in f:
-            f_path = os.path.join(r,n)
-            if os.path.splitext(f_path)[1] in ext_video:
-                pn24.file_path = f_path
-                pn24.get_subs()
-                print pn24.file_path
-                if pn24.subs:
-                    for k,v in pn24.subs.iteritems():
-                        print k
-                        for xk, xv in v.iteritems():
-                            print '%s\t\t:%s' % (xk, xv)
-                    print '-'*80
-                else:
-                    print "brak napisów"
-                pn24.reset()
+    pn24.file_path = file_path
+    pn24.get_subs()
+    pn24.choice = 1
+    pn24.subs_dwn_type = 1
+    pn24.download_subs()
+#    for r,d,f in os.walk(movie_dir):
+#        for n in f:
+#            f_path = os.path.join(r,n)
+#            if os.path.splitext(f_path)[1] in ext_video:
+#                pn24.file_path = f_path
+#                pn24.get_subs()
+#                print pn24.file_path
+#                if pn24.subs:
+#                    pn24.choice = 1
+#                    pn24.subs_dwn_type = 1
+#                    pn24.download_subs()
+#                else:
+#                    print "brak napisów"
+#                pn24.reset()
+#    for r,d,f in os.walk(movie_dir):
+#        for n in f:
+#            f_path = os.path.join(r,n)
+#            if os.path.splitext(f_path)[1] in ext_video:
+#                pn24.file_path = f_path
+#                pn24.get_subs()
+#                print pn24.file_path
+#                if pn24.subs:
+#                    for k,v in pn24.subs.iteritems():
+#                        print k
+#                        for xk, xv in v.iteritems():
+#                            print '%s\t\t:%s' % (xk, xv)
+#                    print '-'*80
+#                else:
+#                    print "brak napisów"
+#                pn24.reset()
                 
                 
 
