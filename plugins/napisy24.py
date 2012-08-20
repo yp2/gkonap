@@ -86,6 +86,8 @@ class Napisy24(SubsDownloadBase):
                           2 : 'tmp',
                           3 : 'mpl2',
                           4 : 'sr'} # 1 - microDVD, 2 - TMplayer, 3 - MPL2, 4 - SubRip 
+    
+        self.ext_video = ['.avi', '.3gp', '.asf', '.asx', '.divx', '.mkv', '.mov', '.mp4', '.mpeg', '.mpg', '.ogm', '.qt', '.rm', '.rmvb', '.wmv', '.xvid']
                                     
         
         
@@ -383,20 +385,69 @@ class Napisy24(SubsDownloadBase):
                     if _subs_from_zip:
                         # sprawdzamy czy _subs_from_zip na jakieś elementy
                         
-                        if len(_subs_from_zip) == 1:
-                            # jeden plik z napisami rozpakuj
-                            !!!!
+                        _subs_in_zip_file = len(_subs_from_zip)
                         
+                        if _subs_in_zip_file == 1:
+                            # jeden plik z napisami rozpakuj
+                            # otwieramy dany plik na podstawie obiektu ZipInfo jedyny element w _subs_from_zip
+                            _subs_zip_file = _zfile.open(_subs_from_zip[0], 'rU').readlines()
+                            
+                            # utworzenie ścieżki oraz nazyw pliku
+                            _subs_path = os.path.splitext(self.file_path)[0]
+                            _subs_ext_from_zip = os.path.splitext(_subs_from_zip[0].filename)[1]
+                            _subs_path = _subs_path + _subs_ext_from_zip
+                            
+                            # otwieramy plik do zapisu dla pliku z napisami o utowrzonej scieżce
+                            _subs_file = open(_subs_path, 'w').writelines(_subs_zip_file)
+                            
+                            print "Napisy pomyślnie rozpakowane"
+                            
+                            #zamykamy archiwum
+                            _zfile.close()
+                        
+                        elif _subs_in_zip_file > 1:
+                            # posiadamy kilka plików z napisami media wielopłytowe
+                            # w arch zip plik z napisami sa już posortowane
+                            
+                            # ścieżka do katalogu, nazwa pliku   
+                            _dir, _file = os.path.split(self.file_path)
+                            # listujemy katalog z plikami 
+                            _dir_ls = os.listdir(_dir)
+                            # usuwamy z listy wszystkie pliki nie bedące pikami video       
+                            _dir_ls = [ele for ele in _dir_ls if os.path.splitext(ele)[1] in self.ext_video]
+                            # sortujemy listę z nazwami plików wideo
+                            _dir_ls = sorted(_dir_ls)
+                            
+                            while _subs_from_zip:
+                                # otwieramy dany plik na podstawie obiektu ZipInfo jedyny element w _subs_from_zip
+                                _subs_zip_file = _zfile.open(_subs_from_zip[0], 'rU').readlines()
+                                
+                                try:
+                                    # utworzenie ścieżki oraz nazyw pliku
+                                    _subs_path = os.path.join(_dir, os.path.splitext(_dir_ls[0])[0]) # pierwszy element z listowania katalogu
+                                    _subs_ext_from_zip = os.path.splitext(_subs_from_zip[0].filename)[1]
+                                    _subs_path = _subs_path + _subs_ext_from_zip
+                                
+                                    # otwieramy plik do zapisu dla pliku z napisami o utowrzonej scieżce
+                                    _subs_file = open(_subs_path, 'w').writelines(_subs_zip_file)
+                                except IndexError:
+                                    # nie ma już więcej plików wideo
+                                    # resztę zapisujemy pod org nazwami z pliku zip
+                                    _subs_path = _dir + _subs_ext_from_zip[0].filename
+                                    _subs_file = open(_subs_path, 'w').writelines(_subs_zip_file)
+                                
+                                _subs_from_zip = _subs_from_zip[1:]
+                                _dir_ls = _dir_ls[1:]
+                            
+                            print "Napisy pomyślnie rozpakowane"
+                        else:
+                            print "Brak napisów w archiwum"
                     else:
                         print "Brak napisów w archiwum"
-                
                 else:
                     print "Niepoprawne archiwum zip z napisami"
             else:
                 print "Brak archiwum z napisami"
-                
-            
-            
         else:
             print "Brak danych potrzebnych do ściągniacia napisów"
     
@@ -427,201 +478,11 @@ if __name__ == '__main__':
     movie_dir = '/media/ork_storage/filmy'
     tv_dir = '/media/ork_storage/tv'
     file_path = '/media/ork_storage/tv/Sherlock.2x01.A.Scandal.In.Belgravia.720p.HDTV.x264-FoV.mkv'
+    file_path_1 = '/media/ork_storage/filmy/The Imaginarium of Doctor Parnassus/The.Imaginarium.of.Doctor.Parnassus.DVDRip.XviD-ALLiANCE-CD2.(osloskop.net).avi'
     movie_dir = tv_dir
     pn24 = Napisy24()
     pn24.file_path = file_path
     pn24.get_subs()
     pn24.choice = 1
     pn24.subs_dwn_type = 1
-    pn24.download_subs()
-#    for r,d,f in os.walk(movie_dir):
-#        for n in f:
-#            f_path = os.path.join(r,n)
-#            if os.path.splitext(f_path)[1] in ext_video:
-#                pn24.file_path = f_path
-#                pn24.get_subs()
-#                print pn24.file_path
-#                if pn24.subs:
-#                    pn24.choice = 1
-#                    pn24.subs_dwn_type = 1
-#                    pn24.download_subs()
-#                else:
-#                    print "brak napisów"
-#                pn24.reset()
-#    for r,d,f in os.walk(movie_dir):
-#        for n in f:
-#            f_path = os.path.join(r,n)
-#            if os.path.splitext(f_path)[1] in ext_video:
-#                pn24.file_path = f_path
-#                pn24.get_subs()
-#                print pn24.file_path
-#                if pn24.subs:
-#                    for k,v in pn24.subs.iteritems():
-#                        print k
-#                        for xk, xv in v.iteritems():
-#                            print '%s\t\t:%s' % (xk, xv)
-#                    print '-'*80
-#                else:
-#                    print "brak napisów"
-#                pn24.reset()
-                
-                
-
-
-#release = '720|1080|hdtv|blu|brrip|dvd|cd|limited|proper|repack|ws|pdtv|x264|h264|unrated'
-    #re_ilosc_cd = re.compile(r'(?:cd|dvd|part)(?P<cd>(?:\d{1}|\s+?\d{1}))', re.IGNORECASE|re.UNICODE) 
-    #
-    #od najbardziej szczegółowego 
-    #re_list = [
-#               '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}E(?P<episode>[0-9]{1,2})(?P<e_title>.*?)(?P<release>(?:%s).*)' % release,
-#               '(?P<title>.*)(?:.|\s){0,3}(?P<season>[0-9]{1,2})(?:.|\s){0,3}x(?:.|\s){0,3}(?P<episode>[0-9]{1,2})(?P<e_title>.*?)(?P<release>(?:%s).*)' % release,
-#
-#               '(?P<title>.*)[.|\.|\[|\(|\{|\s]{1,2}(?P<year>\d{4})[.|\.|\]|\)|\}|\s]{1}(?P<release>.*)',
-#               '(?P<title>.*?)(?:\.|\s){0,2}(?P<release>(?:%s).*)' % release, # (?P<title>.*?) na końcu ważne '?' ściąga jak naj mniej
-#               
-#               '(?P<title>.*)(?:.|\s){0,3}S(?P<season>[0-9]{1,2})(?:.|\s){0,3}E(?P<episode>[0-9]{1,2})',
-#               
-#               '(?P<title>.*)',
-#               ]
-    
-    #zamiana katologów na potrzeby seriali
-#    movie_dir = tv_dir
-    
-    
-#    for r, d, f in os.walk(movie_dir):
-#        for n in f:
-#            if os.path.splitext(n)[1] in ext_video:
-#                print r, d, n
-#                name = os.path.split(n)[1]
-#                name = os.path.splitext(name)[0]
-#                file_name.append(name)
-    
-#    re_list = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in re_list]
-    
-#    for n in file_name:
-#        print n
-    
-#    for m_name in file_name:
-#        for r in re_list:
-#            x = r.match(m_name)
-#            if x:
-#                dict = x.groupdict()
-#                d_title = dict.get('title')
-#                d_year = dict.get('year')
-#                d_release = dict.get('release')
-#                d_season = dict.get('season')
-#                d_episode = dict.get('episode')
-#                d_e_title = dict.get('e_title')
-#                
-#                d_ele = [d_title, d_year, d_release]
-#                for ele in d_ele:
-#                    if ele:
-#                        cd_match = re_ilosc_cd.search(ele)
-#                        if cd_match:
-#                            cd_dict = cd_match.groupdict()
-#                            dict['cd'] = cd_dict.get('cd').strip()
-#                
-#                print 'Orygi\t: %s' % m_name
-#                print 'Title\t: %s' % dict.get('title')
-#                print 'Year\t: %s' % dict.get('year')
-#                print 'Release\t: %s' % dict.get('release')
-#                print 'Season\t: %s' % dict.get('season')
-#                print 'Episode\t: %s' % dict.get('episode')
-#                print 'E title\t: %s' % dict.get('e_title')
-#                print 'CD\t: %s' % dict.get('cd')
-#                print '-'*80
-#                break
-#        
-    
-#    
-#    from urllib import urlopen, quote
-#    from xml.dom.minidom import parse, parseString
-#    import re
-#    from xml.etree import cElementTree
-##    p = Napisy24()
-##    p.run()
-#    
-#    search1 = quote('Star.wars')
-#    search2 = quote('true blood 01x01')
-#    search3 = quote('The Iron Lady')
-#    urlappi1 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search1)
-#    urlappi2 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search2)
-#    urlappi3 = 'http://napisy24.pl/libs/webapi.php?title=%s' % (search3)
-#    
-#    outappi1 = urlopen(urlappi1).readlines()
-#    outappi2 = urlopen(urlappi2).read()
-#    outappi3 = urlopen(urlappi3).readlines()
-##    outappi1 = re.sub(r'<\?.*\?>', '', outappi1)
-##    outappi1 = re.sub(r'\n|\t', '', outappi1) #usuwanasz białe znaki 
-##    outappi1 = "<root>%s</root>" % outappi1
-#    if outappi1[0].startswith('\n'):
-#        outappi1 = outappi1[1:]
-#        outappi1.insert(1, '<root>')
-#        outappi1.append('</root>')
-#        outappi1 = ''.join(outappi1)
-#        outappi1 = outappi1.decode('CP1252').encode('UTF-8')
-#        outappi1 = re.sub(r'\n|\t', '', outappi1)
-#    print outappi1
-#    
-##    xinput =  parseString(outappi1)
-##    print outappi2
-#    
-#    class SUBS(object):
-#        def __init__(self):
-#            pass
-#        
-#    def handleRoot(xinput):
-#        subs = []
-##        n = xinput.getElementsByTagName('root')
-#        for e in cElementTree.fromstring(xinput):
-#            for i in e.getiterator('subtitle'):
-#                f = {}
-#                for s in i.getchildren():
-#                    f[s.tag] = s.text
-#                
-#                subs.append(f)
-#        for sub in subs:
-#            print sub['id'] +"\t" + sub['title'] +"\t" + sub['release']
-#        
-#        print subs
-#        
-#                
-#        
-#    def getText(nodelist):
-#        rc = ""
-#        for node in nodelist:
-#            
-#            if node.nodeType == node.TEXT_NODE:
-#                rc = rc + node.data
-#        return rc
-#    
-#    def handleSubTitle(title):
-#        print 'tytuł - %s' % getText(title.childNodes)
-#    
-#    def handleSub(sub):
-#        handleSubTitle(sub.getElementsByTagName('title')[0])    
-#    
-#    def handleSubs(subs):
-#        for sub in subs:
-#            handleSub(sub)
-#    
-#    handleRoot(outappi1)
- 
-#    print parseString(outappi2)
-#    print out1
-#    print out2
-#    class ParserN24(HTMLParser.HTMLParser):
-#        def handle_starttag(self, tag, attrs):
-#            if tag == 'a':
-#                print "start tag        :", tag
-#                for a in attrs:
-#                    print '        atr    :', a
-##            print "start tag        :", tag
-##            for a in attrs:
-##                print '        atr    :', a
-#        def handle_data(self, data):
-#            print 'data             :', data
-##            
-#    par = ParserN24()
-#    par.feed(out1)
-    
+    pn24.download_subs()    
