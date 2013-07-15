@@ -3,6 +3,6 @@
 /.settings
 .project
 .pydevproject
-*.pyc
+*.pyc*
 stat_*
 /test_files/ct_*

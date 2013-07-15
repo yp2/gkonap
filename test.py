@@ -390,7 +390,7 @@ class ComposeTest(ConvertPluginRecognizeTest):
 
 class GetFpsFromFile(unittest.TestCase):
     def setUp(self):
-        self.path_avi = '/media/ork_storage/tv/MacGyver.Complete.S01.DVDRip.XviD_MEDiEVAL/MacGyver.S01E01.Pilot.DVDRip.XviD-MEDiEVAL.avi'
+        self.path_avi = '/media/ork_storage/filmy/Fury/Fury (Fritz Lang 1936) Dvdrip Xvid Ac3-c00Ldude.avi'
         self.path_mkv = '/media/ork_storage/tv/Sherlock.2x01.A.Scandal.In.Belgravia.720p.HDTV.x264-FoV.mkv'
         self.path_mp4 = '/media/ork_storage/filmy/Black.Swan/Black.Swan.mp4'
         self.path_blind = '/media/ork_storage/completed/True.Blood.S05E02.720p.HDTV.x264-IMMERSE.srt'

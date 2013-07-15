@@ -80,7 +80,7 @@ class Napisy24(SubsDownloadBase):
         self.re_m_name = [re.compile(r, re.IGNORECASE|re.UNICODE) for r in self.str_re_m_name] # utworzone na podstawie str_re_m_name
         self.media_name = None # słownik z danymi o podanym pliku odczytanymi przez plugin (title, year, release itp)
         self.subs_language = 'pl'
-        self.subs_dwn_link = 'http://napisy.me/download/' # należy dodać jeszcze typ oraz id napisów
+        self.subs_dwn_link = 'http://napisy24.pl/download/' # należy dodać jeszcze typ oraz id napisów
         self.subs_dwn_type = None # typ napisów do ściągnięcia !!! ważne przekazywać int
         self.subs_type = {1 : 'mdvd',
                           2 : 'tmp',

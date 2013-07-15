@@ -11,3 +11,5 @@
 
 *** Przerobienie pluginu napiprojket tak aby miał wspolne API z reszta pluginów, oraz
     dawał takie same wyniki do przetworzenia/decyzji uzytkownika 
+
+*** Zamiana cDecimal na inne biblotek matematyczne np gmpy
