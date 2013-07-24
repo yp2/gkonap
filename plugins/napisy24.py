@@ -22,7 +22,11 @@
 
 import re
 import os
-from urllib2 import urlopen, quote, HTTPError, URLError
+from urllib2 import HTTPError, URLError
+import urllib2
+import urllib
+import cookielib
+import cPickle
 from urllib import urlencode
 import time
 from xml.etree import cElementTree
@@ -32,8 +36,8 @@ from gkcore.subsdwn import SubsDownloadBase
 from gkcore.info import get_fps
 
 # w wynikach otrzymanych z re powinnismy poszukac numeru cd/dvd - cd1, cd2 ...
-# re będzię sparawdzane pokolejn dla każdego 
-# od najbardziej ogólnego 
+# re będzię sparawdzane po kolei dla każdego 
+# od najbardziej szczegółowego
 #
 
 # (?P<title>.*) - łapie całość 
@@ -88,9 +92,11 @@ class Napisy24(SubsDownloadBase):
                           4 : 'sr'} # 1 - microDVD, 2 - TMplayer, 3 - MPL2, 4 - SubRip 
     
         self.ext_video = ['.avi', '.3gp', '.asf', '.asx', '.divx', '.mkv', '.mov', '.mp4', '.mpeg', '.mpg', '.ogm', '.qt', '.rm', '.rmvb', '.wmv', '.xvid']
-                                    
+        self.headres_login = [
+                              ('User-Agent', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:20.0) Gecko/20100101 Firefox/20.0'),
+                              ]                           
         
-        
+        self.url_login_page = 'http://napisy24.pl/logowanie/'
     def get_subs(self):
         
         # określenie nazwy pliku video na podstawies ścieżki
@@ -186,7 +192,7 @@ class Napisy24(SubsDownloadBase):
             url = q_http % q
             
             try:
-                h_subs = urlopen(url) # otwarcie danego url
+                h_subs = urllib2.urlopen(url) # otwarcie danego url
                 h_subs = h_subs.readlines() # wczytanie zawarości odpowiedzi
                 
                 # sprawdzamy czy mamy dobry wynik w odpowiedzi
@@ -466,9 +472,42 @@ class Napisy24(SubsDownloadBase):
             temp_zip_file.write(packet)
         temp_zip_file.close()
     
+    def n24_url_dwn(self, url):
+        """
+        
+        """
+        
+        # potrzebne ładowanie danych zapisanych w pickle
+        # dane dotyczące cookie
+        #
+        # porzebna metoda pozyskania danych do logowania
+        # przkeazanie instacji głównej aplikacji z odpowiednią
+        # metodą
+        
+        ##### wykonywane tylko gdy nie ma ciasteczek bądź są nieauktualne
+        ## przenieś do osobnej metody
+        
+        # utowrzenie pojemnika na ciasteczka
+        cookiejar = cookielib.CookieJar()
+        # utowrzenie openera dla http
+        http_opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cookiejar))
+        #dodanie odpowiednich nagłówków
+        http_opener.addheaders = self.headres_login
+        
+        login_defs = "dodanie odpowiednie metody w KonapApp"
+        encoded_login_defs = urllib.urlencode(login_defs)
+        
+        ##### dotąd przenieś do osobnej metody
+        ##### pickujemy całego cookiejar 
+        ##### potrzeben odopwiednie metody KonapApp i przeprojektowanie wywołań pluginów 
+        ##### dodanie przekazywananie instacji KonapApp 
+        
+        return 
+    
     def reset(self):
         super(Napisy24, self).reset()
         self.media_name= None
+    
     
 if __name__ == '__main__':
     
