@@ -31,7 +31,6 @@ from urllib import urlencode
 import time
 from xml.etree import cElementTree
 import zipfile
-
 from gkcore.subsdwn import SubsDownloadBase
 from gkcore.info import get_fps
 
@@ -369,7 +368,7 @@ class Napisy24(SubsDownloadBase):
                 os.remove(_tmp_zip)
                 
             try:
-                _dwn_subs = urlopen(_http_dwn)
+                _dwn_subs = urllib2.urlopen(_http_dwn)
                 self.save_zip_file_http(_dwn_subs, _tmp_zip)
                 print 'Napisy pomyślnie ściągnięte'
             except (HTTPError, URLError), e:
