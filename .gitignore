@@ -6,3 +6,4 @@
 *.pyc*
 stat_*
 /test_files/ct_*
+.ropeproject

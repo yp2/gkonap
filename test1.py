@@ -27,7 +27,7 @@ try:
 except ImportError:
     from decimal import Decimal
 
-from gkcore.core import pluginLoad, pluginInstance
+from gkcore.core import pluginLoad, plugin_instance
 from gkcore.convert import ConvertBase
 import gkcore.info
 import plugins
@@ -58,7 +58,7 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
         PluginLoadTest.setUp(self)
         # load and do instances of plugns
         plugins = pluginLoad(self.plugins_dir, ConvertBase)
-        self.plugins = pluginInstance(plugins)
+        self.plugins = plugin_instance(plugins)
         # subtitles files
         self.test_files_dir = os.getcwd() + '/test_files/'
         self.sub_mdvd = self.test_files_dir + 'mdvd.txt'
