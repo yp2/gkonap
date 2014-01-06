@@ -79,7 +79,7 @@ class ConvertBase(object):
         """
         Methode for recognizing the type of subtitles.
         @subtitle_file_path - path to subtitle file
-        Return subs type definied in each plugin_subtypein atr plugin_subtype.
+        Return subs type definied in each plugin_subtype in atr plugin_subtype.
         If subs are not recognize returns None
         """
         _re_subs_type = re.compile(self.re_subs_type)
