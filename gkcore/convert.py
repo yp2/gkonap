@@ -25,8 +25,76 @@
 # extact zamiast file pobiera meta dane
 #
 
+from abc import ABCMeta, abstractmethod
 import re
 import os
+
+
+class PluginConvert:
+    '''Klasa abstrakcyjna -> __metaclass__ = abc.ABCMeta;
+    dla pluginów kowertujących napisy. '''
+
+    __metaclass__ = ABCMeta
+
+    def __init__(self):
+        pass
+
+    @abstractmethod
+    def set(self, file_lines):
+        """ Metoda do ustawiania danych potrzebnych pluginowi do dekompozycji
+        napisów na standardowy format. Dane to wczytany plik z liniami po
+        readlines
+        @file_lines - wczytany plik w postaci listy linii z open().readlines """
+        # returns Respons - success True, data - none gdy udane
+        pass
+
+    @abstractmethod
+    def recognize(self):
+        """ Tu trzeba się zastanowić jak to wykonać - czy zawansowana
+        implementacja w metodzie czy też może zwracanie jakieś klasy
+        która to wykona ??? """
+        # returns Response - success True, data - str z danym typem gdy udane
+        pass
+
+    @abstractmethod
+    def get_decompose_subtitle(self):
+        """ Zastanowić się co zwraca może jakiś obiekt który będzie miał
+        dane oraz w razie błędu informacje o błedzie (wyjątek) -
+        jeżeli tak to potrzebny jest zbiór wyjątków
+
+        Zwaraca klase Subtitle zawirającą SubLine'y
+        przekonwertowane do standardowego fotmatu """
+        # returns Response - success True, data - obiekt Subtitle gdy udane
+        pass
+
+    @abstractmethod
+    def get_compose_subtitle(self):
+        """ Zastanowić się co zwraca może jakiś obiekt który będzie miał
+        dane oraz w razie błędu informacje o błedzie (wyjątek) -
+        jeżeli tak to potrzebny jest zbiór wyjątków
+
+        Funkcja zwaraca listę zawierającą linie po konwersji do zapisuj
+        właściowego pliku w postaci dla open().writelines """
+        # returns Response - success True, data - lista zawiierająca linie
+        # gotowe do zapisu do pliku gdy udane
+        pass
+
+    @abstractmethod
+    def get_supported_filetypes(self):
+        """ Zwaraca listę obsługiowanych plików przez plugin -
+        lista rozszeżeń czyli ".txt", ".srt" ... """
+        # returns Response - success True, data - lista zwierająca str z
+        # określonymi typami gdy udane
+        pass
+
+    @abstractmethod
+    def set_decompose_subtitle(self, subtitle):
+        """ Metoda przyjumje obiekt Subtitle zawierający SubLine's -
+        napisy rozłożone do formatu standarodwego gotowego do kompozycji.
+        Bez tego kroku nie można przekonwertować właściwych
+        napisów na określony przez plugin typ. """
+        # returns Response - success True, data - none gdy udane
+        pass
 
 
 class ConvertBase(object):
