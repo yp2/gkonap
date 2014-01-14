@@ -30,7 +30,7 @@ import re
 import os
 
 
-class PluginConvert:
+class PluginConvert(object):
     '''Klasa abstrakcyjna -> __metaclass__ = abc.ABCMeta;
     dla pluginów kowertujących napisy. '''
 
@@ -44,7 +44,7 @@ class PluginConvert:
         """ Metoda do ustawiania danych potrzebnych pluginowi do dekompozycji
         napisów na standardowy format. Dane to wczytany plik z liniami po
         readlines
-        @file_lines - wczytany plik w postaci listy linii z open().readlines """
+        @file_lines - wczytany plik w postaci listy linii z open().readlines"""
         # returns Respons - success True, data - none gdy udane
         pass
 
