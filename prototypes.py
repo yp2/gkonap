@@ -1,11 +1,14 @@
 #!/usr/bin/env python
-#coding:utf-8
+# coding:utf-8
 
 # deckorator do zerowania stanu pluginu
+
+
 class PluginDec1(object):
     def __init__(self, func):
         self.dec_func = func
         self.dec_func
+
     def __get__(self, obj, objtype):
         """Support instance methods."""
         import functools
@@ -17,21 +20,20 @@ class PluginDec1(object):
         return resp
 
 
-#class TestDec(object):
+# class TestDec(object):
 
-    #@PluginDec2
-    #def dec_meth(self):
-        #print "Dec method !!!!!"
+    # @PluginDec2
+    # def dec_meth(self):
+        # print "Dec method !!!!!"
 
 
-#def PluginDec1(func):
-    #def wrap(*args):  # argumenty dekorowanej funkcji
+# def PluginDec1(func):
+    # def wrap(*args):  # argumenty dekorowanej funkcji
 
-        #resp = func(*args)
-        #args[0].response = None
-        #return resp
-    #return wrap
-
+        # resp = func(*args)
+        # args[0].response = None
+        # return resp
+    # return wrap
 
 
 class Worker(object):
@@ -41,7 +43,7 @@ class Worker(object):
 
     def response(self):
         return self.factory.get_response(self.context)
-#
+
 
 class WorkerConvert(Worker):
 
@@ -64,7 +66,7 @@ class WorkerConvert(Worker):
         # niestety potrzebna była by referencja do fabryki obiektów response co
         # może być trudne w realizacji
 
-        #self.worker_plugin = PluginConvert()
+        # self.worker_plugin = PluginConvert()
         self.factory = res_factory
 
     def work_one(self):
@@ -74,7 +76,7 @@ class WorkerConvert(Worker):
         res1 = plug.do_work_one()
         print res1.log
         print res1.data
-        #resp = self.response() #tworzymy tu nowy obiekt response
+        # resp = self.response() #tworzymy tu nowy obiekt response
         plug.set_response(self.response())
         res2 = plug.do_work_two()
         print res2.log
@@ -133,6 +135,7 @@ class ResponseFactory(object):
     def get_response(self, context):
         return self.response_cls.get(context, Response)()
 
+
 class PluginConvert(object):
 
     def __init__(self):
@@ -183,14 +186,11 @@ class ResponseNotSet(Exception):
         return repr("Respons not set in %s" % str(self.value))
 
 if __name__ == "__main__":
-    #test = TestDec()
-    #test.dec_meth()
+    # test = TestDec()
+    # test.dec_meth()
 
     factory = ResponseFactory()
     worker = WorkerConvert(factory)
     worker.work_one()
     worker.work_two()
     worker.work_three()
-
-
-
