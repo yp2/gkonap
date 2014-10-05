@@ -1,4 +1,4 @@
-L#!/usr/bin/env python
+#!/usr/bin/env python
 #-*- coding: utf-8 -*-
 #
 #       test
@@ -27,7 +27,7 @@ try:
 except ImportError:
     from decimal import Decimal
 
-from gkcore.core import pluginLoad, plugin_instance
+from gkcore.core import plugin_load, plugin_instance
 from gkcore.convert import ConvertBase
 import gkcore.info
 import plugins
@@ -38,15 +38,18 @@ class PluginLoadTest(unittest.TestCase):
         plugindir1 = os.getcwd() + '/plugins'
         self.plugins_dir = [plugindir1]
 
+
 class ConvertPluginLoadTest(PluginLoadTest):
     def setUp(self):
         PluginLoadTest.setUp(self)
         self.plugin_subclass_convert = ConvertBase
+
     def test_loadConvertPlugins(self):
-        loaded_plugins = pluginLoad(self.plugins_dir, self.plugin_subclass_convert)
+        loaded_plugins = plugin_load(self.plugins_dir, self.plugin_subclass_convert)
         self.assertNotEqual(len(loaded_plugins), 0, "Plugins not Loaded")
+
     def test_doInstanceConvertPlugins(self):
-        loaded_plugins_classes = pluginLoad(self.plugins_dir, self.plugin_subclass_convert)
+        loaded_plugins_classes = plugin_load(self.plugins_dir, self.plugin_subclass_convert)
         loaded_plugins_instances = []
         for plc in loaded_plugins_classes:
             plugin_instance = plc()
@@ -57,7 +60,7 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
     def setUp(self):
         PluginLoadTest.setUp(self)
         # load and do instances of plugns
-        plugins = pluginLoad(self.plugins_dir, ConvertBase)
+        plugins = plugin_load(self.plugins_dir, ConvertBase)
         self.plugins = plugin_instance(plugins)
         # subtitles files
         self.test_files_dir = os.getcwd() + '/test_files/'
@@ -79,7 +82,7 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
             except (TypeError, NotImplementedError):
                 continue
 
-            if st != None:
+            if st is not None:
                 subs_type.append(st)
 
         self.assertEqual(len(subs_type), 1, "More than one or zero")
@@ -97,7 +100,7 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
             except (TypeError, NotImplementedError):
                 continue
 
-            if st != None:
+            if st is not None:
                 subs_type.append(st)
 
         self.assertEqual(len(subs_type), 1, "More than one or zero")
@@ -115,7 +118,7 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
             except (TypeError, NotImplementedError):
                 continue
 
-            if st != None:
+            if st is not None:
                 subs_type.append(st)
 
         self.assertEqual(len(subs_type), 1, "More than one or zero")
@@ -133,7 +136,7 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
             except (TypeError, NotImplementedError):
                 continue
 
-            if st != None:
+            if st is not None:
                 subs_type.append(st)
 
         self.assertEqual(len(subs_type), 1, "More than one or zero")
@@ -150,7 +153,7 @@ class ConvertPluginRecognizeTest(PluginLoadTest):
             except (TypeError, NotImplementedError):
                 continue
 
-            if st != None:
+            if st is not None:
                 subs_type.append(st)
 
         self.assertEqual(len(subs_type), 0, "No subs file was recognize as subs file")
@@ -286,7 +289,7 @@ class ComposeTest(ConvertPluginRecognizeTest):
                 pli.compose(movie_fps)
 
                 #write to file
-                pli.writeComposeSubs(compose_out_path)
+                pli.write_compose_subs(compose_out_path)
 
         org_subs = open(subs_path, 'rU').readlines()
         conv_subs = open(compose_out_path, 'ru').readlines()
@@ -316,7 +319,7 @@ class ComposeTest(ConvertPluginRecognizeTest):
                 pli.compose(movie_fps)
 
                 #write to file
-                pli.writeComposeSubs(compose_out_path)
+                pli.write_compose_subs(compose_out_path)
 
         org_subs = open(subs_path, 'rU').readlines()
         conv_subs = open(compose_out_path, 'ru').readlines()
@@ -346,7 +349,7 @@ class ComposeTest(ConvertPluginRecognizeTest):
                 pli.compose(movie_fps)
 
                 #write to file
-                pli.writeComposeSubs(compose_out_path)
+                pli.write_compose_subs(compose_out_path)
 
         org_subs = open(subs_path, 'rU').readlines()
         conv_subs = open(compose_out_path, 'ru').readlines()
@@ -375,7 +378,7 @@ class ComposeTest(ConvertPluginRecognizeTest):
                 pli.compose(movie_fps)
 
                 #write to file
-                pli.writeComposeSubs(compose_out_path)
+                pli.write_compose_subs(compose_out_path)
 
         org_subs = open(subs_path, 'rU').readlines()
         conv_subs = open(compose_out_path, 'ru').readlines()

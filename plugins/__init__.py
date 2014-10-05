@@ -22,15 +22,15 @@
 
 from gkcore.convert import ConvertBase
 from gkcore.subsdwn import SubsDownloadBase
-from gkcore.core import pluginLoad, plugin_instance
+from gkcore.core import plugin_load, plugin_instance
 import os
 
 PLUGIN_DIR = [os.path.dirname(__file__)]    #katalog bazowy dla pluginów
 PLUGINS_CONVERT = None
 PLUGINS_SUBS_DOWN = None
 
-_plugins_convert = pluginLoad(PLUGIN_DIR, ConvertBase)
+_plugins_convert = plugin_load(PLUGIN_DIR, ConvertBase)
 PLUGINS_CONVERT = plugin_instance(_plugins_convert)
 
-_plugins_subs_down = pluginLoad(PLUGIN_DIR, SubsDownloadBase)
+_plugins_subs_down = plugin_load(PLUGIN_DIR, SubsDownloadBase)
 PLUGINS_SUBS_DOWN = plugin_instance(_plugins_subs_down)
